@@ -1,0 +1,32 @@
+ha|1
+(noun)|hour angle|HA|angular distance
+hb|1
+(noun)|hemoglobin|haemoglobin|Hb|hemoprotein|haemoprotein
+he|2
+(noun)|helium|He|atomic number 2|chemical element|element|noble gas|inert gas|argonon
+(noun)|letter|letter of the alphabet|alphabetic character
+hf|2
+(noun)|hafnium|Hf|atomic number 72|metallic element|metal
+(noun)|high frequency|HF|radio frequency
+hg|2
+(noun)|mercury|quicksilver|hydrargyrum|Hg|atomic number 80|metallic element|metal
+(noun)|hectogram|metric weight unit|weight unit
+hi|2
+(noun)|hello|hullo|howdy|how-do-you-do|greeting|salutation
+(noun)|Hawaii|Aloha State|HI|American state
+hl|1
+(noun)|hectoliter|hectolitre|metric capacity unit
+hm|1
+(noun)|hectometer|hectometre|metric linear unit
+hn|1
+(noun)|hydrazoic acid|azoimide|hydrogen azide|HN|hydride|explosive
+ho|1
+(noun)|holmium|Ho|atomic number 67|metallic element|metal
+hp|1
+(noun)|horsepower|HP|H.P.|power unit
+hq|1
+(noun)|headquarters|HQ|military headquarters|military installation
+hr|1
+(noun)|hour|60 minutes|time unit|unit of time
+hz|1
+(noun)|Hertz|Hz|cycle per second|cycles/second|cps|cycle|rate

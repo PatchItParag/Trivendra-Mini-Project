@@ -1,0 +1,431 @@
+habenaria nivea|1
+(noun)|snowy orchid|Habenaria nivea|fringed orchis|fringed orchid
+haemagglutinate|1
+(verb)|hemagglutinate|agglutinate
+haemoglobinemia|1
+(noun)|hemoglobinemia|symptom
+haemoglobinuria|1
+(noun)|hemoglobinuria|symptom
+hair of the dog|1
+(noun)|drink
+hairy wood mint|1
+(noun)|Blephilia hirsuta|wood mint
+haitian capital|1
+(noun)|Port-au-Prince|Haitian capital|national capital
+haitian centime|1
+(noun)|Haitian centime|centime
+half-free morel|1
+(noun)|Morchella semilibera|cow's head|morel
+halogeton souda|1
+(noun)|barilla|Halogeton souda|herb|herbaceous plant
+hamamelidanthum|1
+(noun)|Hamamelidanthum|genus Hamamelidanthum|dicot genus|magnoliopsid genus
+hamamelidoxylon|1
+(noun)|Hamamelidoxylon|genus Hamamelidoxylon|dicot genus|magnoliopsid genus
+hamburg parsley|1
+(noun)|Hamburg parsley|turnip-rooted parsley|Petroselinum crispum tuberosum|parsley|Petroselinum crispum
+hamburger steak|1
+(noun)|chopped steak|chop steak|chopsteak|beef patty|beefsteak
+hand calculator|1
+(noun)|pocket calculator|calculator|calculating machine
+handling charge|1
+(noun)|handling cost|cost
+hanoverian line|1
+(noun)|Hanover|House of Hanover|Hanoverian line|dynasty|royalty|royal family|royal line|royal house
+hans c. j. gram|1
+(noun)|Gram|Hans C. J. Gram|bacteriologist
+hapax legomenon|1
+(noun)|nonce word|word
+harbor porpoise|1
+(noun)|herring hog|Phocaena phocaena|porpoise
+hard-boiled egg|1
+(noun)|boiled egg|coddled egg
+hard-of-hearing|1
+(adj)|hearing-impaired|deaf 
+hard-shell clam|2
+(noun)|quahaug|quahog|round clam|clam
+(noun)|quahog|quahaug|round clam|Venus mercenaria|Mercenaria mercenaria|clam
+hard-shell crab|1
+(noun)|crab
+hardheartedness|1
+(noun)|heartlessness|coldheartedness|unconcern
+hare and hounds|1
+(noun)|paper chase|game
+harkat ul-ansar|1
+(noun)|Harkat-ul-Mujahidin|HUM|Harkat ul-Ansar|HUA|Harkat ul-Mujahedeen|Al Faran|Movement of Holy Warriors|terrorist organization|terrorist group|foreign terrorist organization|FTO
+harlequin-snake|1
+(noun)|coral snake|New World coral snake|elapid|elapid snake
+harmonic motion|1
+(noun)|periodic motion|periodic movement
+harold harefoot|1
+(noun)|Harold I|King Harold I|Harold Harefoot|Harefoot|King of England|King of Great Britain
+harold nicolson|1
+(noun)|Nicolson|Harold Nicolson|Sir Harold George Nicolson|diplomat|diplomatist|writer|author
+harold w. kroto|1
+(noun)|Kroto|Harold Kroto|Harold W. Kroto|Sir Harold Walter Kroto|chemist
+hatteras island|1
+(noun)|Hatteras Island|barrier island
+haute-normandie|1
+(noun)|Haute-Normandie|Upper-Normandy|French region
+have a go at it|1
+(verb)|roll in the hay|love|make out|make love|sleep with|get laid|have sex|know|do it|be intimate|have intercourse|have it away|have it off|screw|fuck|jazz|eff|hump|lie with|bed|bang|get it on|bonk|copulate|mate|pair|couple
+haverhill fever|1
+(noun)|Haverhill fever|ratbite fever
+haversian canal|1
+(noun)|Haversian canal|duct|epithelial duct|canal|channel
+hawaiian guitar|1
+(noun)|Hawaiian guitar|steel guitar|guitar
+hay conditioner|1
+(noun)|haymaker|farm machine
+hdl cholesterol|1
+(noun)|HDL cholesterol|cholesterol|cholesterin
+head over heels|1
+(adv)|heels over head|topsy-turvy|topsy-turvily|in great confusion
+headache powder|1
+(noun)|aspirin powder|aspirin|acetylsalicylic acid|Bayer|Empirin|powder
+health facility|1
+(noun)|medical building|healthcare facility|building|edifice
+hearing officer|1
+(noun)|hearing examiner|official|functionary
+heart condition|1
+(noun)|heart disease|cardiopathy|cardiovascular disease
+heart ventricle|1
+(noun)|ventricle|chamber
+heat exhaustion|1
+(noun)|heat prostration|prostration|heatstroke|heat hyperpyrexia
+heather mixture|1
+(noun)|heather|color|colour|coloring|colouring
+heating element|1
+(noun)|component|constituent|element
+heaviside layer|1
+(noun)|Heaviside layer|Kennelly-Heaviside layer|E layer|E region|region|part
+hebrew alphabet|1
+(noun)|Hebrew alphabet|Hebraic alphabet|Hebrew script|alphabet
+hebrew calendar|1
+(noun)|Jewish calendar|Hebrew calendar|lunisolar calendar
+hebridean isles|1
+(noun)|Hebrides|Hebridean Islands|Hebridean Isles|Western Islands|Western Isles|archipelago
+hedgehog cactus|1
+(noun)|echinocactus|barrel cactus
+hedgehog cereus|1
+(noun)|cactus
+heels over head|1
+(adv)|head over heels|topsy-turvy|topsy-turvily|in great confusion
+helix hortensis|1
+(noun)|Helix hortensis|garden snail
+helvella crispa|1
+(noun)|Helvella crispa|miter mushroom|helvella
+hematocytopenia|1
+(noun)|haematocytopenia|cytopenia
+hemiascomycetes|1
+(noun)|Hemiascomycetes|class Hemiascomycetes|class
+hemimetamorphic|1
+(adj)|hemimetabolous|hemimetabolic|hemimetamorphous|metamorphic 
+hemizygous vein|1
+(noun)|hemizygos vein|vena hemizygos|vein|vena|venous blood vessel
+hemochromatosis|1
+(noun)|iron-storage disease|iron overload|bronzed diabetes|pathology
+henri becquerel|1
+(noun)|Becquerel|Henri Becquerel|Antoine Henri Becquerel|physicist
+henri labrouste|1
+(noun)|Labrouste|Henri Labrouste|architect|designer
+henry beauclerc|1
+(noun)|Henry I|Henry Beauclerc|King of England|King of Great Britain
+henry cavendish|1
+(noun)|Cavendish|Henry Cavendish|chemist|physicist
+henry kissinger|1
+(noun)|Kissinger|Henry Kissinger|Henry Alfred Kissinger|diplomat|diplomatist
+henry m. robert|1
+(noun)|Robert|Henry M. Robert|Henry Martyn Robert|parliamentarian
+hepatic tanager|1
+(noun)|Piranga flava hepatica|tanager
+hepatitis delta|1
+(noun)|delta hepatitis|hepatitis
+hepatocarcinoma|1
+(noun)|hepatoma|malignant hepatoma|hepatocellular carcinoma|carcinoma
+herbal medicine|2
+(noun)|medicine|medication|medicament|medicinal drug
+(noun)|alternative medicine
+herbert marcuse|1
+(noun)|Marcuse|Herbert Marcuse|philosopher
+herbert spencer|1
+(noun)|Spencer|Herbert Spencer|philosopher|sociologist
+hercules'-clubs|3
+(noun)|Hercules'-club|Hercules'-clubs|Hercules-club|Zanthoxylum clava-herculis|prickly ash
+(noun)|Hercules'-club|Hercules'-clubs|Hercules-club|Zanthoxylum clava-herculis|prickly ash
+(noun)|American angelica tree|devil's walking stick|Hercules'-club|Aralia spinosa|shrub|bush
+hereditarianism|1
+(noun)|philosophical doctrine|philosophical theory
+herman melville|1
+(noun)|Melville|Herman Melville|writer|author
+hermann goering|1
+(noun)|Goring|Goering|Hermann Goring|Hermann Goering|Hermann Wilhelm Goring|Nazi|German Nazi
+hermann snellen|1
+(noun)|Snellen|Hermann Snellen|ophthalmologist|eye doctor|oculist
+hermaphroditism|2
+(noun)|hermaphrodism|birth defect|congenital anomaly|congenital defect|congenital disorder|congenital abnormality
+(noun)|androgyny|bisexuality|sex|gender|sexuality
+hernando cortes|1
+(noun)|Cortes|Cortez|Hernando Cortes|Hernando Cortez|Hernan Cortes|Hernan Cortez|conquistador
+hernando cortez|1
+(noun)|Cortes|Cortez|Hernando Cortes|Hernando Cortez|Hernan Cortes|Hernan Cortez|conquistador
+hernaria glabra|1
+(noun)|rupturewort|Hernaria glabra|groundcover|ground cover
+hero worshipper|1
+(noun)|hero worshiper|worshiper|worshipper
+herod the great|1
+(noun)|Herod|Herod the Great|king|male monarch
+herpes labialis|1
+(noun)|oral herpes|cold sore|fever blister|herpes simplex
+herpestes nyula|1
+(noun)|Indian mongoose|Herpestes nyula|mongoose
+heterometabolic|1
+(adj)|heterometabolous|metamorphic 
+heterophil test|1
+(noun)|agglutination test
+heterosexualism|1
+(noun)|heterosexuality|straightness|sexual activity|sexual practice|sex|sex activity
+heterosexuality|1
+(noun)|heterosexualism|straightness|sexual activity|sexual practice|sex|sex activity
+heterotrichales|1
+(noun)|Heterotrichales|order Heterotrichales|protoctist order
+hexachlorophene|1
+(noun)|antibacterial|antibacterial drug|bactericide
+hiba arborvitae|1
+(noun)|Thujopsis dolobrata|arborvitae
+hibiscus elatus|1
+(noun)|Cuban bast|blue mahoe|mahoe|majagua|mahagua|Hibiscus elatus|hibiscus
+hieratic script|1
+(noun)|hieratic|hieroglyph|hieroglyphic
+high-and-mighty|1
+(adj)|autocratic|bossy|dominating|magisterial|peremptory|domineering 
+high-angle fire|1
+(noun)|artillery fire|cannon fire
+high-hat cymbal|1
+(noun)|high hat|cymbal
+high-mindedness|1
+(noun)|idealism|noble-mindedness|nobility|magnanimousness|grandeur
+high-principled|1
+(adj)|principled 
+high-resolution|1
+(adj)|high-resolution 
+high-water mark|1
+(noun)|water line|watermark
+high-yield bond|1
+(noun)|junk bond|bond|bond certificate
+high commission|1
+(noun)|High Commission|embassy
+high technology|1
+(noun)|technology|engineering
+highway robbery|2
+(noun)|price|terms|damage
+(noun)|robbery
+hillbilly music|1
+(noun)|country music|country and western|C and W
+himalayan cedar|1
+(noun)|deodar|deodar cedar|Himalayan cedar|Cedrus deodara|cedar|cedar tree|true cedar
+himalayan lilac|1
+(noun)|Himalayan lilac|Syringa emodi|lilac
+hippoglossoides|1
+(noun)|Hippoglossoides|genus Hippoglossoides|fish genus
+hirundo rustica|1
+(noun)|barn swallow|chimney swallow|Hirundo rustica|swallow
+historic period|2
+(noun)|period|historical period|time period|period of time|period
+(noun)|age|era|epoch
+historiographer|1
+(noun)|historian|scholar|scholarly person|student
+hit the ceiling|1
+(verb)|flip one's lid|blow up|throw a fit|hit the roof|have kittens|have a fit|combust|blow one's stack|fly off the handle|flip one's wig|lose one's temper|blow a fuse|go ballistic|rage
+hit the jackpot|1
+(verb)|luck out|succeed|win|come through|bring home the bacon|deliver the goods
+hobson's choice|1
+(noun)|Hobson's choice|option|alternative|choice
+hog-nosed skunk|1
+(noun)|hognosed skunk|badger skunk|rooter skunk|Conepatus leuconotus|skunk|polecat|wood pussy
+holding company|1
+(noun)|company
+holding pattern|2
+(noun)|inaction|inactivity|inactiveness
+(noun)|air lane|flight path|airway|skyway
+hole-and-corner|2
+(adj)|hole-in-corner|insignificant |unimportant
+(adj)|clandestine|cloak-and-dagger|hugger-mugger|hush-hush|on the quiet|secret|surreptitious|undercover|underground|covert 
+holistic theory|1
+(noun)|holism|theory
+homeless person|1
+(noun)|homeless|unfortunate|unfortunate person
+homespun fabric|1
+(noun)|homespun|fabric|cloth|material|textile
+homogeneousness|1
+(noun)|homogeneity|uniformity|uniformness
+homogyne alpina|1
+(noun)|alpine coltsfoot|Homogyne alpina|Tussilago alpina|herb|herbaceous plant
+honeycomb tripe|1
+(noun)|tripe
+honorary degree|1
+(noun)|academic degree|degree
+hook of holland|1
+(noun)|Hook of Holland|Hoek van Holland|cape|ness
+hooker's orchid|1
+(noun)|Hooker's orchid|Habenaria hookeri|fringed orchis|fringed orchid
+horatio walpole|1
+(noun)|Walpole|Horace Walpole|Horatio Walpole|Fourth Earl of Orford|writer|author|historian|historiographer
+hordeum jubatum|1
+(noun)|squirreltail barley|foxtail barley|squirreltail grass|Hordeum jubatum|barley
+hordeum murinum|1
+(noun)|barley grass|wall barley|Hordeum murinum|barley
+hordeum vulgare|1
+(noun)|common barley|Hordeum vulgare|barley
+horizontal tail|1
+(noun)|stabilizer
+horned dinosaur|1
+(noun)|ceratopsian|ornithischian|ornithischian dinosaur
+horned pondweed|1
+(noun)|Zannichellia palustris|pondweed
+horned screamer|1
+(noun)|Anhima cornuta|screamer
+horny structure|1
+(noun)|unguis|structure|anatomical structure|complex body part|bodily structure|body structure
+horror-stricken|1
+(adj)|horrified|horror-struck|afraid 
+horse-and-buggy|1
+(adj)|nonmodern 
+horseback rider|1
+(noun)|horseman|equestrian|rider
+horsepower-hour|1
+(noun)|work unit|heat unit|energy unit
+horseshoe falls|1
+(noun)|Canadian Falls|Horseshoe Falls|waterfall|falls
+horseshoe vetch|1
+(noun)|Hippocrepis comosa|subshrub|suffrutex
+hospitalisation|1
+(noun)|hospitalization|hospital care|medical care|medical aid
+hospitalization|4
+(noun)|time period|period of time|period
+(noun)|condition|status
+(noun)|hospitalization insurance|health insurance
+(noun)|hospitalisation|hospital care|medical care|medical aid
+hostile witness|1
+(noun)|adverse witness|witness
+hot-air balloon|1
+(noun)|balloon
+hot-fudge sauce|1
+(noun)|fudge sauce|chocolate sauce|chocolate syrup
+hot water plant|1
+(noun)|achimenes|flower
+hotel detective|1
+(noun)|house detective|house dick|private detective|PI|private eye|private investigator|operative|shamus|sherlock
+hotel occupancy|1
+(noun)|occupancy rate
+hottentot's fig|1
+(noun)|Hottentot fig|Hottentot's fig|sour fig|Carpobrotus edulis|Mesembryanthemum edule|succulent
+hottentot bread|1
+(noun)|Hottentot bread|Hottentot's bread|root
+house centipede|1
+(noun)|Scutigera coleoptrata|centipede
+house decorator|1
+(noun)|interior designer|designer|interior decorator|room decorator|decorator|specialist|specializer|specialiser
+house detective|1
+(noun)|hotel detective|house dick|private detective|PI|private eye|private investigator|operative|shamus|sherlock
+house of prayer|1
+(noun)|place of worship|house of God|house of worship|building|edifice
+house physician|1
+(noun)|resident|resident physician|doctor|doc|physician|MD|Dr.|medico
+household linen|1
+(noun)|white goods|drygoods|soft goods
+housing project|1
+(noun)|public housing|housing development
+hubble constant|1
+(noun)|Hubble's constant|Hubble constant|constant
+huckleberry oak|1
+(noun)|Quercus vaccinifolia|shrub|bush
+huddle together|1
+(verb)|huddle|cluster|constellate|flock|clump
+hudson hoagland|1
+(noun)|Hoagland|Hudson Hoagland|physiologist
+humanitarianism|1
+(noun)|humanism|doctrine|philosophy|philosophical system|school of thought|ism
+humic substance|1
+(noun)|organic compound
+humphrey bogart|1
+(noun)|Bogart|Humphrey Bogart|Humphrey DeForest Bogart|actor|histrion|player|thespian|role player
+humulus lupulus|1
+(noun)|common hop|common hops|bine|European hop|Humulus lupulus|hop|hops
+hundred and one|1
+(adj)|a hundred and one|one hundred one|101|ci|cardinal 
+hungarian grass|1
+(noun)|foxtail millet|Italian millet|Hungarian grass|Setaria italica|foxtail|foxtail grass
+hungarian lilac|1
+(noun)|Hungarian lilac|Syringa josikaea|Syringa josikea|lilac
+hungarian sauce|1
+(noun)|Hungarian sauce|paprika sauce|sauce
+hunter-gatherer|1
+(noun)|savage|barbarian
+hunting licence|1
+(noun)|hunting license|hunting permit|game license|license|licence|permit
+hunting license|1
+(noun)|hunting licence|hunting permit|game license|license|licence|permit
+huntsman's cups|2
+(noun)|common pitcher plant|huntsman's cup|Sarracenia purpurea|pitcher plant
+(noun)|common pitcher plant|huntsman's cup|Sarracenia purpurea|pitcher plant
+huntsman's horn|1
+(noun)|huntsman's horns|yellow trumpet|yellow pitcher plant|trumpets|Sarracenia flava|pitcher plant
+hyaluronic acid|1
+(noun)|mucopolysaccharide
+hydatid disease|1
+(noun)|echinococcosis|hydatidosis|infestation
+hydnocarpus oil|1
+(noun)|oil
+hydraulic brake|1
+(noun)|hydraulic brakes|brake system|brakes
+hydraulic press|1
+(noun)|press|mechanical press
+hydrazo radical|1
+(noun)|hydrazo group|group|radical|chemical group
+hydrogen iodide|1
+(noun)|iodide
+hydroiodic acid|1
+(noun)|acid
+hydrophyllaceae|1
+(noun)|Hydrophyllaceae|family Hydrophyllaceae|waterleaf family|asterid dicot family
+hyla arenicolor|1
+(noun)|canyon treefrog|Hyla arenicolor|tree toad|tree frog|tree-frog
+hymenogastrales|1
+(noun)|Hymenogastrales|order Hymenogastrales|fungus order
+hyperadrenalism|1
+(noun)|Cushing's disease|glandular disease|gland disease|glandular disorder|adenosis
+hypercalcinuria|1
+(noun)|hypercalciuria|symptom
+hypercatalectic|1
+(adj)|hypercatalectic 
+hyperlipidaemia|1
+(noun)|lipemia|lipaemia|lipidemia|lipidaemia|lipoidemia|lipoidaemia|hyperlipemia|hyperlipaemia|hyperlipidemia|hyperlipoidemia|hyperlipoidaemia|symptom
+hyperlipoidemia|1
+(noun)|lipemia|lipaemia|lipidemia|lipidaemia|lipoidemia|lipoidaemia|hyperlipemia|hyperlipaemia|hyperlipidemia|hyperlipidaemia|hyperlipoidaemia|symptom
+hypersensitised|1
+(adj)|allergic|hypersensitive|hypersensitized|sensitized|sensitised|supersensitive|supersensitized|supersensitised|susceptible 
+hypersensitized|1
+(adj)|allergic|hypersensitive|hypersensitised|sensitized|sensitised|supersensitive|supersensitized|supersensitised|susceptible 
+hyperthyroidism|1
+(noun)|thyrotoxicosis|glandular disease|gland disease|glandular disorder|adenosis
+hypnotic trance|1
+(noun)|trance
+hypocellularity|1
+(noun)|cellularity
+hypochondriacal|1
+(adj)|hypochondriac|neurotic |psychoneurotic
+hypochondriasis|1
+(noun)|hypochondria|anxiety|anxiousness
+hypoproteinemia|1
+(noun)|symptom
+hypostatisation|1
+(noun)|hypostatization|reification|objectification
+hypostatization|1
+(noun)|hypostatisation|reification|objectification
+hypovitaminosis|1
+(noun)|avitaminosis|malnutrition
+hypoxic hypoxia|1
+(noun)|hypoxia
+hypoxis hirsuta|1
+(noun)|American star grass|Hypoxis hirsuta|star grass

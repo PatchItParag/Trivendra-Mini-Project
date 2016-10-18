@@ -1,0 +1,1592 @@
+gabriel tellez|1
+(noun)|Tirso de Molina|Gabriel Tellez|dramatist|playwright
+gaetan vestris|1
+(noun)|Vestris|Gaetan Vestris|dancer|professional dancer
+galina ulanova|1
+(noun)|Ulanova|Galina Ulanova|Galina Sergeevna Ulanova|dancer|professional dancer
+galium aparine|1
+(noun)|cleavers|clivers|goose grass|catchweed|spring cleavers|Galium aparine|bedstraw
+galium boreale|1
+(noun)|Northern bedstraw|Northern snow bedstraw|Galium boreale|bedstraw
+galium mollugo|1
+(noun)|wild madder|white madder|white bedstraw|infant's-breath|false baby's breath|Galium mollugo|bedstraw
+gambling house|1
+(noun)|gambling den|gambling hell|gaming house|building|edifice|place of business|business establishment
+game equipment|1
+(noun)|equipment
+game of chance|1
+(noun)|gambling game|gambling|gaming|play|game
+games-mistress|1
+(noun)|games-master|schoolteacher|school teacher
+gamma globulin|1
+(noun)|human gamma globulin|plasma protein|globulin
+gansu province|1
+(noun)|Gansu|Kansu|Gansu province|state|province
+garbage carter|1
+(noun)|carter|garbage hauler|hauler|haulier
+garbage hauler|1
+(noun)|carter|garbage carter|hauler|haulier
+garbage pickup|1
+(noun)|garbage collection|trash collection|trash pickup|pickup
+garboard plank|1
+(noun)|garboard|garboard strake|wale|strake
+garden current|1
+(noun)|red currant|Ribes rubrum|currant|currant bush
+garden lettuce|1
+(noun)|common lettuce|Lactuca sativa|lettuce
+garden of eden|1
+(noun)|Eden|Garden of Eden|Heaven
+garden rhubarb|1
+(noun)|pie plant|Rheum cultorum|Rheum rhabarbarum|Rheum rhaponticum|rhubarb|rhubarb plant
+garden webworm|1
+(noun)|Loxostege similalis|webworm
+garland flower|1
+(noun)|Daphne cneorum|daphne
+garlic mustard|1
+(noun)|hedge garlic|sauce-alone|jack-by-the-hedge|Alliaria officinalis|crucifer|cruciferous plant
+garment-worker|2
+(noun)|garmentmaker|garment worker|needleworker
+(noun)|                                                                         
+garment cutter|1
+(noun)|cutter
+garment worker|2
+(noun)|garmentmaker|garment-worker|needleworker
+(noun)|                                                                         
+gary weinstein|1
+(noun)|Kasparov|Gary Kasparov|Gary Weinstein|chess master
+gaseous nebula|1
+(noun)|diffuse nebula|nebula
+gasoline gauge|1
+(noun)|gasoline gage|gas gauge|gas gage|gauge|gage
+gasteromycetes|2
+(noun)|Gasteromycetes|class Gasteromycetes|Gastromycetes|class Gastromycetes|class
+(noun)|gasteromycete|gastromycete|fungus
+gasterosteidae|1
+(noun)|Gasterosteidae|family Gasterosteidae|fish family
+gastric artery|1
+(noun)|arteria gastrica|artery|arteria|arterial blood vessel
+gastric lavage|1
+(noun)|lavage
+gathered skirt|1
+(noun)|skirt
+gaudi i cornet|1
+(noun)|Gaudi|Antonio Gaudi|Gaudi i Cornet|Antonio Gaudi i Cornet|architect|designer
+gaussian curve|1
+(noun)|normal curve|bell-shaped curve|Gaussian curve|Gaussian shape|curve|curved shape
+gaussian shape|1
+(noun)|normal curve|bell-shaped curve|Gaussian curve|Gaussian shape|curve|curved shape
+gautama buddha|1
+(noun)|Buddha|the Buddha|Siddhartha|Gautama|Gautama Siddhartha|Gautama Buddha|mystic|religious mystic
+gazania rigens|1
+(noun)|treasure flower|Gazania rigens|gazania
+gear mechanism|1
+(noun)|gear|mechanism
+geiger counter|1
+(noun)|Geiger counter|Geiger-Muller counter|counter tube
+gelatinousness|1
+(noun)|glutinosity|glutinousness|viscosity|viscousness
+gelechiid moth|1
+(noun)|gelechiid|moth
+gemini program|1
+(noun)|Gemini program|space program
+general custer|1
+(noun)|Custer|George Armstrong Custer|General Custer|general|full general
+general ledger|1
+(noun)|ledger|leger|account book|book of account|book
+generalisation|4
+(noun)|generalization|generality|idea|thought
+(noun)|abstraction|generalization|theorization|theorisation
+(noun)|generalization|induction|inductive reasoning|colligation
+(noun)|generalization|stimulus generalization|stimulus generalisation|transfer|transfer of training|carry-over
+generalization|4
+(noun)|abstraction|generalisation|theorization|theorisation
+(noun)|generalisation|induction|inductive reasoning|colligation
+(noun)|generalisation|generality|idea|thought
+(noun)|generalisation|stimulus generalization|stimulus generalisation|transfer|transfer of training|carry-over
+genetic defect|1
+(noun)|genetic disease|genetic disorder|genetic abnormality|congenital disease|inherited disease|inherited disorder|hereditary disease|hereditary condition|disease
+genetic marker|1
+(noun)|gene|cistron|factor
+genicular vein|1
+(noun)|vena genus|vein|vena|venous blood vessel
+genista raetam|1
+(noun)|retem|raetam|juniper bush|juniper|Retama raetam|Genista raetam|shrub|bush
+genital herpes|1
+(noun)|herpes genitalis|herpes simplex|venereal disease|VD|social disease|Cupid's itch|Cupid's disease|Venus's curse|sexually transmitted disease
+genital system|1
+(noun)|reproductive system|system
+genre painting|1
+(noun)|genre
+gentian family|1
+(noun)|Gentianaceae|family Gentianaceae|dicot family|magnoliopsid family
+gentian violet|1
+(noun)|crystal violet|stain|antibacterial|antibacterial drug|bactericide|antifungal|antifungal agent|fungicide|antimycotic|antimycotic agent|vermifuge|anthelmintic|anthelminthic|helminthic
+gentiana lutea|1
+(noun)|great yellow gentian|Gentiana lutea|gentian
+gentrification|1
+(noun)|restoration
+genus abrocoma|1
+(noun)|Abrocoma|genus Abrocoma|mammal genus
+genus abutilon|1
+(noun)|Abutilon|genus Abutilon|dilleniid dicot genus
+genus acalypha|1
+(noun)|Acalypha|genus Acalypha|rosid dicot genus
+genus acanthus|1
+(noun)|genus Acanthus|asterid dicot genus
+genus achillea|1
+(noun)|genus Achillea|asterid dicot genus
+genus acinonyx|1
+(noun)|Acinonyx|genus Acinonyx|mammal genus
+genus aconitum|1
+(noun)|Aconitum|genus Aconitum|magnoliid dicot genus
+genus acropora|1
+(noun)|Acropora|genus Acropora|coelenterate genus
+genus adiantum|1
+(noun)|Adiantum|genus Adiantum|fern genus
+genus aegilops|1
+(noun)|Aegilops|genus Aegilops|monocot genus|liliopsid genus
+genus aegypius|1
+(noun)|Aegypius|genus Aegypius|bird genus
+genus aesculus|1
+(noun)|Aesculus|genus Aesculus|dicot genus|magnoliopsid genus
+genus afropavo|1
+(noun)|genus Afropavo|bird genus
+genus agalinis|1
+(noun)|Agalinis|genus Agalinis|asterid dicot genus
+genus agaricus|1
+(noun)|Agaricus|genus Agaricus|fungus genus
+genus agdestis|1
+(noun)|Agdestis|genus Agdestis|caryophylloid dicot genus
+genus agelaius|1
+(noun)|Agelaius|genus Agelaius|bird genus
+genus ageratum|1
+(noun)|genus Ageratum|asterid dicot genus
+genus agrostis|1
+(noun)|Agrostis|genus Agrostis|plant genus
+genus albizzia|1
+(noun)|genus Albizia|genus Albizzia|rosid dicot genus
+genus alectura|1
+(noun)|Alectura|genus Alectura|bird genus
+genus alliaria|1
+(noun)|Alliaria|genus Alliaria|dilleniid dicot genus
+genus allionia|1
+(noun)|Allionia|genus Allionia|caryophylloid dicot genus
+genus alocasia|1
+(noun)|genus Alocasia|monocot genus|liliopsid genus
+genus alouatta|1
+(noun)|Alouatta|genus Alouatta|mammal genus
+genus alstonia|1
+(noun)|Alstonia|genus Alstonia|dicot genus|magnoliopsid genus
+genus amberboa|1
+(noun)|Amberboa|genus Amberboa|asterid dicot genus
+genus ambrosia|1
+(noun)|genus Ambrosia|asterid dicot genus
+genus ameiurus|1
+(noun)|Ameiurus|genus Ameiurus|fish genus
+genus ammobium|1
+(noun)|genus Ammobium|asterid dicot genus
+genus amphiuma|1
+(noun)|genus Amphiuma|amphibian genus
+genus anagasta|1
+(noun)|Anagasta|genus Anagasta|arthropod genus
+genus anagyris|1
+(noun)|Anagyris|genus Anagyris|rosid dicot genus
+genus andreaea|1
+(noun)|Andreaea|genus Andreaea|moss genus
+genus andricus|1
+(noun)|Andricus|genus Andricus|arthropod genus
+genus andryala|1
+(noun)|genus Andryala|asterid dicot genus
+genus angelica|1
+(noun)|genus Angelica|rosid dicot genus|Umbelliferae|family Umbelliferae|Apiaceae|family Apiaceae|carrot family
+genus angrecum|1
+(noun)|genus Angrecum|Angraecum|genus Angraecum|monocot genus|liliopsid genus
+genus anguilla|1
+(noun)|Anguilla|genus Anguilla|fish genus
+genus anodonta|1
+(noun)|Anodonta|genus Anodonta|mollusk genus
+genus anthemis|1
+(noun)|Anthemis|genus Anthemis|asterid dicot genus
+genus antilope|1
+(noun)|Antilope|genus Antilope|mammal genus
+genus apocynum|1
+(noun)|Apocynum|genus Apocynum|dicot genus|magnoliopsid genus
+genus apodemus|1
+(noun)|Apodemus|genus Apodemus|mammal genus
+genus arctonyx|1
+(noun)|Arctonyx|genus Arctonyx|mammal genus
+genus arctotis|1
+(noun)|Arctotis|genus Arctotis|asterid dicot genus
+genus arenaria|2
+(noun)|Arenaria|genus Arenaria|caryophylloid dicot genus
+(noun)|Arenaria|genus Arenaria|bird genus
+genus arethusa|1
+(noun)|genus Arethusa|monocot genus|liliopsid genus
+genus argemone|1
+(noun)|genus Argemone|dilleniid dicot genus
+genus argynnis|1
+(noun)|Argynnis|genus Argynnis|arthropod genus
+genus argyreia|1
+(noun)|Argyreia|genus Argyreia|dicot genus|magnoliopsid genus
+genus arisaema|1
+(noun)|Arisaema|genus Arisaema|monocot genus|liliopsid genus
+genus arisarum|1
+(noun)|Arisarum|genus Arisarum|monocot genus|liliopsid genus
+genus arvicola|1
+(noun)|Arvicola|genus Arvicola|mammal genus
+genus ascaphus|1
+(noun)|Ascaphus|genus Ascaphus|amphibian genus
+genus asperula|1
+(noun)|Asperula|genus Asperula|asterid dicot genus
+genus athyrium|1
+(noun)|Athyrium|genus Athyrium|fern genus
+genus atriplex|1
+(noun)|Atriplex|genus Atriplex|caryophylloid dicot genus
+genus averrhoa|1
+(noun)|Averrhoa|genus Averrhoa|rosid dicot genus
+genus bacillus|1
+(noun)|genus Bacillus|bacteria genus
+genus balistes|1
+(noun)|Balistes|genus Balistes|fish genus
+genus baptisia|1
+(noun)|Baptisia|genus Baptisia|rosid dicot genus
+genus barbarea|1
+(noun)|Barbarea|genus Barbarea|dilleniid dicot genus
+genus bauhinia|1
+(noun)|Bauhinia|genus Bauhinia|rosid dicot genus
+genus berberis|1
+(noun)|Berberis|genus Berberis|magnoliid dicot genus
+genus bergenia|1
+(noun)|genus Bergenia|rosid dicot genus
+genus berteroa|1
+(noun)|Berteroa|genus Berteroa|dilleniid dicot genus
+genus bignonia|1
+(noun)|Bignonia|genus Bignonia|asterid dicot genus
+genus blaberus|1
+(noun)|Blaberus|genus Blaberus|arthropod genus
+genus blechnum|1
+(noun)|Blechnum|genus Blechnum|fern genus
+genus blennius|1
+(noun)|Blennius|genus Blennius|fish genus
+genus bletilla|1
+(noun)|Bletilla|genus Bletilla|monocot genus|liliopsid genus
+genus bocconia|1
+(noun)|genus Bocconia|dilleniid dicot genus
+genus bolbitis|1
+(noun)|Bolbitis|genus Bolbitis|fern genus
+genus boltonia|1
+(noun)|Boltonia|genus Boltonia|asterid dicot genus
+genus borassus|1
+(noun)|Borassus|genus Borassus|monocot genus|liliopsid genus
+genus borrelia|1
+(noun)|genus Borrelia|bacteria genus
+genus botaurus|1
+(noun)|Botaurus|genus Botaurus|bird genus
+genus bothrops|1
+(noun)|Bothrops|genus Bothrops|reptile genus
+genus boykinia|1
+(noun)|Boykinia|genus Boykinia|rosid dicot genus
+genus bradypus|1
+(noun)|Bradypus|genus Bradypus|mammal genus
+genus brasenia|1
+(noun)|Brasenia|genus Brasenia|magnoliid dicot genus
+genus brassica|1
+(noun)|Brassica|genus Brassica|dilleniid dicot genus
+genus brodiaea|1
+(noun)|genus Brodiaea|liliid monocot genus
+genus browmius|1
+(noun)|Brosmius|genus Browmius|fish genus
+genus bubulcus|1
+(noun)|Bubulcus|genus Bubulcus|bird genus
+genus buckleya|1
+(noun)|genus Buckleya|dilleniid dicot genus
+genus buddleia|1
+(noun)|genus Buddleia|dicot genus|magnoliopsid genus
+genus budorcas|1
+(noun)|Budorcas|genus Budorcas|mammal genus
+genus bulnesia|1
+(noun)|Bulnesia|genus Bulnesia|rosid dicot genus
+genus bungarus|1
+(noun)|Bungarus|genus Bungarus|reptile genus
+genus burhinus|1
+(noun)|Burhinus|genus Burhinus|bird genus
+genus caladium|1
+(noun)|genus Caladium|monocot genus|liliopsid genus
+genus calanthe|1
+(noun)|genus Calanthe|monocot genus|liliopsid genus
+genus calidris|1
+(noun)|Calidris|genus Calidris|bird genus
+genus calosoma|1
+(noun)|genus Calosoma|arthropod genus
+genus calvatia|1
+(noun)|Calvatia|genus Calvatia|fungus genus
+genus camassia|1
+(noun)|Camassia|genus Camassia|Quamassia|genus Quamassia|liliid monocot genus
+genus cambarus|1
+(noun)|Cambarus|genus Cambarus|arthropod genus
+genus camelina|1
+(noun)|Camelina|genus Camelina|dilleniid dicot genus
+genus camellia|1
+(noun)|genus Camellia|dilleniid dicot genus
+genus cannabis|1
+(noun)|genus Cannabis|dicot genus|magnoliopsid genus
+genus capparis|1
+(noun)|Capparis|genus Capparis|dilleniid dicot genus
+genus caprella|1
+(noun)|Caprella|genus Caprella|arthropod genus
+genus capsella|1
+(noun)|Capsella|genus Capsella|dilleniid dicot genus
+genus capsicum|1
+(noun)|genus Capsicum|asterid dicot genus
+genus caragana|1
+(noun)|genus Caragana|rosid dicot genus
+genus carpinus|1
+(noun)|Carpinus|genus Carpinus|hamamelid dicot genus
+genus caryocar|1
+(noun)|Caryocar|genus Caryocar|dilleniid dicot genus
+genus cassiope|1
+(noun)|Cassiope|genus Cassiope|dilleniid dicot genus
+genus castanea|1
+(noun)|Castanea|genus Castanea|hamamelid dicot genus
+genus catacala|1
+(noun)|Catacala|genus Catacala|arthropod genus
+genus cattleya|1
+(noun)|genus Cattleya|monocot genus|liliopsid genus
+genus cebuella|1
+(noun)|Cebuella|genus Cebuella|mammal genus
+genus cecropia|1
+(noun)|Cecropia|genus Cecropia|dicot genus|magnoliopsid genus
+genus cenchrus|1
+(noun)|Cenchrus|genus Cenchrus|monocot genus|liliopsid genus
+genus cerastes|1
+(noun)|genus Cerastes|Aspis|genus Aspis|reptile genus
+genus ceterach|1
+(noun)|Ceterach|genus Ceterach|fern genus
+genus cetraria|1
+(noun)|Cetraria|genus Cetraria|fungus genus
+genus chateura|1
+(noun)|Chateura|genus Chateura|bird genus
+genus chelifer|1
+(noun)|Chelifer|genus Chelifer|arthropod genus
+genus chelonia|1
+(noun)|Chelonia|genus Chelonia|reptile genus
+genus chelydra|1
+(noun)|Chelydra|genus Chelydra|reptile genus
+genus chimaera|1
+(noun)|genus Chimaera|fish genus
+genus chlorura|1
+(noun)|Chlorura|genus Chlorura|bird genus
+genus chondrus|1
+(noun)|Chondrus|genus Chondrus|protoctist genus
+genus cibotium|1
+(noun)|Cibotium|genus Cibotium|fern genus
+genus cinchona|1
+(noun)|genus Cinchona|genus Chinchona|asterid dicot genus
+genus citellus|1
+(noun)|Citellus|genus Citellus|Spermophilus|genus Spermophilus|mammal genus
+genus cladonia|1
+(noun)|Cladonia|genus Cladonia|fungus genus
+genus clangula|1
+(noun)|Clangula|genus Clangula|bird genus
+genus clathrus|1
+(noun)|Clathrus|genus Clathrus|fungus genus
+genus cleistes|1
+(noun)|Cleistes|genus Cleistes|monocot genus|liliopsid genus
+genus clematis|1
+(noun)|genus Clematis|magnoliid dicot genus
+genus clitoria|1
+(noun)|Clitoria|genus Clitoria|rosid dicot genus
+genus cocculus|1
+(noun)|Cocculus|genus Cocculus|magnoliid dicot genus
+genus coccyzus|1
+(noun)|Coccyzus|genus Coccyzus|bird genus
+genus codiaeum|1
+(noun)|Codiaeum|genus Codiaeum|rosid dicot genus
+genus colaptes|1
+(noun)|Colaptes|genus Colaptes|bird genus
+genus coleonyx|1
+(noun)|Coleonyx|genus Coleonyx|reptile genus
+genus columnea|1
+(noun)|genus Columnea|asterid dicot genus
+genus comandra|1
+(noun)|Comandra|genus Comandra|dilleniid dicot genus
+genus comatula|1
+(noun)|Comatula|genus Comatula|Antedon|genus Antedon
+genus conferva|1
+(noun)|Tribonema|genus Tribonema|genus Conferva|protoctist genus
+genus connarus|1
+(noun)|Connarus|genus Connarus|rosid dicot genus
+genus contopus|1
+(noun)|Contopus|genus Contopus|bird genus
+genus coprinus|1
+(noun)|Coprinus|genus Coprinus|fungus genus
+genus coracias|1
+(noun)|Coracias|genus Coracias|bird genus
+genus coragyps|1
+(noun)|Coragyps|genus Coragyps|bird genus
+genus cordylus|1
+(noun)|Cordylus|genus Cordylus|reptile genus
+genus coturnix|1
+(noun)|Coturnix|genus Coturnix|bird genus
+genus crassula|1
+(noun)|Crassula|genus Crassula|plant genus
+genus cricetus|1
+(noun)|Cricetus|genus Cricetus|mammal genus
+genus crotalus|1
+(noun)|Crotalus|genus Crotalus|reptile genus
+genus curtisia|1
+(noun)|Curtisia|genus Curtisia|rosid dicot genus
+genus cyclamen|1
+(noun)|genus Cyclamen|dicot genus|magnoliopsid genus
+genus cyclopes|2
+(noun)|Cyclopes|genus Cyclopes|mammal genus
+(noun)|genus Cyclops|arthropod genus
+genus cynancum|1
+(noun)|genus Cynancum|dicot genus|magnoliopsid genus
+genus cyprinus|1
+(noun)|Cyprinus|genus Cyprinus|fish genus
+genus daboecia|1
+(noun)|Daboecia|genus Daboecia|dilleniid dicot genus
+genus dactylis|1
+(noun)|Dactylis|genus Dactylis|monocot genus|liliopsid genus
+genus dasyatis|1
+(noun)|Dasyatis|genus Dasyatis|fish genus
+genus dasyurus|1
+(noun)|Dasyurus|genus Dasyurus|mammal genus
+genus davallia|1
+(noun)|genus Davallia|fern genus
+genus daviesia|1
+(noun)|Daviesia|genus Daviesia|rosid dicot genus
+genus delairea|1
+(noun)|Delairea|genus Delairea|asterid dicot genus
+genus delichon|1
+(noun)|Delichon|genus Delichon|bird genus
+genus dentaria|1
+(noun)|Dentaria|genus Dentaria|dilleniid dicot genus
+genus desmodus|1
+(noun)|Desmodus|genus Desmodus|mammal genus
+genus diacalpa|1
+(noun)|Diacalpa|genus Diacalpa|fern genus
+genus dianthus|1
+(noun)|Dianthus|genus Dianthus|caryophylloid dicot genus
+genus dicentra|1
+(noun)|Dicentra|genus Dicentra|dilleniid dicot genus
+genus dicranum|1
+(noun)|Dicranum|genus Dicranum|moss genus
+genus dillenia|1
+(noun)|genus Dillenia|dilleniid dicot genus
+genus dinornis|1
+(noun)|Dinornis|genus Dinornis|bird genus
+genus diomedea|1
+(noun)|genus Diomedea|bird genus
+genus diphylla|1
+(noun)|Diphylla|genus Diphylla|mammal genus
+genus dipsacus|1
+(noun)|Dipsacus|genus Dipsacus|asterid dicot genus
+genus dipteryx|1
+(noun)|Coumarouna|genus Coumarouna|Dipteryx|genus Dipteryx|rosid dicot genus
+genus dodonaea|1
+(noun)|Dodonaea|genus Dodonaea|dicot genus|magnoliopsid genus
+genus dolichos|1
+(noun)|Dolichos|genus Dolichos|rosid dicot genus
+genus doliolum|1
+(noun)|genus Doliolum|chordate genus
+genus dovyalis|1
+(noun)|Dovyalis|genus Dovyalis|dilleniid dicot genus
+genus dracaena|1
+(noun)|genus Dracaena|liliid monocot genus
+genus drepanis|1
+(noun)|Drepanis|genus Drepanis|bird genus
+genus dromaius|1
+(noun)|Dromaius|genus Dromaius|bird genus
+genus drynaria|1
+(noun)|Drynaria|genus Drynaria|fern genus
+genus dusicyon|1
+(noun)|Dusicyon|genus Dusicyon|mammal genus
+genus echeneis|1
+(noun)|Echeneis|genus Echeneis|fish genus
+genus echinops|1
+(noun)|Echinops|genus Echinops|asterid dicot genus
+genus elagatis|1
+(noun)|Elagatis|genus Elagatis|fish genus
+genus eleusine|1
+(noun)|Eleusine|genus Eleusine|monocot genus|liliopsid genus
+genus emberiza|1
+(noun)|Emberiza|genus Emberiza|bird genus
+genus emmanthe|1
+(noun)|Emmanthe|genus Emmanthe|asterid dicot genus
+genus empetrum|1
+(noun)|Empetrum|genus Empetrum|dicot genus|magnoliopsid genus
+genus encyclia|1
+(noun)|Encyclia|genus Encyclia|monocot genus|liliopsid genus
+genus entoloma|1
+(noun)|Entoloma|genus Entoloma|fungus genus
+genus eoraptor|1
+(noun)|genus Eoraptor|reptile genus
+genus ephestia|1
+(noun)|Ephestia|genus Ephestia|arthropod genus
+genus eranthis|1
+(noun)|Eranthis|genus Eranthis|magnoliid dicot genus
+genus erigeron|1
+(noun)|Erigeron|genus Erigeron|asterid dicot genus
+genus eriosoma|1
+(noun)|Eriosoma|genus Eriosoma|arthropod genus
+genus eryngium|1
+(noun)|Eryngium|genus Eryngium|rosid dicot genus
+genus erysimum|1
+(noun)|Erysimum|genus Erysimum|dilleniid dicot genus
+genus erysiphe|1
+(noun)|Erysiphe|genus Erysiphe|fungus genus
+genus estrilda|1
+(noun)|Estrilda|genus Estrilda|bird genus
+genus euarctos|1
+(noun)|Euarctos|genus Euarctos|mammal genus
+genus eudyptes|1
+(noun)|Eudyptes|genus Eudyptes|bird genus
+genus eunectes|1
+(noun)|Eunectes|genus Eunectes|reptile genus
+genus euonymus|1
+(noun)|Euonymus|genus Euonymus|dicot genus|magnoliopsid genus
+genus euphagus|1
+(noun)|Euphagus|genus Euphagus|bird genus
+genus eurotium|1
+(noun)|Eurotium|genus Eurotium|fungus genus
+genus eutamias|1
+(noun)|Eutamias|genus Eutamias|mammal genus
+genus fasciola|1
+(noun)|Fasciola|genus Fasciola|worm genus
+genus firmiana|1
+(noun)|Firmiana|genus Firmiana|dilleniid dicot genus
+genus fragaria|1
+(noun)|Fragaria|genus Fragaria|rosid dicot genus
+genus fraxinus|1
+(noun)|Fraxinus|genus Fraxinus|dicot genus|magnoliopsid genus
+genus fulmarus|1
+(noun)|Fulmarus|genus Fulmarus|bird genus
+genus fundulus|1
+(noun)|Fundulus|genus Fundulus|fish genus
+genus fusarium|1
+(noun)|genus Fusarium|fungus genus
+genus galictis|1
+(noun)|genus Galictis|mammal genus
+genus galleria|1
+(noun)|Galleria|genus Galleria|arthropod genus
+genus gambelia|1
+(noun)|Gambelia|genus Gambelia|reptile genus
+genus gambusia|1
+(noun)|Gambusia|genus Gambusia|fish genus
+genus garcinia|1
+(noun)|Garcinia|genus Garcinia|dilleniid dicot genus
+genus gardenia|1
+(noun)|genus Gardenia|asterid dicot genus
+genus garrulus|1
+(noun)|Garrulus|genus Garrulus|bird genus
+genus gavialis|1
+(noun)|Gavialis|genus Gavialis|reptile genus
+genus geastrum|1
+(noun)|Geastrum|genus Geastrum|fungus genus
+genus gelechia|1
+(noun)|Gelechia|genus Gelechia|arthropod genus
+genus gempylus|1
+(noun)|Gempylus|genus Gempylus|fish genus
+genus genlisea|1
+(noun)|genus Genlisea|plant genus
+genus gentiana|1
+(noun)|Gentiana|genus Gentiana|dicot genus|magnoliopsid genus
+genus geranium|1
+(noun)|genus Geranium|plant genus
+genus gerardia|1
+(noun)|genus Gerardia|asterid dicot genus
+genus gesneria|1
+(noun)|genus Gesneria|asterid dicot genus
+genus glareola|1
+(noun)|Glareola|genus Glareola|bird genus
+genus glaucium|1
+(noun)|Glaucium|genus Glaucium|dilleniid dicot genus
+genus glechoma|1
+(noun)|Glechoma|genus Glechoma|asterid dicot genus
+genus gloriosa|1
+(noun)|genus Gloriosa|liliid monocot genus
+genus glossina|1
+(noun)|genus Glossina|arthropod genus
+genus gloxinia|1
+(noun)|genus Gloxinia|asterid dicot genus
+genus glyceria|1
+(noun)|Glyceria|genus Glyceria|monocot genus|liliopsid genus
+genus gobiesox|1
+(noun)|Gobiesox|genus Gobiesox|fish genus
+genus goodyera|1
+(noun)|Goodyera|genus Goodyera|monocot genus|liliopsid genus
+genus gopherus|1
+(noun)|Gopherus|genus Gopherus|reptile genus
+genus guaiacum|1
+(noun)|Guaiacum|genus Guaiacum|rosid dicot genus
+genus gymnelis|1
+(noun)|Gymnelis|genus Gymnelis|fish genus
+genus gypaetus|1
+(noun)|Gypaetus|genus Gypaetus|bird genus
+genus hackelia|1
+(noun)|Hackelia|genus Hackelia|Lappula|genus Lappula|plant genus
+genus haemopis|1
+(noun)|Haemopis|genus Haemopis|worm genus
+genus haemulon|1
+(noun)|Haemulon|genus Haemulon|fish genus
+genus haliotis|1
+(noun)|Haliotis|genus Haliotis|mollusk genus
+genus haminoea|1
+(noun)|Haminoea|genus Haminoea|mollusk genus
+genus harrisia|1
+(noun)|Harrisia|genus Harrisia|caryophylloid dicot genus
+genus hazardia|1
+(noun)|Hazardia|genus Hazardia|asterid dicot genus
+genus helenium|1
+(noun)|Helenium|genus Helenium|asterid dicot genus
+genus helotium|1
+(noun)|Helotium|genus Helotium|fungus genus
+genus helvella|1
+(noun)|genus Helvella|fungus genus
+genus hepatica|1
+(noun)|genus Hepatica|magnoliid dicot genus
+genus hernaria|1
+(noun)|Hernaria|genus Hernaria|caryophylloid dicot genus
+genus hesperis|1
+(noun)|Hesperis|genus Hesperis|dilleniid dicot genus
+genus heuchera|1
+(noun)|Heuchera|genus Heuchera|rosid dicot genus
+genus hexamita|1
+(noun)|Hexamita|genus Hexamita|protoctist genus
+genus hibiscus|1
+(noun)|genus Hibiscus|dilleniid dicot genus
+genus hipsurus|1
+(noun)|Hipsurus|genus Hipsurus|fish genus
+genus homogyne|1
+(noun)|Homogyne|genus Homogyne|asterid dicot genus
+genus hottonia|1
+(noun)|Hottonia|genus Hottonia|dicot genus|magnoliopsid genus
+genus hudsonia|1
+(noun)|Hudsonia|genus Hudsonia|dilleniid dicot genus
+genus hydrilla|1
+(noun)|genus Hydrilla|monocot genus|liliopsid genus
+genus hydromys|1
+(noun)|Hydromys|genus Hydromys|mammal genus
+genus hymenaea|1
+(noun)|Hymenaea|genus Hymenaea|rosid dicot genus
+genus hyssopus|1
+(noun)|Hyssopus|genus Hyssopus|asterid dicot genus
+genus ictiobus|1
+(noun)|Ictiobus|genus Ictiobus|fish genus
+genus illicium|1
+(noun)|Illicium|genus Illicium|magnoliid dicot genus
+genus irvingia|1
+(noun)|Irvingia|genus Irvingia|rosid dicot genus
+genus isopyrum|1
+(noun)|Isopyrum|genus Isopyrum|magnoliid dicot genus
+genus jasminum|1
+(noun)|Jasminum|genus Jasminum|dicot genus|magnoliopsid genus
+genus jatropha|1
+(noun)|Jatropha|genus Jatropha|rosid dicot genus
+genus kennedia|1
+(noun)|Kennedia|genus Kennedia|Kennedya|genus Kennedya|rosid dicot genus
+genus kennedya|1
+(noun)|Kennedia|genus Kennedia|Kennedya|genus Kennedya|rosid dicot genus
+genus knightia|1
+(noun)|Knightia|genus Knightia|dicot genus|magnoliopsid genus
+genus kohleria|1
+(noun)|genus Kohleria|asterid dicot genus
+genus kyphosus|1
+(noun)|Kyphosus|genus Kyphosus|fish genus
+genus laburnum|1
+(noun)|Laburnum|genus Laburnum|rosid dicot genus
+genus lagidium|1
+(noun)|Lagidium|genus Lagidium|mammal genus
+genus laportea|1
+(noun)|Laportea|genus Laportea|dicot genus|magnoliopsid genus
+genus lasiurus|1
+(noun)|Lasiurus|genus Lasiurus|mammal genus
+genus lathyrus|1
+(noun)|Lathyrus|genus Lathyrus|rosid dicot genus
+genus lavatera|1
+(noun)|Lavatera|genus Lavatera|dilleniid dicot genus
+genus lebistes|1
+(noun)|Lebistes|genus Lebistes|fish genus
+genus lecanora|1
+(noun)|genus Lecanora|fungus genus
+genus leccinum|1
+(noun)|Leccinum|genus Leccinum|fungus genus
+genus lentinus|1
+(noun)|Lentinus|genus Lentinus|fungus genus
+genus leonotis|1
+(noun)|Leonotis|genus Leonotis|asterid dicot genus
+genus leonurus|1
+(noun)|Leonurus|genus Leonurus|asterid dicot genus
+genus lepidium|1
+(noun)|Lepidium|genus Lepidium|dilleniid dicot genus
+genus leucaena|1
+(noun)|Leucaena|genus Leucaena|rosid dicot genus
+genus limonium|1
+(noun)|Limonium|genus Limonium|dicot genus|magnoliopsid genus
+genus liopelma|1
+(noun)|Leiopelma|genus Leiopelma|Liopelma|genus Liopelma|amphibian genus
+genus listeria|1
+(noun)|genus Listeria|bacteria genus
+genus lofortyx|1
+(noun)|Lofortyx|genus Lofortyx|bird genus
+genus lonicera|1
+(noun)|Lonicera|genus Lonicera|asterid dicot genus
+genus lumpenus|1
+(noun)|Lumpenus|genus Lumpenus|fish genus
+genus luscinia|1
+(noun)|Luscinia|genus Luscinia|bird genus
+genus lutjanus|1
+(noun)|Lutjanus|genus Lutjanus|fish genus
+genus lygodium|1
+(noun)|Lygodium|genus Lygodium|fern genus
+genus lysiloma|1
+(noun)|Lysiloma|genus Lysiloma|rosid dicot genus
+genus macleaya|1
+(noun)|Macleaya|genus Macleaya|dilleniid dicot genus
+genus macropus|1
+(noun)|Macropus|genus Macropus|mammal genus
+genus macrotis|1
+(noun)|Macrotis|genus Macrotis|mammal genus
+genus macrotus|1
+(noun)|genus Macrotus|mammal genus
+genus maeandra|1
+(noun)|Maeandra|genus Maeandra|coelenterate genus
+genus magnolia|1
+(noun)|genus Magnolia|magnoliid dicot genus
+genus majorana|1
+(noun)|Majorana|genus Majorana|asterid dicot genus
+genus mallotus|1
+(noun)|Mallotus|genus Mallotus|fish genus
+genus marattia|1
+(noun)|Marattia|genus Marattia|fern genus
+genus marsilea|1
+(noun)|Marsilea|genus Marsilea|fern genus
+genus martynia|1
+(noun)|genus Martynia|plant genus
+genus mastodon|1
+(noun)|Mammut|genus Mammut|genus Mastodon|mammal genus
+genus medicago|1
+(noun)|Medicago|genus Medicago|rosid dicot genus|Papilionoideae|subfamily Papilionoideae
+genus melogale|1
+(noun)|Melogale|genus Melogale|mammal genus
+genus melursus|1
+(noun)|Melursus|genus Melursus|mammal genus
+genus mephitis|1
+(noun)|Mephitis|genus Mephitis|mammal genus
+genus meriones|1
+(noun)|Meriones|genus Meriones|mammal genus
+genus mespilus|1
+(noun)|Mespilus|genus Mespilus|rosid dicot genus
+genus micromyx|1
+(noun)|Micromyx|genus Micromyx|mammal genus
+genus microtus|1
+(noun)|Microtus|genus Microtus|mammal genus
+genus micrurus|1
+(noun)|Micrurus|genus Micrurus|reptile genus
+genus miltonia|1
+(noun)|Miltonia|genus Miltonia|monocot genus|liliopsid genus
+genus mirounga|1
+(noun)|Mirounga|genus Mirounga|mammal genus
+genus monstera|1
+(noun)|genus Monstera|monocot genus|liliopsid genus
+genus mustelus|1
+(noun)|Mustelus|genus Mustelus|fish genus
+genus mycteria|1
+(noun)|Mycteria|genus Mycteria|bird genus
+genus myosotis|1
+(noun)|Myosotis|genus Myosotis|plant genus
+genus myrmecia|1
+(noun)|Myrmecia|genus Myrmecia|arthropod genus
+genus nautilus|1
+(noun)|genus Nautilus|mollusk genus
+genus necturus|1
+(noun)|Necturus|genus Necturus|amphibian genus
+genus neofiber|1
+(noun)|Neofiber|genus Neofiber|mammal genus
+genus neophron|1
+(noun)|Neophron|genus Neophron|bird genus
+genus nephrops|1
+(noun)|Nephrops|genus Nephrops|arthropod genus
+genus neritina|1
+(noun)|genus Neritina|mollusk genus
+genus nicandra|1
+(noun)|Nicandra|genus Nicandra|asterid dicot genus
+genus nimravus|1
+(noun)|Nimravus|genus Nimravus|mammal genus
+genus notechis|1
+(noun)|Notechis|genus Notechis|reptile genus
+genus notornis|1
+(noun)|genus Notornis|bird genus
+genus notropis|1
+(noun)|Notropis|genus Notropis|fish genus
+genus numenius|1
+(noun)|Numenius|genus Numenius|bird genus
+genus nymphaea|1
+(noun)|Nymphaea|genus Nymphaea|magnoliid dicot genus
+genus ochotona|1
+(noun)|Ochotona|genus Ochotona|mammal genus
+genus odobenus|1
+(noun)|Odobenus|genus Odobenus|mammal genus
+genus oenanthe|2
+(noun)|Oenanthe|genus Oenanthe|rosid dicot genus
+(noun)|Oenanthe|genus Oenanthe|bird genus
+genus oleandra|1
+(noun)|Oleandra|genus Oleandra|fern genus
+genus olfersia|1
+(noun)|Olfersia|genus Olfersia|fern genus
+genus oncidium|1
+(noun)|genus Oncidium|monocot genus|liliopsid genus
+genus onychium|1
+(noun)|Onychium|genus Onychium|fern genus
+genus ophiodon|1
+(noun)|Ophiodon|genus Ophiodon|fish genus
+genus orbignya|1
+(noun)|Orbignya|genus Orbignya|monocot genus|liliopsid genus
+genus oreamnos|1
+(noun)|Oreamnos|genus Oreamnos|mammal genus
+genus oreortyx|1
+(noun)|Oreortyx|genus Oreortyx|bird genus
+genus origanum|1
+(noun)|genus Origanum|asterid dicot genus
+genus orontium|1
+(noun)|Orontium|genus Orontium|monocot genus|liliopsid genus
+genus orthilia|1
+(noun)|Orthilia|genus Orthilia|dilleniid dicot genus
+genus oryzomys|1
+(noun)|Oryzomys|genus Oryzomys|mammal genus
+genus ovalipes|1
+(noun)|Ovalipes|genus Ovalipes|arthropod genus
+genus oxybelis|1
+(noun)|Oxybelis|genus Oxybelis|reptile genus
+genus pagellus|1
+(noun)|Pagellus|genus Pagellus|fish genus
+genus palaemon|1
+(noun)|Palaemon|genus Palaemon|arthropod genus
+genus paliurus|1
+(noun)|Paliurus|genus Paliurus|dicot genus|magnoliopsid genus
+genus palometa|1
+(noun)|genus Palometa|fish genus
+genus pandanus|1
+(noun)|genus Pandanus|monocot genus|liliopsid genus
+genus panthera|1
+(noun)|Panthera|genus Panthera|mammal genus
+genus paprilus|1
+(noun)|Paprilus|genus Paprilus|fish genus
+genus parmelia|1
+(noun)|Parmelia|genus Parmelia|fungus genus
+genus parrotia|1
+(noun)|Parrotia|genus Parrotia|plant genus
+genus paspalum|1
+(noun)|genus Paspalum|monocot genus|liliopsid genus
+genus penelope|1
+(noun)|Penelope|genus Penelope|bird genus
+genus pereskia|1
+(noun)|Pereskia|genus Pereskia|Peireskia|genus Peireskia|caryophylloid dicot genus
+genus petaurus|1
+(noun)|Petaurus|genus Petaurus|mammal genus
+genus petteria|1
+(noun)|Petteria|genus Petteria|rosid dicot genus
+genus phacelia|1
+(noun)|genus Phacelia|asterid dicot genus
+genus phaethon|1
+(noun)|Phaethon|genus Phaethon|bird genus
+genus phalaris|1
+(noun)|Phalaris|genus Phalaris|monocot genus|liliopsid genus
+genus phocaena|1
+(noun)|Phocaena|genus Phocaena|mammal genus
+genus pholiota|1
+(noun)|Pholiota|genus Pholiota|fungus genus
+genus photinia|1
+(noun)|Photinia|genus Photinia|rosid dicot genus
+genus phoxinus|1
+(noun)|Phoxinus|genus Phoxinus|fish genus
+genus phthirus|1
+(noun)|Phthirius|genus Phthirius|Phthirus|genus Phthirus|arthropod genus
+genus phyllium|1
+(noun)|Phyllium|genus Phyllium|arthropod genus
+genus physalia|1
+(noun)|Physalia|genus Physalia|coelenterate genus
+genus physalis|1
+(noun)|Physalis|genus Physalis|asterid dicot genus
+genus physaria|1
+(noun)|Physaria|genus Physaria|dilleniid dicot genus
+genus physeter|1
+(noun)|Physeter|genus Physeter|mammal genus
+genus picoides|1
+(noun)|Picoides|genus Picoides|bird genus
+genus picrasma|1
+(noun)|Picrasma|genus Picrasma|rosid dicot genus
+genus picumnus|1
+(noun)|Picumnus|genus Picumnus|bird genus
+genus pinctada|1
+(noun)|Pinctada|genus Pinctada|mollusk genus
+genus pinicola|1
+(noun)|Pinicola|genus Pinicola|bird genus
+genus pipturus|1
+(noun)|Pipturus|genus Pipturus|dicot genus|magnoliopsid genus
+genus piqueria|1
+(noun)|Piqueria|genus Piqueria|asterid dicot genus
+genus piscidia|1
+(noun)|Piscidia|genus Piscidia|rosid dicot genus
+genus pistacia|1
+(noun)|Pistacia|genus Pistacia|dicot genus|magnoliopsid genus
+genus pithecia|1
+(noun)|Pithecia|genus Pithecia|mammal genus
+genus plantago|1
+(noun)|Plantago|genus Plantago|dicot genus|magnoliopsid genus
+genus platalea|1
+(noun)|Platalea|genus Platalea|bird genus
+genus platanus|1
+(noun)|Platanus|genus Platanus|rosid dicot genus
+genus plecotus|1
+(noun)|Plecotus|genus Plecotus|mammal genus
+genus plumbago|1
+(noun)|genus Plumbago|dicot genus|magnoliopsid genus
+genus plumeria|1
+(noun)|Plumeria|genus Plumeria|Plumiera|dicot genus|magnoliopsid genus
+genus podargus|1
+(noun)|Podargus|genus Podargus|bird genus
+genus podiceps|1
+(noun)|Podiceps|genus Podiceps|bird genus
+genus poephila|1
+(noun)|Poephila|genus Poephila|bird genus
+genus polistes|1
+(noun)|Polistes|genus Polistes|arthropod genus
+genus polygala|1
+(noun)|Polygala|genus Polygala|rosid dicot genus
+genus polyodon|1
+(noun)|Polyodon|genus Polyodon|fish genus
+genus poncirus|1
+(noun)|Poncirus|genus Poncirus|rosid dicot genus
+genus pongamia|1
+(noun)|Pongamia|genus Pongamia|rosid dicot genus
+genus popillia|1
+(noun)|Popillia|genus Popillia|arthropod genus
+genus porphyra|1
+(noun)|Porphyra|genus Porphyra|protoctist genus
+genus portunus|1
+(noun)|Portunus|genus Portunus|arthropod genus
+genus poterium|1
+(noun)|Poterium|genus Poterium|rosid dicot genus
+genus potorous|1
+(noun)|Potorous|genus Potorous|mammal genus
+genus pouteria|1
+(noun)|Pouteria|genus Pouteria|dicot genus|magnoliopsid genus
+genus prionace|1
+(noun)|Prionace|genus Prionace|fish genus
+genus procavia|1
+(noun)|Procavia|genus Procavia|mammal genus
+genus procnias|1
+(noun)|Procnias|genus Procnias|bird genus
+genus prosopis|1
+(noun)|Prosopis|genus Prosopis|rosid dicot genus
+genus proteles|1
+(noun)|Proteles|genus Proteles|mammal genus
+genus prunella|2
+(noun)|Prunella|genus Prunella|asterid dicot genus
+(noun)|Prunella|genus Prunella|bird genus
+genus psilotum|1
+(noun)|Psilotum|genus Psilotum|fern genus
+genus psoralea|1
+(noun)|Psoralea|genus Psoralea|rosid dicot genus
+genus pteretis|1
+(noun)|Matteuccia|genus Matteuccia|Pteretis|genus Pteretis|fern genus
+genus pteropus|1
+(noun)|Pteropus|genus Pteropus|mammal genus
+genus puccinia|1
+(noun)|Puccinia|genus Puccinia|fungus genus
+genus pueraria|1
+(noun)|Pueraria|genus Pueraria|rosid dicot genus
+genus puffinus|1
+(noun)|Puffinus|genus Puffinus|bird genus
+genus pyrausta|1
+(noun)|Pyrausta|genus Pyrausta|arthropod genus
+genus pyrrhula|1
+(noun)|Pyrrhula|genus Pyrrhula|bird genus
+genus pyrrosia|1
+(noun)|Pyrrosia|genus Pyrrosia|fern genus
+genus ramalina|1
+(noun)|Ramalina|genus Ramalina|fungus genus
+genus rangifer|1
+(noun)|Rangifer|genus Rangifer|mammal genus
+genus raphanus|1
+(noun)|Raphanus|dilleniid dicot genus
+genus ratibida|1
+(noun)|Ratibida|genus Ratibida|asterid dicot genus
+genus ravenala|1
+(noun)|genus Ravenala|monocot genus|liliopsid genus
+genus rhizopus|1
+(noun)|genus Rhizopus|fungus genus
+genus roccella|1
+(noun)|genus Roccella|fungus genus
+genus roridula|1
+(noun)|genus Roridula|dicot genus|magnoliopsid genus
+genus rupicola|1
+(noun)|Rupicola|genus Rupicola|bird genus
+genus rynchops|1
+(noun)|Rynchops|genus Rynchops|bird genus
+genus rypticus|1
+(noun)|Rypticus|genus Rypticus|fish genus
+genus sabbatia|1
+(noun)|genus Sabbatia|dicot genus|magnoliopsid genus
+genus sadleria|1
+(noun)|Sadleria|genus Sadleria|fern genus
+genus salvinia|1
+(noun)|Salvinia|genus Salvinia|fern genus
+genus sambucus|1
+(noun)|Sambucus|genus Sambucus|asterid dicot genus
+genus sanicula|1
+(noun)|Sanicula|genus Sanicula|rosid dicot genus
+genus santalum|1
+(noun)|Santalum|genus Santalum|dilleniid dicot genus
+genus sapindus|1
+(noun)|Sapindus|genus Sapindus|dicot genus|magnoliopsid genus
+genus sarcodes|1
+(noun)|Sarcodes|genus Sarcodes|dilleniid dicot genus
+genus sardinia|1
+(noun)|Sardina|genus Sardina|genus Sardinia|fish genus
+genus satureia|1
+(noun)|Satureja|genus Satureja|Satureia|genus Satureia|asterid dicot genus
+genus satureja|1
+(noun)|Satureja|genus Satureja|Satureia|genus Satureia|asterid dicot genus
+genus saturnia|1
+(noun)|Saturnia|genus Saturnia|arthropod genus
+genus saururus|1
+(noun)|Saururus|genus Saururus|dicot genus|magnoliopsid genus
+genus saxicola|1
+(noun)|Saxicola|genus Saxicola|bird genus
+genus sayornis|1
+(noun)|Sayornis|genus Sayornis|bird genus
+genus scabiosa|1
+(noun)|genus Scabiosa|asterid dicot genus
+genus schizaea|1
+(noun)|Schizaea|genus Schizaea|fern genus
+genus scolopax|1
+(noun)|Scolopax|genus Scolopax|bird genus
+genus scolymus|1
+(noun)|Scolymus|genus Scolymus|asterid dicot genus
+genus scolytus|1
+(noun)|Scolytus|genus Scolytus|arthropod genus
+genus scopolia|1
+(noun)|Scopolia|genus Scopolia|asterid dicot genus
+genus seriphus|1
+(noun)|Seriphus|genus Seriphus|fish genus
+genus serranus|1
+(noun)|Serranus|genus Serranus|fish genus
+genus serratia|1
+(noun)|genus Serratia|Serratia|bacteria genus
+genus sesbania|1
+(noun)|genus Sesbania|rosid dicot genus
+genus shigella|1
+(noun)|genus Shigella|bacteria genus
+genus sidalcea|1
+(noun)|Sidalcea|genus Sidalcea|dilleniid dicot genus
+genus sigmodon|1
+(noun)|Sigmodon|genus Sigmodon|mammal genus
+genus silphium|1
+(noun)|Silphium|genus Silphium|asterid dicot genus
+genus simulium|1
+(noun)|Simulium|genus Simulium|arthropod genus
+genus sinornis|1
+(noun)|genus Sinornis|bird genus
+genus smiledon|1
+(noun)|Smiledon|genus Smiledon|mammal genus
+genus smyrnium|1
+(noun)|Smyrnium|genus Smyrnium|rosid dicot genus
+genus sobralia|1
+(noun)|genus Sobralia|monocot genus|liliopsid genus
+genus solandra|1
+(noun)|Solandra|genus Solandra|asterid dicot genus
+genus solidago|1
+(noun)|Solidago|genus Solidago|asterid dicot genus
+genus spadella|1
+(noun)|genus Spadella|worm genus
+genus sparaxis|1
+(noun)|Sparaxis|genus Sparaxis|liliid monocot genus
+genus spartina|1
+(noun)|Spartina|genus Spartina|monocot genus|liliopsid genus
+genus spartium|1
+(noun)|Spartium|genus Spartium|rosid dicot genus
+genus spergula|1
+(noun)|Spergula|genus Spergula|caryophylloid dicot genus
+genus sphacele|1
+(noun)|Lepechinia|genus Lepechinia|Sphacele|genus Sphacele|asterid dicot genus
+genus sphagnum|1
+(noun)|genus Sphagnum|moss genus
+genus sphecius|1
+(noun)|Sphecius|genus Sphecius|arthropod genus
+genus spinacia|1
+(noun)|Spinacia|genus Spinacia|caryophylloid dicot genus
+genus spizella|1
+(noun)|Spizella|genus Spizella|bird genus
+genus spondias|1
+(noun)|Spondias|genus Spondias|dicot genus|magnoliopsid genus
+genus spraguea|1
+(noun)|Spraguea|genus Spraguea|caryophylloid dicot genus
+genus squatina|1
+(noun)|Squatina|genus Squatina|fish genus
+genus stanleya|1
+(noun)|Stanleya|genus Stanleya|dilleniid dicot genus
+genus stapelia|1
+(noun)|genus Stapelia|dicot genus|magnoliopsid genus
+genus stenotus|1
+(noun)|Stenotus|genus Stenotus|asterid dicot genus
+genus stokesia|1
+(noun)|Stokesia|genus Stokesia|asterid dicot genus
+genus storeria|1
+(noun)|Storeria|genus Storeria|reptile genus
+genus strepera|1
+(noun)|Strepera|genus Strepera|bird genus
+genus strombus|1
+(noun)|Strombus|genus Strombus|mollusk genus
+genus struthio|1
+(noun)|Struthio|genus Struthio|bird genus
+genus suricata|1
+(noun)|Suricata|genus Suricata|mammal genus
+genus synercus|1
+(noun)|Synercus|genus Synercus|tribe synercus|mammal genus
+genus syzygium|1
+(noun)|Syzygium|genus Syzygium|dicot genus|magnoliopsid genus
+genus tadarida|1
+(noun)|Tadarida|genus Tadarida|mammal genus
+genus tamandua|1
+(noun)|genus Tamandua|mammal genus
+genus tantilla|1
+(noun)|Tantilla|genus Tantilla|reptile genus
+genus taxodium|1
+(noun)|Taxodium|genus Taxodium|gymnosperm genus
+genus tectaria|1
+(noun)|Tectaria|genus Tectaria|fern genus
+genus teucrium|1
+(noun)|Teucrium|genus Teucrium|asterid dicot genus
+genus thevetia|1
+(noun)|Thevetia|genus Thevetia|dicot genus|magnoliopsid genus
+genus thomomys|1
+(noun)|Thomomys|genus Thomomys|mammal genus
+genus tiarella|1
+(noun)|Tiarella|genus Tiarella|rosid dicot genus
+genus tilletia|1
+(noun)|Tilletia|genus Tilletia|fungus genus
+genus tithonia|1
+(noun)|genus Tithonia|asterid dicot genus
+genus tragopan|1
+(noun)|genus Tragopan|bird genus
+genus tragulus|1
+(noun)|Tragulus|genus Tragulus|mammal genus
+genus tremella|1
+(noun)|Tremella|genus Tremella|fungus genus
+genus triatoma|1
+(noun)|Triatoma|genus Triatoma|arthropod genus
+genus tribulus|1
+(noun)|Tribulus|genus Tribulus|rosid dicot genus
+genus tridacna|1
+(noun)|Tridacna|genus Tridacna|mollusk genus
+genus trillium|1
+(noun)|genus Trillium|liliid monocot genus
+genus triticum|1
+(noun)|Triticum|genus Triticum|monocot genus|liliopsid genus
+genus triturus|1
+(noun)|Triturus|genus Triturus|amphibian genus
+genus trollius|1
+(noun)|Trollius|genus Trollius|magnoliid dicot genus
+genus turritis|1
+(noun)|Turritis|genus Turritis|dilleniid dicot genus
+genus tursiops|1
+(noun)|Tursiops|genus Tursiops|mammal genus
+genus tyrannus|1
+(noun)|Tyrannus|genus Tyrannus|bird genus
+genus ustilago|1
+(noun)|Ustilago|genus Ustilago|fungus genus
+genus uvularia|1
+(noun)|Uvularia|genus Uvularia|liliid monocot genus
+genus vaccaria|1
+(noun)|Vaccaria|genus Vaccaria|caryophylloid dicot genus
+genus vanellus|1
+(noun)|Vanellus|genus Vanellus|bird genus
+genus veratrum|1
+(noun)|Veratrum|genus Veratrum|liliid monocot genus
+genus vernonia|1
+(noun)|genus Vernonia|asterid dicot genus
+genus veronica|1
+(noun)|genus Veronica|asterid dicot genus
+genus viburnum|1
+(noun)|Viburnum|genus Viburnum|asterid dicot genus
+genus virgilia|1
+(noun)|Virgilia|genus Virgilia|rosid dicot genus
+genus vittaria|1
+(noun)|Vittaria|genus Vittaria|fern genus
+genus volvaria|1
+(noun)|Volvaria|genus Volvaria|fungus genus
+genus wisteria|1
+(noun)|genus Wisteria|rosid dicot genus
+genus xanthium|1
+(noun)|Xanthium|genus Xanthium|asterid dicot genus
+genus xylocopa|1
+(noun)|Xylocopa|genus Xylocopa|arthropod genus
+genus zalophus|1
+(noun)|Zalophus|genus Zalophus|mammal genus
+genus zerumbet|1
+(noun)|Alpinia|genus Alpinia|genus Zerumbet|genus Languas|plant genus
+genus zingiber|1
+(noun)|Zingiber|genus Zingiber|monocot genus|liliopsid genus
+genus ziziphus|1
+(noun)|Ziziphus|genus Ziziphus|dicot genus|magnoliopsid genus
+geological era|1
+(noun)|era|geological time|geologic time
+geometric mean|1
+(noun)|mean|mean value
+geometric pace|1
+(noun)|linear unit
+geometrid moth|1
+(noun)|geometrid|moth
+geomorphologic|1
+(adj)|geomorphological|morphologic|morphological|structural|geophysics|geophysical science
+geomys pinetis|1
+(noun)|southeastern pocket gopher|Geomys pinetis|gopher|pocket gopher|pouched rat
+geophilomorpha|1
+(noun)|Geophilomorpha|order Geophilomorpha|animal order
+georg meissner|1
+(noun)|Meissner|Georg Meissner|anatomist
+george eastman|1
+(noun)|Eastman|George Eastman|industrialist|inventor|discoverer|artificer
+george stevens|1
+(noun)|Stevens|George Stevens|film maker|filmmaker|film producer|movie maker
+george w. bush|1
+(noun)|Bush|George Bush|George W. Bush|George Walker Bush|President Bush|President George W. Bush|Dubyuh|Dubya|President of the United States|United States President|President|Chief Executive
+georges braque|1
+(noun)|Braque|Georges Braque|painter
+georges cuvier|1
+(noun)|Cuvier|Georges Cuvier|Baron Georges Cuvier|Georges Leopold Chretien Frederic Dagobert Cuvier|naturalist|natural scientist
+georges enesco|1
+(noun)|Enesco|Georges Enesco|George Enescu|violinist|fiddler|composer
+georges seurat|1
+(noun)|Seurat|Georges Seurat|Georges Pierre Seurat|painter
+geosynchronous|1
+(adj)|fixed 
+gerald r. ford|1
+(noun)|Ford|Gerald Ford|Gerald R. Ford|Gerald Rudolph Ford|President Ford|President of the United States|United States President|President|Chief Executive
+geranium molle|1
+(noun)|dove's foot geranium|Geranium molle|cranesbill|crane's bill
+gerhard kremer|1
+(noun)|Mercator|Gerardus Mercator|Gerhard Kremer|geographer
+german capital|1
+(noun)|Berlin|German capital|national capital
+german measles|1
+(noun)|German measles|rubella|three-day measles|epidemic roseola|measles|rubeola|morbilli
+german pancake|1
+(noun)|pfannkuchen|pancake|battercake|flannel cake|flannel-cake|flapcake|flapjack|griddlecake|hotcake|hot cake
+german rampion|1
+(noun)|common evening primrose|German rampion|Oenothera biennis|evening primrose
+gerontological|1
+(adj)|geriatric|medicine|medical specialty
+gertrude stein|1
+(noun)|Stein|Gertrude Stein|writer|author
+get along with|1
+(verb)|get on with|get on|get along|relate
+geum canadense|1
+(noun)|bennet|white avens|Geum canadense|avens
+geum triflorum|1
+(noun)|prairie smoke|purple avens|Geum triflorum|avens
+ghetto blaster|1
+(noun)|boom box|stereo|stereo system|stereophonic system
+gianni versace|1
+(noun)|Versace|Gianni Versace|couturier|fashion designer|clothes designer|designer
+giant anteater|1
+(noun)|ant bear|great anteater|tamanoir|Myrmecophaga jubata|anteater|New World anteater
+giant kangaroo|1
+(noun)|great gray kangaroo|Macropus giganteus|kangaroo
+giant puffball|1
+(noun)|Calvatia gigantea|puffball|true puffball
+giant ryegrass|1
+(noun)|Elymus condensatus|Leymus condensatus|lyme grass
+giant silkworm|1
+(noun)|silkworm|wild wilkworm|caterpillar
+giant tortoise|1
+(noun)|tortoise
+gilbert murray|1
+(noun)|Murray|Gilbert Murray|George Gilbert Aime Murphy|classicist|classical scholar
+gilbert stuart|1
+(noun)|Stuart|Gilbert Stuart|Gilbert Charles Stuart|painter
+gilded flicker|1
+(noun)|Colaptes chrysoides|flicker
+giordano bruno|1
+(noun)|Bruno|Giordano Bruno|philosopher
+giorgio vasari|1
+(noun)|Vasari|Giorgio Vasari|painter|art historian
+giuseppe verdi|1
+(noun)|Verdi|Giuseppe Verdi|Guiseppe Fortunino Francesco Verdi|composer
+give tongue to|1
+(verb)|express|verbalize|verbalise|utter
+glacial period|1
+(noun)|ice age|glacial epoch|period|geological period
+glamourisation|1
+(noun)|glamorization|glamorisation|glamourization|beautification
+glamourization|1
+(noun)|glamorization|glamorisation|glamourisation|beautification
+glauber's salt|1
+(noun)|Glauber's salt|Glauber's salts|salt
+glaux maritima|1
+(noun)|sea milkwort|sea trifoly|black saltwort|Glaux maritima|herb|herbaceous plant
+gleicheniaceae|1
+(noun)|Gleicheniaceae|family Gleicheniaceae|fern family
+glenda jackson|1
+(noun)|Jackson|Glenda Jackson|actress|politician|politico|pol|political leader
+glenoid cavity|1
+(noun)|glenoid fossa|pit|fossa
+global aphasia|1
+(noun)|total aphasia|aphasia
+global warming|1
+(noun)|heating|warming
+globe amaranth|1
+(noun)|bachelor's button|Gomphrena globosa|flower
+globigerinidae|1
+(noun)|Globigerinidae|family Globigerinidae|protoctist family
+gloria steinem|1
+(noun)|Steinem|Gloria Steinem|feminist|women's rightist|women's liberationist|libber
+gloria swanson|1
+(noun)|Swanson|Gloria Swanson|Gloria May Josephine Svensson|actress
+glottis spuria|1
+(noun)|rima vestibuli|rima respiratoria|false glottis|rima
+glucocorticoid|1
+(noun)|hormone|endocrine|internal secretion|corticosteroid|corticoid|adrenal cortical steroid
+gluteal artery|1
+(noun)|arteria glutes|artery|arteria|arterial blood vessel
+gluteal muscle|1
+(noun)|gluteus|gluteus muscle|glute|skeletal muscle|striated muscle
+gluteus medius|1
+(noun)|gluteus|gluteus muscle|gluteal muscle|glute
+gluteus muscle|1
+(noun)|gluteus|gluteal muscle|glute|skeletal muscle|striated muscle
+glyceraldehyde|1
+(noun)|glyceric aldehyde|aldehyde
+glycerin jelly|1
+(noun)|glyceryl ester
+glycerogelatin|1
+(noun)|glycerogel|glyceryl ester
+glyceryl ester|1
+(noun)|ester
+glycollic acid|1
+(noun)|glycolic acid|hydroxyacetic acid|acid
+gnawing animal|1
+(noun)|rodent|gnawer|placental|placental mammal|eutherian|eutherian mammal
+gnawing mammal|1
+(noun)|lagomorph|placental|placental mammal|eutherian|eutherian mammal
+go to the dogs|1
+(verb)|go to pot|deteriorate
+gold-tail moth|1
+(noun)|Euproctis chrysorrhoea|lymantriid|tussock moth
+golden buttons|1
+(noun)|tansy|scented fern|Tanacetum vulgare|composite|composite plant
+golden hamster|1
+(noun)|Syrian hamster|Mesocricetus auratus|hamster
+golden heather|1
+(noun)|false heather|Hudsonia ericoides|subshrub|suffrutex
+golden ragwort|1
+(noun)|golden groundsel|Packera aurea|Senecio aureus|herb|herbaceous plant
+golden section|1
+(noun)|golden mean|proportion|proportionality
+golden thistle|1
+(noun)|thistle
+golden trumpet|1
+(noun)|common allamanda|Allamanda cathartica|allamanda
+golden warbler|1
+(noun)|yellow warbler|yellowbird|Dendroica petechia|New World warbler|wood warbler
+golf-club head|1
+(noun)|club head|club-head|clubhead|head
+golf equipment|1
+(noun)|sports equipment|sporting goods
+gonorhynchidae|1
+(noun)|Gonorhynchidae|family Gonorhynchidae|fish family
+good afternoon|1
+(noun)|afternoon|greeting|salutation|farewell|word of farewell
+good authority|1
+(noun)|testimony|testimonial
+good condition|1
+(noun)|fitness|physical fitness|good shape|condition|shape
+good samaritan|1
+(noun)|good Samaritan|Samaritan|benefactor|helper
+goose barnacle|1
+(noun)|gooseneck barnacle|Lepas fascicularis|barnacle|cerriped|cerripede
+gospel of luke|1
+(noun)|Luke|Gospel of Luke|Gospel According to Luke|Gospel|Gospels|evangel|book
+gospel singing|1
+(noun)|gospel|folk music|ethnic music|folk|a cappella singing|a capella singing
+gothic romance|1
+(noun)|Gothic romance|romance
+governing body|1
+(noun)|administration|governance|establishment|brass|organization|organisation|body
+government man|1
+(noun)|G-man|FBI agent|government agent
+gracillariidae|1
+(noun)|Gracilariidae|Gracillariidae|family Gracilariidae|arthropod family
+grade crossing|1
+(noun)|level crossing|intersection|crossroad|crossway|crossing|carrefour
+grade insignia|1
+(noun)|chevron|stripe|stripes|badge
+graduate nurse|1
+(noun)|trained nurse|nurse
+graham cracker|1
+(noun)|cracker
+grain merchant|1
+(noun)|merchant|merchandiser
+grammar school|2
+(noun)|secondary school|lyceum|lycee|Gymnasium|middle school
+(noun)|grade school|elementary school|primary school|school
+grand national|1
+(noun)|Grand National|steeplechase
+grandiloquence|1
+(noun)|grandiosity|magniloquence|rhetoric|expressive style|style
+granville wilt|1
+(noun)|wilt|wilt disease
+grape hyacinth|1
+(noun)|liliaceous plant
+graphic artist|1
+(noun)|printmaker|artist|creative person
+graphic symbol|1
+(noun)|character|grapheme|written symbol|printed symbol
+grapnel anchor|1
+(noun)|grapnel|anchor|ground tackle
+grappling hook|1
+(noun)|grapnel|grapple|grappler|grappling iron|tool
+grappling iron|1
+(noun)|grapnel|grapple|grappler|grappling hook|tool
+grass bacillus|1
+(noun)|Bacillus subtilis|Bacillus globigii|hay bacillus|Bacillus|Bacilli|B
+grass parakeet|1
+(noun)|budgerigar|budgereegah|budgerygah|budgie|lovebird|shell parakeet|Melopsittacus undulatus|parakeet|parrakeet|parroket|paraquet|paroquet|parroquet
+gravity-assist|1
+(noun)|trajectory|flight
+gray-leaf pine|1
+(noun)|Torrey pine|Torrey's pine|soledad pine|sabine pine|Pinus torreyana|pine|pine tree|true pine
+gray goldenrod|1
+(noun)|Solidago nemoralis|goldenrod
+gray partridge|1
+(noun)|Hungarian partridge|Perdix perdix|partridge
+gray sea eagle|1
+(noun)|ern|erne|European sea eagle|white-tailed sea eagle|Haliatus albicilla|sea eagle
+gray substance|1
+(noun)|grey matter|gray matter|grey substance|substantia grisea|nervous tissue|nerve tissue
+great anteater|1
+(noun)|ant bear|giant anteater|tamanoir|Myrmecophaga jubata|anteater|New World anteater
+great duckweed|1
+(noun)|water flaxseed|Spirodela polyrrhiza|duckweed
+great gray owl|1
+(noun)|Strix nebulosa|owl|bird of Minerva|bird of night|hooter
+great knapweed|1
+(noun)|greater knapweed|Centaurea scabiosa|knapweed
+great pyrenees|1
+(noun)|Great Pyrenees|dog|domestic dog|Canis familiaris
+greater london|1
+(noun)|London|Greater London|British capital|capital of the United Kingdom|national capital
+greek alphabet|1
+(noun)|Greek alphabet|alphabet
+greek catholic|1
+(noun)|Greek Catholic|Catholic
+greek orthodox|1
+(adj)|Orthodox|Eastern Orthodox|Russian Orthodox|Greek Orthodox|Catholic Church
+greek valerian|2
+(noun)|Greek valerian|Polemonium reptans|polemonium
+(noun)|Jacob's ladder|Greek valerian|charity|Polemonium caeruleum|Polemonium van-bruntiae|Polymonium caeruleum van-bruntiae|polemonium
+green dinosaur|1
+(noun)|Bartle Frere|genus Bartle-Frere|dicot genus|magnoliopsid genus
+green lacewing|1
+(noun)|chrysopid|stink fly|lacewing|lacewing fly
+green lead ore|1
+(noun)|pyromorphite|mineral
+green pea soup|1
+(noun)|potage St. Germain|soup
+greengage plum|1
+(noun)|greengage|plum
+greenhouse gas|1
+(noun)|greenhouse emission|gas
+greenland spar|1
+(noun)|cryolite|Greenland spar|mineral
+greenwich time|1
+(noun)|Greenwich Mean Time|Greenwich Time|GMT|universal time|UT|UT1|time
+gregariousness|1
+(noun)|sociability|sociableness
+gregorian mode|1
+(noun)|ecclesiastical mode|Gregorian mode|church mode|medieval mode|mode|musical mode
+gregory pincus|1
+(noun)|Pincus|Gregory Pincus|Gregory Goodwin Pincus|physiologist
+grenada dollar|1
+(noun)|Grenada dollar|dollar
+grey substance|1
+(noun)|grey matter|gray matter|gray substance|substantia grisea|nervous tissue|nerve tissue
+grief-stricken|1
+(adj)|bereaved|bereft|grieving|mourning|sorrowing|sorrowful 
+grimes' golden|1
+(noun)|Grimes' golden|eating apple|dessert apple
+grinding wheel|1
+(noun)|emery wheel|wheel
+ground control|1
+(noun)|communication system
+ground rattler|1
+(noun)|massasauga|Sistrurus miliaris|rattlesnake|rattler
+groundbreaking|2
+(adj)|innovative|innovational|original 
+(noun)|groundbreaking ceremony|ceremony|beginning|start|commencement
+groundnut vine|1
+(noun)|groundnut|Indian potato|potato bean|wild bean|Apios americana|Apios tuberosa|vine
+groundsel bush|1
+(noun)|groundsel tree|consumption weed|cotton-seed tree|Baccharis halimifolia|shrub|bush
+groundsel tree|1
+(noun)|groundsel bush|consumption weed|cotton-seed tree|Baccharis halimifolia|shrub|bush
+group dynamics|1
+(noun)|social psychology
+group practice|1
+(noun)|medical practice
+growing season|1
+(noun)|season
+growth hormone|1
+(noun)|somatotropin|somatotrophin|somatotropic hormone|somatotrophic hormone|STH|human growth hormone|hormone|endocrine|internal secretion
+grus americana|1
+(noun)|whooping crane|whooper|Grus americana|crane
+guard of honor|1
+(noun)|honor guard|escort
+guardian angel|1
+(noun)|guardian spirit|angel
+guatemala city|1
+(noun)|Guatemala City|capital of Guatemala|national capital
+guerilla force|1
+(noun)|guerrilla force|force|personnel
+guest of honor|1
+(noun)|guest|invitee
+guided missile|1
+(noun)|missile
+guilt feelings|1
+(noun)|guilt|guilty conscience|guilt trip|compunction|remorse|self-reproach
+gulf of aegina|1
+(noun)|Saronic Gulf|Gulf of Aegina|inlet|recess
+gulf of alaska|1
+(noun)|Gulf of Alaska|gulf
+gulf of guinea|1
+(noun)|Gulf of Guinea|gulf
+gulf of mexico|1
+(noun)|Gulf of Mexico|Golfo de Mexico|gulf
+gulf of venice|1
+(noun)|Gulf of Venice|gulf
+gum sangapenum|1
+(noun)|sangapenum|gum
+gum terpentine|1
+(noun)|turpentine|oleoresin
+gunpowder plot|1
+(noun)|Gunpowder Plot|conspiracy|cabal
+gunter's chain|1
+(noun)|Gunter's chain|chain
+gustatory cell|1
+(noun)|taste cell|epithelial cell
+guy fawkes day|1
+(noun)|Guy Fawkes Day|November 5
+gymnadeniopsis|1
+(noun)|Gymnadeniopsis|genus Gymnadeniopsis|monocot genus|liliopsid genus
+gynaecological|1
+(adj)|gynecological|gynecologic|medicine|medical specialty
+gypsy rose lee|1
+(noun)|Lee|Gypsy Rose Lee|Rose Louise Hovick|stripper|striptease artist|striptease|stripteaser|exotic dancer|ecdysiast|peeler
+gyrostabiliser|1
+(noun)|gyrostabilizer|stabilizer|stabiliser
+gyrostabilizer|1
+(noun)|gyrostabiliser|stabilizer|stabiliser

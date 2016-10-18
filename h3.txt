@@ -1,0 +1,152 @@
+h2o|1
+(noun)|water|H2O|binary compound|liquid
+hag|2
+(noun)|beldam|beldame|witch|crone|old woman
+(noun)|hagfish|slime eels|jawless vertebrate|jawless fish|agnathan
+haj|1
+(noun)|hajj|hadj|pillar of Islam|pilgrimage|pilgrim's journey
+ham|5
+(noun)|jambon|gammon|cut of pork
+(noun)|Ham|man|adult male
+(noun)|radio operator
+(noun)|ham actor|actor|histrion|player|thespian|role player
+(verb)|overact|ham it up|overplay|act|play|roleplay|playact
+han|1
+(noun)|Han|Han dynasty|dynasty
+hao|1
+(noun)|Vietnamese monetary unit
+hap|2
+(noun)|accident|fortuity|chance event
+(verb)|happen|go on|pass off|occur|pass|fall out|come about|take place
+hat|4
+(noun)|chapeau|lid|headdress|headgear
+(noun)|function|office|part|role
+(verb)|wear|put on|get into|don|assume
+(verb)|supply|provide|render|furnish
+haw|3
+(noun)|hawthorn|shrub|bush
+(noun)|nictitating membrane|third eyelid
+(verb)|utter|emit|let out|let loose
+hay|1
+(noun)|fodder
+hcg|1
+(noun)|human chorionic gonadotropin|human chorionic gonadotrophin|HCG|gonadotropin|gonadotrophin|gonadotropic hormone|gonadotrophic hormone
+hdl|1
+(noun)|high-density lipoprotein|HDL|alpha-lipoprotein|lipoprotein
+hel|2
+(noun)|Hel|Hela|Norse deity
+(noun)|Hel|Hell|Hades|infernal region|netherworld|Scheol|underworld|imaginary place|mythical place
+hem|3
+(noun)|lap|overlap
+(verb)|sew|run up|sew together|stitch
+(verb)|utter|emit|let out|let loose
+hen|4
+(noun)|biddy|chicken|Gallus gallus
+(noun)|bird
+(noun)|chicken|poulet|volaille
+(noun)|female
+hep|1
+(adj)|hip|hip to|informed 
+het|1
+(adj)|heated|heated up|het up|hot 
+hew|2
+(verb)|hew out|carve
+(verb)|strike|hew out
+hex|3
+(adj)|hexadecimal|positional notation|positional representation system
+(noun)|jinx|curse|whammy|spell|magic spell|charm
+(verb)|bewitch|glamour|witch|enchant|jinx|charm|becharm
+hfc|1
+(noun)|hydrofluorocarbon|HFC|fluorocarbon|greenhouse gas|greenhouse emission
+hhs|1
+(noun)|Department of Health and Human Services|Health and Human Services|HHS|executive department
+hie|1
+(verb)|rush|hotfoot|hasten|speed|race|pelt along|rush along|cannonball along|bucket along|belt along|travel|go|move|locomote
+hin|1
+(noun)|volume unit|capacity unit|capacity measure|cubage unit|cubic measure|cubic content unit|displacement unit|cubature unit
+hip|5
+(adj)|hep|hip to|informed 
+(noun)|body part
+(noun)|pelvis|pelvic girdle|pelvic arch|girdle
+(noun)|hip joint|coxa|articulatio coxae|ball-and-socket joint|spheroid joint|cotyloid joint|enarthrodial joint|enarthrosis|articulatio spheroidea
+(noun)|rose hip|rosehip|fruit
+hit|24
+(noun)|deed|feat|effort|exploit
+(noun)|hitting|striking|touch|touching
+hiv|2
+(noun)|HIV|viral infection|virus infection
+(noun)|human immunodeficiency virus|HIV|retrovirus
+hmo|1
+(noun)|health maintenance organization|HMO|health insurance
+hnd|1
+(noun)|Higher National Diploma|HND|diploma|sheepskin
+hob|5
+(noun)|goblin|hobgoblin|evil spirit
+(noun)|elf|gremlin|pixie|pixy|brownie|imp|fairy|faery|faerie|sprite
+(noun)|edge tool
+(noun)|shelf
+(verb)|cut
+hod|1
+(noun)|box
+hoe|2
+(noun)|tool
+(verb)|till
+hog|4
+(noun)|pig|selfish person
+(noun)|hogget|hogg|lamb
+(noun)|pig|grunter|squealer|Sus scrofa|swine
+(verb)|snap up|snaffle|grab
+hop|9
+(noun)|jump|jumping
+(noun)|hops|vine
+(noun)|record hop|dance
+(verb)|skip|hop-skip|jump|leap|bound|spring|hop on
+(verb)|move
+(verb)|travel
+(verb)|traverse|track|cover|cross|pass over|get over|get across|cut through|cut across
+(verb)|clear|top
+(verb)|jump|leap|bound|spring
+hot|22
+(adj)|hot |baking|baking hot|blistering|blistery|burning|calefacient|warming|calefactory|calefactive|heating|calorifacient|calorific|heated|heated up|het|het up|hottish|red-hot|sizzling|sultry|stifling|sulfurous|sulphurous|sweltering|sweltry|thermal|torrid|sultry|tropical|tropic|white|white-hot|fervent|fervid|fiery|igneous|heatable|overheated|scorching|warm
+(adj)|raging|violent 
+how|1
+(adv)|however
+hoy|1
+(noun)|barge|flatboat|lighter|boat
+hrt|1
+(noun)|hormone replacement therapy|hormone-replacement therapy|HRT|therapy
+hs1|1
+(noun)|herpes simplex 1|HS1|HSv-1|herpes simplex|herpes simplex virus
+hs2|1
+(noun)|herpes simplex 2|HS2|HSV-2|herpes simplex|herpes simplex virus
+hua|1
+(noun)|Harkat-ul-Mujahidin|HUM|Harkat ul-Ansar|HUA|Harkat ul-Mujahedeen|Al Faran|Movement of Holy Warriors|terrorist organization|terrorist group|foreign terrorist organization|FTO
+hub|2
+(noun)|part|portion
+(noun)|center|centre|middle|heart|eye
+hud|1
+(noun)|Department of Housing and Urban Development|Housing and Urban Development|HUD|executive department
+hue|3
+(noun)|chromaticity|color property
+(verb)|change|alter|modify
+(verb)|imbue|tinge|dye
+hug|3
+(noun)|clinch|squeeze|embrace|embracing
+(verb)|embrace|bosom|squeeze|clasp
+(verb)|touch|adjoin|meet|contact
+hum|7
+(noun)|busyness|action|activity|activeness
+(noun)|Harkat-ul-Mujahidin|HUM|Harkat ul-Ansar|HUA|Harkat ul-Mujahedeen|Al Faran|Movement of Holy Warriors|terrorist organization|terrorist group|foreign terrorist organization|FTO
+(noun)|humming|noise
+(verb)|sing
+(verb)|buzz|seethe|be
+(verb)|thrum|sound|go
+(verb)|make noise|resound|noise
+hun|2
+(noun)|Hun|nomad
+(noun)|Kraut|Krauthead|Boche|Jerry|Hun|German
+hus|1
+(noun)|Huss|John Huss|Hus|Jan Hus|reformer|reformist|crusader|meliorist
+hut|2
+(noun)|army hut|field hut|shelter
+(noun)|hovel|hutch|shack|shanty|shelter

@@ -1,0 +1,1103 @@
+h-bomb|1
+(noun)|hydrogen bomb|H-bomb|fusion bomb|thermonuclear bomb|nuclear weapon|bomb
+hackee|1
+(noun)|eastern chipmunk|striped squirrel|ground squirrel|Tamias striatus|squirrel
+hacker|4
+(noun)|golfer|golf player|linksman
+(noun)|cyber-terrorist|cyberpunk|programmer|computer programmer|coder|software engineer|terrorist
+(noun)|programmer|computer programmer|coder|software engineer
+(noun)|hack|drudge|unskilled person
+hackle|2
+(noun)|feather|plume|plumage
+(verb)|heckle|hatchel|comb
+hadean|2
+(adj)|Hadean|Plutonian|Tartarean|infernal 
+(noun)|Hadean|Hadean time|Hadean eon|Hadean aeon|Priscoan|Priscoan eon|Priscoan aeon|eon|aeon
+hadith|2
+(noun)|Hadith|custom|tradition
+(noun)|Sunnah|Sunna|way|path|way of life
+hadron|1
+(noun)|elementary particle|fundamental particle|subatomic particle
+haemal|1
+(adj)|hemal|hematal|haematal|vessel|vas
+haemic|1
+(adj)|hemic|hematic|haematic|liquid body substance|bodily fluid|body fluid|humor|humour
+hagada|1
+(noun)|Haggadah|Haggada|Hagada|Talmudic literature
+hagbut|1
+(noun)|arquebus|harquebus|hackbut|muzzle loader
+haggai|2
+(noun)|Haggai|Aggeus|prophet
+(noun)|Haggai|Aggeus|Book of Haggai|book
+haggis|1
+(noun)|dish
+haggle|2
+(noun)|haggling|wrangle|wrangling|bargaining
+(verb)|higgle|chaffer|huckster|dicker|bargain
+hairdo|1
+(noun)|hair style|coiffure|hair
+hakeem|1
+(noun)|hakim|Muslim|Moslem|Mohammedan|Muhammedan|Muhammadan|Islamist|doctor|doc|physician|MD|Dr.|medico
+hakham|1
+(noun)|Hakham|title|title of respect|sage
+halaka|1
+(noun)|Halakah|Halaka|Halacha|Talmudic literature
+haldea|1
+(noun)|Haldea|genus Haldea|reptile genus
+haldol|1
+(noun)|haloperidol|Haldol|major tranquilizer|major tranquillizer|major tranquilliser|antipsychotic drug|antipsychotic agent|antipsychotic|neuroleptic drug|neuroleptic agent|neuroleptic
+halevy|1
+(noun)|Halevy|Fromental Halevy|Jacques Francois Fromental Elie Halevy|composer
+halide|1
+(noun)|salt
+halite|1
+(noun)|rock salt|sodium chloride|common salt|mineral
+hallah|1
+(noun)|challah|bread|breadstuff|staff of life
+hallel|1
+(noun)|Hallel|chant
+halley|1
+(noun)|Halley|Edmond Halley|Edmund Halley|astronomer|uranologist|stargazer
+halloo|3
+(noun)|cry|outcry|call|yell|shout|vociferation
+(verb)|prod|incite|egg on
+(verb)|shout|shout out|cry|call|yell|scream|holler|hollo|squall
+hallow|1
+(verb)|consecrate|bless|sanctify|declare
+hallux|1
+(noun)|big toe|great toe|toe
+halter|6
+(noun)|hackamore|headgear
+(noun)|hangman's rope|hangman's halter|hemp|hempen necktie|rope
+(noun)|top
+(noun)|haltere|balancer|wing
+(verb)|hang|string up
+(verb)|hamper|cramp|strangle|restrict|restrain|trammel|limit|bound|confine|throttle
+hamate|1
+(noun)|hamate bone|unciform bone|os hamatum|carpal bone|carpal|wrist bone
+hamlet|3
+(noun)|crossroads|community
+(noun)|Hamlet|fictional character|fictitious character|character
+(noun)|village|settlement
+hammer|10
+(noun)|cock|striker
+hamper|4
+(noun)|shackle|bond|trammel|trammels|restraint|constraint
+(noun)|basket|handbasket
+(verb)|halter|cramp|strangle|restrict|restrain|trammel|limit|bound|confine|throttle
+(verb)|handicap|hinder|disadvantage|disfavor|disfavour
+hamsun|1
+(noun)|Hamsun|Knut Hamsun|Knut Pedersen|writer|author
+handed|1
+(adj)|handed |two-handed|bimanual
+handel|2
+(noun)|Handel|George Frederic Handel|Georg Friedrich Handel|composer
+(noun)|Handel|music
+handle|7
+(noun)|grip|handgrip|hold|appendage
+(verb)|manage|deal|care|control|command
+(verb)|treat|do by|interact
+(verb)|cover|treat|plow|deal|address|broach|initiate
+(verb)|palm|touch
+(verb)|wield|manipulate
+(verb)|manipulate|keep in line|control
+hangar|1
+(noun)|airdock|repair shed|structure|construction
+hanger|2
+(noun)|worker
+(noun)|support
+hanker|1
+(verb)|long|yearn|desire|want
+hankey|1
+(noun)|handkerchief|hankie|hanky|piece of cloth|piece of material
+hankie|1
+(noun)|handkerchief|hanky|hankey|piece of cloth|piece of material
+hansom|1
+(noun)|hansom cab|carriage|equipage|rig
+happen|5
+(verb)|hap|go on|pass off|occur|pass|fall out|come about|take place
+(verb)|befall|bechance|hap|go on|pass off|occur|pass|fall out|come about|take place
+(verb)|chance
+(verb)|materialize|materialise|hap|go on|pass off|occur|pass|fall out|come about|take place
+(verb)|find|chance|bump|encounter
+haptic|1
+(adj)|tactile|tactual|somatosense|exteroception|perception
+harare|1
+(noun)|Harare|Salisbury|capital of Zimbabwe|national capital
+harass|2
+(verb)|hassle|harry|chivy|chivvy|chevy|chevvy|beset|plague|molest|provoke|annoy|rag|get to|bother|get at|irritate|rile|nark|nettle|gravel|vex|chafe|devil
+(verb)|attack|aggress
+harbor|6
+(noun)|seaport|haven|harbour|port
+(noun)|harbour|refuge|sanctuary|asylum
+(verb)|harbour|hold|entertain|nurse|feel|experience
+(verb)|harbour|shelter
+(verb)|harbour|keep|hold on
+(verb)|harbour|shield|hide|conceal
+harden|5
+(verb)|indurate|change
+(verb)|indurate|change
+(verb)|temper|modify
+(verb)|season|toughen
+(verb)|inure|indurate|habituate|accustom
+hardly|2
+(adv)|barely|just|scarcely|scarce
+(adv)|scarcely
+haredi|1
+(noun)|Haredi|sect|religious sect|religious order
+hareem|1
+(noun)|harem|seraglio|serail|living quarters|quarters
+harken|1
+(verb)|hark|hearken|listen
+harlem|1
+(noun)|Harlem|city district
+harlot|1
+(noun)|prostitute|cocotte|whore|bawd|tart|cyprian|fancy woman|working girl|sporting lady|lady of pleasure|woman of the street|woman|adult female
+harlow|1
+(noun)|Harlow|Jean Harlow|Harlean Carpenter|actress
+harmed|1
+(adj)|injured 
+harper|1
+(noun)|harpist|musician|instrumentalist|player
+harpia|1
+(noun)|Harpia|genus Harpia|bird genus
+harris|4
+(noun)|Harris|Townsend Harris|diplomat|diplomatist
+(noun)|Harris|Frank Harris|James Thomas Harris|writer|author
+(noun)|Harris|Bomber Harris|Sir Arthur Travers Harris|general|full general|marshal|marshall
+(noun)|Harris|Benjamin Harris|publisher|newspaper publisher
+harrod|2
+(noun)|Harrod|Charles Digby Harrod|merchant|merchandiser
+(noun)|Harrod|Charles Henry Harrod|merchant|merchandiser
+harrow|2
+(noun)|cultivator|tiller
+(verb)|disk|plow|plough|turn
+harvey|1
+(noun)|Harvey|William Harvey|doctor|doc|physician|MD|Dr.|medico|scientist|man of science
+haslet|1
+(noun)|variety meat|organs
+hassam|1
+(noun)|Hassam|Childe Hassam|Frederick Childe Hassam|painter
+hassel|1
+(noun)|Hassel|Odd Hassel|chemist
+hassid|1
+(noun)|Hasid|Hassid|Chasid|Chassid|Orthodox Jew
+hassle|3
+(noun)|fuss|trouble|bother|perturbation|disturbance
+(noun)|scuffle|tussle|dogfingt|rough-and-tumble|fight|fighting|combat|scrap
+(verb)|harass|harry|chivy|chivvy|chevy|chevvy|beset|plague|molest|provoke|annoy|rag|get to|bother|get at|irritate|rile|nark|nettle|gravel|vex|chafe|devil
+hasten|4
+(verb)|rush|hurry|look sharp|festinate|act|move
+(verb)|rush|hotfoot|hie|speed|race|pelt along|rush along|cannonball along|bucket along|belt along|travel|go|move|locomote
+(verb)|expedite|help|assist|aid
+(verb)|induce|stimulate|rush|effect|effectuate|bring about|set up
+hatbox|1
+(noun)|baggage|luggage
+hatful|2
+(noun)|batch|deal|flock|good deal|great deal|heap|lot|mass|mess|mickle|mint|muckle|peck|pile|plenty|pot|quite a little|raft|sight|slew|spate|stack|tidy sum|wad|whole lot|whole slew|large indefinite quantity|large indefinite amount
+(noun)|containerful
+hatpin|1
+(noun)|pin
+hatred|1
+(noun)|hate|emotion
+hatted|1
+(adj)|hatted |turbaned
+hatter|1
+(noun)|hatmaker|milliner|modiste|maker|shaper
+hauler|1
+(noun)|haulier|contractor
+haunch|2
+(noun)|body part
+(noun)|hindquarters|croup|croupe|rump
+hausen|1
+(noun)|beluga|white sturgeon|Acipenser huso|sturgeon
+haussa|2
+(noun)|Hausa|Haussa|Nigerian
+(noun)|Hausa|Haussa|West Chadic
+havana|1
+(noun)|Havana|capital of Cuba|Cuban capital|national capital
+hawaii|2
+(noun)|Hawaii|Aloha State|HI|American state
+(noun)|Hawaii|Hawaii Island|island
+hawala|1
+(noun)|banking industry|banking system
+hawker|2
+(noun)|peddler|pedlar|packman|pitchman|seller|marketer|vender|vendor|trafficker
+(noun)|falconer|hunter|huntsman
+hawser|1
+(noun)|rope
+haying|2
+(noun)|harvest|harvesting|harvest home
+(noun)|haying time|season|time of year
+hayrig|1
+(noun)|hayrack|framework|frame|framing
+hazard|6
+(noun)|jeopardy|peril|risk|danger
+(noun)|luck|fortune|chance|phenomenon
+(noun)|obstacle
+(verb)|guess|venture|pretend|speculate
+(verb)|venture|adventure|stake|jeopardize|risk|put on the line|lay on the line
+(verb)|gamble|chance|risk|take chances|adventure|run a risk|take a chance|try|seek|attempt|essay|assay
+hazmat|1
+(noun)|HAZMAT|material|stuff
+he-man|1
+(noun)|stud|macho-man|man|adult male
+headed|4
+(adj)|oriented |orientated
+(adj)|headed 
+(adj)|headed |bicephalous|burr-headed|headlike
+(adj)|mature 
+header|7
+(noun)|heading|head|line
+(noun)|lintel|beam
+(noun)|coping|cope|brick
+(noun)|beam
+(noun)|harvester|reaper
+(noun)|hit|hitting|striking
+(noun)|jump|jumping
+healed|1
+(adj)|cured|recovered|well 
+healer|1
+(noun)|therapist|expert
+health|2
+(noun)|wellness|wellbeing|well-being|welfare|upbeat|eudaemonia|eudaimonia
+(noun)|condition|status
+heaped|1
+(adj)|heaped-up|piled|cumulous|concentrated 
+hearer|1
+(noun)|listener|auditor|attender|perceiver|observer|beholder
+hearse|1
+(noun)|motor vehicle|automotive vehicle
+hearst|1
+(noun)|Hearst|William Randolph Hearst|publisher|newspaper publisher
+hearth|3
+(noun)|fireplace|open fireplace|recess|niche
+(noun)|fireside|dwelling|home|domicile|abode|habitation|dwelling house
+(noun)|fireside|area|country
+hearts|11
+(noun)|Black Maria|whist|long whist|short whist
+hearty|5
+(adj)|cordial|warm 
+(adj)|satisfying|solid|substantial|wholesome 
+(adj)|full-blooded|lusty|red-blooded|healthy 
+(adj)|healthy 
+(adj)|complete 
+heated|2
+(adj)|heated up|het|het up|hot 
+(adj)|hot 
+heater|2
+(noun)|warmer|device
+(noun)|fastball|smoke|hummer|bullet|pitch|delivery
+heaume|1
+(noun)|helmet
+heaven|2
+(noun)|eden|paradise|nirvana|promised land|Shangri-la|region|part
+(noun)|Heaven|imaginary place|mythical place
+heaver|2
+(noun)|bar
+(noun)|workman|working man|working person
+heaves|7
+(noun)|broken wind|animal disease
+(noun)|heave|heaving|rise|rising|ascent|ascension
+(noun)|heave|movement|motion
+(noun)|heave|heaving|rise|ascent|ascension|ascending
+(noun)|heave|retch|spasm
+(noun)|lift|raise|heave|propulsion|actuation
+(noun)|heave|heaving|throw
+hebbel|1
+(noun)|Hebbel|Friedrich Hebbel|Christian Friedrich Hebbel|dramatist|playwright
+hebrew|4
+(adj)|Hebraic|Hebraical|Hebrew|person|individual|someone|somebody|mortal|human|soul
+(adj)|Hebraic|Hebraical|Hebrew|Canaanitic|Canaanitic language
+(noun)|Hebrew|Canaanitic|Canaanitic language
+(noun)|Jew|Hebrew|Israelite|person|individual|someone|somebody|mortal|human|soul
+hecate|1
+(noun)|Hecate|Greek deity
+heckle|3
+(noun)|hatchel|comb
+(verb)|hackle|hatchel|comb
+(verb)|interrupt|disrupt|break up|cut off
+hectic|1
+(adj)|feverish|agitated 
+hector|2
+(noun)|Hector|mythical being
+(verb)|strong-arm|bully|browbeat|bullyrag|ballyrag|boss around|push around|intimidate
+hedera|1
+(noun)|Hedera|genus Hedera|rosid dicot genus
+hedged|1
+(adj)|weasel-worded|qualified 
+hedger|3
+(noun)|equivocator|respondent|responder|answerer
+(noun)|speculator|plunger
+(noun)|gardener
+hedjaz|1
+(noun)|Hejaz|Hedjaz|Hijaz|geographical area|geographic area|geographical region|geographic region
+hegari|1
+(noun)|grain sorghum
+hegira|2
+(noun)|Hegira|Hejira|escape|flight
+(noun)|exodus|hejira|escape|flight
+heifer|1
+(noun)|cow|moo-cow
+height|4
+(noun)|tallness|dimension
+(noun)|acme|elevation|peak|pinnacle|summit|superlative|top|degree|level|stage|point
+(noun)|stature|bodily property
+(noun)|altitude|elevation
+hejira|2
+(noun)|Hegira|Hejira|escape|flight
+(noun)|exodus|hegira|escape|flight
+helena|1
+(noun)|Helena|capital of Montana|state capital
+heliac|1
+(adj)|heliacal|star
+helios|1
+(noun)|Helios|Greek deity
+helium|1
+(noun)|He|atomic number 2|chemical element|element|noble gas|inert gas|argonon
+heller|4
+(noun)|haler|Slovakian monetary unit
+(noun)|haler|Czech monetary unit
+(noun)|Heller|Joseph Heller|writer|author
+(noun)|hellion|devil|troublemaker|trouble maker|troubler|mischief-maker|bad hat
+helmet|2
+(noun)|armor plate|armour plate|armor plating|plate armor|plate armour
+(noun)|headdress|headgear
+helper|2
+(noun)|assistant|help|supporter|worker
+(noun)|benefactor|good person
+hem in|2
+(verb)|surround|skirt|border
+(verb)|besiege|beleaguer|surround|circumvent|attack|assail
+heming|1
+(noun)|Heming|Hemminge|John Heming|John Hemminge|actor|histrion|player|thespian|role player
+hempen|1
+(adj)|fibrous|tough 
+henbit|1
+(noun)|Lamium amplexicaule|dead nettle
+henson|1
+(noun)|Henson|Jim Henson|puppeteer
+heptad|1
+(noun)|seven|7|VII|sevener|septet|digit|figure
+herald|5
+(noun)|trumpeter|messenger|courier
+(noun)|harbinger|forerunner|precursor|indication|indicant
+(verb)|announce|annunciate|harbinger|foretell|tell
+(verb)|acclaim|hail|applaud
+(verb)|hail|greet|recognize|recognise
+herbal|1
+(adj)|flavorer|flavourer|flavoring|flavouring|seasoner|seasoning
+herder|2
+(noun)|Herder|Johann Gottfried von Herder|philosopher
+(noun)|herdsman|drover|hired hand|hand|hired man
+hereby|1
+(adv)|herewith
+heresy|2
+(noun)|unorthodoxy|heterodoxy|orientation
+(noun)|unorthodoxy|unbelief|disbelief
+herman|1
+(noun)|Herman|Woody Herman|Woodrow Charles Herman|jazz musician|jazzman|bandleader
+hermes|1
+(noun)|Hermes|Greek deity
+hermit|2
+(noun)|anchorite|eremite
+(noun)|recluse|solitary|solitudinarian|troglodyte|loner|lone wolf|lone hand
+hernia|1
+(noun)|herniation|rupture
+heroic|6
+(adj)|epic|larger-than-life|large 
+(adj)|mythical being
+(adj)|heroical|bold 
+(adj)|grand|impressive 
+(adj)|desperate|brave |courageous|fearless
+(noun)|heroic verse|heroic meter|epic poem|heroic poem|epic|epos
+heroin|1
+(noun)|diacetylmorphine|opiate|hard drug
+herpes|2
+(noun)|infectious disease
+(noun)|herpes virus|animal virus
+hertha|1
+(noun)|Nerthus|Hertha|Teutonic deity
+hesiod|1
+(noun)|Hesiod|poet
+hestia|1
+(noun)|Hestia|Greek deity
+het up|2
+(adj)|heated|heated up|het|hot 
+(adj)|emotional 
+hevesy|1
+(noun)|Hevesy|George Charles Hevesy de Hevesy|chemist
+hexane|1
+(noun)|methane series|alkane series|alkane|paraffin|solvent|dissolvent|dissolver|dissolving agent|resolvent
+hexose|1
+(noun)|monosaccharide|monosaccharose|simple sugar
+heyday|1
+(noun)|flower|prime|peak|bloom|blossom|efflorescence|flush|time period|period of time|period
+hiatus|3
+(noun)|suspension|respite|reprieve|abatement|interruption|break
+(noun)|piece
+(noun)|foramen|opening|gap
+hiccup|2
+(noun)|hiccough|singultus|symptom|reflex|instinctive reflex|innate reflex|inborn reflex|unconditioned reflex|physiological reaction
+(verb)|hiccough|breathe|take a breath|respire|suspire
+hickey|3
+(noun)|pimple|symptom
+(noun)|love bite|erythema
+(noun)|dohickey|dojigger|doodad|doohickey|gimmick|gizmo|gismo|gubbins|thingamabob|thingumabob|thingmabob|thingamajig|thingumajig|thingmajig|thingummy|whatchamacallit|stuff|whatsis|sundry|sundries
+hidden|4
+(adj)|concealed|out of sight|invisible |unseeable
+(adj)|buried|concealed 
+(adj)|secret|concealed 
+(adj)|obscure|concealed 
+hiding|1
+(noun)|concealment|concealing|activity
+hiemal|1
+(adj)|brumal|hibernal|wintry |wintery
+higgle|1
+(verb)|haggle|chaffer|huckster|dicker|bargain
+higher|9
+(adj)|high 
+(adj)|high 
+(adj)|high |advanced|broad|full|exalted|flooding|in flood|overflowing|swollen|graduate|postgraduate|great|last|utmost|soaring|superior
+(adj)|high |altitudinous|commanding|dominating|overlooking|eminent|lofty|soaring|towering|high-level|high-stepped|high-stepping|high-top|high-topped|steep|upper|tall|top|up
+(adj)|eminent|high|superior 
+(adj)|high |high-pitched|adenoidal|pinched|nasal|altissimo|alto|countertenor|alto|falsetto|peaky|spiky|piping|piercing|shrill|sharp|screaky|screechy|squeaking|squeaky|squealing|soprano|treble|sopranino|tenor|tenor|shrilling
+(adj)|high|in high spirits|elated 
+(adj)|gamey|gamy|high|malodorous |malodourous
+(adj)|high|mellow|intoxicated |drunk|inebriated
+highly|1
+(adv)|extremely
+hijack|2
+(noun)|highjack|crime|law-breaking
+(verb)|commandeer|highjack|pirate|seize
+hinder|5
+(adj)|back|hind|posterior 
+(adj)|back|hind|posterior 
+(verb)|impede|prevent|keep
+(verb)|obstruct|blockade|block|stymie|stymy|embarrass|prevent|forestall|foreclose|preclude|forbid
+(verb)|handicap|hamper|disadvantage|disfavor|disfavour
+hindoo|3
+(adj)|Hindu|Hindi|Hindoo|religion|faith|religious belief
+(noun)|Hindu|Hindoo|Hindustani|Asian|Asiatic
+(noun)|Hindu|Hindoo|religionist|religious person
+hip to|1
+(adj)|hep|hip|informed 
+hipped|2
+(adj)|hipped 
+(adj)|hipped |mansard
+hippie|1
+(noun)|hippy|hipster|flower child|reformer|reformist|crusader|meliorist
+hirudo|1
+(noun)|Hirudo|genus Hirudo|worm genus
+hispid|1
+(adj)|hairy |hirsute
+hisser|1
+(noun)|communicator
+hither|1
+(adv)|here
+hitler|1
+(noun)|Hitler|Adolf Hitler|Der Fuhrer|dictator|potentate|Nazi|German Nazi
+hitman|1
+(noun)|gunman|gunslinger|hired gun|gun|gun for hire|triggerman|hit man|torpedo|shooter|murderer|liquidator|manslayer
+hitter|2
+(noun)|batter|slugger|batsman|ballplayer|baseball player
+(noun)|striker|mover
+ho-hum|1
+(adj)|boring|deadening|dull|irksome|slow|tedious|tiresome|wearisome|uninteresting 
+hoagie|1
+(noun)|bomber|grinder|hero|hero sandwich|hoagy|Cuban sandwich|Italian sandwich|poor boy|sub|submarine|submarine sandwich|torpedo|wedge|zep|sandwich
+hoarse|1
+(adj)|gruff|husky|cacophonous |cacophonic
+hoaxer|1
+(noun)|prankster|cut-up|trickster|tricker|practical joker|troublemaker|trouble maker|troubler|mischief-maker|bad hat
+hobart|1
+(noun)|Hobart|state capital|port
+hobbes|1
+(noun)|Hobbes|Thomas Hobbes|philosopher
+hobbit|1
+(noun)|imaginary being|imaginary creature
+hobble|5
+(noun)|fetter|shackle|bond|hamper|trammel|trammels
+(noun)|hitch|limp|gait
+(verb)|limp|hitch|walk
+(verb)|impede|hinder
+(verb)|hopple|strap
+hobnob|1
+(verb)|socialize|socialise
+hockey|2
+(noun)|field hockey|field game
+(noun)|ice hockey|hockey game|athletic game|contact sport
+hodman|1
+(noun)|hod carrier|laborer|manual laborer|labourer|jack
+hoenir|1
+(noun)|Hoenir|Norse deity
+hogged|1
+(adj)|broken-backed|convex |bulging
+hogget|1
+(noun)|hog|hogg|lamb
+hohhot|1
+(noun)|Hohhot|city|metropolis|urban center
+holcus|1
+(noun)|Holcus|genus Holcus|monocot genus|liliopsid genus
+holder|2
+(noun)|holding device
+(noun)|bearer|capitalist
+holdup|2
+(noun)|armed robbery|heist|stickup|robbery
+(noun)|delay|inactivity
+holism|1
+(noun)|holistic theory|theory
+holler|5
+(noun)|bellow|bellowing|holla|hollering|hollo|holloa|roar|roaring|yowl|cry|outcry|call|yell|shout|vociferation
+(noun)|hollow|valley|vale
+(verb)|holler out|shout
+(verb)|shout|shout out|cry|call|yell|scream|hollo|squall|utter|emit|let out|let loose
+(verb)|gripe|grouse|crab|beef|squawk|bellyache|complain|kick|plain|sound off|quetch|kvetch
+holloa|1
+(noun)|bellow|bellowing|holla|holler|hollering|hollo|roar|roaring|yowl|cry|outcry|call|yell|shout|vociferation
+hollow|9
+(adj)|hollow |cavernous|deep-set|sunken|recessed|empty|fistular|fistulate|fistulous|hollowed|tubular|cannular
+(adj)|false|insincere 
+(adj)|reverberant |ringing
+(adj)|empty|vacuous|meaningless |nonmeaningful
+(noun)|cavity|enclosed space
+(noun)|holler|valley|vale
+(noun)|hole|natural depression|depression
+(verb)|excavate|dig|remove|take|take away|withdraw
+(verb)|hollow out|core out|empty
+holmes|4
+(noun)|Sherlock Holmes|Holmes|fictional character|fictitious character|character
+(noun)|Holmes|Oliver Wendell Holmes Jr.|jurist|legal expert
+(noun)|Holmes|Oliver Wendell Holmes|writer|author
+(noun)|Holmes|Arthur Holmes|geologist
+homage|1
+(noun)|court|deference|respect
+hombre|1
+(noun)|guy|cat|bozo|man|adult male
+homely|4
+(adj)|plain|unattractive 
+(adj)|homelike|homey|homy|comfortable |comfy
+(adj)|plain 
+(adj)|inelegant 
+homily|1
+(noun)|preachment|sermon|discourse|preaching
+homing|1
+(adj)|orienting |orientating
+hominy|1
+(noun)|corn|edible corn
+hommos|1
+(noun)|hummus|humus|hoummos|humous|spread|paste
+homona|1
+(noun)|Homona|genus Homona|arthropod genus
+homyel|1
+(noun)|Homyel|Homel|Gomel|city|metropolis|urban center
+honcho|1
+(noun)|foreman|chief|gaffer|boss|supervisor
+honest|7
+(adj)|honest |honorable|downright|open|square|straight|direct|genuine|echt|honorable|honourable|sincere|straight|true|trustworthy|trusty
+(adj)|sincere 
+(adj)|dependable|reliable|true|trustworthy |trusty
+(adj)|guileless|artless 
+(adj)|unpretentious 
+(adj)|veracious|truthful |true
+(adj)|truthful |true
+honied|1
+(adj)|honeyed|syrupy|sugary 
+honker|3
+(noun)|driver
+(noun)|beak|hooter|nozzle|snoot|snout|schnozzle|schnoz|nose|olfactory organ
+(noun)|Canada goose|Canadian goose|Branta canadensis|goose
+honkey|1
+(noun)|whitey|honky|honkie|White|white person|Caucasian
+honkie|1
+(noun)|whitey|honky|honkey|White|white person|Caucasian
+honour|7
+(noun)|honor|laurels|standing
+(noun)|award|accolade|honor|laurels|symbol
+(noun)|honor|righteousness
+(noun)|honor|purity|virtue|chastity|sexual morality
+(verb)|honor|reward|recognize|recognise
+(verb)|respect|honor|abide by|observe|accept
+(verb)|honor|accept|take|have
+honshu|1
+(noun)|Honshu|Hondo|island
+hoo-ha|1
+(noun)|disturbance|disruption|commotion|stir|flutter|hurly burly|to-do|hoo-hah|kerfuffle|disorder
+hoodoo|5
+(noun)|column|tower|pillar
+(noun)|priest|non-Christian priest|voodoo|vodoun|voodooism|hoodooism
+(noun)|juju|voodoo|fetish|fetich|charm|good luck charm
+(noun)|object|physical object
+(verb)|be
+hoofed|1
+(adj)|ungulate |ungulated|hooved
+hoofer|1
+(noun)|stepper|dancer|professional dancer
+hookah|1
+(noun)|narghile|nargileh|sheesha|shisha|chicha|calean|kalian|water pipe|hubble-bubble|hubbly-bubbly|pipe|tobacco pipe
+hooked|2
+(adj)|aquiline|crooked 
+(adj)|dependent|dependant|drug-addicted|strung-out|addicted 
+hooker|5
+(noun)|Hooker|Joseph Hooker|Fighting Joe Hooker|general|full general
+(noun)|Hooker|Richard Hooker|theologian|theologist|theologizer|theologiser
+(noun)|streetwalker|street girl|hustler|floozy|floozie|slattern|prostitute|cocotte|whore|harlot|bawd|tart|cyprian|fancy woman|working girl|sporting lady|lady of pleasure|woman of the street
+(noun)|golfer|golf player|linksman
+(noun)|athlete|jock
+hookup|2
+(noun)|connection|connexion|connector|connecter|connective
+(noun)|assemblage|system
+hoopla|1
+(noun)|ballyhoo|hype|plug|promotion|publicity|promotional material|packaging
+hoopoe|1
+(noun)|hoopoo|coraciiform bird
+hoopoo|1
+(noun)|hoopoe|coraciiform bird
+hooray|1
+(noun)|hurrah|cheer
+hootch|1
+(noun)|hooch|alcohol|alcoholic beverage|intoxicant|inebriant
+hooter|3
+(noun)|beak|honker|nozzle|snoot|snout|schnozzle|schnoz|nose|olfactory organ
+(noun)|automobile horn|car horn|motor horn|horn|alarm|warning device|alarm system
+(noun)|owl|bird of Minerva|bird of night|bird of prey|raptor|raptorial bird
+hooved|1
+(adj)|ungulate |ungulated|hoofed
+hoover|5
+(noun)|Hoover|William Hoover|William Henry Hoover|industrialist
+(noun)|Hoover|J. Edgar Hoover|John Edgar Hoover|lawyer|attorney
+(noun)|Hoover|Herbert Hoover|Herbert Clark Hoover|President Hoover|President of the United States|United States President|President|Chief Executive
+(noun)|Hoover|vacuum|vacuum cleaner
+(verb)|vacuum|vacuum-clean|clean|make clean
+hop on|1
+(verb)|mount|mount up|get on|jump on|climb on|bestride|move
+hop up|1
+(verb)|soup up|hot up|modify
+hopper|5
+(noun)|receptacle
+(noun)|jumper
+(noun)|hop-picker|machine
+(noun)|grasshopper|orthopterous insect|orthopteron|orthopteran
+(noun)|grounder|ground ball|groundball|hit|hitting|striking
+hopple|1
+(verb)|hobble|strap
+horace|1
+(noun)|Horace|poet
+horary|1
+(adj)|time unit|unit of time
+horned|1
+(adj)|horned |antlered|bicorn|bicorned|bicornate|bicornuate|bicornuous|horny
+hornet|1
+(noun)|vespid|vespid wasp
+horrid|2
+(adj)|bad 
+(adj)|hideous|horrific|outrageous|offensive 
+horror|3
+(noun)|fear|fearfulness|fright
+(noun)|thing
+(noun)|repugnance|repulsion|revulsion|disgust
+hosier|1
+(noun)|shopkeeper|tradesman|storekeeper|market keeper
+hostel|2
+(noun)|hostelry|inn|lodge|hotel
+(noun)|youth hostel|student lodging|housing|lodging|living accommodations
+hot up|3
+(verb)|heat|heat up|change state|turn
+(verb)|heat up|screw up|intensify|compound|heighten|deepen
+(verb)|soup up|hop up|modify
+hotbed|2
+(noun)|situation|state of affairs
+(noun)|bed
+hotbox|1
+(noun)|journal bearing
+hotdog|3
+(noun)|hot dog|exhibitionist|show-off
+(noun)|hot dog|red hot|sandwich
+(noun)|frank|frankfurter|hot dog|dog|wiener|wienerwurst|weenie|sausage
+hotpot|1
+(noun)|hot pot|stew
+houdah|1
+(noun)|howdah|seat
+hourly|2
+(adj)|time unit|unit of time
+(adv)|by the hour
+howard|2
+(noun)|Howard|Leslie Howard|Leslie Howard Stainer|actor|histrion|player|thespian|role player
+(noun)|Howard|Catherine Howard|queen
+howdah|1
+(noun)|houdah|seat
+howler|3
+(noun)|belly laugh|sidesplitter|thigh-slapper|scream|wow|riot|joke|gag|laugh|jest|jape
+(noun)|howler monkey|New World monkey|platyrrhine
+(noun)|blunder|blooper|bloomer|bungle|foul-up|fuckup|flub|botch|boner|boo-boo
+hoyden|2
+(adj)|hoydenish|tomboyish|spirited 
+(noun)|tomboy|romp|girl|miss|missy|young lady|young woman|fille
+htlv-1|1
+(noun)|human T-cell leukemia virus-1|HTLV-1|retrovirus
+hubble|1
+(noun)|Hubble|Edwin Hubble|Edwin Powell Hubble|astrophysicist
+hubbub|1
+(noun)|uproar|brouhaha|katzenjammer|noise
+hubcap|1
+(noun)|cap
+hubris|1
+(noun)|arrogance|haughtiness|hauteur|highhandedness|lordliness
+huddle|4
+(noun)|powwow|conference|group discussion
+(noun)|crowd
+(verb)|huddle together|cluster|constellate|flock|clump
+(verb)|cower|crouch|stoop|bend|bow
+hudood|1
+(noun)|hudud|shariah|shariah law|sharia|sharia law|Islamic law
+hudson|3
+(noun)|Hudson|Hudson River|river
+(noun)|Hudson|W. H. Hudson|William Henry Hudson|naturalist|natural scientist
+(noun)|Hudson|Henry Hudson|navigator
+hugely|1
+(adv)|enormously|tremendously|staggeringly
+hugger|1
+(noun)|person|individual|someone|somebody|mortal|human|soul
+hughes|4
+(noun)|Hughes|Ted Hughes|Edward James Hughes|poet
+(noun)|Hughes|Langston Hughes|James Langston Hughes|writer|author
+(noun)|Hughes|Howard Hughes|Howard Robard Hughes|industrialist|aviator|aeronaut|airman|flier|flyer|film maker|filmmaker|film producer|movie maker
+(noun)|Hughes|Charles Evans Hughes|jurist|legal expert
+huitre|1
+(noun)|oyster|shellfish
+hulsea|1
+(noun)|Hulsea|genus Hulsea|asterid dicot genus
+humane|3
+(adj)|humanist|humanistic|discipline|subject|subject area|subject field|field|field of study|study|bailiwick|branch of knowledge
+(adj)|humane |compassionate|human-centered|human-centred|humanist|humanistic|humanitarian|painless|kind|merciful|civilized|civilised|human|merciful
+(adj)|civilized |civilised
+humans|3
+(noun)|world|human race|humanity|humankind|human beings|mankind|man|group|grouping
+(noun)|person|individual|someone|somebody|mortal|human|soul|organism|being|causal agent|cause|causal agency
+(noun)|homo|man|human being|human|hominid
+humate|1
+(noun)|material|stuff
+humber|1
+(noun)|Humber|estuary
+humble|6
+(adj)|low|lowly|modest|small|inferior 
+(adj)|humble |broken|crushed|humbled|humiliated|low|meek|mild|modest|modest
+(adj)|menial|lowly|unskilled 
+(adj)|base|baseborn|lowly|lowborn 
+(verb)|change|alter|modify
+(verb)|humiliate|mortify|chagrin|abase|hurt|wound|injure|bruise|offend|spite
+humbly|2
+(adv)|meekly
+(adv)|meanly
+humbug|4
+(noun)|baloney|boloney|bilgewater|bosh|drool|taradiddle|tarradiddle|tommyrot|tosh|twaddle|nonsense|bunk|nonsensicality|meaninglessness|hokum
+(noun)|snake oil|misrepresentation|deceit|deception
+(noun)|fraud|fraudulence|dupery|hoax|put-on|trickery|chicanery|chicane|guile|wile|shenanigan
+(verb)|deceive|lead on|delude|cozen
+hummer|2
+(noun)|singer|vocalist|vocalizer|vocaliser
+(noun)|fastball|heater|smoke|bullet|pitch|delivery
+hummus|1
+(noun)|humus|hommos|hoummos|humous|spread|paste
+humour|6
+(noun)|temper|mood|humor|feeling
+(noun)|wit|humor|witticism|wittiness|message|content|subject matter|substance
+(noun)|humor|body substance
+(noun)|liquid body substance|bodily fluid|body fluid|humor|body substance
+(noun)|humor|quality
+(verb)|humor|gratify|pander|indulge
+humous|1
+(noun)|hummus|humus|hommos|hoummos|spread|paste
+humped|1
+(adj)|crookback|crookbacked|humpbacked|hunchback|hunchbacked|gibbous|kyphotic|unfit 
+hunger|5
+(noun)|hungriness|drive
+(noun)|thirst|desire
+(verb)|ache|smart|hurt
+(verb)|crave|thirst|starve|lust|desire|want
+(verb)|starve|famish|suffer|hurt
+hungry|2
+(adj)|hungry |empty|empty-bellied|famished|ravenous|sharp-set|starved|esurient|peckish|supperless
+(adj)|athirst|thirsty|desirous 
+hunker|1
+(verb)|squat|crouch|scrunch|scrunch up|hunker down|sit|sit down
+hunted|1
+(adj)|afraid 
+hunter|3
+(noun)|huntsman|skilled worker|trained worker
+(noun)|seeker|searcher|quester
+(noun)|hunting watch|watch|ticker
+hurdle|4
+(noun)|barrier
+(noun)|obstacle|obstruction
+(noun)|vault|jump|jumping
+(verb)|vault|overleap
+hurler|1
+(noun)|pitcher|twirler|thrower|ballplayer|baseball player
+hurrah|2
+(noun)|hooray|cheer
+(verb)|shout|shout out|cry|call|yell|scream|holler|hollo|squall
+hurtle|3
+(verb)|travel|go|move|locomote
+(verb)|lunge|hurl|thrust|move
+(verb)|hurl|cast|throw
+husain|2
+(noun)|Hussein|Husain|Husayn|Saddam Hussein|Saddam|Saddam bin Hussein at-Takriti|leader
+(noun)|Hussein|Husain|Husayn|ibn Talal Hussein|King Hussein|king|male monarch
+husayn|2
+(noun)|Hussein|Husain|Husayn|Saddam Hussein|Saddam|Saddam bin Hussein at-Takriti|leader
+(noun)|Hussein|Husain|Husayn|ibn Talal Hussein|King Hussein|king|male monarch
+hushed|1
+(adj)|muted|subdued|quiet|soft 
+hussar|1
+(noun)|cavalryman|trooper
+hustle|5
+(noun)|bunco|bunco game|bunko|bunko game|con|confidence trick|confidence game|con game|gyp|sting|flimflam|swindle|cheat|rig
+(noun)|bustle|flurry|ado|fuss|stir|commotion|din|ruction|ruckus|rumpus|tumult
+(verb)|move|displace
+(verb)|bustle|bustle about|move
+(verb)|pluck|roll|steal
+huston|1
+(noun)|Huston|John Huston|film maker|filmmaker|film producer|movie maker
+hutton|2
+(noun)|Hutton|Sir Leonard Hutton|cricketer
+(noun)|Hutton|James Hutton|geologist
+huxley|3
+(noun)|Huxley|Andrew Huxley|Andrew Fielding Huxley|physiologist
+(noun)|Huxley|Aldous Huxley|Aldous Leonard Huxley|writer|author
+(noun)|Huxley|Thomas Huxley|Thomas Henry Huxley|biologist|life scientist
+hyades|1
+(noun)|Hyades|nymph
+hyaena|1
+(noun)|hyena|canine|canid
+hyalin|1
+(noun)|hyaline|transparent substance|translucent substance
+hybrid|4
+(adj)|crossed|interbred|intercrossed|crossbred 
+(noun)|loanblend|loan-blend|word
+(noun)|complex|composite
+(noun)|crossbreed|cross|organism|being
+hydnum|1
+(noun)|Hydnum|genus Hydnum|fungus genus
+hydric|1
+(adj)|hydric |hydrophytic|hygrophytic
+hydrus|1
+(noun)|Hydrus|constellation
+hygeia|1
+(noun)|Hygeia|Greek deity
+hymnal|1
+(noun)|hymnbook|hymnary|songbook
+hyphen|2
+(noun)|dash|punctuation|punctuation mark
+(verb)|hyphenate|spell|write
+hypnos|1
+(noun)|Hypnos|deity|divinity|god|immortal
+hyssop|2
+(noun)|Hyssopus officinalis|herb|herbaceous plant
+(noun)|herb
+hytrin|1
+(noun)|terazosin|Hytrin|antihypertensive|antihypertensive drug|alpha blocker|alpha-blocker|alpha-adrenergic blocker|alpha-adrenergic blocking agent
+|                                                                         
+hot tub|1
+(noun)|bathtub|bathing tub|bath|tub
+hot war|1
+(noun)|war|warfare
+hotcake|1
+(noun)|pancake|battercake|flannel cake|flannel-cake|flapcake|flapjack|griddlecake|hot cake|cake
+hotfoot|1
+(verb)|rush|hasten|hie|speed|race|pelt along|rush along|cannonball along|bucket along|belt along|travel|go|move|locomote
+hothead|2
+(noun)|fire-eater|grouch|grump|crank|churl|crosspatch
+(noun)|daredevil|madcap|swashbuckler|lunatic|harum-scarum|adventurer|venturer
+hotness|3
+(noun)|heat|high temperature|temperature
+(noun)|horniness|hot pants|sexual arousal
+(noun)|pepperiness|spiciness|spice|spicery
+hotshot|1
+(noun)|ace|adept|champion|sensation|maven|mavin|virtuoso|genius|star|superstar|whiz|whizz|wizard|wiz|expert
+hotspot|3
+(noun)|hot spot|geographical area|geographic area|geographical region|geographic region
+(noun)|hot spot|point
+(noun)|hot spot|spot
+hotspur|2
+(noun)|Percy|Sir Henry Percy|Hotspur|Harry Hotspur|soldier
+(noun)|adventurer|venturer
+hottish|1
+(adj)|hot 
+houdini|1
+(noun)|Houdini|Harry Houdini|Erik Weisz|sorcerer|magician|wizard|necromancer
+houhere|1
+(noun)|lacebark|ribbonwood|Hoheria populnea|tree
+hoummos|1
+(noun)|hummus|humus|hommos|humous|spread|paste
+housing|3
+(noun)|lodging|living accommodations|structure|construction
+(noun)|protective covering|protective cover|protection
+(noun)|caparison|trapping|trappings|housings|stable gear|saddlery|tack
+housman|1
+(noun)|Housman|A. E. Housman|Alfred Edward Housman|poet
+houston|2
+(noun)|Houston|city|metropolis|urban center|port
+(noun)|Houston|Sam Houston|Samuel Houston|politician|politico|pol|political leader|general|full general
+howells|1
+(noun)|Howells|William Dean Howells|writer|author
+however|2
+(adv)|nevertheless|withal|still|yet|all the same|even so|nonetheless|notwithstanding
+(adv)|how
+howling|3
+(adj)|crying|yelling|shouting|noisy 
+(adj)|fantastic|marvelous|marvellous|rattling|terrific|tremendous|wonderful|wondrous|extraordinary 
+(noun)|howl|ululation|utterance|vocalization
+hryvnia|1
+(noun)|Ukranian monetary unit
+hualpai|2
+(noun)|Walapai|Hualapai|Hualpai|Hokan|Hoka
+(noun)|Walapai|Hualapai|Hualpai|Yuman
+hubbard|2
+(noun)|Hubbard|L. Ron Hubbard|writer|author
+(noun)|Hubbard|Mount Hubbard|mountain peak
+huddled|2
+(adj)|crouched|crouching|hunkered|hunkered down|unerect 
+(adj)|crowded 
+huddler|2
+(noun)|member
+(noun)|person|individual|someone|somebody|mortal|human|soul
+hueless|1
+(adj)|achromatic 
+huffing|2
+(adj)|puffing|puffy|breathing |eupneic|eupnoeic
+(noun)|puffing|snorting|exhalation|expiration|breathing out
+huffish|1
+(adj)|sulky|ill-natured 
+hugging|1
+(noun)|caressing|cuddling|fondling|kissing|necking|petting|smooching|snuggling|foreplay|arousal|stimulation
+huggins|1
+(noun)|Huggins|Sir William Huggins|astronomer|uranologist|stargazer
+hulking|1
+(adj)|hulky|large 
+humbled|1
+(adj)|broken|crushed|humiliated|low|humble 
+humdrum|2
+(adj)|commonplace|prosaic|unglamorous|unglamourous|unexciting 
+(adj)|monotonous|dull 
+humerus|1
+(noun)|arm bone
+humming|2
+(noun)|hum|noise
+(noun)|singing|vocalizing
+hummock|1
+(noun)|knoll|mound|hillock|hammock|hill
+humoral|1
+(adj)|body substance
+humulin|1
+(noun)|recombinant human insulin|Humulin|insulin
+humulus|1
+(noun)|Humulus|genus Humulus|dicot genus|magnoliopsid genus
+hunched|1
+(adj)|round-backed|round-shouldered|stooped|stooping|crooked|unerect 
+hundred|2
+(adj)|a hundred|one hundred|100|c|cardinal 
+(noun)|100|C|century|one C|centred|large integer
+hungary|1
+(noun)|Hungary|Republic of Hungary|Magyarorszag|European country|European nation
+hunting|3
+(noun)|hunt|outdoor sport|field sport|blood sport
+(noun)|search|hunt|activity
+(noun)|hunt|labor|labour|toil
+hurdler|1
+(noun)|athlete|jock
+hurdles|4
+(noun)|hurdling|hurdle race|track event
+(noun)|hurdle|barrier
+(noun)|hurdle|obstacle|obstruction
+(noun)|vault|hurdle|jump|jumping
+hurling|2
+(adj)|moving 
+(noun)|field game
+hurried|1
+(adj)|hurried |flying|quick|fast|hasty|headlong|hasty|overhasty|precipitate|precipitant|precipitous|helter-skelter|pell-mell|rush|rushed|fast
+hurtful|2
+(adj)|unkind 
+(adj)|deleterious|injurious|harmful 
+hurting|1
+(noun)|pain|symptom
+husband|2
+(noun)|hubby|married man|spouse|partner|married person|mate|better half
+(verb)|conserve|economize|economise|save|preserve
+hush up|2
+(verb)|whitewash|gloss over|sleek over|cover|cover up
+(verb)|hush|quieten|silence|still|shut up|suppress|stamp down|inhibit|subdue|conquer|curb
+huskily|1
+(adv)|hoarsely
+husking|1
+(noun)|denudation|stripping|uncovering|baring|removal|remotion
+hussein|2
+(noun)|Hussein|Husain|Husayn|Saddam Hussein|Saddam|Saddam bin Hussein at-Takriti|leader
+(noun)|Hussein|Husain|Husayn|ibn Talal Hussein|King Hussein|king|male monarch
+husserl|1
+(noun)|Husserl|Edmund Husserl|philosopher
+hussite|1
+(noun)|Hussite|disciple|adherent
+hustler|2
+(noun)|streetwalker|street girl|hooker|floozy|floozie|slattern|prostitute|cocotte|whore|harlot|bawd|tart|cyprian|fancy woman|working girl|sporting lady|lady of pleasure|woman of the street
+(noun)|wheeler dealer|operator|opportunist|self-seeker
+hutment|1
+(noun)|camp|encampment|cantonment|bivouac
+hutzpah|1
+(noun)|chutzpa|chutzpah|crust|gall|impertinence|impudence|insolence|cheekiness|freshness
+huygens|1
+(noun)|Huygens|Christiaan Huygens|Christian Huygens|physicist
+hyaline|2
+(adj)|hyaloid|clear 
+(noun)|hyalin|transparent substance|translucent substance
+hyaloid|1
+(adj)|hyaline|clear 
+hyazyme|1
+(noun)|hyaluronidase|spreading factor|Hyazyme|enzyme
+hydatid|1
+(noun)|cyst
+hydrant|2
+(noun)|water faucet|water tap|tap|spigot|faucet|plumbing fixture
+(noun)|discharge pipe
+hydrate|4
+(noun)|compound|chemical compound
+(verb)|supply|provide|render|furnish
+(verb)|change
+(verb)|humidify|moisturize|moisturise
+hydride|1
+(noun)|binary compound
+hydroid|1
+(noun)|hydrozoan|coelenterate|cnidarian
+hydrops|1
+(noun)|edema|oedema|dropsy|swelling|puffiness|lump
+hydrous|1
+(adj)|hydrous |hydrated
+hydroxy|1
+(adj)|group|radical|chemical group
+hygiene|2
+(noun)|sanitariness
+(noun)|hygienics|medicine|medical specialty
+hylidae|1
+(noun)|Hylidae|family Hylidae|amphibian family
+hymenal|1
+(adj)|mucous membrane|mucosa
+hymnary|1
+(noun)|hymnal|hymnbook|songbook
+hymnody|1
+(noun)|psalmody|singing|vocalizing
+hypatia|1
+(noun)|Hypatia|astronomer|uranologist|stargazer|philosopher
+hype up|1
+(verb)|psych up|agitate|rouse|turn on|charge|commove|excite|charge up
+hyperon|1
+(noun)|baryon|heavy particle
+hyphema|1
+(noun)|bleeding|hemorrhage|haemorrhage
+hypnoid|1
+(adj)|asleep 
+hyponym|1
+(noun)|subordinate|subordinate word|word
+hypoxia|1
+(noun)|drive
+hypoxis|1
+(noun)|Hypoxis|genus Hypoxis|liliid monocot genus

@@ -1,0 +1,481 @@
+g-jo|1
+(noun)|acupressure|G-Jo|shiatsu|treatment
+gaap|1
+(noun)|generally accepted accounting practices|GAAP|collection|aggregation|accumulation|assemblage
+gaba|1
+(noun)|gamma aminobutyric acid|GABA|amino acid|aminoalkanoic acid|neurotransmitter
+gaea|1
+(noun)|Gaea|Gaia|Ge|Greek deity
+gael|1
+(noun)|Gael|Celt|Kelt
+gaff|2
+(noun)|spar
+(noun)|hook
+gaga|2
+(adj)|doddering|doddery|senile|old 
+(adj)|crazy|dotty|enamored|infatuated|in love|smitten|soft on|taken with|loving 
+gage|3
+(noun)|pot|grass|green goddess|dope|weed|sess|sens|smoke|skunk|locoweed|Mary Jane|cannabis|marijuana|marihuana|ganja
+(noun)|gauge|measuring instrument|measuring system|measuring device
+(verb)|bet on|back|stake|game|punt|bet|wager|play
+gaia|1
+(noun)|Gaea|Gaia|Ge|Greek deity
+gain|13
+(noun)|addition|increase|indefinite quantity
+gait|3
+(noun)|pace|rate
+(noun)|locomotion|travel
+(noun)|walk|walking
+gala|2
+(adj)|gay|festal|festive|merry|joyous 
+(noun)|gala affair|jamboree|blowout|celebration|festivity
+gale|1
+(noun)|wind|air current|current of air
+gall|8
+(noun)|saddle sore|animal disease
+(noun)|sore
+(noun)|plant tissue
+(noun)|resentment|bitterness|rancor|rancour|hostility|enmity|ill will
+(noun)|bile|digestive juice|digestive fluid
+(noun)|crust|impertinence|impudence|insolence|cheekiness|freshness|discourtesy|rudeness
+(verb)|chafe|fret|irritate
+(verb)|irk|anger
+game|13
+(adj)|crippled|halt|halting|lame|unfit 
+gamp|1
+(noun)|brolly|umbrella
+gamy|3
+(adj)|blue|gamey|juicy|naughty|racy|risque|spicy|sexy 
+(adj)|gamey|high|malodorous |malodourous
+(adj)|game|gamey|gritty|mettlesome|spirited|spunky|brave |courageous|fearless
+gand|1
+(noun)|Gent|Gand|Ghent|city|metropolis|urban center|port
+gang|5
+(noun)|pack|ring|mob|association
+(noun)|crowd|crew|bunch|gathering|assemblage
+(noun)|crew|work party|unit|social unit
+(noun)|tool
+(verb)|gang up|group|aggroup
+gaol|2
+(noun)|jail|jailhouse|clink|slammer|correctional institution
+(verb)|imprison|incarcerate|lag|immure|put behind bars|jail|jug|put away|remand|confine|detain
+gape|4
+(noun)|facial expression|facial gesture
+(noun)|stare
+(verb)|goggle|gawp|gawk|look
+(verb)|yawn|yaw|be
+garb|2
+(noun)|attire|dress|clothing|article of clothing|vesture|wear
+(verb)|dress|clothe|enclothe|raiment|tog|garment|habilitate|fit out|apparel|change state|turn
+gari|1
+(noun)|bitter cassava|manioc|mandioc|mandioca|tapioca plant|Manihot esculenta|Manihot utilissima|cassava|casava
+gary|1
+(noun)|Gary|city|metropolis|urban center|port of entry|point of entry
+gash|4
+(noun)|cut|slash|slice|wound|lesion
+(noun)|cut|furrow
+(noun)|slash|cut|cutting
+(verb)|slash|cut
+gasp|2
+(noun)|pant|inhalation|inspiration|aspiration|breathing in
+(verb)|pant|puff|heave|blow
+gate|7
+(noun)|movable barrier
+(noun)|logic gate|computer circuit
+(noun)|gross|revenue|receipts
+(noun)|passageway
+(verb)|supply|provide|render|furnish
+(verb)|operate|control
+(verb)|restrict|restrain|trammel|limit|bound|confine|throttle
+gatt|1
+(noun)|General Agreement on Tariffs and Trade|GATT|United Nations agency|UN agency
+gaud|1
+(noun)|bangle|bauble|gewgaw|novelty|fallal|trinket|adornment
+gaul|3
+(noun)|frog|Gaul|Frenchman|Frenchwoman|French person
+(noun)|Gaul|Celt|Kelt
+(noun)|Gaul|Gallia|geographical area|geographic area|geographical region|geographic region
+gaur|1
+(noun)|Bibos gaurus|Asian wild ox
+gawk|2
+(noun)|lout|clod|stumblebum|goon|oaf|lubber|lummox|lump|clumsy person
+(verb)|goggle|gape|gawp|look
+gawp|1
+(verb)|goggle|gape|gawk|look
+gaza|1
+(noun)|Gaza Strip|Gaza|geographical area|geographic area|geographical region|geographic region
+gaze|2
+(noun)|regard|stare
+(verb)|stare|look
+gean|1
+(noun)|mazzard|mazzard cherry|sweet cherry|Prunus avium
+gear|4
+(noun)|gear wheel|cogwheel|wheel
+(noun)|gear mechanism|mechanism
+(noun)|paraphernalia|appurtenances|equipment
+(verb)|pitch|adapt|accommodate
+geek|2
+(noun)|performer|performing artist
+(noun)|eccentric|eccentric person|flake|oddball|anomaly|unusual person
+geld|1
+(verb)|cut|emasculate|castrate|demasculinize|demasculinise
+gelt|1
+(noun)|boodle|bread|cabbage|clams|dinero|dough|kale|lettuce|lolly|lucre|loot|moolah|pelf|scratch|shekels|simoleons|sugar|wampum|money
+gene|1
+(noun)|cistron|factor|sequence
+genf|1
+(noun)|Geneva|Geneve|Genf|city|metropolis|urban center
+gens|2
+(noun)|name|family|family line|folk|kinfolk|kinsfolk|sept|phratry
+(noun)|gen|information|info
+gent|3
+(noun)|gentleman
+(noun)|chap|fellow|feller|lad|fella|blighter|cuss|male|male person
+(noun)|Gent|Gand|Ghent|city|metropolis|urban center|port
+genu|1
+(noun)|knee|knee joint|articulatio genus|hinge joint|ginglymus|ginglymoid joint
+germ|3
+(noun)|source|seed|inspiration
+(noun)|structure|anatomical structure|complex body part|bodily structure|body structure
+(noun)|microbe|bug|microorganism
+geta|1
+(noun)|clog|patten|sabot|footwear|footgear
+geum|1
+(noun)|Geum|genus Geum|rosid dicot genus
+ghat|1
+(noun)|stairway|staircase|stairs|steps
+ghee|1
+(noun)|clarified butter|drawn butter
+gheg|1
+(noun)|Gheg|Gheg dialect|Albanian
+ghrf|1
+(noun)|growth hormone-releasing factor|GHRF|releasing factor|releasing hormone|RF
+gibe|3
+(noun)|shot|shaft|slam|dig|barb|jibe|remark|comment
+(verb)|match|fit|correspond|check|jibe|tally|agree|equal|be
+(verb)|jeer|scoff|flout|barrack|tease|razz|rag|cod|tantalize|tantalise|bait|taunt|twit|rally|ride
+gide|1
+(noun)|Gide|Andre Gide|Andre Paul Guillaume Gide|writer|author|dramatist|playwright
+gift|5
+(noun)|acquisition
+(noun)|endowment|talent|natural endowment|natural ability
+(noun)|giving|sharing|share-out
+(verb)|endow|indue|empower|invest|endue|enable
+(verb)|give|present
+gigo|1
+(noun)|GIGO|rule|prescript
+gila|1
+(noun)|Gila|Gila River|river
+gild|2
+(noun)|club|society|guild|lodge|order|association
+(verb)|begild|engild|decorate|adorn|grace|ornament|embellish|beautify
+gill|4
+(noun)|British capacity unit|Imperial capacity unit
+(noun)|United States liquid unit
+(noun)|lamella|plant organ
+(noun)|branchia|respiratory organ
+gilt|2
+(adj)|aureate|gilded|gold|golden|chromatic 
+(noun)|gilding|coating|coat
+gimp|1
+(noun)|lameness|limping|gimpiness|gameness|claudication|disability of walking
+gird|4
+(verb)|arm|build up|fortify
+(verb)|girth|girt|begird|surround|environ|encircle|circle|round|ring
+(verb)|girdle|surround|skirt|border
+(verb)|encircle|bind
+girl|5
+(noun)|miss|missy|young lady|young woman|fille|woman|adult female
+(noun)|female child|little girl|female|female person
+(noun)|daughter|female offspring
+(noun)|girlfriend|lady friend|woman|adult female|lover
+(noun)|woman|adult female
+giro|2
+(noun)|giro cheque|check|bank check|cheque
+(noun)|financial institution|financial organization|financial organisation
+girt|5
+(verb)|girth|begird|gird|surround|environ|encircle|circle|round|ring
+(verb)|arm|build up|fortify|gird
+(verb)|girth|begird|gird|surround|environ|encircle|circle|round|ring
+(verb)|girdle|gird|surround|skirt|border
+(verb)|gird|encircle|bind
+gish|1
+(noun)|Gish|Lillian Gish|actress
+gist|2
+(noun)|effect|essence|burden|core|meaning|significance|signification|import
+(noun)|kernel|substance|core|center|essence|heart|heart and soul|inwardness|marrow|meat|nub|pith|sum|nitty-gritty|content|cognitive content|mental object
+gita|1
+(noun)|Bhagavad-Gita|Bhagavadgita|Gita|sacred text|sacred writing|religious writing|religious text
+give|44
+(noun)|spring|springiness|elasticity|snap
+(verb)|yield|afford|supply|provide|render|furnish
+(verb)|transfer|give back
+(verb)|state|say|tell
+giza|1
+(noun)|Giza|El Giza|city|metropolis|urban center
+glad|4
+(adj)|glad |gladsome|happy|pleased|cheerful 
+(adj)|lief|willing 
+(adj)|grateful |thankful
+(adj)|beaming|cheerful 
+glee|2
+(noun)|hilarity|mirth|mirthfulness|gleefulness|gaiety|merriment
+(noun)|gloat|gloating|satisfaction
+glen|1
+(noun)|valley|vale
+glia|1
+(noun)|neuroglia|interstitial tissue
+glib|3
+(adj)|superficial 
+(adj)|pat|slick|plausible 
+(adj)|glib-tongued|smooth-tongued|persuasive 
+glis|1
+(noun)|Glis|genus Glis|mammal genus
+glob|1
+(noun)|ball|clod|lump|clump|chunk|agglomeration
+glom|2
+(verb)|hook|snitch|thieve|cop|knock off|steal
+(verb)|get|acquire
+glow|12
+(noun)|freshness|good health|healthiness
+glue|3
+(noun)|gum|mucilage|cement
+(verb)|paste|attach
+(verb)|fasten
+glug|1
+(verb)|sound|go
+glum|2
+(adj)|gloomy|long-faced|dejected 
+(adj)|dark|dour|glowering|moody|morose|saturnine|sour|sullen|ill-natured 
+glut|3
+(noun)|oversupply|surfeit|overabundance|overmuch|overmuchness|superabundance
+(verb)|gorge|ingurgitate|overindulge|englut|stuff|engorge|overgorge|overeat|gormandize|gormandise|gourmandize|binge|pig out|satiate|scarf out|eat
+(verb)|flood|oversupply|supply|provide|render|furnish
+gnat|2
+(noun)|dipterous insect|two-winged insects|dipteran|dipteron
+(noun)|mosquito
+gnaw|2
+(verb)|chew|masticate|manducate|jaw|bite|seize with teeth
+(verb)|erode|gnaw at|eat at|wear away|decay|crumble|delapidate
+goad|6
+(noun)|prod|device
+(noun)|goading|prod|prodding|urging|spur|spurring|encouragement
+(verb)|spur|encourage
+(verb)|prod|incite|egg on
+(verb)|prick|stab|jab
+(verb)|needle|harass|hassle|harry|chivy|chivvy|chevy|chevvy|beset|plague|molest|provoke
+goal|4
+(noun)|end|content|cognitive content|mental object
+(noun)|score
+(noun)|game equipment
+(noun)|finish|destination|end
+goat|4
+(noun)|caprine animal|bovid
+(noun)|butt|laughingstock|stooge|victim|dupe
+(noun)|Capricorn|Goat|person|individual|someone|somebody|mortal|human|soul
+(noun)|Capricorn|Capricorn the Goat|Goat|sign of the zodiac|star sign|sign|mansion|house|planetary house
+gobi|1
+(noun)|Gobi|Gobi Desert|desert
+gobs|4
+(noun)|tons|dozens|heaps|lots|mountain|piles|scores|stacks|loads|rafts|slews|wads|oodles|scads|lashings|large indefinite quantity|large indefinite amount
+(noun)|mariner|seaman|tar|Jack-tar|Jack|old salt|seafarer|gob|sea dog|sailor|crewman
+(noun)|gob|ball|clod|glob|lump|clump|chunk
+(noun)|trap|cakehole|hole|maw|yap|gob|mouth|oral cavity|oral fissure|rima oris
+goby|1
+(noun)|gudgeon|percoid fish|percoid|percoidean
+goer|1
+(noun)|departer|leaver|migrant|migrator
+gogh|1
+(noun)|van Gogh|Vincent van Gogh|Gogh|painter
+gold|7
+(adj)|golden|gilded|metallic 
+(adj)|aureate|gilded|gilt|golden|chromatic 
+(noun)|precious metal
+(noun)|amber|yellow|yellowness
+(noun)|Au|atomic number 79|noble metal
+(noun)|wealth|riches
+(noun)|invaluableness|preciousness|pricelessness|valuableness
+golf|2
+(noun)|golf game|outdoor game
+(verb)|play
+goma|1
+(noun)|Goma|city|metropolis|urban center
+gond|1
+(noun)|Gond|Dravidian
+gone|6
+(adj)|away|departed|absent 
+(adj)|done for|kaput|destroyed 
+(adj)|asleep|at peace|at rest|deceased|departed|dead 
+(adj)|expended|spent|exhausted 
+(adj)|bygone|bypast|departed|foregone|past 
+(adj)|lost 
+gong|3
+(noun)|tam-tam|percussion instrument|percussive instrument
+(noun)|chime|bell|percussion instrument|percussive instrument
+(verb)|sound
+good|29
+(adj)|good |bang-up|bully|corking|cracking|dandy|great|groovy|keen|neat|nifty|not bad|peachy|slap-up|swell|smashing|good enough|goodish|redeeming|satisfactory|acceptable|solid|suitable|superb|well-behaved|well behaved|hot|best|better|favorable|favourable|obedient|respectable
+(adj)|full|ample 
+goof|2
+(noun)|fathead|goofball|bozo|jackass|goose|cuckoo|twat|zany|fool|sap|saphead|muggins|tomfool
+(verb)|sin|blunder|boob|transgress|offend|infract|violate|go against|breach|break
+gook|2
+(noun)|sludge|slime|goo|guck|gunk|muck|ooze|substance|matter
+(noun)|slant-eye|Oriental|oriental person
+goon|2
+(noun)|lout|clod|stumblebum|oaf|lubber|lummox|lump|gawk|clumsy person
+(noun)|hood|hoodlum|punk|thug|tough|toughie|strong-armer|criminal|felon|crook|outlaw|malefactor
+goop|1
+(noun)|soap|scoop|max|liquid ecstasy|grievous bodily harm|Georgia home boy|easy lay|gamma hydroxybutyrate|GHB
+gore|6
+(noun)|Gore|Al Gore|Albert Gore Jr.|vice president|V.P.
+(noun)|blood
+(noun)|piece of cloth|piece of material
+(noun)|bloodshed|blood|murder|slaying|execution
+(verb)|pierce|thrust
+(verb)|cut|tailor
+gory|2
+(adj)|bloodstained|bloody 
+(adj)|sanguinary|sanguineous|slaughterous|butcherly|bloody 
+goth|2
+(noun)|peasant|barbarian|boor|churl|Goth|tyke|tike|unpleasant person|disagreeable person
+(noun)|Goth|Teuton
+gout|1
+(noun)|gouty arthritis|urarthritis|arthritis
+gown|4
+(noun)|dress|frock
+(noun)|surgical gown|scrubs|garment
+(noun)|robe|outerwear|overclothes
+(verb)|dress|clothe|enclothe|garb|raiment|tog|garment|habilitate|fit out|apparel
+goya|1
+(noun)|Goya|Goya y Lucientes|Francisco Goya|Francisco de Goya|Francisco Jose de Goya|Francisco Jose de Goya y Lucientes|painter
+grab|8
+(noun)|mechanical device
+(noun)|catch|snatch|snap|touch|touching
+(verb)|catch|take hold of|seize|prehend|clutch
+(verb)|snap up|snaffle|take
+(verb)|move
+(verb)|obtain
+(verb)|seize|prehend|clutch
+(verb)|seize|intrigue|fascinate
+grad|2
+(noun)|grade|angular unit
+(noun)|alumnus|alumna|alum|graduate|scholar|scholarly person|student
+graf|1
+(noun)|Graf|Steffi Graf|Stephanie Graf|tennis player
+gram|2
+(noun)|gramme|gm|g|metric weight unit|weight unit
+(noun)|Gram|Hans C. J. Gram|bacteriologist
+gran|1
+(noun)|grandma|grandmother|granny|grannie|grandparent
+gray|14
+(adj)|grey|grayish|greyish|achromatic 
+graz|1
+(noun)|Graz|city|metropolis|urban center
+grey|13
+(adj)|gray|grayish|greyish|achromatic 
+grid|4
+(noun)|power system|power grid|facility|installation
+(noun)|reference grid|network
+(noun)|control grid|electrode
+(noun)|gridiron|cooking utensil|cookware
+grim|6
+(adj)|inexorable|relentless|stern|unappeasable|unforgiving|unrelenting|implacable 
+(adj)|ghastly|grisly|gruesome|macabre|alarming 
+(adj)|black|mordant|sarcastic 
+(adj)|blue|dark|depressing|disconsolate|dismal|dispiriting|gloomy|cheerless |uncheerful
+(adj)|dour|forbidding|unpleasant 
+(adj)|gloomy|darkening|hopeless 
+grin|2
+(noun)|smile|smiling|grinning|facial expression|facial gesture
+(verb)|smile
+grip|10
+(noun)|clasp|clench|clutch|clutches|grasp|hold|grasping|taking hold|seizing|prehension
+gris|1
+(noun)|Gris|Jaun Gris|painter
+grit|4
+(noun)|gritrock|gritstone|sandstone
+(noun)|backbone|guts|moxie|sand|gumption|fortitude
+(verb)|coat|surface
+(verb)|clench
+grog|1
+(noun)|rum
+grot|1
+(noun)|grotto|cave
+grow|10
+(verb)|turn|change
+grub|4
+(noun)|chow|chuck|eats|fare
+(noun)|larva
+(verb)|mooch|bum|cadge|sponge|obtain
+(verb)|search|seek|look for
+grus|2
+(noun)|Grus|the Crane|constellation
+(noun)|Grus|genus Grus|bird genus
+gspc|1
+(noun)|Salafist Group|Salafast Group for Call and Combat|GSPC|terrorist organization|terrorist group|foreign terrorist organization|FTO
+guam|1
+(noun)|Guam|GU|island
+guan|1
+(noun)|gallinaceous bird|gallinacean
+guar|1
+(noun)|cluster bean|Cyamopsis tetragonolobus|Cyamopsis psoraloides|legume|leguminous plant
+guck|1
+(noun)|sludge|slime|goo|gook|gunk|muck|ooze|substance|matter
+guff|1
+(noun)|bunk|bunkum|buncombe|rot|hogwash|drivel|garbage
+guib|1
+(noun)|bushbuck|Tragelaphus scriptus|harnessed antelope
+gula|2
+(noun)|Gula|Semitic deity
+(noun)|gluttony|overeating|mortal sin|deadly sin
+gulf|3
+(noun)|body of water|water
+(noun)|disconnect|disconnection|disparity
+(noun)|chasm
+gull|4
+(noun)|chump|fool|mark|patsy|fall guy|sucker|soft touch|mug|victim|dupe
+(noun)|seagull|sea gull|larid
+(verb)|fool|befool|deceive|lead on|delude|cozen
+(verb)|dupe|slang|befool|cod|fool|put on|take in|put one over|put one across|deceive|betray|lead astray
+gulo|1
+(noun)|Gulo|genus Gulo|mammal genus
+gulp|4
+(noun)|draft|draught|swig|swallow|drink|deglutition
+(noun)|gulping|reflex|instinctive reflex|innate reflex|inborn reflex|unconditioned reflex|physiological reaction
+(verb)|quaff|swig|drink|imbibe
+(verb)|talk|speak|utter|mouth|verbalize|verbalise
+gulu|1
+(noun)|Gulu|city|metropolis|urban center
+gunk|1
+(noun)|sludge|slime|goo|gook|guck|muck|ooze|substance|matter
+guru|3
+(noun)|religious leader
+(noun)|Guru|religious leader
+(noun)|leader
+gush|5
+(noun)|flush|outpouring|flow|flowing
+(noun)|effusion|outburst|blowup|ebullition|expression|manifestation|reflection|reflexion
+(verb)|spurt|spirt|spout|pour
+(verb)|rave|praise
+(verb)|jet|run|flow|feed|course
+gust|1
+(noun)|blast|blow|wind|air current|current of air
+guts|3
+(noun)|backbone|grit|moxie|sand|gumption|fortitude
+(noun)|intestine|bowel|gut|internal organ|viscus
+(noun)|catgut|gut|cord
+gwyn|1
+(noun)|Gwyn|Celtic deity
+gybe|1
+(verb)|jibe|jib|change course|sail
+gyps|2
+(noun)|Gyps|genus Gyps|bird genus
+(noun)|bunco|bunco game|bunko|bunko game|con|confidence trick|confidence game|con game|gyp|hustle|sting|flimflam|swindle|cheat|rig
+gyre|1
+(noun)|coil|whorl|roll|curl|curlicue|ringlet|scroll|round shape
+gyro|2
+(noun)|sandwich
+(noun)|gyroscope|rotating mechanism
+gywn|1
+(noun)|Gwynn|Gywn|Gynne|Nell Gwynn|Nell Gywn|Nell Gwynne|Eleanor Gwynn|Eleanor Gwyn|Eleanor Gwynne|comedienne
