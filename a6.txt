@@ -1,0 +1,1601 @@
+a-bomb|1
+(noun)|atom bomb|atomic bomb|A-bomb|fission bomb|plutonium bomb|nuclear weapon|bomb
+a-list|1
+(noun)|A-list|list|listing
+a-okay|1
+(adj)|a-ok|go 
+a-team|1
+(noun)|A-team|team|squad
+a.k.a.|1
+(adv)|alias|also known as
+aachen|1
+(noun)|Aachen|Aken|Aix-la-Chapelle|city|metropolis|urban center
+aalost|1
+(noun)|Alost|Aalost|town
+aarhus|1
+(noun)|Arhus|Aarhus|city|metropolis|urban center|port
+abacus|2
+(noun)|tablet
+(noun)|calculator|calculating machine
+abadan|1
+(noun)|Abadan|city|metropolis|urban center|port
+abasia|1
+(noun)|disability of walking
+abasic|1
+(adj)|abatic|disability of walking
+abatic|1
+(adj)|abasic|disability of walking
+abatis|1
+(noun)|abattis|line of defense|line of defence
+abbacy|1
+(noun)|jurisdiction
+abbess|1
+(noun)|mother superior|prioress|superior
+abdias|2
+(noun)|Obadiah|Abdias|prophet
+(noun)|Obadiah|Abdias|Book of Obadiah|book
+abduce|1
+(verb)|adduce|cite|testify|bear witness|prove|evidence|show
+abduct|2
+(verb)|kidnap|nobble|snatch|seize
+(verb)|pull|draw|force
+abelia|1
+(noun)|shrub|bush
+abient|1
+(adj)|abient |urge|impulse
+abject|4
+(adj)|low|low-down|miserable|scummy|scurvy|contemptible 
+(adj)|unfortunate 
+(adj)|resigned|unhopeful|hopeless 
+(adj)|submissive 
+abjure|1
+(verb)|recant|forswear|retract|resile|renounce|repudiate
+abkhas|1
+(noun)|Abkhaz|Abkhas|Circassian
+abkhaz|2
+(noun)|Abkhaz|Abkhas|Circassian
+(noun)|Abkhaz|Abkhazia|state|province
+ablate|2
+(verb)|wear|wear off|wear out|wear thin
+(verb)|remove|take|take away|withdraw
+ablaut|1
+(noun)|vowel|vowel sound
+ablaze|4
+(adj)|aflame|aroused|turned on|passionate 
+(adj)|afire|aflame|aflare|alight|blazing|burning|flaming|on fire|lighted |lit
+(adj)|flaming|colorful |colourful
+(adj)|inflamed|reddened|light 
+ablism|1
+(noun)|ableism|able-bodiedism|able-bodism|discrimination|favoritism|favouritism
+abloom|1
+(adj)|efflorescent|flowering|mature 
+abnaki|2
+(noun)|Abnaki|Algonquian|Algonquin
+(noun)|Abnaki|Algonquian|Algonquin|Algonquian language
+aboard|3
+(adv)|onboard
+(adv)|on base
+(adv)|alongside
+aboral|1
+(adj)|aboral 
+abound|2
+(verb)|be|abound in
+(verb)|burst|bristle|have|feature
+abrade|3
+(verb)|corrade|abrase|rub down|rub off|wear away|wear off
+(verb)|scour|rub
+(verb)|stub|scrape|skin|injure|wound
+abrase|1
+(verb)|abrade|corrade|rub down|rub off|wear away|wear off
+abroad|3
+(adj)|overseas|foreign 
+(adv)|afield
+(adv)|overseas|beyond the sea|over the sea
+abrupt|4
+(adj)|disconnected|staccato |disconnected
+(adj)|sudden 
+(adj)|precipitous|sharp|steep 
+(adj)|discourteous 
+abseil|2
+(noun)|descent
+(verb)|rappel|rope down|descend|fall|go down|come down
+absent|3
+(adj)|absent |away|gone|departed|introuvable|lacking|missing|nonexistent|wanting|truant|awol|devoid
+(adj)|absentminded|abstracted|scatty|inattentive 
+(verb)|remove|disappear|vanish|go away
+absorb|9
+(verb)|sorb|take up
+(verb)|assimilate|ingest|take in|learn|larn|acquire
+(verb)|take over|fund
+(verb)|suck|imbibe|soak up|sop up|suck up|draw|take in|take up
+(verb)|blend|flux|mix|conflate|commingle|immix|fuse|coalesce|meld|combine|merge
+(verb)|take in
+(verb)|steep|immerse|engulf|plunge|engross|soak up|concentrate|focus|center|centre|pore|rivet
+(verb)|receive|take in|invite
+(verb)|engross|engage|occupy|interest
+absurd|2
+(adj)|unreasonable|illogical |unlogical
+(adj)|cockeyed|derisory|idiotic|laughable|ludicrous|nonsensical|preposterous|ridiculous|foolish 
+abukir|1
+(noun)|Abukir|Abukir Bay|bay
+abulia|1
+(noun)|aboulia|psychological state|mental state
+abulic|1
+(adj)|aboulic|neurotic |psychoneurotic
+abused|3
+(adj)|misused 
+(adj)|abused |affronted|insulted|maligned|reviled
+(adj)|abused |ill-treated|maltreated|mistreated|assaulted|molested|raped|battered|beaten|misunderstood|cuffed|slapped
+abuser|1
+(noun)|maltreater|wrongdoer|offender
+abvolt|1
+(noun)|potential unit
+abwatt|1
+(noun)|power unit
+abydos|1
+(noun)|Abydos|town
+acacia|1
+(noun)|tree
+acadia|1
+(noun)|Acadia|district|territory|territorial dominion|dominion
+acarid|1
+(noun)|mite
+acarus|1
+(noun)|mite
+accede|3
+(verb)|submit|bow|defer|give in|yield|give in|succumb|knuckle under|buckle under
+(verb)|enter|succeed|come after|follow|take office
+(verb)|assent|acquiesce|agree
+accent|7
+(noun)|speech pattern|pronunciation
+(noun)|emphasis|importance|grandness
+(noun)|dialect|idiom|non-standard speech
+(noun)|stress|emphasis|prosody|inflection
+(noun)|accent mark|diacritical mark|diacritic
+(verb)|stress|emphasize|emphasise|punctuate|accentuate|express|show|evince
+(verb)|stress|accentuate|pronounce|articulate|enounce|sound out|enunciate|say
+accept|11
+(verb)|judge
+access|7
+(noun)|entree|accession|admittance|right
+(noun)|right
+(noun)|approach|way
+(noun)|memory access|operation
+(noun)|approach|approaching|coming
+(verb)|recover|retrieve|find|regain
+(verb)|get at|reach|make|attain|hit|arrive at|gain
+accord|6
+(noun)|agreement|harmony|concord|concordance
+(noun)|conformity|accordance|agreement
+(noun)|treaty|pact|written agreement
+(noun)|rapport|compatibility
+(verb)|harmonize|harmonise|consort|concord|fit in|agree|match|fit|correspond|check|jibe|gibe|tally|agree
+(verb)|allot|grant|give
+accost|2
+(verb)|address|come up to|come|come up
+(verb)|hook|solicit|offer
+accrue|2
+(verb)|increase
+(verb)|fall|change hands
+accuse|2
+(verb)|impeach|incriminate|criminate|charge
+(verb)|charge
+acedia|1
+(noun)|sloth|laziness|mortal sin|deadly sin
+acetal|1
+(noun)|organic compound
+acetic|1
+(adj)|carboxylic acid
+acetum|2
+(noun)|acetic acid|ethanoic acid
+(noun)|vinegar|condiment
+acetyl|1
+(noun)|acetyl group|acetyl radical|ethanoyl group|ethanoyl radical|acyl|acyl group
+achene|1
+(noun)|fruit
+acheta|1
+(noun)|Acheta|genus Acheta|arthropod genus
+aching|2
+(adj)|achy|painful 
+(noun)|ache|pain|hurting
+achira|1
+(noun)|indian shot|arrowroot|Canna indica|Canna edulis|canna
+achras|1
+(noun)|Achras|genus Achras|dicot genus|magnoliopsid genus
+acidic|2
+(adj)|acidic |acid|acid-forming
+(adj)|acidulent|acidulous|sour 
+acinar|2
+(adj)|acinous|acinose|acinic|sac
+(adj)|drupelet
+acinic|1
+(adj)|acinar|acinous|acinose|sac
+acinos|1
+(noun)|Acinos|genus Acinos|asterid dicot genus
+acinus|2
+(noun)|drupelet
+(noun)|sac
+aclant|1
+(noun)|Allied Command Atlantic|ACLANT|headquarters
+acorea|1
+(noun)|abnormality|abnormalcy|abnormal condition
+acores|1
+(noun)|Azores|Acores|island
+acorus|1
+(noun)|Acorus|genus Acorus|monocot genus|liliopsid genus
+acquit|2
+(verb)|assoil|clear|discharge|exonerate|exculpate|pronounce|label|judge
+(verb)|behave|bear|deport|conduct|comport|carry|hold|carry|bear|act|move
+across|3
+(adj)|crossed |crosstown|cross-town|decussate|intersectant|intersecting
+(adv)|over
+(adv)|crosswise|crossways
+act as|2
+(verb)|serve|function
+(verb)|act|play|act|behave|do
+act on|2
+(verb)|pursue|follow up on|react|oppose
+(verb)|act|move
+act up|2
+(verb)|carry on|misbehave|misconduct|misdemean
+(verb)|ache|smart|hurt
+actaea|1
+(noun)|Actaea|genus Actaea|magnoliid dicot genus
+actias|1
+(noun)|Actias|genus Actias|arthropod genus
+acting|2
+(adj)|impermanent |temporary
+(noun)|playing|playacting|performing|activity|performing arts
+action|12
+(noun)|act|human action|human activity
+actium|2
+(noun)|Actium|town
+(noun)|Actium|town|naval battle
+active|19
+(adj)|active |progressive
+actual|6
+(adj)|actual |existent|actualized|actualised|very|effective
+(adj)|real |existent
+(adj)|genuine|literal|real|true 
+(adj)|factual|real |existent
+(adj)|de facto |factual
+(adj)|current 
+acuate|1
+(adj)|acute|sharp|needlelike|pointed 
+acuity|2
+(noun)|visual acuity|sharp-sightedness|sight|vision|visual sense|visual modality
+(noun)|acuteness|sharpness|keenness|intelligence
+acular|1
+(noun)|ketorolac tromethamine|Acular|Toradol|nonsteroidal anti-inflammatory|nonsteroidal anti-inflammatory drug|NSAID
+aculea|1
+(noun)|process|outgrowth|appendage
+acumen|2
+(noun)|plant process|enation
+(noun)|insightfulness|shrewdness|astuteness|perspicacity|perspicaciousness
+ad-lib|4
+(adj)|spontaneous|unwritten|unscripted 
+(adj)|extemporaneous|extemporary|extempore|impromptu|offhand|offhanded|off-the-cuff|unrehearsed|unprepared 
+(noun)|remark|comment
+(verb)|improvise|improvize|extemporize|extemporise|perform|execute|do
+ad hoc|2
+(adj)|unplanned 
+(adj)|specific 
+ad lib|1
+(adv)|ad libitum|spontaneously|impromptu
+ad val|1
+(adv)|ad valorem
+adagio|3
+(adj)|slow 
+(noun)|musical composition|opus|composition|piece|piece of music|passage|musical passage
+(noun)|dancing|dance|terpsichore|saltation
+adalia|2
+(noun)|Antalya|Adalia|city|metropolis|urban center|port
+(noun)|Adalia|genus Adalia|arthropod genus
+adapid|1
+(noun)|Adapid|Adapid group|taxonomic group|taxonomic category|taxon
+adapin|1
+(noun)|doxepin|doxepin hydrochloride|Adapin|Sinequan|tricyclic|tricyclic antidepressant|tricyclic antidepressant drug
+add-on|2
+(noun)|addition|improver|component|constituent|element
+(noun)|accessory|appurtenance|supplement|component|constituent|element
+add on|2
+(verb)|add
+(verb)|append|supplement|affix|attach
+add to|1
+(verb)|increase
+add up|4
+(verb)|come|amount|become|turn
+(verb)|total|tot|tot up|sum|sum up|summate|tote up|add|add together|tally|count|number|enumerate|numerate
+(verb)|total|number|come|amount|be
+(verb)|make sense|be
+addend|1
+(noun)|number
+addict|3
+(noun)|nut|freak|junkie|junky|enthusiast|partisan|partizan
+(noun)|drug user|substance abuser|user
+(verb)|hook|habituate|accustom
+addled|2
+(adj)|stale 
+(adj)|befuddled|muddled|muzzy|woolly|wooly|woolly-headed|wooly-minded|confused 
+adduce|1
+(verb)|abduce|cite|testify|bear witness|prove|evidence|show
+adduct|2
+(noun)|compound|chemical compound
+(verb)|pull|draw|force
+adelie|1
+(noun)|Adelie|Adelie penguin|Pygoscelis adeliae|penguin
+adhere|6
+(verb)|match|fit|correspond|check|jibe|gibe|tally|agree
+(verb)|follow through|follow up|follow out|carry out|implement|put through|go through
+(verb)|cling|cleave|stick|cohere|touch|adjoin|meet|contact
+(verb)|stick|adopt|follow|espouse
+(verb)|stand by|stick by|stick|be
+(verb)|hold fast|bond|bind|stick|stick to|attach
+adient|1
+(adj)|adient |urge|impulse
+aditya|1
+(noun)|Aditya|Hindu deity
+adjoin|3
+(verb)|border|edge|abut|march|butt|butt against|butt on|touch|meet|contact
+(verb)|touch|meet|contact
+(verb)|add
+adjure|2
+(verb)|bid|beseech|entreat|press|conjure|plead
+(verb)|charge|saddle|burden
+adjust|5
+(verb)|set|correct|change|alter|modify
+(verb)|align|aline|line up|reorient
+(verb)|conform|adapt|change
+(verb)|adapt|accommodate
+(verb)|decide|settle|resolve|adjudicate
+admass|1
+(noun)|populace|public|world
+admire|2
+(verb)|look up to|respect|esteem|value|prize|prise
+(verb)|look
+adnate|1
+(adj)|adnate 
+adnexa|1
+(noun)|annexa|body part
+adnoun|1
+(noun)|common noun
+adonic|1
+(noun)|Adonic|Adonic line|verse|verse line
+adonis|3
+(noun)|man|adult male
+(noun)|Adonis|genus Adonis|magnoliid dicot genus
+(noun)|Adonis|daemon|demigod
+adored|1
+(adj)|idolized|idolised|worshipped|loved 
+adorer|1
+(noun)|admirer|lover
+adrian|2
+(noun)|Hadrian|Publius Aelius Hadrianus|Adrian|Roman Emperor|Emperor of Rome
+(noun)|Adrian|Edgar Douglas Adrian|Baron Adrian|physiologist
+adrift|2
+(adj)|afloat|aimless|directionless|planless|rudderless|undirected|purposeless 
+(adj)|drifting|afloat 
+adroit|2
+(adj)|clever|ingenious|artful 
+(adj)|adroit |clean|neat|coordinated|deft|dexterous|dextrous|handy|light-fingered|nimble-fingered|clever|cunning|ingenious|quick-witted|artful
+adsorb|1
+(verb)|sorb|take up
+advect|1
+(verb)|transport
+advent|3
+(noun)|coming|arrival|reaching
+(noun)|Advent|season
+(noun)|Second Coming|Second Coming of Christ|Second Advent|Advent|Parousia|manifestation
+adverb|2
+(noun)|major form class
+(noun)|modifier|qualifier
+advert|4
+(noun)|ad|advertisement|advertizement|advertising|advertizing|promotion|publicity|promotional material|packaging
+(verb)|attend|hang|pay heed|give ear|listen
+(verb)|allude|touch|hint|suggest
+(verb)|mention|bring up|cite|name|refer|think of|have in mind|mean
+advice|1
+(noun)|proposal
+advise|3
+(verb)|counsel|hash out|discuss|talk over
+(verb)|notify|give notice|send word|apprise|apprize|inform
+(verb)|propose|suggest|declare
+adzhar|1
+(noun)|Adzhar|Adzharia|state|province
+aecial|1
+(adj)|fruiting body
+aecium|1
+(noun)|fruiting body
+aegean|3
+(adj)|Aegean|culture|civilization|civilisation
+(adj)|Aegean|sea
+(noun)|Aegean|Aegean Sea|sea
+aegina|2
+(noun)|Aegina|Aigina|Aegean island
+(noun)|Aegina|jellyfish|medusa|medusan
+aeneas|1
+(noun)|Aeneas|mythical being
+aeneid|1
+(noun)|Aeneid|epic poem|heroic poem|epic|epos
+aengus|1
+(noun)|Angus Og|Aengus|Oengus|Angus|Celtic deity
+aeolia|1
+(noun)|Aeolis|Aeolia|seashore|coast|seacoast|sea-coast
+aeolic|1
+(noun)|Aeolic|Eolic|Ancient Greek
+aeolis|1
+(noun)|Aeolis|Aeolia|seashore|coast|seacoast|sea-coast
+aeolus|1
+(noun)|Aeolus|Greek deity
+aerate|3
+(verb)|air out|air|expose
+(verb)|activate|change|alter|modify
+(verb)|oxygenate|oxygenize|oxygenise|process|treat
+aerial|5
+(adj)|air 
+(adj)|air 
+(adj)|aeriform|airy|aery|ethereal|insubstantial |unsubstantial|unreal
+(noun)|forward pass|pass|passing play|passing game|passing
+(noun)|antenna|transmitting aerial|electrical device
+aerify|1
+(verb)|gasify|vaporize|vaporise|change integrity
+aerobe|1
+(noun)|organism|being
+aertex|1
+(noun)|Aertex|fabric|cloth|material|textile
+aether|2
+(noun)|Aether|Greek deity
+(noun)|ether|medium
+afeard|1
+(adj)|afeared|afraid 
+affair|3
+(noun)|matter|thing|concern
+(noun)|affaire|intimacy|liaison|involvement|amour|sexual relationship
+(noun)|occasion|social occasion|function|social function|social event
+affect|6
+(noun)|feeling
+(verb)|impact|bear upon|bear on|touch on|touch|change|alter|modify
+(verb)|change|alter|modify
+(verb)|involve|regard|refer|pertain|relate|concern|come to|bear on|touch|touch on
+(verb)|feign|sham|pretend|dissemble|misrepresent|belie
+(verb)|impress|move|strike
+affine|2
+(adj)|affinal|related 
+(noun)|kin|kinsperson|family
+affirm|2
+(verb)|confirm|corroborate|sustain|substantiate|support
+(verb)|verify|assert|avow|aver|swan|swear|declare
+afford|3
+(verb)|spend|expend|drop
+(verb)|yield|give|supply|provide|render|furnish
+(verb)|open|give
+affray|2
+(noun)|altercation|fracas|quarrel|wrangle|row|words|run-in|dustup
+(noun)|disturbance|fray|ruffle|fight|fighting|combat|scrap
+afghan|6
+(adj)|Afghani|Afghan|Afghanistani|Asian country|Asian nation
+(noun)|blanket|cover
+(noun)|Afghan|Afghanistani|Asian|Asiatic
+(noun)|Pashto|Pashtu|Paxto|Afghani|Afghan|Iranian|Iranian language
+(noun)|sheepskin coat|coat
+(noun)|Afghan hound|Afghan|hound|hound dog
+afield|1
+(adv)|abroad
+aflame|2
+(adj)|ablaze|aroused|turned on|passionate 
+(adj)|ablaze|afire|aflare|alight|blazing|burning|flaming|on fire|lighted |lit
+aflare|2
+(adj)|flaring|flying|waving|moving 
+(adj)|ablaze|afire|aflame|alight|blazing|burning|flaming|on fire|lighted |lit
+afloat|3
+(adj)|adrift|aimless|directionless|planless|rudderless|undirected|purposeless 
+(adj)|afloat |adrift|drifting|at sea|sailing|floating|waterborne
+(adj)|awash|flooded|inundated|overflowing|full 
+afraid|4
+(adj)|afraid |acrophobic|afeard|afeared|aghast|appalled|dismayed|shocked|agoraphobic|alarmed|algophobic|apprehensive|browbeaten|bullied|cowed|hangdog|intimidated|claustrophobic|fearful|frightened|scared|horrified|horror-stricken|horror-struck|hunted|hydrophobic|aquaphobic|mysophobic|panicky|panicked|panic-stricken|panic-struck|terrified|frightened|petrified|numb|terror-stricken|terror-struck|triskaidekaphobic|unnerved|white-lipped|xenophobic|shitless|cowardly|fearful|timid
+(adj)|concerned 
+(adj)|concerned 
+(adj)|disinclined 
+afresh|1
+(adv)|anew
+africa|1
+(noun)|Africa|continent
+afters|1
+(noun)|dessert|sweet|course
+agamic|1
+(adj)|agamous|agamogenetic|apomictic|parthenogenetic|asexual |nonsexual
+agamid|1
+(noun)|agamid lizard|lizard
+agaric|2
+(noun)|Fomes igniarius|fungus
+(noun)|basidiomycete|basidiomycetous fungi
+ageing|3
+(adj)|aging|senescent|old 
+(noun)|ripening|aging|organic process|biological process
+(noun)|aging|senescence|organic process|biological process
+ageism|1
+(noun)|agism|discrimination|favoritism|favouritism
+agency|5
+(noun)|federal agency|government agency|bureau|office|authority|administrative unit|administrative body
+(noun)|business|concern|business concern|business organization|business organisation
+(noun)|action|activity|activeness
+(noun)|representation|delegacy|state
+(noun)|means|way|implementation|effectuation
+agenda|2
+(noun)|docket|schedule|plan|program|programme
+(noun)|agendum|order of business|list|listing
+aggeus|2
+(noun)|Haggai|Aggeus|prophet
+(noun)|Haggai|Aggeus|Book of Haggai|book
+aghast|1
+(adj)|appalled|dismayed|shocked|afraid 
+aglaia|1
+(noun)|Aglaia|Grace
+agleam|1
+(adj)|gleaming|nitid|bright 
+agnail|1
+(noun)|hangnail|skin|tegument|cutis
+agnate|2
+(adj)|agnatic|paternal|related 
+(noun)|patrikin|patrilineal kin|patrisib|patrilineal sib|relative|relation
+agnise|1
+(verb)|recognize|recognise|realize|realise|agnize|know|cognize|cognise
+agnize|1
+(verb)|recognize|recognise|realize|realise|agnise|know|cognize|cognise
+agonal|1
+(adj)|suffering|hurt
+agonus|1
+(noun)|Agonus|genus Agonus|fish genus
+agouti|1
+(noun)|Dasyprocta aguti|rodent|gnawer|gnawing animal
+agreed|1
+(adj)|in agreement|united 
+aguish|1
+(adj)|ill |sick
+ahimsa|1
+(noun)|religious doctrine|church doctrine|gospel|creed
+ahorse|2
+(adj)|ahorseback|moving 
+(adv)|horseback|ahorseback
+ahpcrc|1
+(noun)|Army High Performance Computing Research Center|AHPCRC|agency|federal agency|government agency|bureau|office|authority
+aigina|1
+(noun)|Aegina|Aigina|Aegean island
+aiglet|2
+(noun)|aglet|sheath
+(noun)|aglet|aiguilette|braid|gold braid|braiding
+aigret|1
+(noun)|aigrette|plume
+aikido|1
+(noun)|martial art
+ailing|1
+(adj)|indisposed|peaked|poorly|sickly|unwell|under the weather|ill |sick
+airbus|1
+(noun)|airliner
+airgun|1
+(noun)|air gun|air rifle|gun
+airily|1
+(adv)|flippantly
+airing|3
+(noun)|dissemination|public exposure|spreading|transmission
+(noun)|excursion|jaunt|outing|junket|pleasure trip|expedition|sashay
+(noun)|ventilation|improvement
+airman|1
+(noun)|aviator|aeronaut|flier|flyer|skilled worker|trained worker
+airway|3
+(noun)|air passage|air duct|duct
+(noun)|air lane|flight path|skyway|path|route|itinerary
+(noun)|airline|airline business|line
+akimbo|1
+(adj)|crooked 
+akmola|1
+(noun)|Astana|Akmola|capital of Kazakhstan|capital
+alalia|1
+(noun)|paralysis|palsy
+alaric|1
+(noun)|Alaric|king|male monarch
+alarum|1
+(noun)|alarm|alert|warning signal|signal|signaling|sign
+alaska|1
+(noun)|Alaska|Last Frontier|AK|American state
+alated|1
+(adj)|alate|winged 
+alauda|1
+(noun)|Alauda|genus Alauda|bird genus
+albany|2
+(noun)|Albany|capital of New York|state capital
+(noun)|Albany|town
+albedo|1
+(noun)|reflective power|ratio
+albers|1
+(noun)|Albers|Josef Albers|abstractionist|abstract artist
+albert|1
+(noun)|Albert|Prince Albert|Albert Francis Charles Augustus Emmanuel|prince consort
+albino|1
+(noun)|anomaly|unusual person
+albion|1
+(noun)|Albion|England|Great Britain
+albite|1
+(noun)|white feldspar|plagioclase|oligoclase
+alborg|1
+(noun)|Aalborg|Alborg|city|metropolis|urban center|port
+albuca|1
+(noun)|liliaceous plant
+albugo|1
+(noun)|Albugo|genus Albugo|fungus genus
+albula|1
+(noun)|Albula|genus Albula|fish genus
+alcaic|1
+(noun)|Alcaic|Alcaic verse|poem|verse form
+alcedo|1
+(noun)|Alcedo|genus Alcedo|bird genus
+alcott|1
+(noun)|Alcott|Louisa May Alcott|novelist
+alcove|1
+(noun)|bay|recess|niche
+aldose|1
+(noun)|monosaccharide|monosaccharose|simple sugar
+alecto|1
+(noun)|Alecto|Fury|Eumenides|Erinyes
+aleppo|1
+(noun)|Aleppo|Alep|city|metropolis|urban center
+alexia|1
+(noun)|visual aphasia|word blindness|aphasia
+alexic|2
+(adj)|word-blind|aphasia
+(noun)|patient
+alfred|1
+(noun)|Alfred|AElfred|Alfred the Great|king|male monarch
+algoid|1
+(adj)|protoctist
+algren|1
+(noun)|Algren|Nelson Algren|writer|author
+alidad|2
+(noun)|alidade|surveying instrument|surveyor's instrument
+(noun)|alidade|surveying instrument|surveyor's instrument
+alight|3
+(adj)|ablaze|afire|aflame|aflare|blazing|burning|flaming|on fire|lighted |lit
+(verb)|light|perch|land|set down
+(verb)|climb down|descend|fall|go down|come down
+alisma|1
+(noun)|Alisma|genus Alisma|monocot genus|liliopsid genus
+aliyah|2
+(noun)|award|accolade|honor|honour|laurels
+(noun)|immigration|in-migration
+alkali|2
+(noun)|base|compound|chemical compound
+(noun)|salt
+alkane|1
+(noun)|methane series|alkane series|paraffin|aliphatic compound
+alkene|1
+(noun)|olefine|olefin|aliphatic compound
+alkyne|1
+(noun)|acetylene|ethyne|aliphatic compound
+all in|1
+(adj)|beat|bushed|dead|tired 
+allege|1
+(verb)|aver|say|assert|asseverate|maintain
+allele|1
+(noun)|allelomorph|gene|cistron|factor
+allice|1
+(noun)|allice shad|allis shad|allis|Alosa alosa|shad
+allied|3
+(adj)|related 
+(adj)|confederate|confederative|united 
+(adj)|aligned 
+allies|5
+(noun)|Allies|alliance|coalition|alignment|alinement
+(noun)|Allies|alliance|coalition|alignment|alinement
+(noun)|alliance|coalition|alignment|alinement
+(noun)|ally|state|nation|country|land|commonwealth|res publica|body politic
+(noun)|ally|friend|associate
+allium|1
+(noun)|Allium|genus Allium|liliid monocot genus
+allude|1
+(verb)|touch|advert|hint|suggest
+allure|2
+(noun)|allurement|temptingness|attraction|attractiveness
+(verb)|tempt|invite|bid
+almaty|1
+(noun)|Almaty|Alma-Ata|city|metropolis|urban center
+almond|2
+(noun)|sweet almond|Prunus dulcis|Prunus amygdalus|Amygdalus communis|almond tree
+(noun)|edible nut|drupe|stone fruit
+almost|1
+(adv)|about|just about|most|all but|nearly|near|nigh|virtually|well-nigh
+alnico|1
+(noun)|Alnico|alloy|metal
+alonso|1
+(noun)|Alonso|Alicia Alonso|dancer|professional dancer|choreographer
+alopex|1
+(noun)|Alopex|genus Alopex|mammal genus
+alpaca|3
+(noun)|wool
+(noun)|fabric|cloth|material|textile
+(noun)|Lama pacos|llama
+alpena|1
+(noun)|Alpena|town|port
+alpine|3
+(adj)|mountain|mount
+(adj)|Alpine|range|mountain range|range of mountains|chain|mountain chain|chain of mountains
+(adj)|upland 
+alsace|1
+(noun)|Alsace|Alsatia|Elsass|French region
+altaic|3
+(adj)|Altaic|Ural-Altaic
+(noun)|Altaic|Asian|Asiatic
+(noun)|Altaic|Altaic language|Ural-Altaic
+altair|1
+(noun)|Altair|binary star|binary|double star
+althea|1
+(noun)|althaea|hollyhock|mallow
+alular|1
+(adj)|feather|plume|plumage
+alumna|1
+(noun)|alumnus|alum|graduate|grad|scholar|scholarly person|student
+alvine|1
+(adj)|internal organ|viscus
+always|2
+(adv)|ever|e'er
+(adv)|forever
+alytes|1
+(noun)|Alytes|genus Alytes|amphibian genus
+amazed|1
+(adj)|astonied|astonished|astounded|stunned|surprised 
+amazon|4
+(noun)|virago|woman|adult female
+(noun)|Amazon|mythical being
+(noun)|Amazon|Amazon River|river
+(noun)|parrot
+ambage|1
+(noun)|circumlocution|periphrasis|verboseness|verbosity
+ambler|1
+(noun)|saunterer|stroller|pedestrian|walker|footer
+ambush|3
+(noun)|ambuscade|lying in wait|trap|surprise attack|coup de main
+(verb)|scupper|bushwhack|waylay|lurk|ambuscade|lie in wait|wait
+(verb)|still-hunt|hunt|run|hunt down|track down
+ameban|1
+(adj)|amoebic|amebic|amoeban|amoebous|amebous|rhizopod|rhizopodan
+amebic|1
+(adj)|amoebic|amoeban|ameban|amoebous|amebous|rhizopod|rhizopodan
+amelia|1
+(noun)|birth defect|congenital anomaly|congenital defect|congenital disorder|congenital abnormality
+amends|2
+(noun)|damages|indemnity|indemnification|restitution|redress|compensation
+(noun)|reparation|expiation|atonement|propitiation
+amenia|1
+(noun)|amenorrhea|amenorrhoea|symptom
+amerce|2
+(verb)|punish|penalize|penalise
+(verb)|ticket|fine
+amhara|1
+(noun)|Amhara|Ethiopian
+aminic|1
+(adj)|amino|methane series|alkane series|alkane|paraffin
+ammine|1
+(noun)|compound|chemical compound
+ammino|1
+(adj)|compound|chemical compound
+amnion|1
+(noun)|amniotic sac|amnios|sac
+amnios|2
+(noun)|amnion|amniotic sac|sac
+(noun)|amniocentesis|amnio|centesis|prenatal diagnosis
+amoeba|1
+(noun)|ameba|rhizopod|rhizopodan
+amoral|1
+(adj)|amoral |unmoral|neutral|nonmoral
+amount|6
+(noun)|magnitude
+(noun)|sum|sum of money|amount of money|assets
+(noun)|measure|quantity|abstraction
+(noun)|sum|total|quantity
+(verb)|total|number|add up|come|be
+(verb)|come|add up|become|turn
+amoxil|1
+(noun)|amoxicillin|Amoxil|Larotid|Polymox|Trimox|Augmentin|penicillin
+ampere|2
+(noun)|international ampere|current unit
+(noun)|amp|A|current unit
+ampule|1
+(noun)|phial|vial|ampul|ampoule|bottle
+amulet|1
+(noun)|talisman|charm|good luck charm
+amused|1
+(adj)|diverted|entertained|pleased 
+amylum|1
+(noun)|starch|polysaccharide|polyose
+amytal|1
+(noun)|amobarbital sodium|blue|blue angel|blue devil|Amytal|amobarbital
+amyxia|1
+(noun)|physiological state|physiological condition
+anabas|1
+(noun)|Anabas|genus Anabas|fish genus
+analog|2
+(adj)|analogue |linear
+(noun)|analogue|parallel|similarity
+ananas|2
+(noun)|Ananas|genus Ananas|monocot genus|liliopsid genus
+(noun)|pineapple|edible fruit
+anchor|5
+(noun)|ground tackle|hook|claw
+(noun)|mainstay|keystone|backbone|linchpin|lynchpin|support
+(noun)|anchorman|anchorperson|television reporter|television newscaster|TV reporter|TV newsman
+(verb)|ground|fasten|fix|secure
+(verb)|cast anchor|drop anchor|fasten|fix|secure
+and so|1
+(adv)|then|so|and then
+andean|1
+(adj)|Andean|range|mountain range|range of mountains|chain|mountain chain|chain of mountains
+andira|1
+(noun)|Andira|genus Andira|rosid dicot genus
+andrew|1
+(noun)|Andrew|Saint Andrew|St. Andrew|Saint Andrew the Apostle|Apostle|saint
+anemia|3
+(noun)|anaemia|blood disease|blood disorder
+(noun)|anaemia|symptom
+(noun)|Anemia|genus Anemia|fern genus
+anemic|2
+(adj)|anaemic|weak 
+(adj)|anaemic|blood disease|blood disorder
+anergy|2
+(noun)|immunological disorder
+(noun)|inaction|inactivity|inactiveness
+angina|2
+(noun)|inflammatory disease
+(noun)|angina pectoris|heart disease|heart condition|cardiopathy
+angled|1
+(adj)|angular |angulate
+angler|3
+(noun)|schemer|plotter
+(noun)|troller|fisherman|fisher
+(noun)|goosefish|anglerfish|angler fish|monkfish|lotte|allmouth|Lophius Americanus|spiny-finned fish|acanthopterygian
+anglia|1
+(noun)|Anglia|England
+angola|1
+(noun)|Angola|Republic of Angola|African country|African nation
+angora|3
+(noun)|Angora|Angora goat|domestic goat|Capra hircus
+(noun)|Angora|Angora rabbit|rabbit|coney|cony
+(noun)|Angora|Angora cat|domestic cat|house cat|Felis domesticus|Felis catus
+anguis|1
+(noun)|Anguis|genus Anguis|reptile genus
+anhima|1
+(noun)|Anhima|genus Anhima|bird genus
+animal|3
+(adj)|carnal|fleshly|sensual|physical 
+(adj)|animal |animallike|birdlike|cranelike|fishlike|horselike|insectlike
+(noun)|animate being|beast|brute|creature|fauna|organism|being
+animus|1
+(noun)|animosity|bad blood|hostility|enmity|ill will
+ankara|1
+(noun)|Ankara|Turkish capital|capital of Turkey|national capital
+anklet|3
+(noun)|shoe
+(noun)|anklets|bobbysock|bobbysocks|sock
+(noun)|ankle bracelet|bracelet|bangle
+anlage|1
+(noun)|primordium|organ
+annaba|1
+(noun)|Annaba|city|metropolis|urban center|port
+annals|2
+(noun)|journal
+(noun)|chronological record|history|account|chronicle|story
+anneal|1
+(verb)|temper|normalize|toughen
+annexa|1
+(noun)|adnexa|body part
+annexe|1
+(noun)|annex|extension|wing|addition|add-on|improver
+annona|1
+(noun)|Annona|genus Annona|magnoliid dicot genus
+annual|4
+(adj)|yearly|time period|period of time|period
+(adj)|annual |one-year
+(noun)|plant|flora|plant life
+(noun)|yearbook|reference book|reference|reference work|book of facts
+annwfn|1
+(noun)|Annwfn|Annwn|imaginary place|mythical place
+anodal|1
+(adj)|anodic |electrode
+anodic|1
+(adj)|anodic |anodal|electrode
+anoint|1
+(verb)|inunct|oil|anele|embrocate|bless
+anolis|1
+(noun)|Anolis|genus Anolis|reptile genus
+anomia|2
+(noun)|nominal aphasia|anomic aphasia|amnesic aphasia|amnestic aphasia|aphasia
+(noun)|Anomia|genus Anomia|mollusk genus
+anomic|1
+(adj)|alienated|disoriented|unoriented 
+anomie|2
+(noun)|anomy|isolation
+(noun)|anomy|immorality
+anonym|1
+(noun)|pseudonym|nom de guerre|name
+anopia|1
+(noun)|blindness|sightlessness|cecity
+anorak|1
+(noun)|parka|windbreaker|windcheater|jacket
+anoxia|1
+(noun)|hypoxia
+anoxic|1
+(adj)|hypoxia
+ansaid|1
+(noun)|flurbiprofen|Ansaid|nonsteroidal anti-inflammatory|nonsteroidal anti-inflammatory drug|NSAID
+anselm|1
+(noun)|Anselm|Saint Anselm|St. Anselm|archbishop|saint
+anshar|1
+(noun)|Anshar|Semitic deity
+answer|15
+(noun)|reply|response|statement
+anthem|2
+(noun)|song
+(noun)|hymn|religious song
+anther|1
+(noun)|reproductive structure
+anthus|1
+(noun)|Anthus|genus Anthus|bird genus
+antido|1
+(noun)|Antido|artificial language
+antler|1
+(noun)|horn
+antlia|1
+(noun)|Antlia|constellation
+antony|1
+(noun)|Antony|Anthony|Mark Antony|Mark Anthony|Antonius|Marcus Antonius|general|full general
+antrum|1
+(noun)|cavity|bodily cavity|cavum
+anubis|1
+(noun)|Anubis|Egyptian deity
+anulus|1
+(noun)|ring|halo|annulus|doughnut|anchor ring|toroid
+anuran|2
+(adj)|batrachian|salientian|animal order
+(noun)|frog|toad|toad frog|batrachian|salientian|amphibian
+anuria|1
+(noun)|anuresis|illness|unwellness|malady|sickness
+anuric|1
+(adj)|anuretic|illness|unwellness|malady|sickness
+anvers|1
+(noun)|Antwerpen|Antwerp|Anvers|city|metropolis|urban center|port
+anyhow|2
+(adv)|anyway|in any case|at any rate|in any event
+(adv)|anyway
+anyway|2
+(adv)|anyhow|in any case|at any rate|in any event
+(adv)|anyhow
+ao dai|1
+(noun)|attire|garb|dress
+aorist|1
+(noun)|tense
+aortal|1
+(adj)|aortic|artery|arteria|arterial blood vessel
+aortic|1
+(adj)|aortal|artery|arteria|arterial blood vessel
+aoudad|1
+(noun)|arui|audad|Barbary sheep|maned sheep|Ammotragus lervia|wild sheep
+apache|3
+(noun)|Apache|Athapaskan|Athapascan|Athabaskan|Athabascan
+(noun)|gangster|mobster
+(noun)|Apache|Athapaskan|Athapascan|Athabaskan|Athabascan|Athapaskan language
+apathy|2
+(noun)|feeling
+(noun)|indifference|spiritlessness|passivity|passiveness
+apercu|1
+(noun)|outline|synopsis|abstract|precis
+aperea|1
+(noun)|wild cavy|Cavia porcellus|cavy
+apiary|1
+(noun)|bee house|shed
+apical|1
+(adj)|top 
+apidae|1
+(noun)|Apidae|family Apidae|arthropod family
+apiece|1
+(adv)|each|to each one|for each one|from each one
+aplite|1
+(noun)|igneous rock
+aplomb|1
+(noun)|assuredness|cool|poise|sang-froid|composure|calm|calmness|equanimity
+apneic|1
+(adj)|apnoeic|symptom
+apodal|1
+(adj)|apodous|footless 
+apogee|2
+(noun)|culmination|phase|stage
+(noun)|apoapsis|point of apoapsis
+apogon|1
+(noun)|Apogon|genus Apogon|fish genus
+apollo|1
+(noun)|Apollo|Phoebus|Phoebus Apollo|Greek deity
+appall|2
+(verb)|shock|offend|scandalize|scandalise|appal|outrage|disgust|revolt|nauseate|sicken|churn up
+(verb)|dismay|alarm|appal|horrify|frighten|fright|scare|affright
+appeal|9
+(noun)|entreaty|prayer|request|asking
+(noun)|appealingness|charm|attractiveness
+(noun)|proceeding|legal proceeding|proceedings
+(noun)|solicitation|collection|ingathering|request|petition|postulation
+(verb)|challenge
+(verb)|invoke|request|bespeak|call for|quest
+(verb)|attract
+(verb)|challenge|take exception
+(verb)|invoke|mention|advert|bring up|cite|name|refer
+appear|5
+(verb)|look|seem|be
+(verb)|come out|happen|materialize|materialise
+(verb)|seem|be
+(verb)|come along
+(verb)|perform|execute|do
+append|3
+(verb)|add on|supplement|affix|attach
+(verb)|tag on|tack on|tack|hang on|attach
+(verb)|add|supply|state|say|tell
+applet|1
+(noun)|application|application program|applications programme
+appose|1
+(verb)|put|set|place|pose|position|lay
+apulia|1
+(noun)|Puglia|Apulia|Italian region
+aquila|3
+(noun)|Aquila|constellation
+(noun)|Aquila|L'Aquila|Aquila degli Abruzzi|city|metropolis|urban center
+(noun)|Aquila|genus Aquila|bird genus
+arabia|1
+(noun)|Arabian Peninsula|Arabia|peninsula
+arabic|2
+(adj)|Arabic|Semite
+(noun)|Arabic|Arabic language|Semitic
+arabis|1
+(noun)|Arabis|genus Arabis|dilleniid dicot genus
+arable|1
+(adj)|cultivable|cultivatable|tillable|productive 
+arafat|1
+(noun)|Arafat|Yasser Arafat|statesman|solon|national leader
+aragon|2
+(noun)|Aragon|Louis Aragon|writer|author
+(noun)|Aragon|district|territory|territorial dominion|dominion
+arales|1
+(noun)|Arales|order Arales|plant order
+aralia|1
+(noun)|woody plant|ligneous plant
+aramus|1
+(noun)|Aramus|genus Aramus|bird genus
+aranea|1
+(noun)|Aranea|genus Aranea|Araneus|genus Araneus|arthropod genus
+ararat|1
+(noun)|Ararat|Mount Ararat|Mt. Ararat|mountain peak
+arauca|1
+(noun)|Arauca|river
+arawak|2
+(noun)|Arawak|Arawakan|Amerindian|Native American
+(noun)|Arawak|Arawakan|Amerind|Amerindian language|American-Indian language|American Indian|Indian
+araxes|1
+(noun)|Aras|Araxes|river
+arbour|1
+(noun)|arbor|bower|pergola|framework|frame|framing
+arcade|2
+(noun)|passageway
+(noun)|colonnade|structure|construction
+arcane|1
+(adj)|esoteric 
+arched|2
+(adj)|structure|construction
+(adj)|arced|arching|arciform|arcuate|bowed|curved |curving
+archer|3
+(noun)|bowman|expert
+(noun)|Sagittarius|Archer|person|individual|someone|somebody|mortal|human|soul
+(noun)|Sagittarius|Sagittarius the Archer|Archer|sign of the zodiac|star sign|sign|mansion|house|planetary house
+archil|2
+(noun)|orchil|cudbear|dye|dyestuff
+(noun)|orchil|lecanora
+archly|1
+(adv)|in an arch manner
+arctic|5
+(adj)|north-polar|Arctic|polar 
+(adj)|Frigid Zone|polar zone
+(adj)|frigid|gelid|glacial|icy|polar|cold 
+(noun)|Arctic|Arctic Zone|North Frigid Zone|Frigid Zone|polar zone
+(noun)|galosh|golosh|rubber|gumshoe|overshoe
+ardent|3
+(adj)|burning|fervent|fervid|fiery|impassioned|perfervid|torrid|passionate 
+(adj)|warm|enthusiastic 
+(adj)|bright 
+ardour|3
+(noun)|ardor|elan|zeal|eagerness|avidity|avidness|keenness
+(noun)|ardor|love
+(noun)|ardor|fervor|fervour|fervency|fire|fervidness|passion|passionateness
+arendt|1
+(noun)|Arendt|Hannah Arendt|historian|historiographer|philosopher
+arenga|1
+(noun)|Arenga|genus Arenga|plant genus
+areola|2
+(noun)|interstice
+(noun)|ring of color|area|region
+argali|1
+(noun)|argal|Ovis ammon|wild sheep
+argent|2
+(adj)|silver|silvery|silverish|achromatic 
+(noun)|tincture
+argive|1
+(adj)|Argive|city|metropolis|urban center
+argosy|1
+(noun)|fleet
+arguer|1
+(noun)|debater|disputant|controversialist|eristic
+argufy|1
+(verb)|quarrel|dispute|scrap|altercate|argue|contend|debate|fence
+argyle|3
+(noun)|argyll|gravy boat|gravy holder|sauceboat|boat
+(noun)|argyll|design|pattern|figure
+(noun)|argyles|argyll|argylls|sock
+argyll|3
+(noun)|argyle|gravy boat|gravy holder|sauceboat|boat
+(noun)|argyle|design|pattern|figure
+(noun)|argyle|argyles|argylls|sock
+arhant|1
+(noun)|Arhat|Arhant|lohan|deity|divinity|god|immortal
+ariana|1
+(noun)|Ariana|city|metropolis|urban center
+aright|1
+(adv)|correctly|right
+ariled|1
+(adj)|arillate|covered 
+arilus|1
+(noun)|Arilus|genus Arilus|arthropod genus
+ariose|1
+(adj)|songlike|melodious |melodic|musical
+arioso|1
+(noun)|recitative
+arista|1
+(noun)|process|outgrowth|appendage
+arjuna|1
+(noun)|Arjuna|mythical being
+armada|1
+(noun)|fleet
+armful|1
+(noun)|containerful
+arming|1
+(noun)|armament|equipping|mobilization|mobilisation|militarization|militarisation
+armlet|1
+(noun)|arm band|band
+armory|4
+(noun)|armoury|inventory|resource|resourcefulness|imagination
+(noun)|arsenal|armoury|armament
+(noun)|arsenal|armoury|military installation
+(noun)|armoury|arsenal|foundry|metalworks
+armour|4
+(noun)|armor|military unit|military force|military group|force
+(noun)|armor|protective covering|protective cover|protection
+(noun)|armor|protective covering
+(verb)|armor|equip|fit|fit out|outfit
+armpit|1
+(noun)|axilla|axillary cavity|axillary fossa|cavity|bodily cavity|cavum
+arnhem|1
+(noun)|Arnhem|city|metropolis|urban center
+arnica|3
+(noun)|tincture
+(noun)|herb|herbaceous plant
+(noun)|ointment|unction|unguent|balm|salve
+arnold|2
+(noun)|Arnold|Matthew Arnold|poet|literary critic
+(noun)|Arnold|Benedict Arnold|general|full general|traitor|treasonist
+arouet|1
+(noun)|Voltaire|Arouet|Francois-Marie Arouet|writer|author
+around|6
+(adv)|about
+(adv)|about
+(adv)|approximately|about|close to|just about|some|roughly|more or less|or so
+(adv)|about
+(adv)|about
+(adv)|round
+arouse|7
+(verb)|elicit|enkindle|kindle|evoke|fire|raise|provoke|make|create
+(verb)|wake up|awake|awaken|wake|come alive|waken|change state|turn
+(verb)|raise|conjure|conjure up|invoke|evoke|stir|call down|bring up|put forward|call forth|make|create
+(verb)|stimulate|brace|energize|energise|perk up|affect
+(verb)|awaken|wake|waken|rouse|wake up|change|alter|modify
+(verb)|stir|move
+(verb)|sex|excite|turn on|wind up|stimulate|shake|shake up|excite|stir
+arpent|1
+(noun)|area unit|square measure
+arrack|1
+(noun)|arak|liquor|spirits|booze|hard drink|hard liquor|John Barleycorn|strong drink
+arrant|1
+(adj)|complete|consummate|double-dyed|everlasting|gross|perfect|pure|sodding|stark|staring|thoroughgoing|utter|unmitigated 
+arrest|6
+(noun)|apprehension|catch|collar|pinch|taking into custody|capture|gaining control|seizure
+(noun)|check|halt|hitch|stay|stop|stoppage|inaction|inactivity|inactiveness
+(verb)|collar|nail|apprehend|pick up|nab|cop|seize|prehend|clutch
+(verb)|check|turn back|stop|contain|hold back|defend
+(verb)|catch|get|attract|pull|pull in|draw|draw in
+(verb)|halt|hold|stop
+arrive|2
+(verb)|get|come
+(verb)|make it|get in|go far|succeed|win|come through|bring home the bacon|deliver the goods
+arroba|2
+(noun)|weight unit|weight
+(noun)|liquid unit|liquid measure
+arroyo|1
+(noun)|gully
+arsine|1
+(noun)|gas
+artery|2
+(noun)|arteria|arterial blood vessel|blood vessel
+(noun)|thoroughfare
+artful|2
+(adj)|disingenuous |distorted|misrepresented|perverted|twisted|insincere
+(adj)|artful |adroit|clever|ingenious|Byzantine|crafty|cunning|dodgy|foxy|guileful|knavish|slick|sly|tricksy|tricky|wily|cute|precious|deep|designing|scheming|manipulative|pawky|elusive|evasive|adroit
+arthur|2
+(noun)|Arthur|Chester A. Arthur|Chester Alan Arthur|President Arthur|President of the United States|United States President|President|Chief Executive
+(noun)|Arthur|King Arthur|fictional character|fictitious character|character
+artist|1
+(noun)|creative person|creator
+artois|1
+(noun)|Artois|French region
+arundo|1
+(noun)|Arundo|genus Arundo|monocot genus|liliopsid genus
+as yet|1
+(adv)|so far|thus far|up to now|hitherto|heretofore|yet|til now|until now
+asadha|1
+(noun)|Asarh|Asadha|Hindu calendar month
+asanga|1
+(noun)|Asanga|religious leader
+asarum|1
+(noun)|Asarum|genus Asarum|dicot genus|magnoliopsid genus
+ascend|6
+(verb)|go up|travel|go|move|locomote
+(verb)|go back|date back|date from
+(verb)|accede|enter
+(verb)|follow|travel along
+(verb)|slope|incline|pitch
+(verb)|rise|come up|uprise|rise|lift|arise|move up|go up|come up|uprise
+ascent|3
+(noun)|acclivity|rise|raise|climb|upgrade|slope|incline|side
+(noun)|rise|rising|ascension|change of location|travel
+(noun)|rise|ascension|ascending|motion|movement|move
+ascoma|1
+(noun)|ascocarp
+asgard|1
+(noun)|Asgard|imaginary place|mythical place
+ashbin|1
+(noun)|ashcan|trash can|garbage can|wastebin|ash bin|ash-bin|dustbin|trash barrel|trash bin|bin
+ashcan|1
+(noun)|trash can|garbage can|wastebin|ash bin|ash-bin|ashbin|dustbin|trash barrel|trash bin|bin
+ashlar|1
+(noun)|stone|building block
+ashore|1
+(adv)|on land|toward land|onto land
+ashton|1
+(noun)|Ashton|Sir Frederick Ashton|choreographer
+asimov|1
+(noun)|Asimov|Isaac Asimov|writer|author
+ask in|1
+(verb)|invite|request|bespeak|call for|quest
+askant|1
+(adj)|askance|asquint|squint|squint-eyed|squinty|sidelong|indirect 
+asking|2
+(adj)|interrogative 
+(noun)|request|speech act
+aslant|2
+(adj)|aslope|diagonal|slanted|slanting|sloped|sloping|inclined 
+(adv)|obliquely|athwart
+asleep|3
+(adj)|asleep |at rest|dormant|hibernating|torpid|drowsy|drowsing|dozy|fast asleep|sound asleep|hypnoid|sleepy|sleepy-eyed|sleepyheaded|slumberous|slumbery|slumbrous|somnolent|unawakened|unaware|unconscious
+(adj)|benumbed|numb|insensible 
+(adj)|at peace|at rest|deceased|departed|gone|dead 
+aslope|1
+(adj)|aslant|diagonal|slanted|slanting|sloped|sloping|inclined 
+asmara|1
+(noun)|Asmara|Asmera|national capital
+asmera|1
+(noun)|Asmara|Asmera|national capital
+aspect|5
+(noun)|facet|feature|characteristic
+(noun)|characteristic
+(noun)|view|prospect|scene|vista|panorama|visual percept|visual image
+(noun)|grammatical relation
+(noun)|expression|look|facial expression|face|countenance|visage
+aspire|1
+(verb)|draw a bead on|aim|shoot for|plan|be after
+assail|3
+(verb)|assault|set on|attack
+(verb)|attack|fight|struggle
+(verb)|attack|round|lash out|snipe|assault|knock|criticize|criticise|pick apart
+assent|2
+(noun)|acquiescence|agreement
+(verb)|accede|acquiesce|agree
+assert|4
+(verb)|asseverate|maintain|insist|take a firm stand
+(verb)|affirm|verify|avow|aver|swan|swear|declare
+(verb)|put forward|behave|acquit|bear|deport|conduct|comport|carry
+(verb)|insist|postulate|posit
+assess|4
+(verb)|measure|evaluate|valuate|appraise|value|judge
+(verb)|charge|bill
+(verb)|tax|determine|set
+(verb)|estimate|gauge|approximate|guess|judge
+assets|2
+(noun)|possession
+(noun)|asset|plus|quality
+assign|8
+(verb)|delegate|designate|depute|appoint|charge
+(verb)|allot|portion|distribute|administer|mete out|deal|parcel out|lot|dispense|shell out|deal out|dish out|allot|dole out
+(verb)|impute|ascribe|attribute|judge
+(verb)|specify|set apart|choose|take|select|pick out
+(verb)|put|use|utilize|utilise|apply|employ
+(verb)|arrogate|claim|lay claim|arrogate
+(verb)|transfer
+(verb)|attribute|judge
+assist|5
+(noun)|aid|assistance|help|activity
+(noun)|maneuver|manoeuvre|play
+(verb)|help|aid|support|back up
+(verb)|work
+(verb)|serve|attend to|wait on|attend|help|aid
+assize|2
+(noun)|regulation|ordinance
+(noun)|writ|judicial writ
+assoil|1
+(verb)|acquit|clear|discharge|exonerate|exculpate|pronounce|label|judge
+assort|2
+(verb)|consort|associate|affiliate|interact
+(verb)|classify|class|sort|sort out|separate|categorize|categorise
+assuan|1
+(noun)|Aswan|Assuan|Assouan|city|metropolis|urban center
+assume|9
+(verb)|presume|take for granted|expect|anticipate
+(verb)|adopt|take on|take over|take office
+(verb)|acquire|adopt|take on|take|change
+(verb)|bear|take over|accept|take
+(verb)|take|strike|take up|move
+(verb)|usurp|seize|take over|arrogate|take
+(verb)|simulate|sham|feign|dissemble|pretend|act
+(verb)|receive|take in|invite
+(verb)|wear|put on|get into|don|dress|get dressed
+assure|6
+(verb)|guarantee|ensure|insure|secure
+(verb)|tell|affirm|verify|assert|avow|aver|swan|swear
+(verb)|persuade
+(verb)|see|check|insure|see to it|ensure|control|ascertain|verify
+(verb)|reassure|calm|calm down|quiet|tranquilize|tranquillize|tranquillise|quieten|lull|still
+(verb)|promise|declare
+astana|1
+(noun)|Astana|Akmola|capital of Kazakhstan|capital
+astern|1
+(adv)|aft|abaft
+asthma|1
+(noun)|asthma attack|bronchial asthma|respiratory disease|respiratory illness|respiratory disorder
+astral|1
+(adj)|stellar|celestial body|heavenly body
+astray|1
+(adv)|wide
+astute|1
+(adj)|sharp|shrewd|smart 
+asvina|1
+(noun)|Asin|Asvina|Hindu calendar month
+asvins|1
+(noun)|Asvins|Hindu deity
+asylum|2
+(noun)|refuge|sanctuary|shelter
+(noun)|mental hospital|psychiatric hospital|mental institution|institution|mental home|insane asylum|hospital|infirmary
+at-bat|1
+(noun)|bat|turn|play
+at all|1
+(adv)|in the least|the least bit
+at bay|1
+(adj)|cornered|trapped|treed|unfree 
+at sea|2
+(adj)|baffled|befuddled|bemused|bewildered|confounded|confused|lost|mazed|mixed-up|perplexed 
+(adj)|sailing|afloat 
+atarax|1
+(noun)|hydroxyzine hydrochloride|hydroxyzine|Atarax|Vistaril|minor tranquilizer|minor tranquillizer|minor tranquilliser|antianxiety drug|anxiolytic|anxiolytic drug
+ataxia|1
+(noun)|ataxy|dyssynergia|motor ataxia|nervous disorder|neurological disorder|neurological disease
+ataxic|1
+(adj)|atactic|nervous disorder|neurological disorder|neurological disease
+ateles|1
+(noun)|Ateles|genus Ateles|mammal genus
+athena|1
+(noun)|Athena|Athene|Pallas|Pallas Athena|Pallas Athene|Greek deity
+athene|2
+(noun)|Athena|Athene|Pallas|Pallas Athena|Pallas Athene|Greek deity
+(noun)|Athene|genus Athene|bird genus
+athens|3
+(noun)|Athens|Athinai|capital of Greece|Greek capital|national capital
+(noun)|Athens|town
+(noun)|Athens|town
+ativan|1
+(noun)|lorazepam|Ativan|benzodiazepine
+atomic|3
+(adj)|substance|matter
+(adj)|nuclear |thermonuclear
+(adj)|atomlike|minute|microscopic |microscopical|small
+atonal|1
+(adj)|atonal |unkeyed
+atonia|1
+(noun)|atonicity|atony|amyotonia|condition|status
+atonic|2
+(adj)|condition|status
+(adj)|atonic |unaccented
+atoxic|1
+(adj)|nontoxic |antitoxic|harmless|nonpoisonous|nonvenomous|harmless
+atrial|1
+(adj)|chamber
+atrium|2
+(noun)|chamber
+(noun)|court|courtyard
+atropa|1
+(noun)|Atropa|genus Atropa|asterid dicot genus
+attach|5
+(verb)|connect|link|tie|link up
+(verb)|touch|adjoin|meet|contact|attach to
+(verb)|join|conjoin|attach to
+(verb)|bind|tie|bond|relate
+(verb)|impound|sequester|confiscate|seize|take
+attack|15
+(noun)|onslaught|onset|onrush|operation|military operation
+attain|4
+(verb)|achieve|accomplish|reach|succeed|win|come through|bring home the bacon|deliver the goods
+(verb)|reach|hit|arrive|get|come
+(verb)|fall upon|strike|come upon|light upon|chance upon|come across|chance on|happen upon|discover|find|regain
+(verb)|reach|make|hit|arrive at|gain
+attend|5
+(verb)|go to|be
+(verb)|take care|look|see|care|give care
+(verb)|attach to|accompany|come with|go with
+(verb)|serve|attend to|wait on|assist|help|assist|aid
+(verb)|hang|advert|pay heed|give ear|listen
+attest|4
+(verb)|certify|manifest|demonstrate|evidence|testify|bear witness|prove|evidence|show
+(verb)|affirm|verify|assert|avow|aver|swan|swear
+(verb)|testify|take the stand|bear witness|declare
+(verb)|show
+attica|1
+(noun)|Attica|district|territory|territorial dominion|dominion
+attila|1
+(noun)|Attila|Scourge of God|Scourge of the Gods|king|male monarch
+attire|2
+(noun)|garb|dress|clothing|article of clothing|vesture|wear
+(verb)|dress up|fig out|fig up|deck up|gussy up|fancy up|trick up|deck out|trick out|prink|get up|rig out|tog up|tog out|overdress|dress|get dressed
+attlee|1
+(noun)|Attlee|Clement Attlee|Clement Richard Attlee|1st Earl Attlee|statesman|solon|national leader
+attorn|1
+(verb)|admit|acknowledge
+attune|1
+(verb)|adjust|set|correct
+au jus|1
+(adj)|juicy 
+auburn|1
+(adj)|reddish-brown|chromatic |achromatic 
+aucuba|1
+(noun)|Aucuba|genus Aucuba|rosid dicot genus
+audile|2
+(adj)|auditory|auditive|modality|sense modality|sensory system|exteroception
+(noun)|perceiver|observer|beholder
+augean|1
+(adj)|Augean|corrupt 
+augeas|1
+(noun)|Augeas|mythical being
+augend|1
+(noun)|number
+augite|1
+(noun)|mineral
+augury|1
+(noun)|sign|foretoken|preindication|experience
+august|3
+(adj)|grand|lordly|noble 
+(adj)|revered|venerable|honorable |honourable
+(noun)|August|Aug|Gregorian calendar month
+auklet|1
+(noun)|auk
+auntie|1
+(noun)|aunt|aunty|kinswoman
+aurify|2
+(verb)|transform|transmute|metamorphose
+(verb)|color|colorize|colorise|colourise|colourize|colour|color in|colour in
+auriga|1
+(noun)|Auriga|Charioteer|constellation
+aurora|3
+(noun)|dawn|dawning|morning|first light|daybreak|break of day|break of the day|dayspring|sunrise|sunup|cockcrow|hour|time of day
+(noun)|atmospheric phenomenon
+(noun)|Aurora|Roman deity
+aurous|1
+(adj)|auric|noble metal
+auspex|1
+(noun)|augur|prophet|oracle|seer|vaticinator
+aussie|1
+(noun)|Australian|Aussie|inhabitant|dweller|denizen|indweller
+austen|1
+(noun)|Austen|Jane Austen|writer|author
+austin|1
+(noun)|Austin|capital of Texas|state capital
+auteur|1
+(noun)|film maker|filmmaker|film producer|movie maker
+author|3
+(noun)|writer|communicator
+(noun)|generator|source|maker|shaper
+(verb)|write|compose|pen|indite
+autism|1
+(noun)|syndrome
+autumn|1
+(noun)|fall|season|time of year
+avaram|1
+(noun)|tanner's cassia|Senna auriculata|Cassia auriculata|senna
+avatar|2
+(noun)|embodiment|incarnation|personification
+(noun)|Hindu deity
+avenge|1
+(verb)|revenge|retaliate|punish|penalize|penalise
+avenue|2
+(noun)|approach|attack|plan of attack
+(noun)|boulevard|street
+averse|1
+(adj)|antipathetic|antipathetical|indisposed|loath|loth|disinclined 
+avesta|1
+(noun)|Avesta|Zend-Avesta|sacred text|sacred writing|religious writing|religious text
+aviary|1
+(noun)|bird sanctuary|volary|building|edifice
+aviate|1
+(verb)|fly|pilot|operate|control
+avocet|1
+(noun)|shorebird|shore bird|limicoline bird
+avouch|1
+(verb)|avow|admit|acknowledge
+avowal|1
+(noun)|avouchment|affirmation|assertion|averment|asseveration
+avowed|1
+(adj)|professed|declared 
+avower|2
+(noun)|communicator
+(noun)|asserter|declarer|affirmer|asseverator|communicator
+avulse|1
+(verb)|separate
+awaken|3
+(verb)|wake|waken|rouse|wake up|arouse|change|alter|modify
+(verb)|wake up|awake|arouse|wake|come alive|waken|change state|turn
+(verb)|affect|impress|move|strike
+aweary|1
+(adj)|weary|tired 
+aweigh|2
+(adj)|up 
+(adj)|atrip|free 
+awheel|1
+(adj)|riding|moving 
+awhile|1
+(adv)|for a while
+awless|2
+(adj)|aweless|unawed 
+(adj)|aweless|disrespectful|irreverent 
+awning|1
+(noun)|sunshade|sunblind|canopy
+axenic|2
+(adj)|germfree 
+(adj)|pure 
+axilla|1
+(noun)|armpit|axillary cavity|axillary fossa|cavity|bodily cavity|cavum
+axonal|1
+(adj)|nerve fiber|nerve fibre
+axseed|1
+(noun)|crown vetch|Coronilla varia|coronilla
+aythya|1
+(noun)|Aythya|genus Aythya|bird genus
+azalea|1
+(noun)|rhododendron
+azolla|1
+(noun)|Azolla|genus Azolla|fern genus
+azonal|1
+(adj)|azonal |azonic
+azonic|1
+(adj)|azonal 
+azores|1
+(noun)|Azores|Acores|island
+azotic|1
+(adj)|nitric|nitrous|nitrogen|N|atomic number 7
+azygos|1
+(adj)|azygous|single 
+azymia|1
+(noun)|pathology

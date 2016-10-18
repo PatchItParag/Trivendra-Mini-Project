@@ -1,0 +1,461 @@
+a-ok|1
+(adj)|a-okay|go 
+a.d.|2
+(adv)|AD|A.D.|anno Domini
+(adv)|                                                                         
+a.e.|1
+(noun)|Russell|George William Russell|A.E.|writer|author
+a.m.|2
+(adj)|ante meridiem|antemeridian 
+(adv)|ante meridiem|A.M.
+aare|1
+(noun)|Aare|Aar|Aare River|river
+aarp|1
+(noun)|Association for the Advancement of Retired Persons|AARP|association
+abbe|1
+(noun)|abbot|archimandrite
+abcs|2
+(noun)|rudiment|first rudiment|first principle|alphabet|ABC|ABC's|ABCs|fundamentals|basics|fundamental principle|basic principle|bedrock
+(noun)|rudiment|first rudiment|first principle|alphabet|ABC|ABC's|ABCs|fundamentals|basics|fundamental principle|basic principle|bedrock
+abel|2
+(noun)|Abel|Niels Abel|Niels Henrik Abel|mathematician
+(noun)|Abel|man|adult male
+abet|1
+(verb)|assist
+able|4
+(adj)|able 
+(adj)|capable|competent 
+(adj)|capable 
+(adj)|able-bodied|fit |healthy
+abls|1
+(noun)|Bachelor of Arts in Library Science|ABLS|bachelor's degree|baccalaureate
+ably|1
+(adv)|competently|aptly|capably|with competence
+abor|1
+(noun)|Miri|Mirish|Abor|Dafla|Kamarupan
+abut|1
+(verb)|border|adjoin|edge|march|butt|butt against|butt on|touch|adjoin|meet|contact
+abye|2
+(verb)|expiate|aby|atone|right|compensate|redress|correct
+(verb)|expiate|aby|atone|right|compensate|redress|correct
+acer|1
+(noun)|Acer|genus Acer|dicot genus|magnoliopsid genus
+ache|4
+(noun)|aching|pain|hurting
+(verb)|hurt|suffer|perceive|comprehend
+(verb)|yearn|yen|pine|languish|hanker|long|yearn
+(verb)|smart|hurt|cause to be perceived
+achy|1
+(adj)|aching|painful 
+acid|4
+(adj)|acerb|acerbic|acrid|bitter|blistering|caustic|sulfurous|sulphurous|venomous|virulent|vitriolic|unpleasant 
+(adj)|acidic 
+(noun)|compound|chemical compound
+(noun)|back breaker|battery-acid|dose|dot|Elvis|loony toons|Lucy in the sky with diamonds|pane|superman|window pane|Zen|lysergic acid diethylamide|LSD
+acme|2
+(noun)|height|elevation|peak|pinnacle|summit|superlative|top|degree|level|stage|point
+(noun)|vertex|peak|apex|extreme point|extreme|extremum
+acne|1
+(noun)|skin disease|disease of the skin|skin disorder|skin problem|skin condition|inflammatory disease
+acre|3
+(noun)|area unit|square measure
+(noun)|Acre|district|territory|territorial dominion|dominion
+(noun)|Acre|Akko|Akka|Accho|town|port
+acth|1
+(noun)|adrenocorticotropic hormone|adrenocorticotrophic hormone|ACTH|adrenocorticotropin|adrenocorticotrophin|corticotropin|corticotrophin|hormone|endocrine|internal secretion
+acts|6
+(noun)|Acts of the Apostles|Acts|book
+(noun)|act|enactment|legal document|legal instrument|official document|instrument
+(noun)|act|human action|human activity
+(noun)|act|dramatic composition|dramatic work
+(noun)|act|routine|number|turn|bit|performance|public presentation
+(noun)|act|expression|manifestation|reflection|reflexion
+acyl|1
+(noun)|acyl group|group|radical|chemical group
+adad|1
+(noun)|Adad|Semitic deity
+adam|3
+(noun)|Adam|man|adult male
+(noun)|Adam|Robert Adam|architect|designer
+(noun)|Adam|ecstasy|XTC|go|disco biscuit|cristal|X|hug drug|methylenedioxymethamphetamine|MDMA
+adar|1
+(noun)|Adar|Jewish calendar month
+aden|1
+(noun)|Aden|city|metropolis|urban center|port
+adhd|1
+(noun)|attention deficit disorder|ADD|attention deficit hyperactivity disorder|ADHD|hyperkinetic syndrome|minimal brain dysfunction|minimal brain damage|MBD|syndrome
+adit|1
+(noun)|passage
+adps|3
+(noun)|computer system|computing system|automatic data processing system|ADP system|ADPS|system
+(noun)|adenosine diphosphate|ADP|nucleotide
+(noun)|automatic data processing|ADP|data processing
+adze|1
+(noun)|adz|edge tool
+aeon|3
+(noun)|eon|spiritual being|supernatural being
+(noun)|eon|geological time|geologic time
+(noun)|eon|long time|age|years
+aery|3
+(adj)|aeriform|aerial|airy|ethereal|insubstantial |unsubstantial|unreal
+(noun)|aerie|eyrie|eyry|bird's nest
+(noun)|aerie|eyrie|eyry|habitation
+afrl|1
+(noun)|Air Force Research Laboratory|AFRL|agency|federal agency|government agency|bureau|office|authority
+afro|1
+(noun)|Afro|Afro hairdo|hairdo|hair style|coiffure
+agal|1
+(noun)|cord
+agar|2
+(noun)|nutrient agar|culture medium|medium
+(noun)|agar-agar|gum
+aged|6
+(adj)|elderly|older|senior|old 
+(adj)|worn 
+(adj)|of age|old 
+(adj)|ripened|ripe |mature
+(adj)|cured|preserved 
+(noun)|age group|age bracket|cohort
+agee|1
+(noun)|Agee|James Agee|novelist
+agha|1
+(noun)|Aga|Agha|title|title of respect
+agio|1
+(noun)|agiotage|premium|exchange premium|charge
+agni|1
+(noun)|Agni|Hindu deity
+agog|1
+(adj)|excited 
+agon|1
+(noun)|celebration|festivity
+agra|1
+(noun)|Agra|city|metropolis|urban center
+agua|1
+(noun)|agua toad|Bufo marinus|true toad
+ague|3
+(noun)|illness|unwellness|malady|sickness
+(noun)|chills and fever|symptom
+(noun)|acute accent|acute|accent|accent mark
+ahab|1
+(noun)|Ahab|king|male monarch
+aiai|1
+(noun)|al Itihaad al Islamiya|al-Itihaad al-Islamiya|Islamic Unity|AIAI|terrorist organization|terrorist group|foreign terrorist organization|FTO
+aide|2
+(noun)|adjutant|aide-de-camp|military officer|officer
+(noun)|auxiliary|assistant|helper|help|supporter
+aids|5
+(noun)|AIDS|acquired immune deficiency syndrome|immunodeficiency|infectious disease
+(noun)|aid|assistance|help|resource
+(noun)|aid|assist|assistance|help|activity
+(noun)|aid|economic aid|gift
+(noun)|care|attention|aid|tending|work
+aire|1
+(noun)|Aire|River Aire|Aire River|river
+airs|10
+(noun)|pose|affectedness
+airt|1
+(verb)|redirect|send|direct
+airy|4
+(adj)|aired|ventilated 
+(adj)|impractical|visionary|Laputan|utopian 
+(adj)|light 
+(adj)|aeriform|aerial|aery|ethereal|insubstantial |unsubstantial|unreal
+ajar|1
+(adj)|open |unfastened
+ajax|1
+(noun)|Ajax|mythical being
+akan|1
+(noun)|Akan|Kwa
+akee|2
+(noun)|akee tree|Blighia sapida|fruit tree
+(noun)|ackee|edible fruit
+aken|1
+(noun)|Aachen|Aken|Aix-la-Chapelle|city|metropolis|urban center
+akha|1
+(noun)|Hani|Akha|Loloish
+akin|2
+(adj)|kindred|related|similar 
+(adj)|blood-related|cognate|consanguine|consanguineous|kin|related 
+akka|1
+(noun)|Acre|Akko|Akka|Accho|town|port
+akko|1
+(noun)|Acre|Akko|Akka|Accho|town|port
+alar|3
+(adj)|axillary
+(adj)|alary|aliform|wing-shaped|winged 
+(noun)|Alar|daminozide|chemical
+alas|1
+(adv)|unfortunately|unluckily|regrettably
+alca|1
+(noun)|Alca|genus Alca|bird genus
+alep|1
+(noun)|Aleppo|Alep|city|metropolis|urban center
+alga|1
+(noun)|algae|protoctist
+alir|1
+(noun)|Army for the Liberation of Rwanda|ALIR|Former Armed Forces|FAR|Interahamwe|terrorist organization|terrorist group|foreign terrorist organization|FTO
+alky|1
+(noun)|alcoholic|dipsomaniac|boozer|lush|soaker|souse|drunkard|drunk|rummy|sot|inebriate
+ally|3
+(noun)|state|nation|country|land|commonwealth|res publica|body politic
+(noun)|friend|associate
+(verb)|consort|associate|affiliate|assort
+alms|1
+(noun)|alms-giving|almsgiving|charity
+aloe|1
+(noun)|succulent
+alps|2
+(noun)|Alps|the Alps|range|mountain range|range of mountains|chain|mountain chain|chain of mountains
+(noun)|alp|mountain|mount
+also|1
+(adv)|besides|too|likewise|as well
+alto|7
+(adj)|contralto|low |low-pitched
+(adj)|countertenor|high |high-pitched
+(adj)|high |high-pitched
+(noun)|singer|vocalist|vocalizer|vocaliser
+(noun)|contralto|singing voice
+(noun)|countertenor|singing voice
+(noun)|low pitch|low frequency
+alum|4
+(noun)|ammonia alum|ammonium alum|aluminum|aluminium|Al|atomic number 13|double salt
+(noun)|potassium alum|potash alum|aluminum|aluminium|Al|atomic number 13|double salt
+(noun)|alumnus|alumna|graduate|grad|scholar|scholarly person|student
+(noun)|astringent|astringent drug|styptic
+amah|2
+(noun)|wet nurse|wet-nurse|wetnurse|nanny|nursemaid|nurse
+(noun)|maid|maidservant|housemaid|domestic|domestic help|house servant
+ambo|1
+(noun)|dais|podium|pulpit|rostrum|stump|soapbox|platform
+amen|1
+(noun)|Amen|Amon|Egyptian deity
+amex|1
+(noun)|American Stock Exchange|AMEX|Curb|stock exchange|stock market|securities market
+amia|1
+(noun)|Amia|genus Amia|fish genus
+amir|1
+(noun)|emir|emeer|ameer|ruler|swayer
+ammo|1
+(noun)|ammunition|weaponry|arms|implements of war|weapons system|munition
+amok|3
+(adj)|amuck|berserk|demoniac|demoniacal|possessed|insane 
+(adv)|amuck
+(adv)|amuck|murderously
+amon|1
+(noun)|Amen|Amon|Egyptian deity
+amor|1
+(noun)|Cupid|Amor|Roman deity
+amos|2
+(noun)|Amos|prophet
+(noun)|Amos|Book of Amos|book
+amoy|1
+(noun)|Min|Min dialect|Fukien|Fukkianese|Hokkianese|Amoy|Taiwanese|Chinese
+amur|1
+(noun)|Amur|Amur River|Heilong Jiang|river
+anal|2
+(adj)|orifice|opening|porta
+(adj)|anal 
+anas|3
+(noun)|Anas|genus Anas|bird genus
+(noun)|Ana|Celtic deity
+(noun)|ana|collection|aggregation|accumulation|assemblage
+anew|1
+(adv)|afresh
+anil|2
+(noun)|indigo|indigotin|dye|dyestuff
+(noun)|Indigofera suffruticosa|Indigofera anil|indigo|indigo plant|Indigofera tinctoria
+anna|1
+(noun)|Pakistani monetary unit
+anoa|1
+(noun)|dwarf buffalo|Anoa depressicornis|Old World buffalo|buffalo
+anon|1
+(noun)|sweetsop|sugar apple|custard apple
+ante|2
+(noun)|stake|stakes|bet|wager
+(verb)|bet on|back|gage|stake|game|punt
+anti|1
+(adj)|anti |opposed|opposing
+anus|1
+(noun)|arse|arsehole|asshole|orifice|opening|porta
+apar|1
+(noun)|three-banded armadillo|Tolypeutes tricinctus|armadillo
+aper|1
+(noun)|copycat|imitator|emulator|ape|person|individual|someone|somebody|mortal|human|soul
+apex|2
+(noun)|vertex|peak|acme|extreme point|extreme|extremum
+(noun)|solar apex|apex of the sun's way|celestial point
+apia|1
+(noun)|Apia|capital of Western Samoa|national capital
+apis|1
+(noun)|Apis|genus Apis|arthropod genus
+apse|1
+(noun)|apsis|recess|niche
+apsu|1
+(noun)|Apsu|Semitic deity
+apus|2
+(noun)|Apus|constellation
+(noun)|Apus|genus Apus|bird genus
+aqua|1
+(noun)|greenish blue|aquamarine|turquoise|cobalt blue|peacock blue|blue|blueness
+arab|2
+(noun)|Arab|Arabian|Semite
+(noun)|Arabian|Arab|saddle horse|riding horse|mount
+arak|1
+(noun)|arrack|liquor|spirits|booze|hard drink|hard liquor|John Barleycorn|strong drink
+aram|1
+(noun)|Aram|Syria|Syrian Arab Republic
+aras|3
+(noun)|Aras|Araxes|river
+(noun)|Ara|constellation
+(noun)|Ara|genus Ara|bird genus
+arca|1
+(noun)|Arca|genus Arca|mollusk genus
+arch|8
+(adj)|important |of import
+(adj)|condescending|patronizing|patronising|superior 
+(adj)|skilled 
+(noun)|curve|curved shape
+(noun)|skeletal structure
+(noun)|archway|entrance|entranceway|entryway|entry|entree
+(noun)|structure|construction
+(verb)|curve|arc|bend|flex
+arda|1
+(noun)|Advanced Research and Development Activity|ARDA|agency|federal agency|government agency|bureau|office|authority
+ards|1
+(noun)|adult respiratory distress syndrome|ARDS|wet lung|white lung|respiratory disease|respiratory illness|respiratory disorder
+area|6
+(noun)|country|region
+(noun)|sphere|domain|orbit|field|arena|environment
+(noun)|topic|subject|issue|matter
+(noun)|structure|construction
+(noun)|region|body part
+(noun)|expanse|surface area|extent
+ares|2
+(noun)|Ares|Greek deity
+(noun)|are|ar|area unit|square measure
+argo|1
+(noun)|Argo|constellation
+aria|2
+(noun)|song
+(noun)|song|strain
+arid|2
+(adj)|waterless|dry 
+(adj)|desiccate|desiccated|dull 
+aril|1
+(noun)|plant part|plant structure
+arms|8
+(noun)|weaponry|implements of war|weapons system|munition|instrumentality|instrumentation|collection|aggregation|accumulation|assemblage
+(noun)|coat of arms|blazon|blazonry|heraldry
+(noun)|arm|limb
+(noun)|weapon|arm|weapon system|instrument
+(noun)|branch|subdivision|arm|division
+(noun)|arm|branch|limb|projection
+(noun)|arm|armrest
+(noun)|sleeve|arm|cloth covering
+army|2
+(noun)|regular army|ground forces|military service|armed service|service
+(noun)|crowd
+arng|1
+(noun)|Army National Guard|ARNG|National Guard|home reserve
+arno|1
+(noun)|Arno|Arno River|River Arno|river
+arse|2
+(noun)|buttocks|nates|butt|backside|bum|buns|can|fundament|hindquarters|hind end|keister|posterior|prat|rear|rear end|rump|stern|seat|tail|tail end|tooshie|tush|bottom|behind|derriere|fanny|ass|body part
+(noun)|anus|arsehole|asshole|orifice|opening|porta
+arts|5
+(noun)|humanistic discipline|humanities|liberal arts|discipline|subject|subject area|subject field|field|field of study|study|bailiwick|branch of knowledge
+(noun)|art|fine art|creation
+(noun)|art|artistic creation|artistic production|creation|creative activity
+(noun)|art|artistry|prowess|superior skill
+(noun)|artwork|art|graphics|nontextual matter|visual communication
+arty|1
+(adj)|pretentious 
+arui|1
+(noun)|aoudad|audad|Barbary sheep|maned sheep|Ammotragus lervia|wild sheep
+arum|2
+(noun)|starch|amylum
+(noun)|aroid|herb|herbaceous plant
+asap|1
+(adv)|ASAP
+asat|1
+(adj)|antisatellite|equipment
+asch|1
+(noun)|Asch|Sholem Asch|Shalom Asch|Sholom Asch|writer|author
+asea|1
+(adv)|seaward|seawards|toward the sea
+ashe|1
+(noun)|Ashe|Arthur Ashe|Arthur Robert Ashe|tennis player
+ashy|1
+(adj)|ash-gray|ash-grey|achromatic 
+asia|2
+(noun)|Asia|continent
+(noun)|Asia|collection|aggregation|accumulation|assemblage
+asin|1
+(noun)|Asin|Asvina|Hindu calendar month
+asio|1
+(noun)|Asio|genus Asio|bird genus
+asur|1
+(noun)|Assur|Asur|Ashur|city|metropolis|urban center
+atar|1
+(noun)|attar|athar|ottar|essential oil|volatile oil
+atom|2
+(noun)|substance|matter
+(noun)|molecule|particle|corpuscle|mote|speck|material|stuff
+auld|1
+(adj)|old 
+aunt|1
+(noun)|auntie|aunty|kinswoman
+aura|3
+(noun)|symptom
+(noun)|aureole|halo|nimbus|glory|gloriole|light|lightness
+(noun)|air|atmosphere|quality
+auto|1
+(noun)|car|automobile|machine|motorcar|motor vehicle|automotive vehicle
+aver|2
+(verb)|allege|say|assert|asseverate|maintain
+(verb)|affirm|verify|assert|avow|swan|swear|declare
+aves|1
+(noun)|Aves|class Aves|class
+avid|2
+(adj)|devouring|esurient|greedy|desirous 
+(adj)|great|eager|zealous|enthusiastic 
+avon|3
+(noun)|Avon|River Avon|river
+(noun)|Avon|River Avon|Upper Avon|Upper Avon River|river
+(noun)|Avon|county
+avow|2
+(verb)|affirm|verify|assert|aver|swan|swear|declare
+(verb)|avouch|admit|acknowledge
+away|10
+(adj)|distant 
+awed|2
+(adj)|awful|reverent 
+(adj)|awed |awestruck|awestricken|in awe of|overawed
+awny|1
+(adj)|awned |bearded
+awol|3
+(adj)|truant|absent 
+(adj)|disloyal 
+(noun)|AWOL|absentee
+awry|4
+(adj)|askew|cockeyed|lopsided|wonky|skew-whiff|crooked 
+(adj)|amiss|haywire|wrong|malfunctioning |nonfunctional
+(adv)|amiss
+(adv)|askew|skew-whiff
+axil|1
+(noun)|angle
+axis|6
+(noun)|line
+(noun)|axis of rotation|mechanism
+(noun)|stalk|stem
+(noun)|Axis|alliance|coalition|alignment|alinement
+(noun)|bloc|alliance|coalition|alignment|alinement
+(noun)|axis vertebra|cervical vertebra|neck bone
+axle|1
+(noun)|shaft
+axon|1
+(noun)|axone|nerve fiber|nerve fibre
+ayah|1
+(noun)|domestic|domestic help|house servant
+ayin|1
+(noun)|letter|letter of the alphabet|alphabetic character

@@ -1,0 +1,2490 @@
+a-horizon|2
+(noun)|A-horizon|A horizon|soil horizon
+(noun)|                                                                         
+a battery|1
+(noun)|A battery|battery|electric battery
+a billion|2
+(adj)|billion|cardinal 
+(adj)|billion|cardinal 
+a horizon|2
+(noun)|A-horizon|A horizon|soil horizon
+(noun)|                                                                         
+a hundred|1
+(adj)|hundred|one hundred|100|c|cardinal 
+a la mode|1
+(adj)|in style|in vogue|modish|fashionable |stylish
+a million|1
+(adj)|million|cardinal 
+a zillion|1
+(adj)|zillion|cardinal 
+ab initio|1
+(adv)|initially|at first|at the start
+aba cloth|1
+(noun)|aba|fabric|cloth|material|textile
+abactinal|1
+(adj)|abactinal 
+abandoned|3
+(adj)|uninhabited 
+(adj)|deserted|forsaken 
+(adj)|uninhibited 
+abasement|2
+(noun)|degradation|abjection|humiliation
+(noun)|humiliation|degradation|debasement
+abashment|1
+(noun)|bashfulness|embarrassment
+abatement|2
+(noun)|suspension|respite|reprieve|hiatus|interruption|break
+(noun)|moderation
+abcoulomb|1
+(noun)|charge unit|quantity unit
+abdicable|1
+(adj)|unwanted 
+abdicator|1
+(noun)|quitter
+abdominal|2
+(adj)|body part
+(noun)|abdominal muscle|ab|skeletal muscle|striated muscle
+abducting|1
+(adj)|abducent 
+abduction|2
+(noun)|capture|seizure
+(noun)|motion|movement|move|motility
+aberrance|1
+(noun)|aberrancy|aberration|deviance|abnormality|abnormalcy|abnormal condition
+aberrancy|1
+(noun)|aberrance|aberration|deviance|abnormality|abnormalcy|abnormal condition
+abhorrent|1
+(adj)|detestable|obscene|repugnant|repulsive|offensive 
+abjection|1
+(noun)|abasement|degradation|humiliation
+abkhasian|1
+(noun)|Abkhazian|Abkhasian|Circassian
+abkhazian|1
+(noun)|Abkhazian|Abkhasian|Circassian
+ablactate|1
+(verb)|wean|deprive
+abnegator|1
+(noun)|donor|giver|presenter
+abo group|1
+(noun)|ABO blood group system|ABO system|ABO group|classification system
+abolition|1
+(noun)|abolishment|termination|ending|conclusion
+abominate|1
+(verb)|abhor|loathe|execrate|hate|detest
+aborigine|2
+(noun)|primitive|primitive person
+(noun)|Aborigine|Abo|Aboriginal|native Australian|Australian Aborigine|Australian|Aussie|ethnic group|ethnos
+abound in|1
+(verb)|teem in|pullulate with|occur
+abounding|1
+(adj)|galore|abundant 
+above all|2
+(adv)|most importantly|most especially
+(adv)|first and last
+abrogator|1
+(noun)|authority
+abruption|1
+(noun)|breaking off|break|interruption|disruption|gap
+abscessed|1
+(adj)|septic 
+absconder|1
+(noun)|fugitive|fugitive from justice
+absorbate|1
+(noun)|sorbate
+absorbent|2
+(adj)|absorbent |absorptive|absorbefacient|sorbefacient|assimilating|assimilative|assimilatory|spongy|spongelike|thirsty|hygroscopic
+(noun)|absorbent material|sorbent|sorbent material
+absorbing|1
+(adj)|engrossing|fascinating|gripping|riveting|interesting 
+abstainer|2
+(noun)|ascetic|religionist|religious person
+(noun)|abstinent|nondrinker|person|individual|someone|somebody|mortal|human|soul
+abstinent|2
+(adj)|abstentious|abstemious 
+(noun)|abstainer|nondrinker|person|individual|someone|somebody|mortal|human|soul
+absurdity|2
+(noun)|absurdness|ridiculousness|nonsense|bunk|nonsensicality|meaninglessness|hokum
+(noun)|fatuity|fatuousness|silliness|folly|foolishness|unwiseness
+abu dhabi|1
+(noun)|Abu Dhabi|United Arab Emirates's capital|national capital
+abudefduf|1
+(noun)|Abudefduf|genus Abudefduf|fish genus
+abundance|3
+(noun)|copiousness|teemingness|quantity
+(noun)|ratio
+(noun)|ratio
+abysmally|1
+(adv)|terribly|atrociously|awfully|abominably|rottenly
+abyssinia|1
+(noun)|Ethiopia|Federal Democratic Republic of Ethiopia|Yaltopya|Abyssinia|African country|African nation
+academism|1
+(noun)|scholasticism|academicism|traditionalism|traditionality
+acanthion|1
+(noun)|craniometric point
+acanthoid|1
+(adj)|acanthous|spinous|pointed 
+acanthoma|1
+(noun)|skin tumor|tumor|tumour|neoplasm
+acanthous|1
+(adj)|acanthoid|spinous|pointed 
+acapnotic|1
+(adj)|acapnic|acapnial|physiological state|physiological condition
+acaracide|1
+(noun)|acaricide|pesticide
+acariasis|1
+(noun)|acariosis|acaridiasis|infestation
+acaricide|1
+(noun)|acaracide|pesticide
+acariosis|1
+(noun)|acariasis|acaridiasis|infestation
+acathexia|1
+(noun)|physiological state|physiological condition
+acathexis|1
+(noun)|libidinal energy
+accenting|1
+(noun)|emphasizing|accentuation|action
+accentual|2
+(adj)|prosody|inflection
+(adj)|accentual 
+acceptant|1
+(adj)|acceptive|receptive 
+accepting|1
+(adj)|acceptive 
+acceptive|2
+(adj)|acceptive |accepting
+(adj)|acceptant|receptive 
+accessary|1
+(noun)|accessory|criminal|felon|crook|outlaw|malefactor
+accession|7
+(noun)|increase|increment|growth
+(noun)|property right
+(noun)|addition|acquisition
+(noun)|assenting|agreement
+(noun)|entree|access|admittance|right
+(noun)|rise to power|attainment
+(verb)|record|enter|put down
+accessory|4
+(adj)|adjunct|ancillary|adjuvant|appurtenant|auxiliary|subsidiary|supportive 
+(noun)|accoutrement|accouterment|clothing|article of clothing|vesture|wear
+(noun)|appurtenance|supplement|add-on|component|constituent|element
+(noun)|accessary|criminal|felon|crook|outlaw|malefactor
+accidence|1
+(noun)|inflectional morphology|morphology
+accipiter|1
+(noun)|Accipiter|genus Accipiter|bird genus
+acclimate|1
+(verb)|acclimatize|acclimatise|adjust|conform|adapt
+acclivity|1
+(noun)|ascent|rise|raise|climb|upgrade|slope|incline|side
+accompany|4
+(verb)|attach to|come with|go with
+(verb)|travel|go|move|locomote
+(verb)|play along|follow|play
+(verb)|company|companion|keep company|consort|associate|affiliate|assort
+accordant|2
+(adj)|accordant |agreeable|consensual|consentaneous|consentient|unanimous|according|concordant|concurring
+(adj)|agreeable|conformable|consonant|concordant|consistent 
+according|2
+(adj)|reported 
+(adj)|accordant 
+accordion|2
+(adj)|plicate|folded 
+(noun)|piano accordion|squeeze box|free-reed instrument
+accoutred|1
+(adj)|accoutered|equipped |equipt
+accretion|6
+(noun)|accumulation|increase|increment|growth
+(noun)|addition|increase|gain
+(noun)|increase|increment|growth
+(noun)|increase|increment|growth
+(noun)|increase|increment|growth
+(noun)|inheritance|heritage
+accretive|1
+(adj)|increasing 
+accroides|1
+(noun)|acaroid resin|accaroid resin|accroides resin|accroides gum|gum accroides|natural resin
+accumbent|1
+(adj)|decumbent|recumbent|reclining|unerect 
+acellular|1
+(adj)|noncellular |cell-free|single-celled|one-celled
+acephalia|1
+(noun)|acephaly|acephalism|abnormality|abnormalcy|abnormal condition
+aceraceae|1
+(noun)|Aceraceae|family Aceraceae|maple family|dicot family|magnoliopsid family
+acervulus|1
+(noun)|fruiting body
+acetaldol|1
+(noun)|aldol|aldehyde-alcohol
+acetamide|1
+(noun)|ethanamide|amide
+acetylate|2
+(verb)|acetylize|acetylise|change
+(verb)|acetylize|acetylise|change|alter|modify
+acetylene|1
+(noun)|ethyne|alkyne|aliphatic compound
+acetylise|2
+(verb)|acetylate|acetylize|change
+(verb)|acetylate|acetylize|change|alter|modify
+acetylize|2
+(verb)|acetylate|acetylise|change
+(verb)|acetylate|acetylise|change|alter|modify
+achimenes|1
+(noun)|hot water plant|flower
+achromous|1
+(adj)|achromic|uncolored |uncoloured
+aciculate|1
+(adj)|part|piece
+acid-fast|1
+(adj)|impervious |imperviable
+acid-wash|1
+(verb)|wash|launder
+acid head|1
+(noun)|head
+acid rain|1
+(noun)|acid precipitation|air pollution
+acid rock|1
+(noun)|psychedelic rock|rock 'n' roll|rock'n'roll|rock-and-roll|rock and roll|rock|rock music
+acid test|1
+(noun)|appraisal|assessment
+acidophil|1
+(noun)|acidophile|bacteria|bacterium
+acidulate|1
+(verb)|sour|acidify|acetify|change taste
+acidulent|1
+(adj)|acidic|acidulous|sour 
+acidulous|1
+(adj)|acidic|acidulent|sour 
+acipenser|1
+(noun)|Acipenser|genus Acipenser|fish genus
+acneiform|1
+(adj)|skin disease|disease of the skin|skin disorder|skin problem|skin condition|inflammatory disease
+aconcagua|1
+(noun)|Aconcagua|mountain peak
+acoraceae|1
+(noun)|Acoraceae|subfamily Acoraceae|monocot family|liliopsid family
+acorn cup|1
+(noun)|cupule|cup
+acoustics|2
+(noun)|physics|physical science|natural philosophy
+(noun)|acoustic|remedy|curative|cure
+acquiesce|1
+(verb)|assent|accede|agree
+acquiring|1
+(noun)|getting|deed|feat|effort|exploit
+acquittal|1
+(noun)|final judgment|final decision
+acquitted|1
+(adj)|not guilty|innocent |guiltless|clean-handed
+acre-foot|1
+(noun)|volume unit|capacity unit|capacity measure|cubage unit|cubic measure|cubic content unit|displacement unit|cubature unit
+acre inch|1
+(noun)|volume unit|capacity unit|capacity measure|cubage unit|cubic measure|cubic content unit|displacement unit|cubature unit
+acrididae|1
+(noun)|Acrididae|family Acrididae|Locustidae|family Locustidae|arthropod family
+acridness|2
+(noun)|acridity|bitterness|bitter
+(noun)|acridity|disagreeableness
+acritical|1
+(adj)|noncritical |noncrucial
+acrobates|1
+(noun)|Acrobates|genus Acrobates|mammal genus
+acrobatic|1
+(adj)|athletic|gymnastic|active 
+acrocomia|1
+(noun)|Acrocomia|genus Acrocomia|monocot genus|liliopsid genus
+acrogenic|1
+(adj)|acrogenous|plant|flora|plant life
+acronymic|1
+(adj)|acronymous|form|word form|signifier|descriptor
+acropetal|1
+(adj)|acropetal 
+acrophony|1
+(noun)|naming
+acropolis|1
+(noun)|bastion|citadel
+actinaria|1
+(noun)|Actiniaria|order Actiniaria|Actinaria|order Actinaria|animal order
+actinidia|1
+(noun)|Actinidia|genus Actinidia|dilleniid dicot genus
+actinopod|1
+(noun)|sarcodinian|sarcodine
+actinozoa|2
+(noun)|Anthozoa|class Anthozoa|Actinozoa|class Actinozoa|class
+(noun)|anthozoan|actinozoan|coelenterate|cnidarian
+activated|4
+(adj)|treated 
+(adj)|excited|reactive 
+(adj)|active 
+(adj)|active 
+activator|1
+(noun)|substance|matter
+actualise|2
+(verb)|realize|realise|actualize|substantiate|make|create
+(verb)|actualize|represent
+actuality|1
+(noun)|being|beingness|existence
+actualize|2
+(verb)|realize|realise|actualise|substantiate|make|create
+(verb)|actualise|represent
+actuarial|1
+(adj)|calculator|reckoner|figurer|estimator|computer
+actuating|1
+(adj)|activating|causative 
+actuation|1
+(noun)|propulsion|deed|feat|effort|exploit
+aculeated|1
+(adj)|aculeate|stinger
+acuminate|2
+(adj)|simple |unsubdivided|pointed 
+(verb)|sharpen|taper|point
+acuteness|2
+(noun)|acuity|sharpness|keenness|intelligence
+(noun)|sharpness|keenness
+acyclovir|1
+(noun)|Zovirax|medicine|medication|medicament|medicinal drug
+acylation|1
+(noun)|chemical process|chemical change|chemical action
+ad agency|1
+(noun)|advertising agency|agency
+adactylia|1
+(noun)|adactyly|adactylism|meromelia
+adansonia|1
+(noun)|Adansonia|genus Adansonia|dilleniid dicot genus
+adaptable|1
+(adj)|adaptable |adjustable|all-mains|convertible|elastic|flexible|pliable|pliant|filmable|labile|variable
+addiction|3
+(noun)|dependence|dependency|habituation|physiological state|physiological condition
+(noun)|craving
+(noun)|award|awarding
+addictive|1
+(adj)|addictive |habit-forming
+addlehead|1
+(noun)|addle-head|loon|birdbrain|misfit
+addressed|1
+(adj)|addressed |self-addressed
+addressee|1
+(noun)|recipient|receiver
+adducting|1
+(adj)|adducent |adductive
+adduction|1
+(noun)|motion|movement|move|motility
+adductive|1
+(adj)|adducent |adducting
+adelgidae|1
+(noun)|Adelgidae|family Adelgidae|arthropod family
+adenoidal|2
+(adj)|lymphatic tissue|lymphoid tissue
+(adj)|pinched|nasal|high |high-pitched
+adenosine|1
+(noun)|nucleoside
+adeptness|1
+(noun)|adroitness|deftness|facility|quickness|skillfulness
+adherence|2
+(noun)|attachment|adhesion|support
+(noun)|adhesiveness|adhesion|bond|stickiness
+adiabatic|1
+(adj)|adiabatic 
+adiposity|1
+(noun)|adiposeness|fattiness|fatness|fat|blubber|avoirdupois
+adjacency|1
+(noun)|contiguity|contiguousness|nearness|closeness
+adjective|4
+(adj)|adjectival|major form class
+(adj)|adjective |procedural
+(noun)|modifier|qualifier
+(noun)|major form class
+adjoining|1
+(adj)|abutting|adjacent|conterminous|contiguous|neighboring|connected 
+adjustive|1
+(adj)|adaptive |adaptative
+admeasure|1
+(verb)|determine|find|find out|ascertain
+admirable|2
+(adj)|estimable 
+(adj)|pleasing 
+admirably|1
+(adv)|laudably|praiseworthily|commendable
+admiralty|2
+(noun)|government department
+(noun)|position|post|berth|office|spot|billet|place|situation
+admission|3
+(noun)|admittance|entrance|entering|entry|ingress|incoming
+(noun)|acknowledgment|acknowledgement
+(noun)|entrance fee|admission charge|admission fee|admission price|price of admission|entrance money|fee
+admissive|1
+(adj)|receptive 
+admixture|3
+(noun)|alloy|impurity|impureness
+(noun)|intermixture|ingredient
+(noun)|mix|commixture|mixture|intermixture|mixing|combination|combining|compounding
+adoptable|1
+(adj)|adoptable 
+adoration|3
+(noun)|worship|love
+(noun)|idolization|idolisation|admiration|appreciation
+(noun)|latria|worship
+adornment|2
+(noun)|decoration|ornament|ornamentation
+(noun)|decoration
+adpressed|1
+(adj)|appressed|close 
+adrenalin|1
+(noun)|epinephrine|epinephrin|adrenaline|Adrenalin|hormone|endocrine|internal secretion|catecholamine|neurotransmitter|vasoconstrictor|vasoconstrictive
+adsorbate|2
+(adj)|adsorbable |adsorbed
+(noun)|sorbate
+adsorbent|2
+(adj)|adsorbent |adsorptive|surface-assimilative|chemisorptive|chemosorptive
+(noun)|adsorbent material|sorbent|sorbent material
+adsorbing|1
+(adj)|sorb|take up
+adulation|1
+(noun)|flattery
+adulatory|1
+(adj)|flattering 
+adulterer|1
+(noun)|fornicator|libertine|debauchee|rounder
+adulthood|2
+(noun)|maturity|time of life
+(noun)|maturity|matureness
+adumbrate|2
+(verb)|sketch|outline|describe|depict|draw
+(verb)|intimate|insinuate|hint|suggest
+advancing|2
+(adj)|advancing |forward|onward
+(adj)|forward|forward-moving|progressive 
+advantage|4
+(noun)|vantage|asset|plus
+(noun)|point
+(noun)|reward|benefit|welfare
+(verb)|prefer|favor|favour
+advection|1
+(noun)|temperature change
+advective|1
+(adj)|temperature change
+adventism|1
+(noun)|Adventism|Second Adventism|Christianity|Christian religion
+adventist|1
+(noun)|Adventist|Second Adventist|Christian
+adventive|1
+(adj)|foreign 
+adventure|3
+(noun)|escapade|risky venture|dangerous undertaking|undertaking|project|task|labor
+(verb)|gamble|chance|risk|hazard|take chances|run a risk|take a chance|try|seek|attempt|essay|assay
+(verb)|venture|hazard|stake|jeopardize|risk|put on the line|lay on the line
+adverbial|2
+(adj)|major form class
+(noun)|adverb
+adversary|1
+(noun)|antagonist|opponent|opposer|resister|person|individual|someone|somebody|mortal|human|soul
+adversity|2
+(noun)|hardship|hard knocks|misfortune|bad luck|tough luck|ill luck
+(noun)|misfortune|bad luck
+advertent|1
+(adj)|heedful|attentive 
+advertise|2
+(verb)|publicize|advertize|publicise|announce|denote
+(verb)|advertize|promote|push|praise
+advertize|2
+(verb)|advertise|promote|push|praise
+(verb)|advertise|publicize|publicise|announce|denote
+advisable|1
+(adj)|advisable |better|best|judicious|sensible|recommended|suggested|well|wise
+advisedly|1
+(adv)|intentionally|deliberately|designedly|on purpose|purposely|by choice|by design
+advocator|1
+(noun)|advocate|proponent|exponent|person|individual|someone|somebody|mortal|human|soul
+aegiceras|1
+(noun)|Aegiceras|genus Aegiceras|asterid dicot genus
+aegisthus|1
+(noun)|Aegisthus|mythical being
+aepyceros|1
+(noun)|Aepyceros|genus Aepyceros|mammal genus
+aepyornis|1
+(noun)|elephant bird|ratite|ratite bird|flightless bird
+aerialist|1
+(noun)|acrobat
+aerodrome|1
+(noun)|airport|airdrome|airfield|landing field|flying field|field
+aerolitic|1
+(adj)|meteorite
+aerophile|1
+(noun)|fan|buff|devotee|lover
+aerophyte|1
+(noun)|air plant|epiphyte|epiphytic plant|plant|flora|plant life
+aeroplane|1
+(noun)|airplane|plane|heavier-than-air craft
+aerospace|1
+(noun)|region|part
+aeschylus|1
+(noun)|Aeschylus|dramatist|playwright
+aesthetic|4
+(adj)|esthetic|philosophy
+(adj)|aesthetic |esthetic|aesthetical|esthetical|artistic|beautiful|cosmetic|enhancive|painterly|sensuous
+(adj)|esthetic|artistic|pleasing|tasteful 
+(noun)|esthetic|philosophical doctrine|philosophical theory
+aestivate|1
+(verb)|estivate|sleep|kip|slumber|log Z's|catch some Z's
+aetiology|2
+(noun)|etiology|cause
+(noun)|etiology|philosophy
+aetobatus|1
+(noun)|Aetobatus|genus Aetobatus|fish genus
+affecting|1
+(adj)|poignant|touching|moving 
+affection|1
+(noun)|affectionateness|fondness|tenderness|heart|warmheartedness|feeling
+affective|1
+(adj)|affectional|emotive|emotional 
+affianced|1
+(adj)|bespoken|betrothed|engaged|pledged|attached |committed
+affidavit|1
+(noun)|testimony|legal document|legal instrument|official document|instrument
+affiliate|5
+(noun)|associate
+(noun)|organization|organisation
+(verb)|join|fall in|get together
+(verb)|consort|associate|assort|interact
+(verb)|join|fall in|get together
+afflicted|2
+(adj)|stricken|ill |sick
+(adj)|impaired|unfit 
+affluence|1
+(noun)|richness|wealth|wealthiness
+affricate|1
+(noun)|affricate consonant|affricative|consonant
+affronted|1
+(adj)|insulted|abused 
+aflatoxin|1
+(noun)|mycotoxin|bioweapon|biological weapon|bioarm
+aforesaid|1
+(adj)|aforementioned|said|same 
+aframomum|1
+(noun)|Aframomum|genus Aframomum|plant genus
+afrikaans|2
+(adj)|Afrikaans|Afrikaner|African country|African nation
+(noun)|Afrikaans|Taal|the Taal|South African Dutch|Dutch
+afrikaner|2
+(adj)|Afrikaans|Afrikaner|African country|African nation
+(noun)|Afrikaner|Afrikander|Boer|South African
+aftercare|1
+(noun)|medical care|medical aid
+afterdamp|1
+(noun)|gas
+afterdeck|1
+(noun)|deck
+afterglow|2
+(noun)|atmospheric phenomenon
+(noun)|pleasantness
+afterlife|1
+(noun)|hereafter|life|lifetime|lifespan
+aftermath|2
+(noun)|wake|backwash|consequence|effect|outcome|result|event|issue|upshot
+(noun)|consequence|result|resultant|final result|outcome|termination
+aftermost|1
+(adj)|aft 
+afternoon|2
+(noun)|day|daytime|daylight
+(noun)|good afternoon|greeting|salutation|farewell|word of farewell
+afterward|1
+(adv)|subsequently|later|afterwards|after|later on
+agalactia|1
+(noun)|agalactosis|physiological state|physiological condition
+agamemnon|1
+(noun)|Agamemnon|mythical being
+agapornis|1
+(noun)|Agapornis|genus Agapornis|bird genus
+agar-agar|1
+(noun)|agar|gum
+agastache|1
+(noun)|Agastache|genus Agastache|asterid dicot genus
+agateware|1
+(noun)|pottery|clayware
+agavaceae|1
+(noun)|Agavaceae|family Agavaceae|agave family|sisal family|liliid monocot family
+age class|1
+(noun)|class|social class|socio-economic class
+age group|1
+(noun)|age bracket|cohort|people
+age limit|1
+(noun)|regulation|ordinance
+ageratina|1
+(noun)|Ageratina|genus Ageratina|asterid dicot genus
+aggravate|2
+(verb)|worsen|exacerbate|exasperate|change|alter|modify
+(verb)|exacerbate|exasperate|anger
+aggregate|6
+(adj)|aggregated|aggregative|mass|collective 
+(adj)|multiple 
+(noun)|congeries|conglomeration|sum|summation|sum total
+(noun)|sum|total|totality|whole|whole thing|unit
+(verb)|come|add up|amount
+(verb)|combine|mix|mingle|commix|unify|amalgamate
+aggressor|2
+(noun)|attacker|assailant|assaulter|wrongdoer|offender
+(noun)|instigator|initiator
+agincourt|1
+(noun)|Agincourt|pitched battle
+agitating|1
+(adj)|agitative|provoking|provocative 
+agitation|5
+(noun)|psychological state|mental state
+(noun)|ferment|fermentation|unrest|turbulence|upheaval|Sturm und Drang
+(noun)|feeling
+(noun)|excitement|turmoil|upheaval|hullabaloo|disturbance
+(noun)|motion|movement|move|motility
+agitative|1
+(adj)|agitating|provoking|provocative 
+aglaonema|1
+(noun)|Aglaonema|genus Aglaonema|monocot genus|liliopsid genus
+agnus dei|2
+(noun)|Agnus Dei|Paschal Lamb|emblem|allegory
+(noun)|Agnus Dei|prayer
+agonising|1
+(adj)|agonizing|excruciating|harrowing|torturing|torturous|torturesome|painful 
+agonistic|3
+(adj)|celebration|festivity
+(adj)|agonistical|combative|competitive |competitory
+(adj)|strained|affected |unnatural
+agonizing|1
+(adj)|agonising|excruciating|harrowing|torturing|torturous|torturesome|painful 
+agreeable|4
+(adj)|congenial |compatible|sympathetic|sociable|compatible|friendly|sympathetic
+(adj)|agreeable |good-natured
+(adj)|accordant|conformable|consonant|concordant|consistent 
+(adj)|accordant 
+agreeably|1
+(adv)|pleasantly|enjoyably
+agreement|6
+(noun)|understanding|statement
+(noun)|correspondence|compatibility
+(noun)|accord|harmony|concord|concordance
+(noun)|arrangement|planning|preparation|provision
+(noun)|concord|grammatical relation
+(noun)|speech act
+agrigento|1
+(noun)|Agrigento|Acragas|Girgenti|town
+agrimonia|1
+(noun)|agrimony|herb|herbaceous plant
+agrippina|2
+(noun)|Agrippina|Agrippina the Younger|Roman
+(noun)|Agrippina|Agrippina the Elder|Roman
+agrologic|1
+(adj)|agrological|science|scientific discipline
+agromania|1
+(noun)|mania|passion|cacoethes
+agronomic|1
+(adj)|agronomical|science|scientific discipline
+agropyron|1
+(noun)|Agropyron|genus Agropyron|monocot genus|liliopsid genus
+agua toad|1
+(noun)|agua|Bufo marinus|true toad
+ague root|1
+(noun)|ague grass|Aletris farinosa|colicroot|colic root|crow corn|star grass|unicorn root
+ague weed|2
+(noun)|agueweed|five-flowered gentian|stiff gentian|Gentianella quinquefolia|Gentiana quinquefolia|gentian
+(noun)|boneset|agueweed|thoroughwort|Eupatorium perfoliatum|herb|herbaceous plant
+ahuehuete|1
+(noun)|Ahuehuete|Tule tree|Montezuma cypress|Mexican swamp cypress|Taxodium mucronatum
+ailanthus|1
+(noun)|angiospermous tree|flowering tree
+aimlessly|1
+(adv)|without aim
+air-dried|1
+(adj)|dry 
+air-slake|1
+(verb)|slack|slake
+air-tight|3
+(adj)|airtight|invulnerable 
+(adj)|airtight|gas-tight|tight 
+(adj)|                                                                         
+air alert|3
+(noun)|time period|period of time|period
+(noun)|alert|qui vive
+(noun)|alarm|alert|warning signal|alarum
+air corps|1
+(noun)|Air Corps|air force|airforce
+air cover|1
+(noun)|protection
+air force|2
+(noun)|airforce|military service|armed service|service
+(noun)|                                                                         
+air group|1
+(noun)|air unit
+air medal|1
+(noun)|Air Medal|decoration|laurel wreath|medal|medallion|palm|ribbon
+air plant|1
+(noun)|epiphyte|aerophyte|epiphytic plant|plant|flora|plant life
+air power|1
+(noun)|aviation|collection|aggregation|accumulation|assemblage
+air rifle|1
+(noun)|air gun|airgun|gun
+air shaft|1
+(noun)|air well|shaft
+air space|2
+(noun)|airspace|space
+(noun)|airspace|atmosphere|air
+airheaded|1
+(adj)|dizzy|empty-headed|featherbrained|giddy|light-headed|lightheaded|silly|frivolous 
+airmailer|1
+(noun)|mailer
+airstream|2
+(noun)|wind|air current|current of air
+(noun)|slipstream|race|backwash|wash|flow
+airworthy|1
+(adj)|airworthy 
+aitchbone|1
+(noun)|cut of beef
+aizoaceae|1
+(noun)|Aizoaceae|family Aizoaceae|Tetragoniaceae|family Tetragoniaceae|carpetweed family|caryophylloid dicot family
+akee tree|1
+(noun)|akee|Blighia sapida|fruit tree
+akhenaten|1
+(noun)|Akhenaton|Akhenaten|Ikhanaton|Amenhotep IV|king|male monarch
+akhenaton|1
+(noun)|Akhenaton|Akhenaten|Ikhanaton|Amenhotep IV|king|male monarch
+al-magrib|1
+(noun)|Morocco|Kingdom of Morocco|Maroc|Marruecos|Al-Magrib|African country|African nation
+al-qa'ida|1
+(noun)|al-Qaeda|Qaeda|al-Qa'ida|al-Qaida|Base|terrorist organization|terrorist group|foreign terrorist organization|FTO
+al-qur'an|1
+(noun)|Koran|Quran|al-Qur'an|Book|sacred text|sacred writing|religious writing|religious text
+al-tawhid|2
+(noun)|al-Tawhid|Al Tawhid|Divine Unity|terrorist organization|terrorist group|foreign terrorist organization|FTO
+(noun)|                                                                         
+al capone|1
+(noun)|Capone|Al Capone|Alphonse Capone|Scarface|gangster|mobster
+al jolson|1
+(noun)|Jolson|Al Jolson|Asa Yoelson|singer|vocalist|vocalizer|vocaliser|actor|histrion|player|thespian|role player
+al nathir|1
+(noun)|Al Nathir|terrorist organization|terrorist group|foreign terrorist organization|FTO
+al qahira|1
+(noun)|Cairo|Al Qahira|El Qahira|Egyptian capital|capital of Egypt|national capital|port
+al qanoon|1
+(noun)|Lashkar-e-Omar|Al Qanoon|terrorist organization|terrorist group|foreign terrorist organization|FTO
+al tawhid|2
+(noun)|al-Tawhid|Al Tawhid|Divine Unity|terrorist organization|terrorist group|foreign terrorist organization|FTO
+(noun)|                                                                         
+alabamian|1
+(noun)|Alabaman|Alabamian|American
+alabaster|3
+(noun)|gypsum
+(noun)|oriental alabaster|onyx marble|Mexican onyx|calcite
+(noun)|white|whiteness
+alaudidae|1
+(noun)|Alaudidae|family Alaudidae|bird family
+albatross|2
+(noun)|millstone|hindrance|deterrent|impediment|balk|baulk|check|handicap
+(noun)|mollymawk|pelagic bird|oceanic bird
+albescent|1
+(adj)|white |achromatic
+albinotic|1
+(adj)|albinal|albinic|albinistic|hypopigmentation|birth defect|congenital anomaly|congenital defect|congenital disorder|congenital abnormality
+albuginea|1
+(noun)|tunic|tunica|adventitia
+albulidae|1
+(noun)|Albulidae|family Albulidae|fish family
+albuterol|1
+(noun)|Ventolin|Proventil|bronchodilator
+alchemise|1
+(verb)|alchemize|change|alter|modify
+alchemist|1
+(noun)|intellectual|intellect
+alchemize|1
+(verb)|alchemise|change|alter|modify
+alcoholic|3
+(adj)|alcoholic |hard|strong|intoxicant|intoxicating|laced|spiked|spirituous|spiritous|dry|wet
+(adj)|alcohol-dependent|addicted 
+(noun)|alky|dipsomaniac|boozer|lush|soaker|souse|drunkard|drunk|rummy|sot|inebriate
+aldactone|1
+(noun)|spironolactone|Aldactone|corticosteroid|corticoid|adrenal cortical steroid|antihypertensive|antihypertensive drug
+aldebaran|1
+(noun)|Aldebaran|binary star|binary|double star
+aldehydic|1
+(adj)|organic compound
+alder fly|2
+(noun)|alderfly|Sialis lutaria|neuropteron|neuropteran|neuropterous insect
+(noun)|                                                                         
+alectoria|1
+(noun)|Alectoria|genus Alectoria|fungus genus
+alectoris|1
+(noun)|Alectoris|genus Alectoris|bird genus
+alertness|3
+(noun)|watchfulness|vigilance|attention
+(noun)|alerting|arousal
+(noun)|on the qui vive|attentiveness
+aleurites|1
+(noun)|Aleurites|genus Aleurites|rosid dicot genus
+aleuronic|1
+(adj)|protein
+aleutians|2
+(noun)|Aleutian Islands|Aleutians|archipelago
+(noun)|Aleut|Aleutian|Indian|North American Indian|American Indian|Red Indian
+alexander|2
+(noun)|Alexander|Alexanders|black lovage|horse parsley|Smyrnium olusatrum|herb|herbaceous plant
+(noun)|Alexander|Alexander the Great|conqueror|vanquisher
+aleyrodes|1
+(noun)|Aleyrodes|genus Aleyrodes|arthropod genus
+alfilaria|1
+(noun)|redstem storksbill|alfileria|filaree|filaria|clocks|pin grass|pin clover|Erodium cicutarium|storksbill|heron's bill
+alfileria|1
+(noun)|redstem storksbill|alfilaria|filaree|filaria|clocks|pin grass|pin clover|Erodium cicutarium|storksbill|heron's bill
+algarroba|4
+(noun)|carob|carob bean|algarroba bean|locust bean|locust pod|bean|bean plant
+(noun)|carob|carob tree|carob bean tree|Ceratonia siliqua|bean tree
+(noun)|algarrobilla|algarobilla|bean
+(noun)|Prosopis juliflora|Prosopis juliiflora|mesquite|mesquit
+algebraic|1
+(adj)|algebraical|pure mathematics
+algometer|1
+(noun)|measuring instrument|measuring system|measuring device
+algometry|1
+(noun)|measurement|measuring|measure|mensuration
+algonkian|3
+(adj)|Algonquian|Algonkian|Algonquin|Indian|North American Indian|American Indian|Red Indian
+(noun)|Algonkian|Algonkin|Algonquian|Algonquin
+(noun)|Algonkian|Algonkin|Algonquian|Algonquin|Algonquian language
+algonquin|3
+(adj)|Algonquian|Algonkian|Algonquin|Indian|North American Indian|American Indian|Red Indian
+(noun)|Algonquian|Algonquin|Indian|North American Indian|American Indian|Red Indian
+(noun)|Algonquian|Algonquin|Algonquian language|Amerind|Amerindian language|American-Indian language|American Indian|Indian
+algorithm|1
+(noun)|algorithmic rule|algorithmic program|rule|formula
+alienable|1
+(adj)|alienable |appropriable|assignable|conveyable|negotiable|transferable|transferrable
+alienated|2
+(adj)|anomic|disoriented|unoriented 
+(adj)|estranged|unloved 
+alienator|1
+(noun)|unpleasant person|disagreeable person
+alignment|4
+(noun)|alliance|coalition|alinement|organization|organisation
+(noun)|placement|arrangement
+(noun)|conjunction|meeting|encounter
+(noun)|adjustment|registration|readjustment
+alikeness|1
+(noun)|likeness|similitude|similarity
+alimental|1
+(adj)|alimentary|nourishing|nutrient|nutritious|nutritive|wholesome 
+alinement|1
+(noun)|alliance|coalition|alignment|organization|organisation
+aliphatic|1
+(adj)|acyclic |open-chain
+alismales|1
+(noun)|Naiadales|order Naiadales|Alismales|order Alismales|plant order
+aliterate|1
+(noun)|aliterate person|ignoramus|know nothing|uneducated person
+aliveness|2
+(noun)|animation|life|living|being|beingness|existence
+(noun)|animateness|liveness|physiological property
+alizarine|1
+(noun)|alizarin|pigment
+alkalemia|1
+(noun)|blood disease|blood disorder
+alkaliser|1
+(noun)|antacid|gastric antacid|alkalizer|antiacid|agent
+alkalizer|1
+(noun)|antacid|gastric antacid|alkaliser|antiacid|agent
+alkalosis|1
+(noun)|pathology
+alkalotic|1
+(adj)|pathology
+alkaluria|1
+(noun)|alkalinuria|symptom
+all-fired|2
+(adj)|immoderate 
+(adv)|bloody|damn
+all-mains|1
+(adj)|adaptable 
+all-round|1
+(adj)|all-around|well-rounded|comprehensive 
+all along|1
+(adv)|right along
+all clear|2
+(noun)|signal|signaling|sign
+(noun)|permission
+all fours|1
+(noun)|high-low-jack|card game|cards
+all right|5
+(adj)|fine|ok|o.k.|okay|hunky-dory|satisfactory 
+(adj)|fine|well 
+(adv)|very well|fine|alright|OK
+(adv)|alright|without doubt
+(adv)|okay|O.K.|alright
+allamanda|1
+(noun)|vine
+allantoic|1
+(adj)|fetal membrane
+allantoid|1
+(adj)|sausage-shaped|rounded 
+allantois|1
+(noun)|fetal membrane
+allegheny|1
+(noun)|Allegheny|Allegheny River|river
+allegiant|1
+(adj)|loyal 
+allegoric|1
+(adj)|allegorical|representative 
+allemande|1
+(noun)|allemande sauce|sauce
+allentown|1
+(noun)|Allentown|city|metropolis|urban center
+allergist|1
+(noun)|doctor|doc|physician|MD|Dr.|medico
+alleviant|1
+(noun)|palliative|alleviator|remedy|curative|cure
+alleviate|2
+(verb)|relieve|palliate|assuage|better|improve|amend|ameliorate|meliorate
+(verb)|facilitate|ease|help|assist|aid
+alley cat|1
+(noun)|stray|domestic cat|house cat|Felis domesticus|Felis catus
+alliaceae|1
+(noun)|Alliaceae|family Alliaceae|liliid monocot family
+alligator|3
+(noun)|leather
+(noun)|gator|crocodilian reptile|crocodilian
+(verb)|crack
+allocable|1
+(adj)|allocatable|apportionable|distributive 
+allocator|1
+(noun)|distributor|authority
+allograft|1
+(noun)|homograft|graft|transplant
+allograph|2
+(noun)|character|grapheme|graphic symbol
+(noun)|signature
+allometry|1
+(noun)|discipline|subject|subject area|subject field|field|field of study|study|bailiwick|branch of knowledge
+allomorph|2
+(noun)|compound|chemical compound
+(noun)|morpheme
+allopathy|1
+(noun)|medical care|medical aid
+allopatry|1
+(noun)|occurrence
+allophone|1
+(noun)|phoneme
+allotment|2
+(noun)|allocation|share|portion|part|percentage
+(noun)|apportionment|apportioning|allocation|parceling|parcelling|assignation|distribution
+allotrope|1
+(noun)|chemical element|element
+allotropy|1
+(noun)|allotropism|chemical phenomenon
+allow for|1
+(verb)|leave|allow|provide|yield|give|afford
+allowable|3
+(adj)|deductible 
+(adj)|admissible 
+(adj)|permitted|permissible 
+allowably|1
+(adv)|permissibly
+allowance|7
+(noun)|share|portion|part|percentage
+(noun)|reimbursement
+(noun)|adjustment|recompense
+(noun)|leeway|margin|tolerance|discrepancy|disagreement|divergence|variance
+(noun)|valuation reserve|valuation account|allowance account|reserve account|reserve fund
+(noun)|license|permission|permit
+(verb)|allow|grant
+ally with|1
+(verb)|unite|unify
+almandine|2
+(noun)|spinel ruby|ruby spinel
+(noun)|almandite|garnet
+almandite|1
+(noun)|almandine|garnet
+almoravid|1
+(noun)|Almoravid|Berber
+alms dish|1
+(noun)|alms tray|tray
+alms tray|1
+(noun)|alms dish|tray
+almsgiver|1
+(noun)|donor|giver|presenter
+aloe vera|1
+(noun)|burn plant|Aloe vera|aloe
+aloeaceae|1
+(noun)|Aloeaceae|family Aloeaceae|aloe family|liliid monocot family
+aloneness|1
+(noun)|loneliness|lonesomeness|solitude|disposition|temperament
+alongside|1
+(adv)|aboard
+aloofness|2
+(noun)|distance|indifference
+(noun)|remoteness|standoffishness|withdrawnness|unsociability|unsociableness
+alopiidae|1
+(noun)|Alopiidae|family Alopiidae|fish family
+alpha ray|1
+(noun)|alpha radiation|corpuscular radiation|particulate radiation|ionizing radiation
+alsophila|1
+(noun)|Alsophila|genus Alsophila|arthropod genus
+altar boy|1
+(noun)|male child|boy|acolyte
+alter ego|1
+(noun)|friend
+alterable|2
+(adj)|alterable 
+(adj)|commutable 
+altercate|1
+(verb)|quarrel|dispute|scrap|argufy|argue|contend|debate|fence
+alternate|10
+(adj)|cyclic |cyclical
+altimeter|1
+(noun)|measuring instrument|measuring system|measuring device
+altissimo|1
+(adj)|high |high-pitched
+alto clef|1
+(noun)|viola clef|clef
+altricial|1
+(adj)|altricial 
+alumbloom|1
+(noun)|alumroot|herb|herbaceous plant
+aluminate|1
+(noun)|compound|chemical compound
+aluminise|1
+(verb)|aluminize|cover
+aluminium|1
+(noun)|aluminum|Al|atomic number 13|metallic element|metal
+aluminize|1
+(verb)|aluminise|cover
+aluminous|2
+(adj)|metallic element|metal
+(adj)|aluminiferous|metallic 
+alveolate|1
+(adj)|faveolate|cavitied|honeycombed|pitted|cellular 
+amaryllis|1
+(noun)|bulbous plant
+amaterasu|1
+(noun)|Amaterasu|Amaterasu Omikami|Japanese deity
+amaurosis|1
+(noun)|visual impairment|visual defect|vision defect|visual disorder
+amaurotic|1
+(adj)|visual impairment|visual defect|vision defect|visual disorder
+amazement|1
+(noun)|astonishment|feeling
+amazingly|1
+(adv)|surprisingly|astonishingly
+ambagious|1
+(adj)|circumlocutious|circumlocutory|periphrastic|indirect 
+amberbell|1
+(noun)|yellow adder's tongue|trout lily|Erythronium americanum|dogtooth violet|dogtooth|dog's-tooth violet
+amberfish|1
+(noun)|amberjack|jack
+ambergris|1
+(noun)|animal product
+amberjack|1
+(noun)|amberfish|jack
+ambiguity|2
+(noun)|saying|expression|locution
+(noun)|equivocalness|unclearness
+ambiguous|3
+(adj)|equivocal |ambivalent|double|forked|evasive|indeterminate
+(adj)|ambiguous |double-barreled|double-barrelled|double-edged|enigmatic|oracular|left-handed|multivalent|multi-valued|polysemous|polysemantic|uncertain|equivocal|unclear
+(adj)|unstructured 
+ambitious|2
+(adj)|ambitious |aggressive|enterprising|pushful|pushing|pushy|aspirant|aspiring|compulsive|determined|driven|manque|would-be|overambitious|enterprising
+(adj)|challenging|difficult |hard
+amblyopia|1
+(noun)|visual impairment|visual defect|vision defect|visual disorder
+amblyopic|1
+(adj)|visual impairment|visual defect|vision defect|visual disorder
+ambrosial|2
+(adj)|ambrosian|nectarous|tasteful 
+(adj)|ambrosian|heavenly 
+ambrosian|3
+(adj)|Ambrosian|bishop|theologian|theologist|theologizer|theologiser|composer|Church Father|Father of the Church|Father|saint|Doctor of the Church|Doctor
+(adj)|ambrosial|nectarous|tasteful 
+(adj)|ambrosial|heavenly 
+ambulance|1
+(noun)|car|auto|automobile|machine|motorcar
+ambuscade|2
+(noun)|ambush|lying in wait|trap|surprise attack|coup de main
+(verb)|ambush|scupper|bushwhack|waylay|lurk|lie in wait|wait
+ambystoma|1
+(noun)|Ambystoma|genus Ambystoma|amphibian genus
+amebiasis|1
+(noun)|amoebiasis|amebiosis|amoebiosis|protozoal infection
+amebiosis|1
+(noun)|amebiasis|amoebiasis|amoebiosis|protozoal infection
+amendable|1
+(adj)|correctable|corrigible 
+amendment|2
+(noun)|correction|rectification
+(noun)|statement
+amenities|2
+(noun)|comforts|creature comforts|conveniences|support|keep|livelihood|living|bread and butter|sustenance
+(noun)|agreeableness|amenity|pleasantness|sweetness
+americana|1
+(noun)|Americana|artifact|artefact
+americium|1
+(noun)|Am|atomic number 95|metallic element|metal
+amerindic|1
+(adj)|Indian|Amerind|Amerindic|native American|Amerindian|Native American
+ametropia|1
+(noun)|visual impairment|visual defect|vision defect|visual disorder
+ametropic|1
+(adj)|ametropic 
+amianthum|1
+(noun)|Amianthum|genus Amianthum|liliid monocot genus
+amidships|1
+(adv)|amidship|midships
+ammodytes|1
+(noun)|Ammodytes|genus Ammodytes|fish genus
+ammoniate|1
+(verb)|process|treat
+ammonitic|1
+(adj)|fossil
+amoralism|1
+(noun)|doctrine|philosophy|philosophical system|school of thought|ism
+amoralist|1
+(noun)|disciple|adherent
+amorality|1
+(noun)|quality
+amoristic|1
+(adj)|fan|buff|devotee|lover
+amorously|1
+(adv)|with love
+amorphous|3
+(adj)|formless|shapeless|unformed 
+(adj)|unstructured|inorganic 
+(adj)|uncrystallized|uncrystallised|noncrystalline 
+ampersand|1
+(noun)|punctuation|punctuation mark
+amphibian|4
+(adj)|amphibious|class
+(noun)|amphibious vehicle|motor vehicle|automotive vehicle
+(noun)|amphibious aircraft|airplane|aeroplane|plane
+(noun)|vertebrate|craniate
+amphibole|1
+(noun)|mineral
+amphiboly|1
+(noun)|amphibology|ambiguity
+amphigory|1
+(noun)|nonsense verse|nonsense|bunk|nonsensicality|meaninglessness|hokum
+amphioxus|1
+(noun)|lancelet|cephalochordate
+amphipoda|1
+(noun)|Amphipoda|order Amphipoda|animal order
+ampleness|2
+(noun)|sufficiency|adequacy
+(noun)|largeness|bigness
+amplifier|1
+(noun)|electronic equipment
+amplitude|3
+(noun)|shift|displacement
+(noun)|bountifulness|bounty|abundance|copiousness|teemingness
+(noun)|magnitude
+ampullary|1
+(adj)|ampullar|body part
+amputator|1
+(noun)|surgeon|operating surgeon|sawbones
+amsinckia|1
+(noun)|Amsinckia|genus Amsinckia|plant genus
+amsterdam|1
+(noun)|Amsterdam|Dutch capital|capital of The Netherlands|national capital
+amusement|2
+(noun)|delight|delectation
+(noun)|entertainment|diversion|recreation
+amusingly|1
+(adv)|divertingly
+amygdalin|1
+(noun)|glucoside
+amygdalus|1
+(noun)|Amygdalus|genus Amygdalus|rosid dicot genus
+amyloidal|1
+(adj)|starchlike|amylaceous|amyloid|farinaceous|starchy 
+amyotonia|1
+(noun)|atonicity|atony|atonia|condition|status
+anabiosis|1
+(noun)|suspended animation
+anabiotic|1
+(adj)|suspended animation
+anabolism|1
+(noun)|constructive metabolism|organic process|biological process
+anaclinal|1
+(adj)|anaclinal 
+anaclisis|1
+(noun)|relationship
+anaclitic|1
+(adj)|relationship
+anacyclus|1
+(noun)|Anacyclus|genus Anacyclus|asterid dicot genus
+anaerobic|2
+(adj)|anaerobic |anaerobiotic
+(adj)|anaerobic 
+anagallis|1
+(noun)|Anagallis|genus Anagallis|dicot genus|magnoliopsid genus
+anaglyphy|1
+(noun)|photography
+analeptic|2
+(adj)|stimulative 
+(noun)|stimulant|stimulant drug
+analgesia|1
+(noun)|physiological state|physiological condition
+analgesic|2
+(adj)|analgetic|anodyne|moderating 
+(noun)|anodyne|painkiller|pain pill|medicine|medication|medicament|medicinal drug
+analgetic|1
+(adj)|analgesic|anodyne|moderating 
+analogise|1
+(verb)|analogize|compare
+analogist|1
+(noun)|reasoner|ratiocinator
+analogize|1
+(verb)|analogise|compare
+analogous|2
+(adj)|correspondent|similar 
+(adj)|analogous 
+analysand|1
+(noun)|patient
+anamnesis|2
+(noun)|medical history|medical record|case history
+(noun)|remembrance|recollection|memory|retention|retentiveness
+anapestic|1
+(adj)|anapaestic|rhetorical 
+anaphalis|1
+(noun)|Anaphalis|genus Anaphalis|asterid dicot genus
+anaphasic|1
+(adj)|phase of cell division
+anaphoric|1
+(adj)|repetition
+anaplasia|1
+(noun)|dysplasia
+anaplasty|1
+(noun)|plastic surgery|reconstructive surgery|operation|surgery|surgical operation|surgical procedure|surgical process
+anarchism|1
+(noun)|political orientation|ideology|political theory
+anarchist|1
+(noun)|nihilist|syndicalist|radical
+anarthria|1
+(noun)|speech disorder|speech defect|defect of speech
+anastomus|1
+(noun)|Anastomus|genus Anastomus|bird genus
+anatolian|1
+(noun)|Anatolian|Anatolian language|Indo-European|Indo-European language|Indo-Hittite
+anatomise|1
+(verb)|anatomize|dissect
+anatomist|1
+(noun)|expert
+anatomize|2
+(verb)|anatomise|dissect
+(verb)|analyze|analyse|study|examine|canvass|canvas
+ancestral|2
+(adj)|hereditary|patrimonial|transmissible|inheritable |heritable
+(adj)|relative|relation
+anchorage|4
+(noun)|fee
+(noun)|Anchorage|city|metropolis|urban center
+(noun)|anchorage ground|area|country
+(noun)|arrival
+anchorite|1
+(noun)|hermit|eremite
+anchorman|1
+(noun)|anchor|anchorperson|television reporter|television newscaster|TV reporter|TV newsman
+ancillary|1
+(adj)|accessory|adjunct|adjuvant|appurtenant|auxiliary|subsidiary|supportive 
+ancylidae|1
+(noun)|Ancylidae|family Ancylidae|mollusk family
+and so on|1
+(adv)|and so forth|etcetera|etc.
+andalucia|1
+(noun)|Andalusia|Andalucia|geographical area|geographic area|geographical region|geographic region
+andalusia|1
+(noun)|Andalusia|Andalucia|geographical area|geographic area|geographical region|geographic region
+andantino|1
+(adj)|fast 
+andradite|1
+(noun)|garnet
+androgeny|1
+(noun)|androgenesis|parthenogenesis|parthenogeny|virgin birth
+androgyne|1
+(noun)|hermaphrodite|intersex|gynandromorph|epicine|epicine person|bisexual|bisexual person
+androgyny|1
+(noun)|hermaphroditism|bisexuality|sex|gender|sexuality
+andromeda|3
+(noun)|Japanese andromeda|lily-of-the-valley tree|Pieris japonica|shrub|bush
+(noun)|shrub|bush
+(noun)|Andromeda|constellation
+anecdotal|2
+(adj)|report|account
+(adj)|anecdotic|anecdotical|communicative |communicatory
+anecdotic|1
+(adj)|anecdotal|anecdotical|communicative |communicatory
+anemopsis|1
+(noun)|Anemopsis|genus Anemopsis|dicot genus|magnoliopsid genus
+anestrous|2
+(adj)|anestric|anoestrous|physiological state|physiological condition
+(adj)|anestrous |diestrous|dioestrous|diestrual|dioestrual
+aneuploid|1
+(adj)|abnormality|abnormalcy|abnormal condition
+angelfish|3
+(noun)|butterfly fish
+(noun)|spadefish|Chaetodipterus faber|percoid fish|percoid|percoidean
+(noun)|angel shark|Squatina squatina|monkfish|shark
+angelical|3
+(adj)|angelic|spiritual being|supernatural being
+(adj)|angelic|cherubic|seraphic|sweet|lovable |loveable
+(adj)|angelic|beatific|saintlike|saintly|sainted|good 
+angelique|1
+(noun)|angelica|herb|herbaceous plant
+angiocarp|1
+(noun)|angiosperm|flowering plant
+angiogram|1
+(noun)|roentgenogram|X ray|X-ray picture|X-ray photograph
+angiology|1
+(noun)|medicine|medical specialty
+anglewing|1
+(noun)|nymphalid|nymphalid butterfly|brush-footed butterfly|four-footed butterfly
+angleworm|1
+(noun)|earthworm|fishworm|fishing worm|wiggler|nightwalker|nightcrawler|crawler|dew worm|red worm|oligochaete|oligochaete worm
+anglicise|2
+(verb)|anglicize|change|alter|modify
+(verb)|anglicize|adapt|accommodate
+anglicism|2
+(noun)|Anglicism|Briticism|Britishism|formulation|expression
+(noun)|Anglicism|Britishism|custom|usage|usance
+anglicize|2
+(verb)|anglicise|change|alter|modify
+(verb)|anglicise|adapt|accommodate
+anglophil|1
+(noun)|anglophile|supporter|protagonist|champion|admirer|booster|friend
+angostura|1
+(noun)|angostura bark|bark
+angraecum|1
+(noun)|genus Angrecum|Angraecum|genus Angraecum|monocot genus|liliopsid genus
+angriness|1
+(noun)|anger|emotional arousal
+anguillan|2
+(adj)|Anguillan|island
+(noun)|Anguillan|West Indian
+anguished|1
+(adj)|tormented|tortured|sorrowful 
+anhedonia|1
+(noun)|psychological state|mental state
+anhimidae|1
+(noun)|Anhimidae|family Anhimidae|bird family
+anhydride|1
+(noun)|compound|chemical compound
+anhydrous|1
+(adj)|anhydrous 
+anicteric|2
+(adj)|symptom
+(adj)|healthy 
+animalise|3
+(verb)|animalize|represent|interpret
+(verb)|brutalize|brutalise|animalize|change|alter|modify
+(verb)|brutalize|brutalise|animalize|change
+animalism|2
+(noun)|doctrine|philosophy|philosophical system|school of thought|ism
+(noun)|physicality|disposition|temperament
+animality|1
+(noun)|animal nature|nature
+animalize|3
+(verb)|animalise|represent|interpret
+(verb)|brutalize|brutalise|animalise|change|alter|modify
+(verb)|brutalize|brutalise|animalise|change
+animating|1
+(adj)|enlivening|invigorating 
+animation|6
+(noun)|life|living|aliveness|being|beingness|existence
+(noun)|vitality|animateness|aliveness|liveness
+(noun)|spiritedness|invigoration|brio|vivification|activeness|activity
+(noun)|vivification|invigoration|energizing|activating|activation
+(noun)|filming|cinematography|motion-picture photography
+(noun)|liveliness|activity
+animatism|1
+(noun)|attribution|ascription
+animistic|1
+(adj)|animist|doctrine|philosophy|philosophical system|school of thought|ism
+animosity|1
+(noun)|animus|bad blood|hostility|enmity|ill will
+anisogamy|1
+(noun)|sexual reproduction|amphimixis
+anklebone|1
+(noun)|astragal|astragalus|talus|bone|os
+ankylosis|1
+(noun)|anchylosis|pathology
+ankylotic|1
+(adj)|pathology
+ann arbor|1
+(noun)|Ann Arbor|city|metropolis|urban center
+annapolis|1
+(noun)|Annapolis|capital of Maryland|state capital
+annapurna|2
+(noun)|Parvati|Anapurna|Annapurna|Hindu deity
+(noun)|Annapurna|Anapurna|mountain peak
+annealing|1
+(noun)|tempering|hardening
+annelidan|1
+(adj)|annelid|phylum
+annotator|1
+(noun)|observer|commentator
+announced|1
+(adj)|proclaimed|declared 
+announcer|2
+(noun)|communicator
+(noun)|broadcaster
+annoyance|5
+(noun)|irritation|vexation|botheration|psychological state|mental state
+(noun)|chafe|vexation|anger|choler|ire
+(noun)|aggravator|unpleasant person|disagreeable person
+(noun)|bother|botheration|pain|infliction|pain in the neck|pain in the ass|negative stimulus
+(noun)|annoying|irritation|vexation|mistreatment
+annuitant|1
+(noun)|recipient|receiver
+annulated|1
+(adj)|annular|annulate|circinate|circular|ringed|ring-shaped|doughnut-shaped|rounded 
+annulment|3
+(noun)|revocation|state
+(noun)|invalidation|dissolution|breakup
+(noun)|abrogation|repeal|cancellation
+anobiidae|1
+(noun)|Anobiidae|family Anobiidae|arthropod family
+anoestrum|1
+(noun)|anestrus|anestrum|anoestrus|physiological state|physiological condition
+anoestrus|1
+(noun)|anestrus|anestrum|anoestrum|physiological state|physiological condition
+anogramma|1
+(noun)|Anogramma|genus Anogramma|fern genus
+anointing|1
+(noun)|anointment|application|coating|covering
+anomalist|1
+(noun)|intellectual|intellect
+anomalops|1
+(noun)|flashlight fish|spiny-finned fish|acanthopterygian
+anomalous|1
+(adj)|abnormal 
+anomiidae|1
+(noun)|Anomiidae|family Anomiidae|mollusk family
+anonymity|1
+(noun)|namelessness|obscurity
+anonymous|2
+(adj)|anonymous |anon.|nameless|unidentified|unknown|unnamed
+(adj)|faceless 
+anopheles|1
+(noun)|Anopheles|genus Anopheles|arthropod genus
+anorchism|1
+(noun)|anorchidism|anorchia|abnormality|abnormalcy|abnormal condition
+anorectal|1
+(adj)|orifice|opening|porta|body part
+anorectic|3
+(adj)|anorexic|thin |lean
+(adj)|anorexigenic|causative 
+(noun)|anorexic|sick person|diseased person|sufferer
+anorthite|1
+(noun)|plagioclase|oligoclase
+anosmatic|1
+(adj)|anosmic|dysomia
+anostraca|1
+(noun)|Anostraca|order Anostraca|animal order
+anovulant|1
+(noun)|pill|birth control pill|contraceptive pill|oral contraceptive pill|oral contraceptive|anovulatory drug|contraceptive|preventive|preventative|contraceptive device|prophylactic device|birth control device
+anserinae|1
+(noun)|Anserinae|subfamily Anserinae|bird family
+answering|1
+(adj)|respondent|responsive 
+antarctic|3
+(adj)|continent
+(adj)|south-polar|Antarctic|polar 
+(noun)|Antarctic|Antarctic Zone|South Frigid Zone|Frigid Zone|polar zone
+antenatal|1
+(adj)|prenatal |antepartum
+antennary|1
+(adj)|antennal|tentacle
+antheraea|1
+(noun)|Antheraea|genus Antheraea|arthropod genus
+anthidium|1
+(noun)|Anthidium|genus Anthidium|arthropod genus
+anthology|1
+(noun)|collection|compendium
+anthozoan|1
+(noun)|actinozoan|coelenterate|cnidarian
+anthropic|1
+(adj)|anthropical|hominid
+anthurium|1
+(noun)|tailflower|tail-flower|houseplant
+anthyllis|1
+(noun)|Anthyllis|genus Anthyllis|rosid dicot genus
+antiblack|1
+(adj)|racist|anti-Semitic|anti-Semite|prejudiced |discriminatory
+antidotal|1
+(adj)|counteractive |antagonistic
+antigenic|1
+(adj)|substance|matter
+antigonia|1
+(noun)|Antigonia|genus Antigonia|fish genus
+antigonus|1
+(noun)|Antigonus|Antigonus Cyclops|Monophthalmos|general|full general|Macedonian
+antiknock|2
+(adj)|leaded 
+(noun)|compound|chemical compound
+antimeson|1
+(noun)|hadron
+antimonic|1
+(adj)|antimonious|metallic element|metal
+antimycin|1
+(noun)|antibiotic|antibiotic drug
+antipasto|1
+(noun)|appetizer|appetiser|starter
+antipathy|2
+(noun)|aversion|distaste|dislike
+(noun)|object
+antiphony|2
+(noun)|music
+(noun)|antiphon|religious music|church music
+antipodal|2
+(adj)|antipodean|region
+(noun)|antipodal opposition|diametrical opposition|opposition
+antipodes|2
+(noun)|region
+(noun)|antipode|opposition|oppositeness
+antiquark|1
+(noun)|elementary particle|fundamental particle|subatomic particle
+antiquary|1
+(noun)|antiquarian|expert
+antiquate|2
+(verb)|change|alter|modify
+(verb)|antique|change|alter|modify
+antiquity|3
+(noun)|historic period|age
+(noun)|ancientness|oldness
+(noun)|artifact|artefact
+antiserum|1
+(noun)|serum|blood serum
+antitauon|1
+(noun)|tau-plus particle|antilepton
+antitoxic|1
+(adj)|nontoxic |atoxic
+antitoxin|1
+(noun)|antibody
+antitrade|1
+(noun)|antitrade wind|prevailing wind
+antitrust|1
+(adj)|antimonopoly|fair |just
+antitumor|1
+(adj)|anticancer|antineoplastic|antitumour|growth
+antitypic|1
+(adj)|antitypical|representation|mental representation|internal representation
+antivenin|1
+(noun)|antivenene|antitoxin
+antiviral|2
+(adj)|medicine|medication|medicament|medicinal drug
+(noun)|antiviral agent|antiviral drug|medicine|medication|medicament|medicinal drug
+antoninus|1
+(noun)|Antoninus|Aurelius|Marcus Aurelius|Marcus Aurelius Antoninus|Marcus Annius Verus|Roman Emperor|Emperor of Rome
+antrozous|1
+(noun)|Antrozous|genus Antrozous|mammal genus
+antwerpen|1
+(noun)|Antwerpen|Antwerp|Anvers|city|metropolis|urban center|port
+anxiously|1
+(adv)|uneasily|apprehensively
+apartheid|1
+(noun)|social policy
+apartment|1
+(noun)|flat|housing|lodging|living accommodations
+apathetic|2
+(adj)|spiritless 
+(adj)|indifferent|uninterested 
+apatosaur|1
+(noun)|apatosaurus|brontosaur|brontosaurus|thunder lizard|Apatosaurus excelsus|sauropod|sauropod dinosaur
+apeldoorn|1
+(noun)|Apeldoorn|city|metropolis|urban center
+apennines|1
+(noun)|Apennines|range|mountain range|range of mountains|chain|mountain chain|chain of mountains
+aperiodic|1
+(adj)|aperiodic |nonperiodic|noncyclic|nonoscillatory
+apetalous|1
+(adj)|apetalous |petalless
+aphanitic|1
+(adj)|rock|stone
+apheresis|2
+(noun)|aphaeresis|omission|deletion
+(noun)|pheresis|dialysis
+apheretic|1
+(adj)|aphaeretic|omission|deletion
+aphididae|1
+(noun)|Aphididae|family Aphididae|arthropod family
+aphrodite|1
+(noun)|Aphrodite|Cytherea|Greek deity
+aphyllous|1
+(adj)|leafless 
+apiculate|1
+(adj)|simple |unsubdivided|pointed 
+apivorous|1
+(adj)|insectivorous 
+aplanatic|1
+(adj)|corrected 
+aplectrum|1
+(noun)|Aplectrum|genus Aplectrum|monocot genus|liliopsid genus
+apocrypha|1
+(noun)|Apocrypha|sacred text|sacred writing|religious writing|religious text
+apodictic|1
+(adj)|apodeictic|true 
+apoenzyme|1
+(noun)|protein
+apogamous|1
+(adj)|apogamic|apogametic|apomixis
+apologise|2
+(verb)|apologize|excuse|justify|rationalize|rationalise|defend|support|fend for
+(verb)|apologize
+apologist|1
+(noun)|vindicator|justifier|advocate|advocator|proponent|exponent
+apologize|2
+(verb)|apologise
+(verb)|apologise|excuse|justify|rationalize|rationalise|defend|support|fend for
+apomictic|2
+(adj)|apomictical|plant|flora|plant life
+(adj)|agamic|agamous|agamogenetic|parthenogenetic|asexual |nonsexual
+apophasis|1
+(noun)|rhetorical device
+apophatic|1
+(adj)|religion|faith|religious belief
+apophysis|2
+(noun)|plant process|enation
+(noun)|process|outgrowth|appendage
+apoptosis|1
+(noun)|programmed cell death|caspase-mediated cell death|necrobiosis|cell death
+aposelene|1
+(noun)|apolune|apoapsis|point of apoapsis
+apostolic|2
+(adj)|apostolical|Christian|disciple|adherent
+(adj)|papal|apostolical|pontifical|spiritual leader|Catholic
+apotheose|1
+(verb)|apotheosize|apotheosise|deify
+appalling|2
+(adj)|dismaying|alarming 
+(noun)|experience
+appaloosa|1
+(noun)|Appaloosa|saddle horse|riding horse|mount
+apparatus|2
+(noun)|setup|equipment
+(noun)|body part
+appareled|1
+(adj)|attired|dressed|garbed|garmented|habilimented|robed|clothed |clad
+apparency|1
+(noun)|apparentness|obviousness|noticeability|noticeableness|patency
+appealing|3
+(adj)|appealing |attention-getting|catchy|attractive
+(adj)|sympathetic |likeable|likable
+(adj)|imploring|importunate|pleading|beseeching 
+appearing|1
+(noun)|appearance|coming into court|attendance|attending
+appeasing|1
+(adj)|placating|placative|placatory|conciliatory |conciliative
+appellant|2
+(adj)|appellate|proceeding|legal proceeding|proceedings
+(noun)|plaintiff in error|litigant|litigator
+appellate|1
+(adj)|appellant|proceeding|legal proceeding|proceedings
+appendage|3
+(noun)|extremity|member|external body part
+(noun)|process|outgrowth|body part
+(noun)|part|portion
+appendant|1
+(adj)|affixed 
+appertain|1
+(verb)|pertain|dwell|consist|lie|belong|lie in
+appetence|1
+(noun)|appetite|appetency|craving
+appetency|1
+(noun)|appetite|appetence|craving
+appetiser|1
+(noun)|appetizer|starter|course
+appetizer|1
+(noun)|appetiser|starter|course
+applauder|1
+(noun)|clapper|laudator|lauder|extoller
+apple nut|1
+(noun)|ivory nut|vegetable ivory|seed
+apple pie|1
+(noun)|pie
+applecart|2
+(noun)|planning|preparation|provision
+(noun)|handcart|pushcart|cart|go-cart
+applejack|1
+(noun)|brandy
+applemint|1
+(noun)|apple mint|Mentha rotundifolia|Mentha suaveolens|mint
+applewood|1
+(noun)|fruitwood
+appliance|2
+(noun)|contraption|contrivance|convenience|gadget|gizmo|gismo|widget|device
+(noun)|durables|durable goods|consumer durables
+applicant|1
+(noun)|applier|person|individual|someone|somebody|mortal|human|soul
+appointed|4
+(adj)|appointive |nominated|nominative|nonelective
+(adj)|assigned 
+(adj)|decreed|ordained|prescribed|settled 
+(adj)|furnished |equipped
+appointee|2
+(noun)|official|functionary
+(noun)|appointment|person|individual|someone|somebody|mortal|human|soul
+apportion|2
+(verb)|allocate|assign|allot|portion
+(verb)|share|divvy up|portion out|deal|distribute|give out|hand out
+apposable|1
+(adj)|opposable 
+appraisal|2
+(noun)|assessment|classification|categorization|categorisation|sorting
+(noun)|estimate|estimation|commercial document|commercial instrument
+appraiser|2
+(noun)|valuator|evaluator|judge
+(noun)|authenticator|critic
+apprehend|3
+(verb)|get the picture|comprehend|savvy|dig|grasp|compass|understand
+(verb)|collar|nail|arrest|pick up|nab|cop|seize|prehend|clutch
+(verb)|quail at|anticipate|look for|look to
+appressed|1
+(adj)|adpressed|close 
+approbate|2
+(verb)|authorize|authorise|pass|clear
+(verb)|accept
+approving|2
+(adj)|approbative|approbatory|plausive|favorable |favourable
+(noun)|blessing|approval|support
+apres-ski|1
+(adj)|succeeding 
+apus apus|1
+(noun)|European swift|Apus apus|swift
+aqua-lung|2
+(noun)|aqualung|Aqua-Lung|scuba|breathing device|breathing apparatus|breathing machine|ventilator
+(noun)|                                                                         
+aquaplane|3
+(noun)|board
+(verb)|plane|skim
+(verb)|plane|skim
+aquilegia|1
+(noun)|columbine|aquilege|flower
+aquitaine|1
+(noun)|Aquitaine|Aquitania|French region
+aquitania|1
+(noun)|Aquitaine|Aquitania|French region
+arabesque|2
+(noun)|ballet position
+(noun)|decoration|ornament|ornamentation
+arability|1
+(noun)|suitability|suitableness
+arachnida|1
+(noun)|Arachnida|class Arachnida|class
+arachnoid|3
+(adj)|arachnidian|spidery|spiderlike|spiderly|class
+(noun)|arachnoid membrane|meninx|meninges
+(noun)|arachnid|arthropod
+aragonite|1
+(noun)|mineral
+araneidal|1
+(adj)|araneidan|animal order
+araneidan|1
+(adj)|araneidal|animal order
+araucaria|1
+(noun)|conifer|coniferous tree
+arbitrage|2
+(noun)|investing|investment
+(verb)|trade|merchandise
+arbitrary|1
+(adj)|arbitrary |absolute|capricious|impulsive|whimsical|discretionary|discretional
+arbitrate|1
+(verb)|intercede|mediate|intermediate|liaise|negociate|negotiate|talk terms
+arbor day|1
+(noun)|Arbor Day|day
+arboreous|3
+(adj)|arboreal |tree-living
+(adj)|arboraceous|woodsy|woody|wooded 
+(adj)|arboreal|arborescent|arboresque|arboriform|dendriform|dendroid|dendroidal|treelike|tree-shaped|branchy 
+arboretum|1
+(noun)|botanical garden|facility|installation
+arborical|1
+(adj)|arboreal|arborary|arborous|woody plant|ligneous plant
+arbovirus|1
+(noun)|arborvirus|virus
+arc light|1
+(noun)|arc lamp|electric lamp
+arcdegree|1
+(noun)|degree|angular unit
+arch over|1
+(verb)|overarch
+archangel|2
+(noun)|angel
+(noun)|garden angelica|Angelica Archangelica|angelica|angelique
+archducal|1
+(adj)|prince
+archduchy|1
+(noun)|domain|demesne|land
+archetype|1
+(noun)|original|pilot|model|example
+architect|1
+(noun)|designer|creator
+archivist|1
+(noun)|collector|aggregator
+archosaur|1
+(noun)|archosaurian|archosaurian reptile|diapsid|diapsid reptile
+arcminute|1
+(noun)|minute|minute of arc|angular unit
+arcsecond|1
+(noun)|second|angular unit
+arctictis|1
+(noun)|Arctictis|genus Arctictis|mammal genus
+arctiidae|1
+(noun)|Arctiidae|family Arctiidae|arthropod family
+area code|1
+(noun)|code
+area unit|1
+(noun)|square measure|unit of measurement|unit
+areca nut|1
+(noun)|betel nut|edible seed
+arecaceae|1
+(noun)|Palmae|family Palmae|Palmaceae|family Palmaceae|Arecaceae|family Arecaceae|palm family|monocot family|liliopsid family
+areflexia|1
+(noun)|symptom
+areopagus|2
+(noun)|Areopagus|hill
+(noun)|Areopagus|assembly
+argasidae|1
+(noun)|Argasidae|family Argasidae|arthropod family
+argentina|2
+(noun)|Argentina|Argentine Republic|the Argentine|South American country|South American nation
+(noun)|Argentina|genus Argentina|fish genus
+argentine|2
+(adj)|Argentine|Argentinian|South American country|South American nation
+(noun)|soft-finned fish|malacopterygian
+argentite|1
+(noun)|mineral
+argentous|1
+(adj)|noble metal|conductor
+argillite|1
+(noun)|sedimentary rock
+argonauta|1
+(noun)|Argonauta|genus Argonauta|mollusk genus
+arianrhod|1
+(noun)|Arianrhod|Arianrod|Celtic deity
+aristopak|1
+(noun)|triamcinolone|Aristocort|Aristopak|Kenalog|corticosteroid|corticoid|adrenal cortical steroid
+aristotle|1
+(noun)|Aristotle|philosopher
+arizonian|1
+(noun)|Arizonan|Arizonian|American
+ark shell|1
+(noun)|bivalve|pelecypod|lamellibranch
+arlington|1
+(noun)|Arlington|city|metropolis|urban center
+arm guard|2
+(noun)|arm pad|protective garment
+(noun)|bracer|armguard|protective covering|protective cover|protection
+armadillo|1
+(noun)|edentate
+armillary|1
+(adj)|jewelry|jewellery
+armistice|1
+(noun)|cease-fire|truce|peace
+armoracia|1
+(noun)|Armoracia|genus Armoracia|dilleniid dicot genus
+arms deal|1
+(noun)|deal|trade|business deal
+arms race|1
+(noun)|race
+armstrong|2
+(noun)|Armstrong|Neil Armstrong|astronaut|spaceman|cosmonaut
+(noun)|Armstrong|Louis Armstrong|Satchmo|jazz musician|jazzman|trumpeter|cornetist
+army base|1
+(noun)|base|base of operations
+army brat|1
+(noun)|child|kid
+army tank|1
+(noun)|tank|armored combat vehicle|armoured combat vehicle|military vehicle|armored vehicle|armoured vehicle|tracked vehicle
+army unit|1
+(noun)|military unit|military force|military group|force
+army worm|3
+(noun)|armyworm|Pseudaletia unipuncta|caterpillar
+(noun)|armyworm|Pseudaletia unipuncta|noctuid moth|noctuid|owlet moth
+(noun)|armyworm|fungus gnat|sciara|sciarid
+arnoseris|1
+(noun)|Arnoseris|genus Arnoseris|asterid dicot genus
+aromatise|1
+(verb)|perfume|aromatize|odorize|odourise|scent
+aromatize|1
+(verb)|perfume|aromatise|odorize|odourise|scent
+arranging|1
+(noun)|arrangement|transcription|composing|composition
+arresting|1
+(adj)|sensational|stunning|impressive 
+arrhenius|1
+(noun)|Arrhenius|Svante August Arrhenius|chemist|physicist
+arrive at|1
+(verb)|reach|make|attain|hit|gain
+arriviste|1
+(noun)|upstart|parvenu|nouveau-riche|unpleasant person|disagreeable person
+arrogance|1
+(noun)|haughtiness|hauteur|highhandedness|lordliness|pride
+arrogated|1
+(adj)|assumed|taken 
+arrogator|1
+(noun)|person|individual|someone|somebody|mortal|human|soul
+arrowhead|1
+(noun)|point
+arrowroot|3
+(noun)|starch|amylum
+(noun)|American arrowroot|obedience plant|Maranta arundinaceae|maranta
+(noun)|achira|indian shot|Canna indica|Canna edulis|canna
+arrowworm|1
+(noun)|chaetognath|worm
+arsenical|1
+(adj)|chemical element|element
+arsenious|1
+(adj)|chemical element|element
+art class|1
+(noun)|course|course of study|course of instruction|class
+art paper|1
+(noun)|paper
+art tatum|1
+(noun)|Tatum|Art Tatum|Arthur Tatum|jazz musician|jazzman
+artamidae|1
+(noun)|Artamidae|family Artamidae|bird family
+artemisia|1
+(noun)|shrub|bush
+arteriola|1
+(noun)|arteriole|capillary artery|artery|arteria|arterial blood vessel
+arteriole|1
+(noun)|arteriola|capillary artery|artery|arteria|arterial blood vessel
+arteritis|1
+(noun)|inflammation|redness|rubor
+arthritic|1
+(adj)|creaky|rheumatic|rheumatoid|rheumy|unhealthy 
+arthritis|1
+(noun)|inflammatory disease
+arthropod|1
+(noun)|invertebrate
+arthurian|1
+(adj)|Arthurian|fictional character|fictitious character|character
+artichoke|2
+(noun)|globe artichoke|artichoke plant|Cynara scolymus|vegetable
+(noun)|globe artichoke|vegetable|veggie
+articular|1
+(adj)|articulary|body part
+artificer|3
+(noun)|inventor|discoverer|creator
+(noun)|craftsman|artisan|journeyman|skilled worker|trained worker
+(noun)|armorer|armourer|enlisted man
+artillery|3
+(noun)|heavy weapon|gun|ordnance|armament
+(noun)|artillery unit|army unit
+(noun)|weapon|persuasion|suasion
+artlessly|2
+(adv)|crudely|inexpertly
+(adv)|ingenuously
+arum lily|1
+(noun)|calla lily|calla|Zantedeschia aethiopica|flower
+arytenoid|1
+(noun)|arytaenoid|arytenoid cartilage|cartilage|gristle
+as needed|1
+(adv)|as required|pro re nata|PRN
+as we say|1
+(adv)|so to speak
+asafetida|1
+(noun)|asafoetida|natural resin
+asahikawa|1
+(noun)|Asahikawa|city|metropolis|urban center
+ascaridae|1
+(noun)|Ascaridae|family Ascaridae|worm family
+ascaridia|1
+(noun)|Ascaridia|genus Ascaridia|worm genus
+ascendant|4
+(adj)|ascendent|ascensive|ascending 
+(adj)|ascendent|dominating|dominant 
+(noun)|ascendent|dominance|ascendance|ascendence|ascendancy|ascendency|control
+(noun)|ancestor|ascendent|antecedent|root|relative|relation
+ascendent|4
+(adj)|ascendant|ascensive|ascending 
+(adj)|ascendant|dominating|dominant 
+(noun)|ascendant|dominance|ascendance|ascendence|ascendancy|ascendency|control
+(noun)|ancestor|ascendant|antecedent|root|relative|relation
+ascending|2
+(adj)|ascending |acclivitous|rising|uphill|ascendant|ascendent|ascensive|assurgent|assurgent|highflying|up|upward|scandent|up
+(noun)|rise|ascent|ascension|motion|movement|move
+ascension|5
+(noun)|Ascension|Ascension Day|Ascension of the Lord|holy day of obligation
+(noun)|rise|rising|ascent|change of location|travel
+(noun)|Ascension|Ascension of Christ|miracle
+(noun)|change of location|travel
+(noun)|rise|ascent|ascending|motion|movement|move
+ascensive|1
+(adj)|ascendant|ascendent|ascending 
+ascertain|4
+(verb)|determine|find|find out
+(verb)|see|check|insure|see to it|ensure|control|assure|verify
+(verb)|determine|check|find out|see|watch|learn
+(verb)|learn|hear|get word|get wind|pick up|find out|get a line|discover|see
+ascetical|2
+(adj)|ascetic|religionist|religious person
+(adj)|ascetic|austere|spartan|abstemious 
+asclepiad|1
+(noun)|herb|herbaceous plant
+asclepias|1
+(noun)|Asclepias|genus Asclepias|dicot genus|magnoliopsid genus
+ascospore|1
+(noun)|spore
+asheville|1
+(noun)|Asheville|town
+ashkenazi|1
+(noun)|Ashkenazi|Jew|Hebrew|Israelite
+ashkhabad|1
+(noun)|Ashkhabad|capital of Turkmenistan|capital
+ashtoreth|1
+(noun)|Ashtoreth|Semitic deity
+asio otus|1
+(noun)|long-eared owl|Asio otus|owl|bird of Minerva|bird of night|hooter
+ask round|1
+(verb)|invite|ask over|request|bespeak|call for|quest
+asp viper|1
+(noun)|asp|Vipera aspis|viper
+asparagus|2
+(noun)|edible asparagus|Asparagus officinales|herb|herbaceous plant
+(noun)|vegetable|veggie
+aspartame|1
+(noun)|sweetening|sweetener
+aspectual|1
+(adj)|grammatical relation
+aspergill|1
+(noun)|device
+aspersion|3
+(noun)|slur|disparagement|depreciation|derogation
+(noun)|calumny|slander|defamation|denigration|attack
+(noun)|sprinkling|baptism
+asphaltic|1
+(adj)|mineral 
+aspinwall|1
+(noun)|Colon|Aspinwall|city|metropolis|urban center|port
+aspirator|1
+(noun)|pump
+asplenium|1
+(noun)|Asplenium|genus Asplenium|fern genus
+assailant|1
+(noun)|attacker|aggressor|assaulter|wrongdoer|offender
+assaulted|1
+(adj)|molested|raped|abused |ill-treated|maltreated|mistreated
+assaulter|1
+(noun)|attacker|aggressor|assailant|wrongdoer|offender
+assembled|2
+(adj)|accumulated|amassed|collected|congregate|massed|concentrated 
+(adj)|built|made-up|collective 
+assembler|1
+(noun)|assembly program|program|programme|computer program|computer programme
+assenting|1
+(noun)|accession|agreement
+asserting|1
+(adj)|declarative 
+assertion|2
+(noun)|averment|asseveration|declaration
+(noun)|affirmation|statement|speech act
+assertive|2
+(adj)|assertive |cocky|emphatic|forceful|aggressive|imperative
+(adj)|self-asserting|self-assertive|aggressive 
+assiduity|1
+(noun)|assiduousness|concentration|diligence|industriousness|industry
+assiduous|1
+(adj)|sedulous|diligent 
+assigning|1
+(noun)|assignment|distribution
+assistant|2
+(adj)|adjunct|subordinate |low-level
+(noun)|helper|help|supporter|worker
+assistive|1
+(adj)|helpful 
+associate|8
+(adj)|subordinate |low-level
+(noun)|peer|equal|match|compeer
+(noun)|companion|comrade|fellow|familiar|friend
+(noun)|accompaniment|concomitant|co-occurrence
+(noun)|associate degree|academic degree|degree
+(verb)|tie in|relate|link|colligate|link up|connect|think|cogitate|cerebrate
+(verb)|consort|affiliate|assort|interact
+(verb)|consociate|unite|unify
+assonance|1
+(noun)|vowel rhyme|rhyme|rime
+assuasive|1
+(adj)|calming|pacifying|soothing|reassuring 
+assurance|4
+(noun)|self-assurance|confidence|self-confidence|authority|sureness|certainty
+(noun)|pledge|commitment|dedication
+(noun)|statement
+(noun)|insurance
+assurgent|2
+(adj)|ascending 
+(adj)|ascending 
+astacidae|1
+(noun)|Astacidae|family Astacidae|Astacura|arthropod family
+asteridae|1
+(noun)|Asteridae|subclass Asteridae|class
+asthmatic|1
+(adj)|wheezing|wheezy|unhealthy 
+astounded|1
+(adj)|amazed|astonied|astonished|stunned|surprised 
+astraddle|1
+(adv)|astride
+astrakhan|2
+(noun)|fur|pelt
+(noun)|Astrakhan|city|metropolis|urban center
+astrantia|1
+(noun)|masterwort|herb|herbaceous plant
+astrocyte|1
+(noun)|neurogliacyte|neuroglial cell|glial cell
+astrodome|1
+(noun)|dome
+astrogate|2
+(verb)|navigate|pilot
+(verb)|voyage|sail|navigate
+astroglia|1
+(noun)|macroglia|neuroglia|glia
+astrolabe|1
+(noun)|sextant
+astrology|1
+(noun)|star divination|pseudoscience
+astroloma|1
+(noun)|Astroloma|genus Astroloma|dilleniid dicot genus
+astronaut|1
+(noun)|spaceman|cosmonaut|traveler|traveller
+astronium|1
+(noun)|Astronium|genus Astronium|dicot genus|magnoliopsid genus
+astronomy|1
+(noun)|uranology|physics|physical science|natural philosophy
+aswan dam|1
+(noun)|Aswan High Dam|Aswan Dam|High Dam|dam|dike|dyke|levee
+asymmetry|1
+(noun)|imbalance|spatial property|spatiality
+asymptote|1
+(noun)|straight line
+asyndetic|1
+(adj)|asyndetic 
+asynergia|1
+(noun)|asynergy|pathology
+asynergic|1
+(adj)|pathology
+at a loss|1
+(adj)|nonplused|nonplussed|puzzled|perplexed 
+at a time|1
+(adv)|at once|at one time
+at bottom|1
+(adv)|at heart|deep down|inside|in spite of appearance
+at length|2
+(adv)|finally|eventually
+(adv)|lengthily
+at random|1
+(adv)|randomly|indiscriminately|haphazardly|willy-nilly|arbitrarily|every which way
+ataractic|2
+(adj)|ataraxic|sedative|tranquilizing|tranquilising|depressant 
+(noun)|tranquilizer|tranquillizer|tranquilliser|antianxiety agent|ataractic drug|ataractic agent|psychotropic agent|sedative-hypnotic|sedative-hypnotic drug
+atavistic|1
+(adj)|throwback|regressive 
+ateliosis|1
+(noun)|ateleiosis|infantilism
+atheistic|2
+(adj)|atheistical|unbelieving|irreligious 
+(adj)|atheist|atheistical|religious orientation
+athelstan|1
+(noun)|Athelstan|king|male monarch|Saxon
+athenaeum|2
+(noun)|atheneum|club|society|guild|gild|lodge|order
+(noun)|atheneum|library|depository library
+atherurus|1
+(noun)|Atherurus|genus Atherurus|mammal genus
+athetosis|1
+(noun)|nervous disorder|neurological disorder|neurological disease
+athletics|3
+(noun)|sport|diversion|recreation
+(noun)|athletic contest|athletic competition|contest|competition
+(noun)|extracurricular activity
+atmometer|1
+(noun)|evaporometer|measuring instrument|measuring system|measuring device
+atom-bomb|1
+(verb)|nuke|bombard|bomb
+atom bomb|1
+(noun)|atomic bomb|A-bomb|fission bomb|plutonium bomb|nuclear weapon|bomb
+atomistic|1
+(adj)|atomistic |atomistical
+atonalism|1
+(noun)|atonality|musical notation
+atonality|1
+(noun)|atonalism|musical notation
+atonement|2
+(noun)|expiation|satisfaction|damages|amends|indemnity|indemnification|restitution|redress
+(noun)|expiation|propitiation|redemption|salvation
+atonicity|1
+(noun)|atony|atonia|amyotonia|condition|status
+atrocious|3
+(adj)|flagitious|grievous|heinous|monstrous|evil |wicked
+(adj)|abominable|awful|dreadful|painful|terrible|unspeakable|bad 
+(adj)|frightful|horrifying|horrible|ugly|alarming 
+atromid-s|1
+(noun)|clofibrate|Atromid-S|medicine|medication|medicament|medicinal drug
+atrophied|1
+(adj)|atrophied |wasted|diminished
+atropidae|1
+(noun)|Atropidae|family Atropidae|arthropod family
+attacapan|2
+(noun)|Atakapa|Attacapan|Plains Indian|Buffalo Indian
+(noun)|Atakapa|Atakapan|Attacapa|Attacapan|Amerind|Amerindian language|American-Indian language|American Indian|Indian
+attach to|2
+(verb)|accompany|come with|go with
+(verb)|inhere in|include
+attacking|1
+(adj)|assaultive|offensive 
+attainder|1
+(noun)|civil death|cancellation
+attempted|1
+(adj)|unsuccessful 
+attempter|1
+(noun)|trier|essayer|person|individual|someone|somebody|mortal|human|soul
+attend to|2
+(verb)|take to heart|mind|bear in mind
+(verb)|serve|wait on|attend|assist|help|assist|aid
+attendant|3
+(adj)|accompanying|concomitant|incidental|incidental to|related |related to
+(noun)|attender|tender|assistant|helper|help|supporter
+(noun)|attender|attendee|meeter|participant
+attending|4
+(adj)|in attendance|present 
+(adj)|ministering|ministrant|helpful 
+(noun)|attention|basic cognitive process
+(noun)|attendance|group action
+attention|6
+(noun)|attending|basic cognitive process
+(noun)|care|aid|tending|work
+(noun)|attraction|attractor|attracter|attractive feature|magnet
+(noun)|courtesy
+(noun)|faculty|mental faculty|module
+(noun)|stance
+attentive|2
+(adj)|attentive |absorbed|engrossed|enwrapped|intent|rapt|wrapped|advertent|heedful|listening|observant|solicitous|oversolicitous|concerned
+(adj)|heedful |thoughtful
+attenuate|3
+(adj)|attenuated|faded|weakened|decreased |reduced
+(verb)|rarefy|weaken
+(verb)|weaken
+attestant|2
+(noun)|witness|attestor|attestator|signer|signatory
+(noun)|attester|witness|witnesser|informant
+attic fan|1
+(noun)|exhaust fan
+attracter|3
+(noun)|drawing card|draw|attraction|attractor|entertainer
+(noun)|attractor|point
+(noun)|attraction|attractor|attractive feature|magnet|feature|characteristic
+attractor|3
+(noun)|drawing card|draw|attraction|attracter|entertainer
+(noun)|attracter|point
+(noun)|attraction|attracter|attractive feature|magnet|feature|characteristic
+attribute|4
+(noun)|property|dimension|concept|conception|construct
+(noun)|abstraction
+(verb)|impute|ascribe|assign|judge
+(verb)|assign|judge
+attrition|5
+(noun)|abrasion|corrasion|detrition|erosion|eroding|eating away|wearing|wearing away
+(noun)|grinding|abrasion|detrition|friction|rubbing
+(noun)|contrition|contriteness|sorrow|regret|rue|ruefulness
+(noun)|decrease|lessening|drop-off
+(noun)|friction|detrition|rubbing
+au gratin|1
+(adj)|cooked 
+au revoir|1
+(noun)|adieu|adios|arrivederci|auf wiedersehen|bye|bye-bye|cheerio|good-by|goodby|good-bye|goodbye|good day|sayonara|so long|farewell|word of farewell
+aubergine|2
+(noun)|eggplant|brinjal|eggplant bush|garden egg|mad apple|Solanum melongena|herb|herbaceous plant
+(noun)|eggplant|mad apple|solanaceous vegetable
+auctorial|1
+(adj)|authorial|communicator
+audacious|3
+(adj)|brave|dauntless|fearless|intrepid|unfearing|bold 
+(adj)|barefaced|bodacious|bold-faced|brassy|brazen|brazen-faced|insolent|unashamed 
+(adj)|daring|venturesome|venturous|adventurous |adventuresome
+audiogram|1
+(noun)|representation
+audiology|1
+(noun)|audiometry|otology|otolaryngology
+audiotape|2
+(noun)|tape|tape recording|taping|sound recording|audio recording
+(noun)|magnetic tape|mag tape|tape
+augmented|1
+(adj)|increased 
+augmentin|1
+(noun)|amoxicillin|Amoxil|Larotid|Polymox|Trimox|Augmentin|penicillin
+august 15|1
+(noun)|Assumption|Assumption of Mary|August 15|holy day of obligation
+augustine|1
+(noun)|Augustine|Saint Augustine|St. Augustine|Augustine of Hippo|theologian|theologist|theologizer|theologiser|Church Father|Father of the Church|Father|saint|Doctor of the Church|Doctor
+auricular|3
+(adj)|otic|cartilaginous structure
+(adj)|cartilaginous structure
+(adj)|pouch|pocket
+auriparus|1
+(noun)|Auriparus|genus Auriparus|bird genus
+auschwitz|1
+(noun)|Auschwitz|concentration camp|stockade
+auspicate|2
+(verb)|bode|portend|prognosticate|omen|presage|betoken|foreshadow|augur|foretell|prefigure|forecast|predict|bespeak|betoken|indicate|point|signal
+(verb)|get down|begin|get|start out|start|set about|set out|commence
+austenite|1
+(noun)|solid solution|primary solid solution
+austerity|1
+(noun)|asceticism|nonindulgence|self-discipline|self-denial
+australia|2
+(noun)|Australia|Commonwealth of Australia|country|state|land
+(noun)|Australia|continent
+autarchic|1
+(adj)|autarchical|autarkical|political system|form of government
+authentic|2
+(adj)|reliable|trustworthy |trusty
+(adj)|bona fide|unquestionable|veritable|genuine |echt
+authoress|1
+(noun)|writer|author
+authorial|1
+(adj)|auctorial|communicator
+authorise|2
+(verb)|empower|authorize|appoint|charge
+(verb)|authorize|pass|clear|permit|allow|let|countenance
+authority|7
+(noun)|authorization|authorisation|dominance|say-so|control
+(noun)|person|individual|someone|somebody|mortal|human|soul
+(noun)|expert
+(noun)|assurance|self-assurance|confidence|self-confidence|sureness|certainty
+(noun)|agency|federal agency|government agency|bureau|office|administrative unit|administrative body
+(noun)|authorization|authorisation|sanction|permission
+(noun)|book
+authorize|2
+(verb)|authorise|pass|clear|permit|allow|let|countenance
+(verb)|empower|authorise|appoint|charge
+auto loan|1
+(noun)|automobile loan|car loan|personal loan|consumer loan
+auto part|1
+(noun)|car part|component|constituent|element
+auto race|1
+(noun)|automobile race|car race|race
+auto tire|1
+(noun)|car tire|automobile tire|rubber tire|tire|tyre
+autoclave|2
+(noun)|sterilizer|steriliser|vessel
+(verb)|sterilize|sterilise
+autocracy|2
+(noun)|autarchy|political system|form of government
+(noun)|political orientation|ideology|political theory
+autofocus|1
+(noun)|optical device
+autogamic|1
+(adj)|autogamous |self-fertilized|self-fertilised|self-pollinated
+autogenic|1
+(adj)|autogenous |self-generated|self-produced
+autograft|1
+(noun)|autoplasty|graft|transplant
+autograph|3
+(noun)|writing|written material|piece of writing
+(noun)|John Hancock|signature
+(verb)|inscribe|sign
+autoicous|1
+(adj)|monoecious |monecious|monoicous
+autolatry|1
+(noun)|idiolatry|self-worship|worship
+autolysis|1
+(noun)|lysis
+autolytic|1
+(adj)|lysis
+automaker|1
+(noun)|car manufacturer|car maker|carmaker|auto manufacturer|auto maker|manufacturer|maker|manufacturing business
+automated|1
+(adj)|machine-controlled|machine-driven|automatic 
+automatic|5
+(adj)|automatic |autoloading|self-loading|semiautomatic|automated|machine-controlled|machine-driven|self-acting|self-activating|self-moving|self-regulating|self-locking|self-winding|semiautomatic|mechanical
+(adj)|automatonlike|machinelike|robotlike|mechanical 
+(adj)|reflex|reflexive|involuntary 
+(noun)|automatic rifle|machine rifle|automatic firearm|machine gun
+(noun)|automatic pistol|pistol|handgun|side arm|shooting iron|automatic firearm
+automaton|2
+(noun)|zombi|zombie|anomaly|unusual person
+(noun)|robot|golem|mechanism
+automeris|1
+(noun)|Automeris|genus Automeris|arthropod genus
+autonomic|1
+(adj)|involuntary 
+autophyte|1
+(noun)|autophytic plant|autotroph|autotrophic organism|plant|flora|plant life
+autopilot|2
+(noun)|automatic pilot|unconsciousness
+(noun)|automatic pilot|robot pilot|device
+autosomal|1
+(adj)|chromosome
+autotelic|1
+(adj)|belief
+autotomic|1
+(adj)|removal|remotion
+autotroph|1
+(noun)|autophyte|autophytic plant|autotrophic organism|plant|flora|plant life
+autotypic|1
+(adj)|photography
+auxiliary|3
+(adj)|subsidiary|supplemental|supplementary|secondary 
+(adj)|accessory|adjunct|ancillary|adjuvant|appurtenant|subsidiary|supportive 
+(noun)|aide|assistant|helper|help|supporter
+available|3
+(adj)|available |accessible|acquirable|easy|forthcoming|gettable|getable|obtainable|procurable|in stock|lendable|on hand|visible|on tap|on tap|open|purchasable|for sale|ready|addressable
+(adj)|uncommitted|free 
+(adj)|usable|useable|disposable 
+avalanche|3
+(noun)|slide
+(noun)|happening|occurrence|natural event
+(verb)|roll down|descend|fall|go down|come down
+avascular|1
+(adj)|avascular 
+ave maria|1
+(noun)|Ave Maria|Hail Mary|prayer
+avertable|1
+(adj)|evitable |avoidable|avertible
+avertible|1
+(adj)|evitable |avoidable|avertable
+aviatress|1
+(noun)|aviatrix|airwoman|aviator|aeronaut|airman|flier|flyer
+avicennia|1
+(noun)|Avicennia|genus Avicennia|asterid dicot genus
+avifaunal|1
+(adj)|avifaunistic|fauna
+avirulent|1
+(adj)|avirulent 
+avocation|1
+(noun)|by-line|hobby|sideline|spare-time activity|pastime|interest|pursuit
+avoidable|1
+(adj)|evitable |avertible|avertable
+avoidance|1
+(noun)|turning away|shunning|dodging|rejection
+avuncular|2
+(adj)|kinsman
+(adj)|cousinly 
+awakening|1
+(noun)|wakening|waking up|arousal|rousing
+awareness|2
+(noun)|consciousness|cognizance|cognisance|knowingness|knowing
+(noun)|sentience|consciousness
+away game|1
+(noun)|road game|game
+awestruck|1
+(adj)|awed |awestricken|in awe of|overawed
+awfulness|1
+(noun)|dreadfulness|horridness|terribleness|unpleasantness
+ax handle|1
+(noun)|axe handle|handle|grip|handgrip|hold
+axiomatic|3
+(adj)|self-evident|taken for granted|obvious 
+(adj)|aphoristic|saying|expression|locution
+(adj)|axiomatical|postulational|proposition
+ayatollah|1
+(noun)|religious leader
+azedarach|1
+(noun)|chinaberry|chinaberry tree|China tree|Persian lilac|pride-of-India|azederach|Melia azederach|Melia azedarach|tree
+azederach|1
+(noun)|chinaberry|chinaberry tree|China tree|Persian lilac|pride-of-India|azedarach|Melia azederach|Melia azedarach|tree
+azimuthal|1
+(adj)|angle
+azo group|1
+(noun)|azo radical|group|radical|chemical group
+azotaemia|1
+(noun)|uremia|uraemia|azotemia|pathology
+aztreonam|1
+(noun)|Azactam|antibiotic|antibiotic drug

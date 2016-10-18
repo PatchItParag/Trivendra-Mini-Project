@@ -1,0 +1,830 @@
+a. a. michelson|1
+(noun)|Michelson|A. A. Michelson|Albert Michelson|Albert Abraham Michelson|physicist
+a. noam chomsky|1
+(noun)|Chomsky|Noam Chomsky|A. Noam Chomsky|linguist|linguistic scientist
+a hundred times|1
+(adv)|hundredfold
+a million times|1
+(adv)|millionfold
+abdominal aorta|1
+(noun)|aorta
+abdominovesical|1
+(adj)|body part|bladder|vesica
+abducens muscle|1
+(noun)|lateral rectus muscle|lateral rectus|rectus lateralis|ocular muscle|eye muscle
+abductor muscle|1
+(noun)|abductor|skeletal muscle|striated muscle
+abies bracteata|1
+(noun)|Santa Lucia fir|bristlecone fir|Abies bracteata|Abies venusta|fir|fir tree|true fir
+above-mentioned|1
+(adj)|above-named|preceding 
+abraham's bosom|1
+(noun)|Abraham's bosom|bosom of Abraham|Heaven
+abraham lincoln|1
+(noun)|Lincoln|Abraham Lincoln|President Lincoln|President Abraham Lincoln|lawyer|attorney|President of the United States|United States President|President|Chief Executive
+abronia villosa|1
+(noun)|desert sand verbena|Abronia villosa|sand verbena
+abscessed tooth|1
+(noun)|abscess
+absentee ballot|1
+(noun)|ballot
+absorption band|1
+(noun)|optical phenomenon
+absorption unit|1
+(noun)|unit of measurement|unit
+abstract artist|1
+(noun)|abstractionist|painter
+acacia cambegei|1
+(noun)|gidgee|stinking wattle|Acacia cambegei|acacia
+acacia dealbata|1
+(noun)|silver wattle|mimosa|Acacia dealbata|acacia
+academic degree|1
+(noun)|degree|award|accolade|honor|honour|laurels|qualification|makings
+academicianship|1
+(noun)|position|post|berth|office|spot|billet|place|situation
+acanthisittidae|1
+(noun)|Xenicidae|family Xenicidae|Acanthisittidae|family Acanthisittidae|bird family
+acanthocephalan|1
+(noun)|spiny-headed worm|worm
+acanthopterygii|1
+(noun)|Acanthopterygii|superorder Acanthopterygii|animal order
+acanthoscelides|1
+(noun)|Acanthoscelides|genus Acanthoscelides|arthropod genus
+acanthus family|1
+(noun)|Acanthaceae|family Acanthaceae|asterid dicot family
+acanthus mollis|1
+(noun)|bear's breech|bear's breeches|sea holly|Acanthus mollis|acanthus
+accessory fruit|1
+(noun)|pseudocarp|fruit
+accessory nerve|1
+(noun)|spinal accessory|nervus accessorius|eleventh cranial nerve|cranial nerve
+accipiter nisus|1
+(noun)|sparrow hawk|Accipiter nisus|hawk
+accipitriformes|1
+(noun)|Accipitriformes|order Accipitriformes|bird of prey|raptor|raptorial bird
+acclimatisation|1
+(noun)|acclimatization|acclimation|adaptation|adjustment
+acclimatization|1
+(noun)|acclimatisation|acclimation|adaptation|adjustment
+accommodatingly|1
+(adv)|obligingly
+accommodational|1
+(adj)|alteration|modification|adjustment
+account payable|1
+(noun)|indebtedness|liability|financial obligation
+accounting data|1
+(noun)|data|information
+accounting firm|1
+(noun)|firm|house|business firm
+accroides resin|1
+(noun)|acaroid resin|accaroid resin|accroides|accroides gum|gum accroides|natural resin
+acculturational|1
+(adj)|acculturative|education
+accusative case|1
+(noun)|accusative|objective case|oblique|oblique case
+ace of diamonds|1
+(noun)|ace
+acer circinatum|1
+(noun)|vine maple|Acer circinatum|maple
+acetophenetidin|1
+(noun)|acetphenetidin|phenacetin|analgesic|anodyne|painkiller|pain pill
+acetyl chloride|1
+(noun)|ethanoyl chloride|acyl halide|acid halide
+acheson process|1
+(noun)|Acheson process|industrial process
+achilles tendon|1
+(noun)|Achilles tendon|tendon of Achilles|tendon|sinew
+achondroplastic|1
+(adj)|genetic disease|genetic disorder|genetic abnormality|genetic defect|congenital disease|inherited disease|inherited disorder|hereditary disease|hereditary condition
+achromatic lens|1
+(noun)|compound lens
+acid anhydrides|1
+(noun)|acyl anhydrides|organic compound
+acidic hydrogen|1
+(noun)|acid hydrogen|hydrogen atom
+acinos arvensis|1
+(noun)|basil thyme|basil balm|mother of thyme|Acinos arvensis|Satureja acinos|herb|herbaceous plant
+acknowledgeable|1
+(adj)|identifiable 
+acknowledgement|2
+(noun)|recognition|acknowledgment|acceptance
+(noun)|acknowledgment|message|content|subject matter|substance
+acoustic device|1
+(noun)|device
+acoustic guitar|1
+(noun)|guitar
+acoustic meatus|1
+(noun)|auditory meatus|ear canal|auditory canal|external auditory canal|meatus
+acousticophobia|1
+(noun)|phonophobia|simple phobia
+acquainted with|1
+(adj)|acquainted|familiar with|familiar 
+acquired reflex|1
+(noun)|conditional reflex|conditioned reflex|conditional reaction|conditioned reaction|conditional response|conditioned response|learned reaction|learned response
+acquisitiveness|1
+(noun)|greed
+acris crepitans|1
+(noun)|northern cricket frog|Acris crepitans|cricket frog
+acroanaesthesia|1
+(noun)|acroanesthesia|regional anesthesia|regional anaesthesia
+acrobatic stunt|1
+(noun)|acrobatic feat|stunt
+act reflexively|1
+(verb)|act involuntarily|act|behave|do
+actinide series|2
+(noun)|series
+(noun)|series
+actinomycetales|1
+(noun)|Actinomycetales|order Actinomycetales|animal order
+action painting|1
+(noun)|Abstract Expressionism|artistic movement|art movement
+action spectrum|1
+(noun)|spectrum
+active immunity|1
+(noun)|acquired immunity
+actual eviction|1
+(noun)|eviction|dispossession|legal ouster
+actuarial table|1
+(noun)|statistical table|table|tabular array
+acute gastritis|1
+(noun)|gastritis
+acute glossitis|1
+(noun)|glossitis
+acyl anhydrides|1
+(noun)|acid anhydrides|organic compound
+adductor muscle|1
+(noun)|adductor|skeletal muscle|striated muscle
+adelges abietis|1
+(noun)|spruce gall aphid|Adelges abietis|adelgid
+adenohypophysis|1
+(noun)|anterior pituitary|anterior pituitary gland|endocrine gland|endocrine|ductless gland
+adenomyosarcoma|1
+(noun)|Wilms' tumor|Wilms tumour|nephroblastoma|embryoma of the kidney|sarcoma
+adenota vardoni|1
+(noun)|puku|Adenota vardoni|antelope
+adiantum bellum|1
+(noun)|Bermuda maidenhair|Bermuda maidenhair fern|Adiantum bellum|maidenhair|maidenhair fern
+adjusting entry|1
+(noun)|entry|accounting entry|ledger entry
+adlai stevenson|1
+(noun)|Stevenson|Adlai Stevenson|Adlai Ewing Stevenson|diplomat|diplomatist
+adlumia fungosa|1
+(noun)|climbing fumitory|Allegheny vine|Adlumia fungosa|Fumaria fungosa|vine
+admiralty brass|1
+(noun)|naval brass|Admiralty brass|Admiralty Metal|Tobin bronze|alpha-beta brass|Muntz metal|yellow metal
+admiralty metal|1
+(noun)|naval brass|Admiralty brass|Admiralty Metal|Tobin bronze|alpha-beta brass|Muntz metal|yellow metal
+admiralty range|1
+(noun)|Admiralty Range|range|mountain range|range of mountains|chain|mountain chain|chain of mountains
+admission price|1
+(noun)|entrance fee|admission|admission charge|admission fee|price of admission|entrance money|fee
+adoptive parent|1
+(noun)|adopter|parent
+adrenal medulla|1
+(noun)|medulla|endocrine gland|endocrine|ductless gland
+adrenergic drug|1
+(noun)|adrenergic|vasoconstrictor|vasoconstrictive
+adult education|1
+(noun)|course|course of study|course of instruction|class
+adult male body|1
+(noun)|man's body|adult body|male body
+adventure story|1
+(noun)|heroic tale|story
+adventurousness|1
+(noun)|venturesomeness|boldness|daring|hardihood
+adverse opinion|1
+(noun)|opinion|view
+adverse witness|1
+(noun)|hostile witness|witness
+aegiceras majus|1
+(noun)|black mangrove|Aegiceras majus|tree
+aegyptopithecus|1
+(noun)|Aegyptopithecus|hominoid
+afars and issas|1
+(noun)|Djibouti|Republic of Djibouti|Afars and Issas|African country|African nation
+afferent neuron|1
+(noun)|sensory neuron|nerve cell|neuron
+affine geometry|1
+(noun)|geometry
+affirmativeness|1
+(noun)|agreeableness|agreeability
+afibrinogenemia|1
+(noun)|blood disease|blood disorder
+african country|1
+(noun)|African country|African nation|country|state|land
+african monitor|1
+(noun)|African monitor|Varanus niloticus|monitor|monitor lizard|varan
+africanized bee|1
+(noun)|Africanized bee|Africanized honey bee|killer bee|Apis mellifera scutellata|Apis mellifera adansonii|honeybee|Apis mellifera
+again and again|1
+(adv)|over and over|over and over again|time and again|time and time again
+agatha christie|1
+(noun)|Christie|Agatha Christie|Dame Agatha Mary Clarissa Christie|writer|author
+agathis dammara|1
+(noun)|amboina pine|amboyna pine|Agathis dammara|Agathis alba|kauri pine|dammar pine
+agathis robusta|1
+(noun)|dundathu pine|queensland kauri|smooth bark kauri|Agathis robusta|kauri pine|dammar pine
+agave americana|1
+(noun)|American agave|Agave americana|agave|century plant|American aloe
+agave tequilana|1
+(noun)|Agave tequilana|agave|century plant|American aloe
+age of reptiles|1
+(noun)|Mesozoic|Mesozoic era|Age of Reptiles|era|geological era
+agency security|1
+(noun)|government security|security|certificate
+aggregate fruit|1
+(noun)|multiple fruit|syncarp|fruit
+agranulocytosis|1
+(noun)|agranulosis|granulocytopenia|blood disease|blood disorder
+agrostis canina|1
+(noun)|velvet bent|velvet bent grass|brown bent|Rhode Island bent|dog bent|Agrostis canina|bent|bent grass|bent-grass
+ailurus fulgens|1
+(noun)|lesser panda|red panda|panda|bear cat|cat bear|Ailurus fulgens|procyonid
+air-conditioned|1
+(adj)|cool 
+air conditioner|1
+(noun)|air conditioning|cooling system|cooling
+air thermometer|1
+(noun)|gas thermometer|thermometer
+airborne patrol|1
+(noun)|patrol
+aircraft engine|1
+(noun)|engine
+airing cupboard|1
+(noun)|cupboard|closet
+airplane ticket|1
+(noun)|plane ticket|ticket
+aix-la-chapelle|1
+(noun)|Aachen|Aken|Aix-la-Chapelle|city|metropolis|urban center
+al-rashid trust|1
+(noun)|al-Rashid Trust|terrorist organization|terrorist group|foreign terrorist organization|FTO
+alan jay lerner|1
+(noun)|Lerner|Alan Jay Lerner|lyricist
+alaska fur seal|1
+(noun)|Alaska fur seal|Callorhinus ursinus|fur seal
+alauda arvensis|1
+(noun)|skylark|Alauda arvensis|lark
+albert einstein|1
+(noun)|Einstein|Albert Einstein|physicist
+albert gore jr.|1
+(noun)|Gore|Al Gore|Albert Gore Jr.|vice president|V.P.
+albizia lebbeck|1
+(noun)|siris|siris tree|Albizia lebbeck|Albizzia lebbeck|albizzia|albizia
+alcohol radical|1
+(noun)|alcohol group|group|radical|chemical group
+alcoholic abuse|1
+(noun)|alcohol abuse|alcoholism abuse|substance abuse|drug abuse|habit
+alder buckthorn|1
+(noun)|alder dogwood|Rhamnus frangula|buckthorn
+alectoris ruffa|1
+(noun)|red-legged partridge|Alectoris ruffa|partridge
+alexandre dumas|1
+(noun)|Dumas|Alexandre Dumas|writer|author
+alfred tennyson|1
+(noun)|Tennyson|Alfred Tennyson|First Baron Tennyson|Alfred Lord Tennyson|poet
+algorithm error|1
+(noun)|error|computer error
+alice b. toklas|1
+(noun)|Toklas|Alice B. Toklas|writer|author
+alien absconder|1
+(noun)|absconder
+alizarin yellow|1
+(noun)|dye|dyestuff
+alkaline-loving|1
+(adj)|alkaline-loving 
+all-or-none law|1
+(noun)|law|law of nature
+all of a sudden|2
+(adv)|all at once
+(adv)|suddenly|of a sudden
+all saints' day|1
+(noun)|All Saints' Day|Allhallows|November 1|Hallowmas|Hallowmass|holy day of obligation
+allegheny river|1
+(noun)|Allegheny|Allegheny River|river
+allemande sauce|1
+(noun)|allemande|sauce
+allergic eczema|1
+(noun)|eczema
+alligator grass|1
+(noun)|alligator weed|Alternanthera philoxeroides|weed
+allocation unit|1
+(noun)|computer memory unit
+alloy cast iron|1
+(noun)|alloy iron|cast iron
+almond crescent|1
+(noun)|almond cookie|cookie|cooky|biscuit
+alnus glutinosa|1
+(noun)|common alder|European black alder|Alnus glutinosa|Alnus vulgaris|alder|alder tree
+alnus serrulata|1
+(noun)|smooth alder|hazel alder|Alnus serrulata|alder|alder tree
+alopecia areata|1
+(noun)|alopecia
+alpha and omega|2
+(noun)|eternity|infinity
+(noun)|crux|crux of the matter
+alpha geminorum|1
+(noun)|Castor|Alpha Geminorum|multiple star
+alpha privative|1
+(noun)|prefix
+alpha radiation|1
+(noun)|alpha ray|corpuscular radiation|particulate radiation|ionizing radiation
+alphabetisation|1
+(noun)|alphabetization|order|ordering
+alphabetization|1
+(noun)|alphabetisation|order|ordering
+alphonse capone|1
+(noun)|Capone|Al Capone|Alphonse Capone|Scarface|gangster|mobster
+alpine clubmoss|1
+(noun)|Lycopodium alpinum|club moss|club-moss|lycopod
+alpinia galanga|1
+(noun)|galangal|Alpinia galanga|ginger
+altaic language|1
+(noun)|Altaic|Altaic language|Ural-Altaic
+aluminium oxide|1
+(noun)|alumina|aluminum oxide|corundom|corundum
+aluminum bronze|1
+(noun)|aluminium bronze|copper-base alloy
+alveolar artery|1
+(noun)|arteria alveolaris|artery|arteria|arterial blood vessel
+amaranth family|1
+(noun)|Amaranthaceae|family Amaranthaceae|caryophylloid dicot family
+amedeo avogadro|1
+(noun)|Avogadro|Amedeo Avogadro|physicist
+american badger|1
+(noun)|American badger|Taxidea taxus|badger
+american blight|1
+(noun)|woolly apple aphid|American blight|Eriosoma lanigerum|woolly aphid|woolly plant louse
+american cheese|1
+(noun)|American cheese|cheese
+american copper|1
+(noun)|American copper|Lycaena hypophlaeas|copper
+american indian|2
+(noun)|Indian|North American Indian|American Indian|Red Indian|Amerindian|Native American
+(noun)|Amerind|Amerindian language|American-Indian language|American Indian|Indian|natural language|tongue
+american laurel|1
+(noun)|mountain laurel|wood laurel|American laurel|calico bush|Kalmia latifolia|kalmia
+american legion|1
+(noun)|American Legion|association
+american magpie|1
+(noun)|American magpie|Pica pica hudsonia|magpie
+american marten|1
+(noun)|American marten|American sable|Martes americana|marten|marten cat
+american oriole|1
+(noun)|New World oriole|American oriole|oriole|oscine|oscine bird
+american plaice|1
+(noun)|American plaice|Hippoglossoides platessoides|righteye flounder|righteyed flounder
+americanisation|1
+(noun)|Americanization|Americanisation|assimilation|absorption
+americanization|1
+(noun)|Americanization|Americanisation|assimilation|absorption
+amerindian race|1
+(noun)|Indian race|Amerindian race|race
+ammobium alatum|1
+(noun)|winged everlasting|Ammobium alatum|ammobium
+amnesic aphasia|1
+(noun)|nominal aphasia|anomic aphasia|anomia|amnestic aphasia|aphasia
+amniotic cavity|1
+(noun)|cavity|bodily cavity|cavum
+amorphous shape|1
+(noun)|shape|form
+amount of money|1
+(noun)|sum|sum of money|amount|assets
+amphibian genus|1
+(noun)|genus
+amphibole group|1
+(noun)|mineral
+amphitheatrical|1
+(adj)|amphitheatric|stadium|bowl|arena|sports stadium
+amplitude level|1
+(noun)|degree|grade|level
+anabrus simplex|1
+(noun)|mormon cricket|Anabrus simplex|katydid
+analog computer|1
+(noun)|analogue computer|computer|computing machine|computing device|data processor|electronic computer|information processing system
+anapsid reptile|1
+(noun)|anapsid|reptile|reptilian
+anchusa riparia|1
+(noun)|cape forget-me-not|Anchusa riparia|anchusa
+ancient history|2
+(noun)|history|account|chronicle|story
+(noun)|common knowledge
+andaman redwood|1
+(noun)|amboyna|Andaman redwood|rosewood
+andrea guarneri|1
+(noun)|Guarneri|Guarnieri|Guarnerius|Andrea Guarneri|violin maker
+andrea mantegna|1
+(noun)|Mantegna|Andrea Mantegna|painter|engraver
+andrea palladio|1
+(noun)|Palladio|Andrea Palladio|architect|designer
+andrei sakharov|1
+(noun)|Sakharov|Andrei Sakharov|Andrei Dimitrievich Sakharov|nuclear physicist
+andres martinez|1
+(noun)|Sanchez|Ilich Sanchez|Ilich Ramirez Sanchez|Carlos|Carlos the Jackal|Salim|Andres Martinez|Taurus|Glen Gebhard|Hector Hevodidbon|Michael Assat|terrorist
+andrew carnegie|1
+(noun)|Carnegie|Andrew Carnegie|industrialist|philanthropist|altruist
+andrew d. white|1
+(noun)|White|Andrew D. White|Andrew Dickson White|educator|pedagogue
+anemone riparia|1
+(noun)|longheaded thimbleweed|Anemone riparia|thimbleweed|Anemone cylindrica
+angel's trumpet|2
+(noun)|Brugmansia suaveolens|Datura suaveolens|shrub|bush
+(noun)|maikoa|Brugmansia arborea|Datura arborea|shrub|bush
+angel food cake|1
+(noun)|angel cake|sponge cake
+angina pectoris|1
+(noun)|angina|heart disease|heart condition|cardiopathy
+angiocardiogram|1
+(noun)|roentgenogram|X ray|X-ray picture|X-ray photograph
+angiohemophilia|1
+(noun)|von Willebrand's disease|vascular hemophilia|hemophilia|haemophilia|bleeder's disease
+angiotelectasia|1
+(noun)|physiological state|physiological condition
+angle of attack|1
+(noun)|angle of incidence|incidence angle
+anglesea island|1
+(noun)|Anglesey|Anglesey Island|Anglesea|Anglesea Island|Mona|island
+anglesey island|1
+(noun)|Anglesey|Anglesey Island|Anglesea|Anglesea Island|Mona|island
+anglican church|1
+(noun)|Anglican Church|Anglican Communion|Church of England|Protestant denomination
+angolan capital|1
+(noun)|Luanda|Angolan capital|national capital|port
+anguis fragilis|1
+(noun)|blindworm|slowworm|Anguis fragilis|anguid lizard
+anhinga anhinga|1
+(noun)|water turkey|Anhinga anhinga|snakebird|anhinga|darter
+animal charcoal|1
+(noun)|bone black|bone char|animal black|char
+animal material|1
+(noun)|material|stuff
+anne bradstreet|1
+(noun)|Bradstreet|Anne Bradstreet|Anne Dudley Bradstreet|poet
+anne hutchinson|1
+(noun)|Hutchinson|Anne Hutchinson|settler|colonist
+annona muricata|1
+(noun)|soursop|prickly custard apple|soursop tree|Annona muricata|custard apple|custard apple tree
+annona squamosa|1
+(noun)|sweetsop|sweetsop tree|Annona squamosa|custard apple|custard apple tree
+annual parallax|1
+(noun)|heliocentric parallax|parallax
+annular eclipse|1
+(noun)|solar eclipse
+annular scotoma|1
+(noun)|scotoma
+anser cygnoides|1
+(noun)|Chinese goose|Anser cygnoides|goose
+anseriform bird|1
+(noun)|waterfowl|water bird|waterbird
+antarctic ocean|1
+(noun)|Antarctic Ocean|ocean
+antepenultimate|2
+(adj)|last 
+(noun)|antepenult|syllable
+anthemis cotula|1
+(noun)|mayweed|dog fennel|stinking mayweed|stinking chamomile|Anthemis cotula|composite|composite plant
+antheridiophore|1
+(noun)|gametophore
+anthocerotaceae|1
+(noun)|Anthocerotaceae|family Anthocerotaceae|moss family
+anthony burgess|1
+(noun)|Burgess|Anthony Burgess|writer|author
+anthony hopkins|1
+(noun)|Hopkins|Anthony Hopkins|Sir Anthony Hopkins|Sir Anthony Philip Hopkins|actor|histrion|player|thespian|role player
+anthony vandyke|1
+(noun)|Vandyke|Van Dyck|Anthony Vandyke|Sir Anthony Vandyke|old master
+anthracite coal|1
+(noun)|anthracite|hard coal|coal
+anthropocentric|1
+(adj)|partiality|partisanship
+anthropogenesis|1
+(noun)|anthropogeny|evolution|phylogeny|phylogenesis
+anthropogenetic|1
+(adj)|anthropogenic|evolution|phylogeny|phylogenesis
+anthropological|1
+(adj)|social science
+anthropomorphic|1
+(adj)|anthropomorphous|humanlike|human 
+anthropophagite|1
+(noun)|cannibal|man-eater|anthropophagus|savage|barbarian
+anthropophagous|1
+(adj)|savage|barbarian
+antibiotic drug|1
+(noun)|antibiotic|antibacterial|antibacterial drug|bactericide
+anticholinergic|2
+(adj)|anticholinergic 
+(noun)|anticholinergic drug|medicine|medication|medicament|medicinal drug
+anticlimactical|1
+(adj)|anticlimactic|conclusion|end|close|closing|ending
+anticoagulation|1
+(noun)|medical care|medical aid
+anticoagulative|1
+(adj)|medicine|medication|medicament|medicinal drug
+antiemetic drug|1
+(noun)|antiemetic|medicine|medication|medicament|medicinal drug
+antimonial lead|1
+(noun)|hard lead|lead|Pb|atomic number 82
+antiviral agent|1
+(noun)|antiviral|antiviral drug|medicine|medication|medicament|medicinal drug
+antonio vivaldi|1
+(noun)|Vivaldi|Antonio Vivaldi|Antonio Lucio Vivaldi|composer|violinist|fiddler
+anxiolytic drug|1
+(noun)|minor tranquilizer|minor tranquillizer|minor tranquilliser|antianxiety drug|anxiolytic|tranquilizer|tranquillizer|tranquilliser|antianxiety agent|ataractic drug|ataractic agent|ataractic
+any-and-all bid|1
+(noun)|takeover bid
+aortic aneurysm|1
+(noun)|aneurysm|aneurism
+aortic stenosis|1
+(noun)|stenosis|stricture|valvular heart disease
+apartment house|1
+(noun)|apartment building|building|edifice
+aphriza virgata|1
+(noun)|surfbird|Aphriza virgata|shorebird|shore bird|limicoline bird
+aphyllanthaceae|1
+(noun)|Aphyllanthaceae|family Aphyllanthaceae|liliid monocot family
+aphyllophorales|1
+(noun)|Aphyllophorales|order Aphyllophorales|fungus order
+apios americana|1
+(noun)|groundnut|groundnut vine|Indian potato|potato bean|wild bean|Apios americana|Apios tuberosa|vine
+aplastic anemia|1
+(noun)|aplastic anaemia|anemia|anaemia
+aplodontia rufa|1
+(noun)|mountain beaver|sewellel|Aplodontia rufa|rodent|gnawer|gnawing animal
+apollo asteroid|1
+(noun)|Apollo asteroid|asteroid|minor planet|planetoid
+apparent motion|1
+(noun)|motion|apparent movement|movement|optical illusion
+appellate court|1
+(noun)|appeals court|court of appeals|court|tribunal|judicature
+applesauce cake|1
+(noun)|cake
+applied anatomy|1
+(noun)|clinical anatomy|anatomy|general anatomy
+applied science|1
+(noun)|engineering|engineering science|technology|discipline|subject|subject area|subject field|field|field of study|study|bailiwick|branch of knowledge
+approach trench|1
+(noun)|communication trench|trench
+approachability|1
+(noun)|accessibility|friendliness
+appropriateness|2
+(noun)|rightness|propriety|properness|correctitude
+(noun)|suitability|suitableness
+arabian jasmine|1
+(noun)|Arabian jasmine|Jasminum sambac|jasmine
+arabic alphabet|1
+(noun)|Arabic alphabet|alphabet
+arabic language|1
+(noun)|Arabic|Arabic language|Semitic
+aralia racemosa|1
+(noun)|American spikenard|petty morel|life-of-man|Aralia racemosa|subshrub|suffrutex
+aramus guarauna|1
+(noun)|courlan|Aramus guarauna|wading bird|wader
+arboriculturist|1
+(noun)|forester|tree farmer|farmer|husbandman|granger|sodbuster
+archaebacterium|1
+(noun)|archaebacteria|archaeobacteria|archeobacteria|moneran|moneron
+archaeobacteria|1
+(noun)|archaebacteria|archaebacterium|archeobacteria|moneran|moneron
+ardisia crenata|1
+(noun)|coralberry|spiceberry|Ardisia crenata|shrub|bush
+arenaceous rock|1
+(noun)|sedimentary rock
+argumentatively|1
+(adv)|disputatiously
+aristolochiales|1
+(noun)|Aristolochiales|order Aristolochiales|plant order
+aristotelianism|1
+(noun)|Aristotelianism|philosophical doctrine|philosophical theory
+arithmetic mean|1
+(noun)|first moment|expectation|expected value|mean|mean value
+arizona cypress|1
+(noun)|Arizona cypress|Cupressus arizonica|cypress|cypress tree
+arizona elegans|1
+(noun)|glossy snake|Arizona elegans|colubrid snake|colubrid
+armadillidiidae|1
+(noun)|Armadillidiidae|family Armadillidiidae|arthropod family
+armenian church|1
+(noun)|Armenian Church|Armenian Apostolic Orthodox Church|church|Christian church
+arminian church|1
+(noun)|Arminian Church|Protestant denomination
+armored catfish|1
+(noun)|catfish|siluriform fish
+armored vehicle|1
+(noun)|armoured vehicle|self-propelled vehicle
+around the bend|1
+(adj)|balmy|barmy|bats|batty|bonkers|buggy|cracked|crackers|daft|dotty|fruity|haywire|kooky|kookie|loco|loony|loopy|nuts|nutty|round the bend|wacky|whacky|insane 
+arroz con pollo|1
+(noun)|chicken and rice
+artemis pontica|1
+(noun)|Roman wormwood|Artemis pontica|wormwood
+artemisia annua|1
+(noun)|sweet wormwood|Artemisia annua|wormwood
+arteria arcuata|1
+(noun)|arcuate artery|artery|arteria|arterial blood vessel
+arteria carotis|1
+(noun)|carotid artery|artery|arteria|arterial blood vessel
+arteria celiaca|1
+(noun)|celiac trunk|celiac artery|truncus celiacus|artery|arteria|arterial blood vessel
+arteria cerebri|1
+(noun)|cerebral artery|artery|arteria|arterial blood vessel
+arteria cystica|1
+(noun)|cystic artery|artery|arteria|arterial blood vessel
+arteria ovarica|1
+(noun)|ovarian artery|artery|arteria|arterial blood vessel
+arteria pudenda|1
+(noun)|pudendal artery|artery|arteria|arterial blood vessel
+arteria renalis|1
+(noun)|renal artery|artery|arteria|arterial blood vessel
+arteria ulnaris|1
+(noun)|ulnar artery|artery|arteria|arterial blood vessel
+arteria uterina|1
+(noun)|uterine artery|artery|arteria|arterial blood vessel
+arterial plaque|1
+(noun)|plaque
+arthropod genus|1
+(noun)|genus
+arthur honegger|1
+(noun)|Honegger|Arthur Honegger|composer
+arthur koestler|1
+(noun)|Koestler|Arthur Koestler|writer|author
+arthur mitchell|1
+(noun)|Mitchell|Arthur Mitchell|dancer|professional dancer
+arthur sullivan|1
+(noun)|Sullivan|Arthur Sullivan|Arthur Seymour Sullivan|Sir Arthur Sullivan|composer
+artichoke heart|1
+(noun)|vegetable|veggie
+artichoke plant|1
+(noun)|artichoke|globe artichoke|Cynara scolymus|vegetable
+artificial lake|1
+(noun)|reservoir|lake
+artificial skin|1
+(noun)|covering
+artillery plant|1
+(noun)|Pilea microphylla|nettle
+artillery shell|1
+(noun)|shell
+artium magister|1
+(noun)|Master of Arts|MA|Artium Magister|AM|master's degree
+arts and crafts|1
+(noun)|art|artistic creation|artistic production
+ascaridia galli|1
+(noun)|chicken roundworm|Ascaridia galli|nematode|nematode worm|roundworm
+ascending aorta|1
+(noun)|aorta
+ascending colon|1
+(noun)|colon
+ascii character|1
+(noun)|ASCII character|character|grapheme|graphic symbol
+ascii text file|1
+(noun)|ASCII text file|text file|document
+asclepia meadii|1
+(noun)|Mead's milkweed|Asclepias meadii|Asclepia meadii|milkweed|silkweed
+asclepiadaceous|1
+(adj)|dicot family|magnoliopsid family
+asian crocodile|1
+(noun)|Asian crocodile|Crocodylus porosus|crocodile
+asian influenza|1
+(noun)|Asian influenza|Asiatic flu|influenza|flu|grippe
+asian shamanism|1
+(noun)|shamanism|Asian shamanism|religion|faith|religious belief
+asiatic buffalo|1
+(noun)|water buffalo|water ox|Asiatic buffalo|Bubalus bubalis|Old World buffalo|buffalo
+asiatic cholera|1
+(noun)|cholera|Asiatic cholera|Indian cholera|epidemic cholera|infectious disease
+asimina triloba|1
+(noun)|pawpaw|papaw|papaw tree|Asimina triloba|custard apple|custard apple tree
+ask for trouble|1
+(verb)|ask for it|persevere|persist|hang in|hang on|hold on
+aspidophoroides|1
+(noun)|Aspidophoroides|genus Aspidophoroides|fish genus
+asplenium nidus|1
+(noun)|bird's nest fern|Asplenium nidus|fern
+aster ericoides|1
+(noun)|heath aster|Aster ericoides|aster
+aster linosyris|1
+(noun)|goldilocks|goldilocks aster|Aster linosyris|Linosyris vulgaris|aster
+aster tripolium|1
+(noun)|sea aster|sea starwort|Aster tripolium|aster
+astrantia major|1
+(noun)|greater masterwort|Astrantia major|astrantia|masterwort
+astringent drug|1
+(noun)|astringent|styptic|medicine|medication|medicament|medicinal drug
+astronavigation|1
+(noun)|celestial navigation|navigation|pilotage|piloting
+at first glance|1
+(adv)|at first sight
+ataractic agent|1
+(noun)|tranquilizer|tranquillizer|tranquilliser|antianxiety agent|ataractic drug|ataractic|psychotropic agent|sedative-hypnotic|sedative-hypnotic drug
+atherosclerosis|1
+(noun)|coronary artery disease|arteriosclerosis|arterial sclerosis|hardening of the arteries|induration of the arteries|coronary-artery disease
+atherosclerotic|1
+(adj)|arteriosclerosis|arterial sclerosis|hardening of the arteries|induration of the arteries|coronary-artery disease
+athlete's heart|1
+(noun)|heart|pump|ticker
+atlantic bonito|1
+(noun)|skipjack|Atlantic bonito|Sarda sarda|bonito
+atlantic puffin|1
+(noun)|Atlantic puffin|Fratercula arctica|puffin
+atlantic ridley|1
+(noun)|Atlantic ridley|bastard ridley|bastard turtle|Lepidochelys kempii|ridley
+atlantic salmon|2
+(noun)|Atlantic salmon|salmon
+(noun)|Atlantic salmon|Salmo salar|salmon
+atlantic walrus|1
+(noun)|Atlantic walrus|Odobenus rosmarus|walrus|seahorse|sea horse
+atlas mountains|1
+(noun)|Atlas Mountains|range|mountain range|range of mountains|chain|mountain chain|chain of mountains
+atomic cocktail|1
+(noun)|medicine|medication|medicament|medicinal drug
+atomic number 1|1
+(noun)|hydrogen|H|chemical element|element|gas
+atomic number 2|1
+(noun)|helium|He|chemical element|element|noble gas|inert gas|argonon
+atomic number 3|1
+(noun)|lithium|Li|metallic element|metal
+atomic number 4|1
+(noun)|beryllium|Be|glucinium|metallic element|metal
+atomic number 5|1
+(noun)|boron|B|chemical element|element
+atomic number 6|1
+(noun)|carbon|C|chemical element|element
+atomic number 7|1
+(noun)|nitrogen|N|chemical element|element|gas
+atomic number 8|1
+(noun)|oxygen|O|chemical element|element|gas
+atomic number 9|1
+(noun)|fluorine|F|chemical element|element|gas|halogen
+atomic spectrum|1
+(noun)|spectrum
+attack aircraft|1
+(noun)|fighter|fighter aircraft|airplane|aeroplane|plane|warplane|military plane
+audio amplifier|1
+(noun)|amplifier
+audio frequency|1
+(noun)|audio|frequency|frequence|oftenness
+audio recording|1
+(noun)|sound recording|recording
+audiovisual aid|1
+(noun)|audiovisual|teaching aid
+audit programme|1
+(noun)|audit program|plan|program|programme
+audited account|1
+(noun)|audit|accounting|accounting system|method of accounting
+auditory center|1
+(noun)|center|centre|nerve center|nerve centre
+auditory cortex|1
+(noun)|auditory area|cortical area|cortical region
+auditory meatus|1
+(noun)|acoustic meatus|ear canal|auditory canal|external auditory canal|meatus
+auditory system|1
+(noun)|sensory system
+audubon warbler|1
+(noun)|Audubon's warbler|Audubon warbler|Dendroica auduboni|New World warbler|wood warbler
+auf wiedersehen|1
+(noun)|adieu|adios|arrivederci|au revoir|bye|bye-bye|cheerio|good-by|goodby|good-bye|goodbye|good day|sayonara|so long|farewell|word of farewell
+auricular point|1
+(noun)|auriculare|craniometric point
+auriculariaceae|1
+(noun)|Auriculariaceae|family Auriculariaceae|fungus family
+aurora borealis|1
+(noun)|northern lights|aurora
+austral islands|1
+(noun)|Tubuai Islands|Austral Islands|archipelago
+australian alps|1
+(noun)|Australian Alps|range|mountain range|range of mountains|chain|mountain chain|chain of mountains
+australian pine|1
+(noun)|Australian pine|Casuarina equisetfolia|beefwood
+austria-hungary|1
+(noun)|Austria-Hungary|geographical area|geographic area|geographical region|geographic region
+authoritatively|1
+(adv)|with authority|magisterially
+auto limitation|1
+(noun)|social control
+autograph album|1
+(noun)|album
+automatic choke|1
+(noun)|choke
+automatic drive|1
+(noun)|automatic transmission|transmission|transmission system
+automatic pilot|2
+(noun)|autopilot|unconsciousness
+(noun)|autopilot|robot pilot|device
+automatic rifle|1
+(noun)|automatic|machine rifle|automatic firearm|machine gun
+automobile horn|1
+(noun)|car horn|motor horn|horn|hooter|alarm|warning device|alarm system
+automobile loan|1
+(noun)|auto loan|car loan|personal loan|consumer loan
+automobile race|1
+(noun)|auto race|car race|race
+automobile tire|1
+(noun)|car tire|auto tire|rubber tire|tire|tyre
+autoradiography|1
+(noun)|radiography|skiagraphy
+avalokiteshvara|1
+(noun)|Avalokitesvara|Avalokiteshvara|Bodhisattva|Boddhisatva
+avogadro number|1
+(noun)|Avogadro's number|Avogadro number|constant
+axillary artery|1
+(noun)|arteria axillaris|artery|arteria|arterial blood vessel
+axillary cavity|1
+(noun)|armpit|axilla|axillary fossa|cavity|bodily cavity|cavum

@@ -1,0 +1,56 @@
+aa|3
+(noun)|lava
+(noun)|Alcoholics Anonymous|AA|nongovernmental organization|NGO
+(noun)|Associate in Arts|AA|associate degree|associate
+ab|4
+(noun)|AB|type AB|group AB|blood group|blood type
+(noun)|Bachelor of Arts|BA|Artium Baccalaurens|AB|bachelor's degree|baccalaureate
+(noun)|Ab|Av|Jewish calendar month
+(noun)|abdominal|abdominal muscle|skeletal muscle|striated muscle
+ac|2
+(noun)|actinium|Ac|atomic number 89|chemical element|element
+(noun)|alternating current|AC|electricity|electrical energy
+ad|2
+(noun)|advertisement|advertizement|advertising|advertizing|advert|promotion|publicity|promotional material|packaging
+(adv)|AD|A.D.|anno Domini
+ag|1
+(noun)|silver|Ag|atomic number 47|noble metal|conductor
+ai|4
+(noun)|Army Intelligence|AI|agency|federal agency|government agency|bureau|office|authority
+(noun)|artificial intelligence|AI|computer science|computing
+(noun)|three-toed sloth|Bradypus tridactylus|sloth|tree sloth
+(noun)|artificial insemination|AI|insemination
+ak|1
+(noun)|Alaska|Last Frontier|AK|American state
+al|2
+(noun)|aluminum|aluminium|Al|atomic number 13|metallic element|metal
+(noun)|Alabama|Heart of Dixie|Camellia State|AL|American state
+am|3
+(noun)|americium|Am|atomic number 95|metallic element|metal
+(noun)|Master of Arts|MA|Artium Magister|AM|master's degree
+(noun)|amplitude modulation|AM|modulation
+an|1
+(noun)|Associate in Nursing|AN|associate degree|associate
+ar|3
+(noun)|argon|Ar|atomic number 18|chemical element|element|noble gas|inert gas|argonon
+(noun)|are|area unit|square measure
+(noun)|Arkansas|Land of Opportunity|AR|American state
+as|3
+(noun)|arsenic|As|atomic number 33|chemical element|element
+(noun)|American Samoa|Eastern Samoa|AS|district|territory|territorial dominion|dominion
+(adv)|equally|every bit
+at|2
+(noun)|astatine|At|atomic number 85|chemical element|element|halogen
+(noun)|Laotian monetary unit
+au|2
+(noun)|gold|Au|atomic number 79|noble metal
+(noun)|Astronomical Unit|AU|astronomy unit
+av|1
+(noun)|Ab|Av|Jewish calendar month
+ax|3
+(noun)|axe|edge tool
+(verb)|axe|chop|hack
+(verb)|axe|end|terminate
+az|2
+(noun)|azimuth|AZ|angle
+(noun)|Arizona|Grand Canyon State|AZ|American state
