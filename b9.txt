@@ -1,0 +1,2140 @@
+b-horizon|2
+(noun)|B-horizon|B horizon|soil horizon
+(noun)|                                                                         
+b battery|1
+(noun)|B battery|battery|electric battery
+b complex|1
+(noun)|B-complex vitamin|B complex|vitamin B complex|vitamin B|B vitamin|B|water-soluble vitamin
+b horizon|2
+(noun)|B-horizon|B horizon|soil horizon
+(noun)|                                                                         
+b vitamin|1
+(noun)|B-complex vitamin|B complex|vitamin B complex|vitamin B|B vitamin|B|water-soluble vitamin
+babe ruth|1
+(noun)|Ruth|Babe Ruth|George Herman Ruth|Sultan of Swat|ballplayer|baseball player
+babirussa|1
+(noun)|babirusa|babiroussa|Babyrousa Babyrussa|swine
+baboonish|1
+(adj)|Old World monkey|catarrhine
+baby-like|1
+(adv)|baby-wise
+baby-wise|1
+(adv)|baby-like
+baby bird|1
+(noun)|nestling|young bird
+baby boom|1
+(noun)|baby-boom generation|generation
+baby rose|1
+(noun)|multiflora|multiflora rose|Japanese rose|Rosa multiflora|rose
+baby shoe|1
+(noun)|shoe
+baby talk|3
+(noun)|babytalk|motherese|non-standard speech
+(noun)|babytalk|non-standard speech
+(noun)|                                                                         
+babylonia|1
+(noun)|Babylonia|Chaldaea|Chaldea|geographical area|geographic area|geographical region|geographic region
+babyrousa|1
+(noun)|Babyrousa|genus Babyrousa|mammal genus
+bacchanal|4
+(adj)|bacchanalian|bacchic|carousing|orgiastic|intoxicated |drunk|inebriated
+(noun)|drunken reveler|drunken reveller|bacchant|drinker|imbiber|toper|juicer
+(noun)|bacchant|fan|buff|devotee|lover
+(noun)|orgy|debauch|debauchery|saturnalia|riot|bacchanalia|drunken revelry|revel|revelry
+bacchante|1
+(noun)|votary
+baccharis|1
+(noun)|Baccharis|genus Baccharis|asterid dicot genus
+bacillary|2
+(adj)|bacillar|eubacteria|eubacterium|true bacteria
+(adj)|baccilar|bacilliform|baculiform|rod-shaped|formed 
+back away|1
+(verb)|retreat|pull back|back out|crawfish|crawfish out|pull in one's horns|withdraw
+back door|2
+(noun)|access
+(noun)|back entrance|exterior door|outside door
+back down|2
+(verb)|back up|back off|withdraw|retreat|pull away|draw back|recede|pull back|retire|move back
+(verb)|chicken out|back off|pull out|bow out|retire|withdraw
+back pack|2
+(noun)|backpack|knapsack|packsack|rucksack|haversack|bag
+(noun)|                                                                         
+back room|2
+(noun)|room
+(noun)|backroom|facility|installation
+back talk|2
+(noun)|sass|sassing|backtalk|lip|mouth|impudence|cheek|impertinence|rejoinder|retort|return|riposte|replication|comeback|counter
+(noun)|                                                                         
+backbench|1
+(noun)|seat
+backbiter|1
+(noun)|defamer|maligner|slanderer|vilifier|libeler|traducer|detractor|disparager|depreciator|knocker
+backblast|1
+(noun)|back-blast|backfire
+backboard|2
+(noun)|basketball backboard|game equipment
+(noun)|support
+backcloth|1
+(noun)|backdrop|background|scenery|scene
+backcross|1
+(verb)|copulate|mate|pair|couple
+backed up|1
+(adj)|backed|supported 
+backfield|1
+(noun)|formation
+backpedal|3
+(verb)|bicycle|cycle|bike|pedal|wheel
+(verb)|step
+(verb)|rethink
+backplate|1
+(noun)|armor plate|armour plate|armor plating|plate armor|plate armour
+backslide|1
+(verb)|lapse|slip|drop off|drop away|fall away
+backspace|1
+(verb)|type|typewrite
+backstage|2
+(adj)|private 
+(noun)|wing|offstage|stage
+backstair|1
+(adj)|backstairs|furtive|covert 
+backswept|1
+(adj)|sweptback|backward 
+backsword|2
+(noun)|singlestick|fencing stick|stick
+(noun)|sword|blade|brand|steel
+backtrack|1
+(verb)|turn back|double back|return|go back|get back|come back
+backwards|2
+(adv)|back|backward|rearward|rearwards
+(adv)|backward
+backwater|2
+(noun)|body of water|water
+(noun)|region
+backwoods|2
+(adj)|outback|remote|inaccessible |unaccessible
+(noun)|back country|boondocks|hinterland|country|rural area
+bacterial|1
+(adj)|microorganism
+bacterise|1
+(verb)|bacterize|subject
+bacterium|1
+(noun)|bacteria|microorganism
+bacterize|1
+(verb)|bacterise|subject
+bacteroid|2
+(adj)|bacteroidal|bacterioidal|bacterioid|microorganism
+(noun)|bacteria|bacterium
+bad block|1
+(noun)|block
+bad blood|1
+(noun)|animosity|animus|hostility|enmity|ill will
+bad check|1
+(noun)|bad cheque|check|bank check|cheque
+bad fairy|1
+(noun)|evil spirit
+bad lands|2
+(noun)|Bad Lands|Badlands|geographical area|geographic area|geographical region|geographic region
+(noun)|badlands|land|ground|soil
+badgering|1
+(noun)|worrying|torment|bedevilment|harassment|molestation
+badminton|1
+(noun)|court game
+bagatelle|3
+(noun)|musical composition|opus|composition|piece|piece of music
+(noun)|fluff|frippery|frivolity|triviality|trivia|trifle|small beer
+(noun)|bar billiards|table game
+bail bond|1
+(noun)|bail|bond|recognizance|recognisance
+bailiwick|2
+(noun)|jurisdiction
+(noun)|discipline|subject|subject area|subject field|field|field of study|study|branch of knowledge|knowledge domain|knowledge base
+bakeapple|1
+(noun)|cloudberry|dwarf mulberry|baked-apple berry|salmonberry|Rubus chamaemorus|raspberry|raspberry bush
+baked egg|1
+(noun)|shirred egg|egg en cocotte|dish
+bakehouse|1
+(noun)|bakery|bakeshop|workplace|work|shop|store
+baksheesh|1
+(noun)|gratuity|tip|pourboire|bakshish|bakshis|backsheesh|fringe benefit|perquisite|perk
+balaclava|1
+(noun)|balaclava helmet|cap
+balalaika|1
+(noun)|chordophone
+balancing|1
+(noun)|reconciliation|equalization|equalisation|leveling
+balanidae|1
+(noun)|Balanidae|family Balanidae|arthropod family
+balanitis|1
+(noun)|inflammation|redness|rubor
+balconied|1
+(adj)|balconied 
+baldachin|1
+(noun)|canopy
+balkanise|1
+(verb)|Balkanize|Balkanise|divide|split|split up|separate|dissever|carve up
+balkanize|1
+(verb)|Balkanize|Balkanise|divide|split|split up|separate|dissever|carve up
+balkiness|1
+(noun)|intractability|intractableness
+ball club|1
+(noun)|baseball club|club|nine|baseball team
+ball cock|2
+(noun)|ballcock|regulator
+(noun)|                                                                         
+ball fern|1
+(noun)|squirrel's-foot fern|Davalia bullata|Davalia bullata mariesii|Davallia Mariesii|davallia
+ball game|2
+(noun)|ballgame|field game
+(noun)|ballgame|new ballgame|situation|state of affairs
+ball gown|1
+(noun)|gown
+ball hawk|1
+(noun)|athlete|jock
+ball over|1
+(verb)|shock|stun|floor|blow out of the water|take aback|surprise
+balladeer|1
+(noun)|crooner|singer|vocalist|vocalizer|vocaliser
+balldress|1
+(noun)|formalwear|eveningwear|evening dress|evening clothes
+ballerina|1
+(noun)|danseuse|ballet dancer
+ballistic|1
+(adj)|trajectory|flight
+balloting|1
+(noun)|vote|ballot|voting|choice|selection|option|pick
+ballpoint|1
+(noun)|ballpoint pen|ballpen|Biro|pen
+balthasar|1
+(noun)|Balthazar|Balthasar|sage
+balthazar|1
+(noun)|Balthazar|Balthasar|sage
+baltimore|1
+(noun)|Baltimore|city|metropolis|urban center|port
+balusters|2
+(noun)|bannister|banister|balustrade|handrail|barrier
+(noun)|baluster|support
+balzacian|1
+(adj)|Balzacian|novelist
+bamboozle|1
+(verb)|snow|hoodwink|pull the wool over someone's eyes|lead by the nose|play false|deceive|betray|lead astray
+bambuseae|1
+(noun)|Bambuseae|tribe Bambuseae|tribe
+bandaging|1
+(noun)|dressing|binding|medical care|medical aid
+bandicoot|1
+(noun)|marsupial|pouched mammal
+bandoleer|1
+(noun)|bandolier|cartridge belt
+bandolier|1
+(noun)|bandoleer|cartridge belt
+bandstand|1
+(noun)|outdoor stage|stand|platform
+bandwagon|2
+(noun)|vogue|trend|style
+(noun)|wagon|waggon
+bandwidth|1
+(noun)|information measure
+baneberry|2
+(noun)|berry
+(noun)|cohosh|herb Christopher|poisonous plant
+banefully|1
+(adv)|perniciously
+bangalore|1
+(noun)|Bangalore|city|metropolis|urban center
+bank bill|1
+(noun)|bill|note|government note|banker's bill|bank note|banknote|Federal Reserve note|greenback|paper money|folding money|paper currency
+bank card|1
+(noun)|credit card|charge card|charge plate
+bank line|1
+(noun)|credit line|line of credit|line|personal credit line|personal line of credit|credit
+bank loan|1
+(noun)|loan
+bank note|2
+(noun)|bill|note|government note|bank bill|banker's bill|banknote|Federal Reserve note|greenback|paper money|folding money|paper currency
+(noun)|                                                                         
+bank rate|1
+(noun)|discount rate|discount|bank discount
+bank shot|1
+(noun)|basketball shot
+bannister|2
+(noun)|Bannister|Roger Bannister|Sir Roger Gilbert Bannister|four-minute man
+(noun)|banister|balustrade|balusters|handrail|barrier
+banquette|1
+(noun)|bench
+bantering|1
+(adj)|facetious|tongue-in-cheek|humorous |humourous
+baptismal|1
+(adj)|sacrament
+baptistic|1
+(adj)|Baptist|Baptistic|Protestant denomination
+baptistry|1
+(noun)|baptismal font|baptistery|font|basin
+bar chart|1
+(noun)|bar graph|chart
+bar graph|1
+(noun)|bar chart|chart
+baranduki|1
+(noun)|baronduki|barunduki|burunduki|Eutamius asiaticus|Eutamius sibiricus|squirrel
+barbadian|2
+(adj)|Barbadian|island
+(noun)|Barbadian|West Indian
+barbarian|3
+(adj)|barbaric|savage|uncivilized|uncivilised|wild|noncivilized |noncivilised
+(noun)|savage|primitive|primitive person
+(noun)|peasant|boor|churl|Goth|tyke|tike|unpleasant person|disagreeable person
+barbarise|2
+(verb)|barbarize|change
+(verb)|barbarize|change|alter|modify
+barbarism|1
+(noun)|brutality|barbarity|savagery|atrocity|inhumanity
+barbarity|2
+(noun)|atrocity|atrociousness|barbarousness|heinousness|inhumaneness|inhumanity
+(noun)|brutality|barbarism|savagery|atrocity|inhumanity
+barbarize|2
+(verb)|barbarise|change
+(verb)|barbarise|change|alter|modify
+barbarous|2
+(adj)|brutal|cruel|fell|roughshod|savage|vicious|inhumane 
+(adj)|noncivilized |noncivilised
+barbecued|1
+(adj)|grilled|cooked 
+barbitone|1
+(noun)|barbital|veronal|diethylbarbituric acid|diethylmalonylurea|barbiturate
+barcarole|1
+(noun)|barcarolle|song
+barcelona|1
+(noun)|Barcelona|city|metropolis|urban center|port
+bare bone|1
+(noun)|bone|os
+barefaced|2
+(adj)|bald|overt |open
+(adj)|audacious|bodacious|bold-faced|brassy|brazen|brazen-faced|insolent|unashamed 
+bargainer|2
+(noun)|trader|dealer|monger|merchant|merchandiser
+(noun)|negotiator|negotiant|treater
+barkeeper|1
+(noun)|bartender|barman|barkeep|mixologist|employee
+barmbrack|1
+(noun)|bread|breadstuff|staff of life
+barn door|2
+(noun)|sliding door
+(noun)|barndoor|flap
+barnacled|1
+(adj)|covered 
+barnstorm|2
+(verb)|perform
+(verb)|perform
+barograph|1
+(noun)|barometer
+barometer|1
+(noun)|measuring instrument|measuring system|measuring device
+baronduki|1
+(noun)|baranduki|barunduki|burunduki|Eutamius asiaticus|Eutamius sibiricus|squirrel
+baronetcy|2
+(noun)|barony|rank
+(noun)|title
+barracuda|1
+(noun)|spiny-finned fish|acanthopterygian
+barrelful|1
+(noun)|barrel|containerful
+barrelled|2
+(adj)|barreled 
+(adj)|barreled|pointed 
+barren of|1
+(adj)|destitute of|devoid of|empty of|innocent of|void of|empty 
+barretter|1
+(noun)|ballast resistor|ballast|resistor|resistance
+barricade|5
+(noun)|roadblock|barrier
+(noun)|barrier
+(verb)|block|blockade|stop|block off|block up|bar|obstruct|obturate|impede|occlude|jam|block|close up
+(verb)|obstruct|obturate|impede|occlude|jam|block|close up
+(verb)|barricado|obstruct|obturate|impede|occlude|jam|block|close up
+barricado|1
+(verb)|barricade|obstruct|obturate|impede|occlude|jam|block|close up
+barrister|1
+(noun)|lawyer|attorney
+barrowful|1
+(noun)|barrow|containerful
+barrymore|5
+(noun)|Barrymore|John Barrymore|actor|histrion|player|thespian|role player
+(noun)|Barrymore|Ethel Barrymore|actress
+(noun)|Barrymore|Lionel Barrymore|actor|histrion|player|thespian|role player
+(noun)|Barrymore|Georgiana Barrymore|Georgiana Emma Barrymore|actress
+(noun)|Barrymore|Maurice Barrymore|Herbert Blythe|actor|histrion|player|thespian|role player
+bartender|1
+(noun)|barman|barkeep|barkeeper|mixologist|employee
+barthelme|1
+(noun)|Barthelme|Donald Barthelme|writer|author
+bartholdi|1
+(noun)|Bartholdi|Frederic Auguste Bartholdi|sculptor|sculpturer|carver|statue maker
+bartholin|1
+(noun)|Bartholin|Caspar Bartholin|doctor|doc|physician|MD|Dr.|medico
+bartramia|1
+(noun)|Bartramia|genus Bartramia|bird genus
+barunduki|1
+(noun)|baronduki|baranduki|burunduki|Eutamius asiaticus|Eutamius sibiricus|squirrel
+base pair|1
+(noun)|nucleotide
+base rate|1
+(noun)|interest rate|rate of interest
+baseboard|1
+(noun)|mopboard|skirting board|molding|moulding
+bashfully|1
+(adv)|shyly|timidly
+basic dye|1
+(noun)|dye|dyestuff
+basically|1
+(adv)|fundamentally|essentially|in essence|au fond
+basifixed|1
+(adj)|affixed 
+basilican|1
+(adj)|Roman building
+basipetal|1
+(adj)|basipetal 
+basketeer|1
+(noun)|basketball player|cager|athlete|jock
+basketful|1
+(noun)|basket|containerful
+basophile|1
+(noun)|basophil|leukocyte|leucocyte|white blood cell|white cell|white blood corpuscle|white corpuscle|WBC
+bass clef|1
+(noun)|F clef|clef
+bass drum|1
+(noun)|gran casa|drum|membranophone|tympan
+bass horn|1
+(noun)|sousaphone|tuba|brass|bass
+bass part|1
+(noun)|bass|part|voice
+bass viol|2
+(noun)|viola da gamba|viol
+(noun)|bass fiddle|bull fiddle|double bass|contrabass|string bass|bowed stringed instrument|string|bass
+bassarisk|1
+(noun)|cacomistle|cacomixle|coon cat|raccoon fox|ringtail|ring-tailed cat|civet cat|miner's cat|Bassariscus astutus|procyonid
+bastardly|1
+(adj)|bastard|misbegot|misbegotten|spurious|illegitimate 
+bastinado|2
+(noun)|cudgel
+(verb)|beat
+bastioned|1
+(adj)|fortified|protected |secure
+bath soap|1
+(noun)|toilet soap|face soap|soap
+bathhouse|2
+(noun)|bathing machine|building|edifice
+(noun)|bagnio|house
+batholite|1
+(noun)|batholith|pluton|plutonic rock|igneous rock
+batholith|1
+(noun)|batholite|pluton|plutonic rock|igneous rock
+batrachia|1
+(noun)|Salientia|order Salientia|Anura|order Anura|Batrachia|order Batrachia|animal order
+battalion|2
+(noun)|army unit
+(noun)|large number|multitude|plurality|pack|large indefinite quantity|large indefinite amount
+battering|1
+(noun)|banging|fight|fighting|combat|scrap
+battle-ax|2
+(noun)|battle-axe|broadax|broadaxe
+(noun)|battle-axe|wife|married woman
+battleful|1
+(adj)|bellicose|combative|contentious|aggressive 
+baud rate|1
+(noun)|baud|information measure
+bawdiness|1
+(noun)|obscenity|lewdness|salaciousness|salacity|indecency
+bay grass|1
+(noun)|love grass|grass
+bay of ob|1
+(noun)|Gulf of Ob|Bay of Ob|gulf
+bay state|1
+(noun)|Massachusetts|Bay State|Old Colony|MA|American state
+bayt lahm|1
+(noun)|Bethlehem|Bayt Lahm|Bethlehem Ephrathah|Bethlehem-Judah|town
+be active|1
+(verb)|move
+be adrift|1
+(verb)|float|drift|blow|travel|go|move|locomote
+beach pea|1
+(noun)|sea pea|Lathyrus maritimus|Lathyrus japonicus|wild pea
+beachhead|2
+(noun)|bridgehead|foothold
+(noun)|foothold|accomplishment|achievement
+beachlike|1
+(adj)|beachy |sandy|gravelly|pebbly|shingly
+beachwear|1
+(noun)|clothing|article of clothing|vesture|wear
+bead fern|1
+(noun)|sensitive fern|Onoclea sensibilis|fern
+bead tree|1
+(noun)|jumby bean|jumby tree|Ormosia monosperma|necklace tree
+beam-ends|1
+(noun)|side|face
+bean curd|1
+(noun)|tofu|curd
+bean town|2
+(noun)|Boston|Hub of the Universe|Bean Town|Beantown|capital of Massachusetts|state capital
+(noun)|                                                                         
+bean tree|1
+(noun)|tree
+beanfeast|1
+(noun)|dinner|dinner party
+beanstalk|1
+(noun)|stalk|stem
+bear away|1
+(verb)|take away|bear off|carry away|carry off|remove|take|take away|withdraw
+bear claw|3
+(noun)|bear paw|sweet roll|coffee roll
+(noun)|design|pattern|figure
+(noun)|claw
+bear down|6
+(verb)|drag down|bear down on|press down on|weigh down|press
+(verb)|charge|rush
+(verb)|overbear|compress|constrict|squeeze|compact|contract|press
+(verb)|fight|struggle
+(verb)|stress|emphasize|emphasise|punctuate|accent|accentuate
+(verb)|charge|saddle|burden
+bear upon|1
+(verb)|affect|impact|bear on|touch on|touch|change|alter|modify
+bearberry|3
+(noun)|cascara buckthorn|bearwood|chittamwood|chittimwood|Rhamnus purshianus|buckthorn
+(noun)|possum haw|winterberry|Ilex decidua|holly
+(noun)|shrub|bush
+beardless|2
+(adj)|whiskerless|shaven |shaved
+(adj)|smooth-faced|hairless 
+bearnaise|1
+(noun)|sauce
+beat back|1
+(verb)|repel|drive|repulse|force back|push back|push|force
+beat down|3
+(verb)|bargain down|haggle|higgle|chaffer|huckster
+(verb)|shine|beam
+(verb)|shift|dislodge|reposition
+beaten-up|1
+(adj)|battered|beat-up|damaged 
+beatified|1
+(adj)|blessed|holy 
+beatitude|2
+(noun)|blessedness|beatification|happiness|felicity
+(noun)|Beatitude|saying|expression|locution
+beauteous|1
+(adj)|beautiful 
+beautiful|3
+(adj)|beautiful |beauteous|bonny|bonnie|comely|fair|dishy|exquisite|fine-looking|good-looking|better-looking|handsome|well-favored|well-favoured|glorious|resplendent|splendid|splendiferous|gorgeous|lovely|picturesque|pretty|pretty-pretty|pulchritudinous|ravishing|scenic|stunning|fair|sightly|attractive|graceful|pleasing
+(adj)|aesthetic |esthetic|aesthetical|esthetical
+(adj)|pleasant 
+becquerel|1
+(noun)|Becquerel|Henri Becquerel|Antoine Henri Becquerel|physicist
+bed check|1
+(noun)|confirmation|verification|check|substantiation
+bed cover|2
+(noun)|bedspread|bedcover|bed covering|counterpane|spread|bedclothes|bed clothing|bedding
+(noun)|                                                                         
+bed linen|1
+(noun)|linen
+bed sheet|1
+(noun)|sheet|bed linen
+bedfellow|2
+(noun)|associate
+(noun)|person|individual|someone|somebody|mortal|human|soul
+bedground|1
+(noun)|bed ground|bed-ground|area|country
+bedlamite|1
+(noun)|lunatic|madman|maniac
+bedraggle|1
+(verb)|drench|douse|dowse|soak|sop|souse
+bedridden|1
+(adj)|bedfast|bedrid|infirm|sick-abed|ill |sick
+bedsitter|1
+(noun)|bedsitting room|bedsit|apartment|flat
+bedspread|1
+(noun)|bedcover|bed cover|bed covering|counterpane|spread|bedclothes|bed clothing|bedding
+bedspring|1
+(noun)|spring
+bedwetter|1
+(noun)|bed wetter|wetter|pisser|urinator
+bee eater|1
+(noun)|coraciiform bird
+bee house|1
+(noun)|apiary|shed
+bee sting|1
+(noun)|sting|bite|insect bite
+beechwood|1
+(noun)|beech|wood
+beef loin|1
+(noun)|cut of beef
+beef neck|1
+(noun)|cut of beef
+beef stew|1
+(noun)|stew
+beefeater|1
+(noun)|yeoman|yeoman of the guard|bodyguard|escort
+beefed-up|1
+(adj)|strong 
+beefsteak|1
+(noun)|steak
+beekeeper|1
+(noun)|apiarist|apiculturist|farmer|husbandman|granger|sodbuster
+beelzebub|1
+(noun)|Satan|Old Nick|Devil|the Devil|Lucifer|Beelzebub|the Tempter|Prince of Darkness|spiritual being|supernatural being
+beer hall|1
+(noun)|hall
+beethoven|2
+(noun)|Beethoven|van Beethoven|Ludwig van Beethoven|composer
+(noun)|Beethoven|music
+befitting|1
+(adj)|appropriate 
+befooling|1
+(noun)|stultification|derision
+befuddled|3
+(adj)|befogged|confused 
+(adj)|baffled|bemused|bewildered|confounded|confused|lost|mazed|mixed-up|at sea|perplexed 
+(adj)|addled|muddled|muzzy|woolly|wooly|woolly-headed|wooly-minded|confused 
+beggarman|1
+(noun)|beggar|mendicant
+beginning|6
+(adj)|first|opening 
+(noun)|happening|occurrence|natural event
+(noun)|commencement|first|outset|get-go|start|kickoff|starting time|showtime|offset|point|point in time
+(noun)|part|section|division
+(noun)|origin|root|rootage|source|point
+(noun)|start|commencement|change of state
+beguiling|2
+(adj)|alluring|enticing|tempting|seductive 
+(adj)|dishonest |dishonorable
+behaviour|4
+(noun)|behavior|action|activity|activeness
+(noun)|demeanor|demeanour|behavior|conduct|deportment|trait
+(noun)|behavior|activity
+(noun)|behavior|conduct|doings|activity
+beheading|2
+(noun)|decapitation|execution|executing|capital punishment|death penalty
+(noun)|decapitation|killing|kill|putting to death
+behmenism|1
+(noun)|Boehmenism|Behmenism|theological doctrine|religious doctrine
+beholding|1
+(noun)|visual perception|seeing|perception
+beingness|1
+(noun)|being|existence|state
+bejeweled|1
+(adj)|beaded|beady|bejewelled|bespangled|gemmed|jeweled|jewelled|sequined|spangled|spangly|adorned |decorated
+bel canto|1
+(noun)|singing|vocalizing
+belatedly|1
+(adv)|late|tardily
+beleaguer|2
+(verb)|tease|badger|pester|bug|torment|rag|bedevil|crucify|dun|frustrate
+(verb)|besiege|surround|hem in|circumvent|attack|assail
+belemnite|1
+(noun)|fossil
+believing|1
+(noun)|basic cognitive process
+belittled|1
+(adj)|diminished|small|decreased |reduced
+bell arch|1
+(noun)|round arch
+bell book|1
+(noun)|logbook
+bell buoy|1
+(noun)|gong buoy|acoustic buoy
+bell cote|1
+(noun)|bell cot|shelter
+bell deck|1
+(noun)|floor|flooring
+bell push|1
+(noun)|push button|push|button
+bell seat|1
+(noun)|balloon seat|seat
+bell tent|1
+(noun)|tent|collapsible shelter
+bell toad|1
+(noun)|tailed frog|ribbed toad|tailed toad|Ascaphus trui|frog|toad|toad frog|anuran|batrachian|salientian
+bellicose|1
+(adj)|battleful|combative|contentious|aggressive 
+bellowing|1
+(noun)|bellow|holla|holler|hollering|hollo|holloa|roar|roaring|yowl|cry|outcry|call|yell|shout|vociferation
+belly out|1
+(verb)|belly|swell|swell up|intumesce|tumefy|tumesce
+bellyache|2
+(noun)|stomachache|stomach ache|gastralgia|ache|aching
+(verb)|gripe|grouse|crab|beef|squawk|holler|complain|kick|plain|sound off|quetch|kvetch
+bellyband|2
+(noun)|band
+(noun)|fastener|fastening|holdfast|fixing
+bellyless|1
+(adj)|bellyless |flat-bellied
+belonging|1
+(noun)|happiness
+belonidae|1
+(noun)|Belonidae|family Belonidae|fish family
+belt down|1
+(verb)|toss off|pop|bolt down|pour down|down|drink down|kill|drink|imbibe
+belvedere|2
+(noun)|summer cypress|burning bush|fire bush|fire-bush|Bassia scoparia|Kochia scoparia|shrub|bush
+(noun)|gazebo|summerhouse
+ben hecht|1
+(noun)|Hecht|Ben Hecht|writer|author
+ben hogan|1
+(noun)|Hogan|Ben Hogan|William Benjamin Hogan|golfer|golf player|linksman
+ben shahn|1
+(noun)|Shahn|Ben Shahn|Benjamin Shahn|painter
+benchmark|2
+(noun)|standard|criterion|measure|touchstone
+(noun)|bench mark|reference point|point of reference|reference
+beneficed|1
+(adj)|beneficed 
+benighted|2
+(adj)|nighted|unpunctual 
+(adj)|dark|unenlightened 
+benignant|2
+(adj)|benign |harmless|nonmalignant|kindly|genial|kind|harmless|kind
+(adj)|gracious|kind 
+benignity|2
+(noun)|benignancy|graciousness|good|goodness
+(noun)|kindness|action
+benniseed|1
+(noun)|sesame seed|flavorer|flavourer|flavoring|flavouring|seasoner|seasoning
+bent hang|1
+(noun)|hang
+benthonic|1
+(adj)|benthic|benthal|biogeographical region
+bentonite|1
+(noun)|clay
+benzenoid|1
+(adj)|aromatic hydrocarbon
+bereft of|1
+(adj)|deprived of|empty 
+berkelium|1
+(noun)|Bk|atomic number 97|metallic element|metal
+berkshire|1
+(noun)|Berkshire|county
+bermudian|1
+(noun)|Bermudan|Bermudian|North American
+bernhardt|1
+(noun)|Bernhardt|Sarah Bernhardt|Henriette Rosine Bernard|actress
+bernoulli|3
+(noun)|Bernoulli|Daniel Bernoulli|physicist
+(noun)|Bernoulli|Johann Bernoulli|Jean Bernoulli|John Bernoulli|mathematician
+(noun)|Bernoulli|Jakob Bernoulli|Jacques Bernoulli|James Bernoulli|mathematician
+bernstein|1
+(noun)|Bernstein|Leonard Bernstein|conductor|music director|director|composer
+berrylike|1
+(adj)|baccate|berry
+berserker|1
+(noun)|berserk|Scandinavian|Norse|Northman
+bertillon|1
+(noun)|Bertillon|Alphonse Bertillon|criminologist
+beryllium|1
+(noun)|Be|glucinium|atomic number 4|metallic element|metal
+berzelius|1
+(noun)|Berzelius|Jons Jakob Berzelius|chemist
+besieging|1
+(noun)|siege|beleaguering|military blockade|blockade|encirclement
+besmeared|1
+(adj)|beplastered|daubed|covered 
+bespangle|2
+(verb)|spangle|decorate|adorn|grace|ornament|embellish|beautify
+(verb)|scatter|sprinkle|dot|dust|disperse
+bespatter|1
+(verb)|spatter|spot|fleck|blob|blot
+bespeckle|1
+(verb)|speckle|spot|fleck|blob|blot
+bestially|1
+(adv)|brutishly|in a beastly manner
+beta cell|1
+(noun)|cell
+beta iron|1
+(noun)|iron|Fe|atomic number 26
+beta test|1
+(noun)|trial|trial run|test|tryout
+beta wave|1
+(noun)|beta rhythm|brainwave|brain wave|cortical potential
+betel nut|1
+(noun)|areca nut|edible seed
+bethlehem|2
+(noun)|Bethlehem|town
+(noun)|Bethlehem|Bayt Lahm|Bethlehem Ephrathah|Bethlehem-Judah|town
+betraying|1
+(adj)|revealing 
+betrothal|2
+(noun)|troth|engagement|promise
+(noun)|espousal|ritual|rite
+betrothed|2
+(adj)|affianced|bespoken|engaged|pledged|attached |committed
+(noun)|lover
+bettering|1
+(adj)|bettering |ameliorating|ameliorative|amelioratory|meliorative|amendatory|corrective|remedial
+bettongia|1
+(noun)|Bettongia|genus Bettongia|mammal genus
+beveridge|1
+(noun)|Beveridge|William Henry Beveridge|First Baron Beveridge|economist|economic expert
+bewhisker|1
+(verb)|whisker|supply|provide|render|furnish
+bewitched|1
+(adj)|ensorcelled|enchanted 
+bhutanese|2
+(adj)|Bhutanese|Asian country|Asian nation
+(noun)|Bhutanese|Bhutani|Asian|Asiatic
+bibliotic|1
+(adj)|discipline|subject|subject area|subject field|field|field of study|study|bailiwick|branch of knowledge
+bicameral|2
+(adj)|bicameral 
+(adj)|two-chambered|divided 
+bicentric|1
+(adj)|central 
+bicipital|1
+(adj)|skeletal muscle|striated muscle
+bickering|1
+(noun)|bicker|spat|tiff|squabble|pettifoggery|fuss|quarrel|wrangle|row|words|run-in|dustup
+bicolored|1
+(adj)|bicolor|bicolour|bicoloured|bichrome|dichromatic|colored |coloured|colorful
+biconcave|1
+(adj)|concavo-concave|concave 
+bicornate|1
+(adj)|bicorn|bicorned|bicornuate|bicornuous|horned 
+bicycling|1
+(noun)|cycling
+bicyclist|1
+(noun)|cyclist|bicycler|wheeler|pedaler|pedaller
+bid price|1
+(noun)|price|terms|damage
+bidentate|1
+(adj)|rough 
+bifoliate|1
+(adj)|leafy 
+bifurcate|3
+(adj)|biramous|branched|forked|forficate|pronged|prongy|divided 
+(verb)|diverge
+(verb)|branch|ramify|fork|furcate|separate
+big-boned|1
+(adj)|robust 
+big board|2
+(noun)|New York Stock Exchange|N. Y. Stock Exchange|NYSE|stock exchange|stock market|securities market
+(noun)|display panel|display board|board
+big bucks|1
+(noun)|pile|bundle|megabucks|big money|money
+big money|1
+(noun)|pile|bundle|big bucks|megabucks|money
+big stick|1
+(noun)|display|show
+big wheel|1
+(noun)|big shot|big gun|big cheese|big deal|big enchilada|big fish|head honcho|important person|influential person|personage
+bigeminal|1
+(adj)|multiple 
+bigeneric|1
+(adj)|crossbred 
+bigheaded|1
+(adj)|persnickety|snooty|snot-nosed|snotty|stuck-up|too big for one's breeches|uppish|proud 
+bignoniad|1
+(noun)|woody plant|ligneous plant
+bilabiate|1
+(adj)|lipped 
+bilateral|3
+(adj)|isobilateral|bilaterally symmetrical|bilaterally symmetric|symmetrical |symmetric
+(adj)|bilateral |two-sided|bipartite|two-party|two-way|joint
+(adj)|reciprocal |mutual
+bile acid|1
+(noun)|steroid
+bile duct|1
+(noun)|common bile duct|duct|epithelial duct|canal|channel
+bile salt|1
+(noun)|salt
+bilestone|1
+(noun)|gallstone|calculus|concretion
+bilharzia|1
+(noun)|schistosomiasis|bilharziasis|infestation|infection
+bilingual|2
+(adj)|multilingual 
+(noun)|linguist|polyglot
+bilirubin|1
+(noun)|hematoidin|haematoidin|animal pigment
+billabong|2
+(noun)|pool|puddle
+(noun)|branch
+billboard|1
+(noun)|hoarding|signboard|sign
+billiards|1
+(noun)|table game
+billionth|3
+(adj)|ordinal 
+(noun)|rank
+(noun)|one-billionth|common fraction|simple fraction
+billowing|2
+(adj)|rolling|tumbling|moving 
+(adj)|billowy|surging|stormy 
+bilobated|2
+(adj)|bilobate|bilobed|body part
+(adj)|bilobate|bilobed|compound 
+bilocular|1
+(adj)|biloculate|divided 
+bimonthly|4
+(adj)|semimonthly|time unit|unit of time
+(adj)|bimestrial|time unit|unit of time
+(noun)|series|serial|serial publication
+(adv)|semimonthly
+bimotored|1
+(adj)|motorized |motorised|motored
+bin laden|1
+(noun)|bin Laden|Osama bin Laden|Usama bin Laden|terrorist
+bin liner|1
+(noun)|plastic bag
+bind over|1
+(verb)|confine|detain
+binocular|2
+(adj)|sense organ|sensory receptor|receptor
+(noun)|binoculars|field glasses|opera glasses|optical instrument
+binturong|1
+(noun)|bearcat|Arctictis bintourong|civet|civet cat
+binuclear|1
+(adj)|binucleate |binucleated
+bioattack|1
+(noun)|biological warfare|BW|biological attack|biologic attack|war|warfare
+bioethics|1
+(noun)|ethics|moral philosophy
+biogenous|1
+(adj)|generation|multiplication|propagation
+biography|1
+(noun)|life|life story|life history|history|account|chronicle|story
+biohazard|2
+(noun)|health hazard
+(noun)|biological agent|agent
+biologism|1
+(noun)|practice|pattern
+biologist|1
+(noun)|life scientist|scientist|man of science
+bionomics|1
+(noun)|ecology|environmental science|biology|biological science
+biopiracy|1
+(noun)|larceny|theft|thievery|thieving|stealing
+biosafety|1
+(noun)|safety
+biosphere|1
+(noun)|region|part
+bioweapon|1
+(noun)|biological weapon|bioarm|weapon of mass destruction|WMD|W.M.D.
+bipartite|2
+(adj)|compound 
+(adj)|two-party|two-way|bilateral |two-sided
+bipinnate|1
+(adj)|compound 
+birch oil|1
+(noun)|methyl salicylate|sweet-birch oil|salicylate
+birch rod|1
+(noun)|birch|switch
+birchbark|1
+(noun)|birchbark canoe|birch bark|canoe
+bird-nest|2
+(verb)|birdnest|gather|garner|collect|pull together
+(verb)|                                                                         
+bird food|1
+(noun)|birdseed|feed|provender
+bird shot|1
+(noun)|buckshot|duck shot|shot|pellet
+birdbrain|1
+(noun)|addle-head|addlehead|loon|misfit
+birdhouse|1
+(noun)|shelter
+birdwatch|1
+(verb)|bird|observe
+birthmark|1
+(noun)|nevus|blemish|defect|mar
+birthrate|1
+(noun)|birth rate|fertility|fertility rate|natality|rate
+birthroot|1
+(noun)|purple trillium|red trillium|Trillium erectum|trillium|wood lily|wake-robin
+birthwort|1
+(noun)|Aristolochia clematitis|vine
+bisection|1
+(noun)|division
+biserrate|1
+(adj)|rough 
+bishopric|1
+(noun)|diocese|jurisdiction
+bismuthal|1
+(adj)|metallic element|metal
+bismuthic|1
+(adj)|metallic element|metal
+bisontine|1
+(adj)|bovid
+bisulcate|1
+(adj)|cloven|cleft|divided 
+bit field|1
+(noun)|field
+biteplate|1
+(noun)|bite plate|dental appliance
+bitterish|1
+(adj)|tasteful 
+bitternut|1
+(noun)|bitternut hickory|bitter hickory|bitter pignut|swamp hickory|Carya cordiformis|hickory|hickory tree
+bivariate|1
+(adj)|quantity
+black-tie|1
+(adj)|semiformal|semi-formal|formal 
+black art|1
+(noun)|sorcery|black magic|necromancy|magic
+black ash|1
+(noun)|basket ash|brown ash|hoop ash|Fraxinus nigra|ash|ash tree
+black bee|1
+(noun)|German bee|honeybee|Apis mellifera
+black box|1
+(noun)|recorder|recording equipment|recording machine
+black cat|1
+(noun)|fisher|pekan|fisher cat|Martes pennanti|marten|marten cat
+black eye|3
+(noun)|shiner|bruise|contusion
+(noun)|repute|reputation
+(noun)|reverse|reversal|setback|blow|happening|occurrence|natural event
+black fly|2
+(noun)|blackfly|buffalo gnat|gnat
+(noun)|blackfly|bean aphid|Aphis fabae|aphid
+black fox|1
+(noun)|red fox|Vulpes vulpes
+black gum|2
+(noun)|sour gum|pepperidge|Nyssa sylvatica|tupelo|tupelo tree
+(noun)|black mallee|black sally|Eucalytus stellulata|mallee
+black haw|2
+(noun)|false buckthorn|chittamwood|chittimwood|shittimwood|Bumelia lanuginosa|buckthorn
+(noun)|Viburnum prunifolium|shrub|bush
+black ice|1
+(noun)|ice|water ice
+black man|1
+(noun)|Black man|man|adult male|Black|Black person|blackamoor|Negro|Negroid
+black oak|1
+(noun)|yellow oak|quercitron|quercitron oak|Quercus velutina|oak|oak tree
+black out|4
+(verb)|snuff out|blow out|extinguish|quench
+(verb)|blacken out|darken
+(verb)|edit|redact
+(verb)|zonk out|pass out|change state|turn
+black pea|1
+(noun)|Lathyrus niger|vetchling
+black rat|1
+(noun)|roof rat|Rattus rattus|rat
+black rot|1
+(noun)|plant disease
+black sea|1
+(noun)|Black Sea|Euxine Sea|sea
+black tai|1
+(noun)|Tai Dam|Black Tai|Tai
+black tea|1
+(noun)|tea|tea leaf
+black tie|2
+(noun)|dinner jacket|tux|tuxedo|formalwear|eveningwear|evening dress|evening clothes
+(noun)|bow tie
+blackball|3
+(noun)|barring|ejection|exclusion|expulsion|riddance
+(verb)|banish|ban|ostracize|ostracise|shun|cast out|expel|throw out|kick out
+(verb)|veto|negative|oppose|controvert|contradict
+blackbird|2
+(noun)|New World blackbird|New World oriole|American oriole|oriole
+(noun)|merl|merle|ouzel|ousel|European blackbird|Turdus merula|thrush
+blackbody|1
+(noun)|black body|full radiator|natural object
+blackbuck|1
+(noun)|black buck|Antilope cervicapra|antelope
+blackburn|1
+(noun)|Blackburn|Blackburnian warbler|Dendroica fusca|New World warbler|wood warbler
+blackcock|1
+(noun)|black cock|black grouse
+blackdamp|1
+(noun)|chokedamp|carbon dioxide|CO2|carbonic acid gas
+blackened|2
+(adj)|smoky 
+(adj)|black|colored |coloured|colorful
+blackface|1
+(noun)|makeup|make-up|war paint
+blackfish|3
+(noun)|tautog|Tautoga onitis|wrasse
+(noun)|salmon
+(noun)|pilot whale|black whale|common blackfish|Globicephala melaena|dolphin
+blackfoot|2
+(noun)|Blackfoot|Algonquian|Algonquin|Plains Indian|Buffalo Indian
+(noun)|Blackfoot|Algonquian|Algonquin|Algonquian language
+blackhead|1
+(noun)|comedo|blemish|defect|mar
+blackjack|4
+(noun)|blackjack oak|jack oak|Quercus marilandica|scrub oak
+(noun)|cosh|sap|bludgeon
+(noun)|twenty-one|vingt-et-un|card game|cards
+(verb)|blackmail|pressure|influence|act upon|work
+blacklead|1
+(verb)|cover
+blacklist|2
+(noun)|black book|shitlist|list|listing
+(verb)|list
+blackmail|3
+(noun)|extortion
+(verb)|blackjack|pressure|influence|act upon|work
+(verb)|extort
+blackness|2
+(noun)|black|achromatic color|achromatic colour
+(noun)|total darkness|lightlessness|pitch blackness|black|dark|darkness
+blackpoll|1
+(noun)|Dendroica striate|New World warbler|wood warbler
+blackpool|1
+(noun)|Blackpool|town
+blackseed|1
+(noun)|smut grass|carpet grass|Sporobolus poiretii|dropseed|drop-seed
+blacktail|1
+(noun)|black-tailed deer|blacktail deer|Odocoileus hemionus columbianus|mule deer|burro deer|Odocoileus hemionus
+blackwash|5
+(noun)|character assassination|assassination|defamation|calumny|obloquy|traducement|hatchet job
+(noun)|black lotion|lotion|application
+(noun)|wash
+(verb)|disclose|let on|bring out|reveal|discover|expose|divulge|impart|break|give away|let out
+(verb)|color|colorize|colorise|colourise|colourize|colour|color in|colour in
+blackwood|2
+(noun)|wood
+(noun)|blackwood tree|tree
+blade bit|1
+(noun)|fishtail bit|drilling bit|drill bit
+bladelike|1
+(adj)|ensiform|sword-shaped|swordlike|simple |unsubdivided|pointed 
+blaeberry|1
+(noun)|bilberry|whortleberry|whinberry|Viccinium myrtillus|blueberry|blueberry bush
+blameable|1
+(adj)|blameworthy|blamable|blameful|censurable|culpable|guilty 
+blameless|1
+(adj)|inculpable|irreproachable|unimpeachable|innocent |guiltless|clean-handed
+blandness|3
+(noun)|unemotionality|emotionlessness
+(noun)|insipidity|insipidness|unappetizingness|unappetisingness
+(noun)|suavity|suaveness|graciousness
+blank out|2
+(verb)|forget|block|draw a blank
+(verb)|edit|redact
+blankness|1
+(noun)|emptiness
+blare out|1
+(verb)|blat out|announce|denote
+blaspheme|2
+(verb)|curse|cuss|swear|imprecate|express|verbalize|verbalise|utter|give tongue to
+(verb)|talk of|talk about
+blasphemy|2
+(noun)|profanity|disrespect|discourtesy
+(noun)|profanation|desecration|sacrilege|irreverence|violation
+blast off|1
+(verb)|launch
+blastemal|1
+(adj)|blastematic|blastemic|cell
+blastemic|1
+(adj)|blastemal|blastematic|cell
+blastular|1
+(adj)|blastospheric|embryo|conceptus|fertilized egg
+blattaria|1
+(noun)|Blattodea|suborder Blattodea|Blattaria|suborder Blattaria|animal order
+blattella|1
+(noun)|Blattella|genus Blattella|arthropod genus
+blattidae|1
+(noun)|Blattidae|family Blattidae|arthropod family
+blattodea|1
+(noun)|Blattodea|suborder Blattodea|Blattaria|suborder Blattaria|animal order
+blaze out|1
+(verb)|blaze|depart|part|start|start out|set forth|set off|set out|take off
+bleachers|2
+(noun)|stand|stands
+(noun)|bleacher|worker
+bleakness|1
+(noun)|desolation|gloom|gloominess|glumness
+blemished|2
+(adj)|blemished |acned|pimpled|pimply|pustulate|besmirched|damaged|flyblown|spotted|stained|sullied|tainted|tarnished|marred|scarred|pocked|pockmarked|blebbed|blebby|blotchy|damaged|imperfect
+(adj)|flawed|imperfect 
+blennioid|1
+(noun)|blennioid fish|percoid fish|percoid|percoidean
+blephilia|1
+(noun)|Blephilia|genus Blephilia|asterid dicot genus
+blind eel|1
+(noun)|amphiuma|congo snake|congo eel|salamander
+blind gut|1
+(noun)|cecum|caecum|cavity|bodily cavity|cavum
+blind man|1
+(noun)|blind person|visually handicapped person
+blindfold|3
+(adj)|blindfolded|blind |unsighted
+(noun)|cloth covering
+(verb)|cover
+blindness|1
+(noun)|sightlessness|cecity|visual impairment|visual defect|vision defect|visual disorder
+blindside|2
+(verb)|surprise
+(verb)|assail|assault|set on|attack
+blindworm|2
+(noun)|slowworm|Anguis fragilis|anguid lizard
+(noun)|caecilian|amphibian
+blistered|1
+(adj)|injured 
+blocadren|1
+(noun)|timolol|Blocadren|beta blocker|beta-adrenergic blocker|beta-adrenergic blocking agent
+block off|3
+(verb)|blockade|obstruct|obturate|impede|occlude|jam|block|close up
+(verb)|barricade|block|blockade|stop|block up|bar|obstruct|obturate|impede|occlude|jam|block|close up
+(verb)|shut off|close off|barricade|block|blockade|stop|block up|bar
+block out|4
+(verb)|lay out
+(verb)|screen|obstruct|obturate|impede|occlude|jam|block|close up
+(verb)|mask|cover
+(verb)|sketch|outline|adumbrate
+blockaded|1
+(adj)|barricaded|barred|obstructed 
+blockhead|1
+(noun)|dunce|dunderhead|numskull|bonehead|lunkhead|hammerhead|knucklehead|loggerhead|muttonhead|shithead|fuckhead|simpleton|simple
+blondness|1
+(noun)|paleness|fairness|complexion|skin color|skin colour
+blood-red|1
+(adj)|red|reddish|ruddy|carmine|cerise|cherry|cherry-red|crimson|ruby|ruby-red|scarlet|chromatic 
+blood cup|1
+(noun)|fairy cup|Peziza coccinea|discomycete|cup fungus
+bloodbath|1
+(noun)|bloodletting|bloodshed|battue|slaughter|massacre|mass murder|carnage|butchery
+bloodleaf|1
+(noun)|subshrub|suffrutex
+bloodless|5
+(adj)|exsanguine|exsanguinous|dead 
+(adj)|bloodless |unbloodied|nonviolent|unbloody
+(adj)|spiritless 
+(adj)|nonhuman 
+(adj)|ashen|blanched|livid|white|colorless |colourless
+bloodline|2
+(noun)|lineage|line|line of descent|descent|blood line|blood|pedigree|ancestry|origin|parentage|stemma|stock|genealogy|family tree
+(noun)|pedigree|ancestry|lineage|derivation|filiation
+bloodlust|1
+(noun)|desire
+bloodroot|1
+(noun)|puccoon|redroot|tetterwort|Sanguinaria canadensis|herb|herbaceous plant
+bloodshed|2
+(noun)|blood|gore|murder|slaying|execution
+(noun)|bloodbath|bloodletting|battue|slaughter|massacre|mass murder|carnage|butchery
+bloodshot|1
+(adj)|unhealthy 
+bloodworm|1
+(noun)|polychaete|polychete|polychaete worm|polychete worm
+bloodwort|1
+(noun)|herb|herbaceous plant
+bloomeria|1
+(noun)|Bloomeria|genus Bloomeria|liliid monocot genus
+blow over|1
+(verb)|evanesce|fade|pass off|fleet|pass|disappear|vanish|go away
+blow tube|3
+(noun)|blowtube|blowpipe|tube|tubing
+(noun)|blowgun|blowpipe|blowtube|tube|tubing
+(noun)|                                                                         
+blowtorch|1
+(noun)|torch|blowlamp|burner
+blubberer|1
+(noun)|weeper|crier
+blue-chip|1
+(adj)|valuable 
+blue-eyed|2
+(adj)|fair-haired|white-haired|loved 
+(adj)|eyed 
+blue baby|1
+(noun)|baby|babe|infant
+blue book|3
+(noun)|report|study|written report
+(noun)|directory
+(noun)|booklet|brochure|folder|leaflet|pamphlet
+blue bull|1
+(noun)|nilgai|nylghai|nylghau|Boselaphus tragocamelus|antelope
+blue chip|2
+(noun)|blue-chip stock|common stock|common shares|ordinary shares
+(noun)|chip|poker chip
+blue crab|2
+(noun)|crab|crabmeat
+(noun)|Callinectes sapidus|swimming crab
+blue flag|1
+(noun)|Iris versicolor|iris|flag|fleur-de-lis|sword lily
+blue funk|1
+(noun)|funk|depression
+blue jack|1
+(noun)|coho|cohoe|coho salmon|silver salmon|Onchorynchus kisutch|salmon
+blue jean|1
+(noun)|jean|denim|trousers|pants
+blue jets|1
+(noun)|jets|atmospheric electricity
+blue joke|1
+(noun)|dirty joke|dirty story|blue story|joke|gag|laugh|jest|jape
+blue moon|1
+(noun)|long time|age|years
+blue nile|1
+(noun)|Blue Nile|headstream
+blue note|1
+(noun)|note|musical note|tone
+blue pike|1
+(noun)|blue pickerel|blue pikeperch|blue walleye|Strizostedion vitreum glaucum|walleye|walleyed pike|jack salmon|Stizostedion vitreum
+blue sage|4
+(noun)|Salvia reflexa|Salvia lancifolia|sage|salvia
+(noun)|mealy sage|Salvia farinacea|sage|salvia
+(noun)|Salvia azurea|sage|salvia
+(noun)|big sagebrush|Seriphidium tridentatum|Artemisia tridentata|sagebrush|sage brush
+blue star|1
+(noun)|Amsonia tabernaemontana|subshrub|suffrutex
+blue stem|2
+(noun)|bluestem|Andropogon furcatus|Andropogon gerardii|grass
+(noun)|                                                                         
+blue wall|1
+(noun)|blue wall of silence|wall of silence|cover-up
+bluebeard|1
+(noun)|Bluebeard|fictional character|fictitious character|character
+blueberry|2
+(noun)|blueberry bush|shrub|bush
+(noun)|berry
+bluegrass|3
+(noun)|blue grass|grass
+(noun)|Bluegrass|Bluegrass Country|Bluegrass Region|geographical area|geographic area|geographical region|geographic region
+(noun)|country music|country and western|C and W
+bluepoint|2
+(noun)|blue point|huitre|oyster
+(noun)|blue point|oyster
+blueprint|3
+(noun)|design|pattern|plan|program|programme
+(noun)|photograph|photo|exposure|pic
+(verb)|draft|draught|design|plan
+bluestone|1
+(noun)|sandstone
+bluff out|1
+(verb)|bluff|move|go
+bluffness|1
+(noun)|frankness|outspokenness
+blunderer|1
+(noun)|bungler|fumbler|bumbler|stumbler|sad sack|botcher|butcher|fuckup|incompetent|incompetent person
+bluntness|2
+(noun)|inconsideration|inconsiderateness|thoughtlessness
+(noun)|dullness|dulness|shape|form|configuration|contour|conformation
+blurt out|1
+(verb)|blurt|blunder out|blunder|ejaculate|talk|speak|utter|mouth|verbalize|verbalise
+blusterer|1
+(noun)|loudmouth|troublemaker|trouble maker|troubler|mischief-maker|bad hat
+boardroom|1
+(noun)|council chamber|room
+boardwalk|1
+(noun)|walk|walkway|paseo
+boarhound|1
+(noun)|hound|hound dog
+boat-race|1
+(verb)|race|run
+boat club|1
+(noun)|yacht club|club|society|guild|gild|lodge|order
+boat deck|1
+(noun)|upper deck
+boat hook|1
+(noun)|hook
+boat race|1
+(noun)|race
+boathouse|1
+(noun)|house
+boatswain|1
+(noun)|bos'n|bo's'n|bosun|bo'sun|mariner|seaman|tar|Jack-tar|Jack|old salt|seafarer|gob|sea dog
+bob about|1
+(verb)|bob around|bob
+bob dylan|1
+(noun)|Dylan|Bob Dylan|songwriter|songster|ballad maker|singer|vocalist|vocalizer|vocaliser
+bob under|1
+(verb)|vanish|disappear|go away
+bobby orr|1
+(noun)|Orr|Bobby Orr|Robert Orr|hockey player|ice-hockey player
+bobby pin|1
+(noun)|hairgrip|grip|hairpin
+bobbysock|1
+(noun)|anklet|anklets|bobbysocks|sock
+bobsleigh|2
+(noun)|bobsled|sled|sledge|sleigh
+(noun)|bobsled|bob|sled|sledge|sleigh
+bobtailed|1
+(adj)|bobtail|caudate |caudated
+boccaccio|1
+(noun)|Boccaccio|Giovanni Boccaccio|poet
+bock beer|1
+(noun)|bock|lager|lager beer
+bodacious|2
+(adj)|unmitigated 
+(adj)|audacious|barefaced|bold-faced|brassy|brazen|brazen-faced|insolent|unashamed 
+bodo-garo|1
+(noun)|Bodo-Garo|Barish|Kamarupan
+body hair|1
+(noun)|hair
+body odor|1
+(noun)|body odour|B.O.|malodorousness|stinkiness|foulness|rankness
+body part|1
+(noun)|part|piece
+body suit|1
+(noun)|leotard|unitard|cat suit|garment
+body type|1
+(noun)|somatotype|physique|build|body-build|habitus
+bodyguard|2
+(noun)|escort|defender|guardian|protector|shielder
+(noun)|guard|detachment
+bodypaint|1
+(verb)|paint
+boehmeria|1
+(noun)|Boehmeria|genus Boehmeria|dicot genus|magnoliopsid genus
+bog aster|1
+(noun)|aster
+bog plant|1
+(noun)|marsh plant|swamp plant|aquatic plant|water plant|hydrophyte|hydrophytic plant
+bogartian|1
+(adj)|Bogartian|actor|histrion|player|thespian|role player
+boil down|3
+(verb)|reduce|come down|become|turn
+(verb)|reduce|decoct|concentrate|decrease|diminish|lessen|fall
+(verb)|reduce|concentrate|decrease|lessen|minify
+boil over|1
+(verb)|overboil|boil
+boil smut|1
+(noun)|Ustilago maydis|cornsmut|corn smut
+bold face|2
+(noun)|boldface|bold|font|fount|typeface|face
+(noun)|                                                                         
+boliviano|1
+(noun)|Bolivian monetary unit
+bollix up|1
+(verb)|botch|bumble|fumble|botch up|muff|blow|flub|screw up|ball up|spoil|muck up|bungle|fluff|bollix|bollocks|bollocks up|bobble|mishandle|louse up|foul up|mess up|fuck up|fail|go wrong|miscarry
+bollywood|1
+(noun)|Bollywood|film industry|movie industry|screenland
+bolograph|1
+(noun)|bologram|recording
+bolometer|1
+(noun)|measuring instrument|measuring system|measuring device
+bolshevik|3
+(adj)|Bolshevik|Bolshevist|Bolshevistic|communism
+(noun)|Bolshevik|Marxist|pinko|red|bolshie|radical
+(noun)|Bolshevik|Bolshevist|communist|commie
+bolt-hole|1
+(noun)|hole
+bolt down|2
+(verb)|toss off|pop|belt down|pour down|down|drink down|kill|drink|imbibe
+(verb)|garbage down|gobble up|shovel in|eat
+boltzmann|1
+(noun)|Boltzmann|Ludwig Boltzmann|physicist
+bomb rack|1
+(noun)|carrier
+bomb site|1
+(noun)|site|land site
+bombardon|2
+(noun)|helicon|bass horn|sousaphone|tuba
+(noun)|bombard|shawm|bass
+bombastic|1
+(adj)|declamatory|large|orotund|tumid|turgid|rhetorical 
+bombilate|1
+(verb)|buzz|bombinate|sound|go
+bombinate|1
+(verb)|buzz|bombilate|sound|go
+bombproof|2
+(adj)|shellproof|invulnerable 
+(noun)|bomb shelter|air-raid shelter|chamber
+bombshell|3
+(noun)|entertainer
+(noun)|thunderbolt|thunderclap|surprise
+(noun)|bomb
+bombsight|1
+(noun)|sight
+bona fide|2
+(adj)|sincere 
+(adj)|authentic|unquestionable|veritable|genuine |echt
+bonaparte|1
+(noun)|Napoleon|Napoleon I|Napoleon Bonaparte|Bonaparte|the Little Corporal|general|full general|Emperor
+bonderise|1
+(verb)|bonderize|coat|surface
+bonderize|1
+(verb)|bonderise|coat|surface
+bondwoman|2
+(noun)|bondswoman|bondmaid|bond servant
+(noun)|bondswoman|bondmaid|slave
+bone-idle|1
+(adj)|bone-lazy|idle 
+bone-lazy|1
+(adj)|bone-idle|idle 
+bone cell|1
+(noun)|somatic cell|vegetative cell
+bone char|1
+(noun)|bone black|animal black|animal charcoal|char
+bony fish|1
+(noun)|fish
+boob tube|1
+(noun)|television receiver|television|television set|tv|tv set|idiot box|telly|goggle box|receiver|receiving system
+booboisie|1
+(noun)|class|social class|socio-economic class
+boogeyman|1
+(noun)|bogeyman|bugbear|bugaboo|booger|monster
+book fair|3
+(noun)|bookfair|fair
+(noun)|bookfair|bazaar|fair
+(noun)|                                                                         
+book lung|1
+(noun)|respiratory organ
+booklouse|1
+(noun)|book louse|deathwatch|Liposcelis divinatorius|psocopterous insect
+booklover|1
+(noun)|bibliophile|book lover|scholar|scholarly person|student
+bookmaker|2
+(noun)|maker|shaper
+(noun)|bookie|gambler
+bookplate|1
+(noun)|ex libris|gummed label|sticker|paster
+bookshelf|1
+(noun)|shelf
+bookstall|1
+(noun)|bookshop|bookstore|shop|store
+bookstore|1
+(noun)|bookshop|bookstall|shop|store
+boom town|1
+(noun)|town
+boomerang|3
+(noun)|throwing stick|throw stick|projectile|missile
+(noun)|backfire|miscalculation|misreckoning|misestimation
+(verb)|return|go back|get back|come back
+boondocks|1
+(noun)|backwoods|back country|hinterland|country|rural area
+boot camp|1
+(noun)|camp|encampment|cantonment|bivouac
+boot sale|1
+(noun)|car boot sale|sale|cut-rate sale|sales event
+bootblack|1
+(noun)|shoeblack|unskilled person
+bootmaker|1
+(noun)|boot maker|cobbler|shoemaker
+bootstrap|2
+(noun)|strap
+(verb)|help|assist|aid
+border on|1
+(verb)|approach|approximate|come close
+bore-hole|1
+(noun)|bore|drill hole|excavation|hole in the ground
+borrowing|2
+(noun)|adoption|appropriation
+(noun)|transaction|dealing|dealings
+boskopoid|1
+(adj)|Homo sapiens
+boss-eyed|1
+(adj)|cross-eyed 
+bostonian|1
+(noun)|Bostonian|American
+boswellia|1
+(noun)|Boswellia|genus Boswellia|rosid dicot genus
+botanical|1
+(adj)|botanic|biology|biological science
+botswanan|1
+(adj)|Botswanan|African country|African nation
+bottle up|1
+(verb)|suppress|restrain|suppress|keep|keep back|hold back
+bottlecap|1
+(noun)|bottle-cordk|cap
+bottleful|1
+(noun)|bottle|containerful
+bottom-up|1
+(adj)|bottom-up 
+botulinal|1
+(adj)|eubacteria|eubacterium|true bacteria
+botulinum|1
+(noun)|botulinus|Clostridium botulinum|eubacteria|eubacterium|true bacteria
+botulinus|1
+(noun)|botulinum|Clostridium botulinum|eubacteria|eubacterium|true bacteria
+boughless|2
+(adj)|boughless 
+(adj)|limbless 
+bouldered|1
+(adj)|rocky|bouldery|stony|rough |unsmooth
+boulevard|1
+(noun)|avenue|street
+bound off|2
+(verb)|skip|bounce|resile|take a hop|spring|bound|rebound|recoil|reverberate|ricochet
+(verb)|tie up|bind off|tie|bind
+boundless|1
+(adj)|unbounded|limitless|infinite 
+bounteous|1
+(adj)|big|bighearted|bountiful|freehanded|handsome|giving|liberal|openhanded|generous 
+bountiful|2
+(adj)|big|bighearted|bounteous|freehanded|handsome|giving|liberal|openhanded|generous 
+(adj)|plentiful|fruitful 
+bourgeois|5
+(adj)|capitalistic |capitalist
+(adj)|conservative|materialistic|middle-class 
+(adj)|middle-class 
+(noun)|businessperson|capitalist
+(noun)|burgher|commoner|common man|common person
+bourgogne|1
+(noun)|Bourgogne|Burgundy|French region
+bouteloua|1
+(noun)|Bouteloua|genus Bouteloua|monocot genus|liliopsid genus
+bowelless|1
+(adj)|cutthroat|fierce|merciless |unmerciful
+bowerbird|1
+(noun)|catbird|oscine|oscine bird
+bowl over|2
+(verb)|overturn|tip over|turn over|upset|knock over|tump over|move|displace
+(verb)|flabbergast|boggle|surprise
+bowlegged|1
+(adj)|bandy|bandy-legged|bowed|bowleg|unfit 
+bowstring|1
+(noun)|cord
+box elder|1
+(noun)|ash-leaved maple|Acer negundo|maple
+box kodak|1
+(noun)|box camera|box Kodak|camera|photographic camera
+box pleat|1
+(noun)|pleat|plait
+boy scout|2
+(noun)|male child|boy
+(noun)|innocent|inexperienced person
+boyfriend|1
+(noun)|fellow|beau|swain|young man|man|adult male|lover
+brachiate|3
+(adj)|branchy 
+(adj)|armed 
+(verb)|swing|sway
+brachinus|1
+(noun)|Brachinus|genus Brachinus|arthropod genus
+brachyura|1
+(noun)|Brachyura|suborder Brachyura|animal order
+bracteate|1
+(adj)|bracteate |bracted|husk
+bracteole|1
+(noun)|bractlet|bract
+brahminic|1
+(adj)|brahminical|aristocrat|blue blood|patrician
+brain-fag|1
+(noun)|mental exhaustion|exhaustion
+braincase|1
+(noun)|cranium|brainpan|bone|os
+brainless|1
+(adj)|headless|unintelligent |stupid
+brainsick|1
+(adj)|crazy|demented|distracted|disturbed|mad|sick|unbalanced|unhinged|insane 
+brainstem|1
+(noun)|brain-stem|brain stem|neural structure
+brainwash|2
+(verb)|persuade
+(verb)|indoctrinate
+brainwave|2
+(noun)|brain wave|cortical potential|bioelectricity
+(noun)|insight|brainstorm|understanding|apprehension|discernment|savvy
+brambling|1
+(noun)|Fringilla montifringilla|finch
+branchial|1
+(adj)|respiratory organ
+branching|3
+(adj)|branched|ramose|ramous|ramate|branchy 
+(adj)|divergent |diverging
+(noun)|ramification|fork|forking|division
+branchlet|1
+(noun)|twig|sprig|branch
+brand-new|1
+(adj)|bran-new|spic-and-span|spick-and-span|new 
+brash oak|1
+(noun)|post oak|box white oak|iron oak|Quercus stellata|oak|oak tree
+brashness|2
+(noun)|flashiness|garishness|gaudiness|loudness|meretriciousness|tawdriness|glitz|tastelessness
+(noun)|recklessness|foolhardiness|rashness
+brass hat|1
+(noun)|military officer|officer
+brasserie|1
+(noun)|restaurant|eating house|eating place
+brassiere|1
+(noun)|bra|bandeau|undergarment
+brasslike|1
+(adj)|brassy|wind instrument|wind
+bratwurst|1
+(noun)|brat|pork sausage
+brave out|1
+(verb)|weather|endure|brave|defy|withstand|hold|hold up
+brazilian|2
+(adj)|Brazilian|South American country|South American nation
+(noun)|Brazilian|South American
+bread-bin|1
+(noun)|breadbox|container
+breadline|1
+(noun)|bread line|queue|waiting line
+breadroot|1
+(noun)|Indian breadroot|pomme blanche|pomme de prairie|Psoralea esculenta|herb|herbaceous plant
+break-axe|2
+(noun)|breakax|breakaxe|Sloanea jamaicensis|tree
+(noun)|                                                                         
+break off|5
+(verb)|cut short|break short|interrupt|break
+(verb)|break|discontinue|stop|end|terminate
+(verb)|chip|chip off|come off|break away|separate|divide|part
+(verb)|break|snap off|detach
+(verb)|chip|knap|cut off|cut
+break out|5
+(verb)|erupt|begin|start
+(verb)|begin|start
+(verb)|break|break away|escape|get away|break loose
+(verb)|unpack|take out
+(verb)|erupt|recrudesce|afflict|trouble|ail|pain
+breakable|2
+(adj)|breakable |brittle|brickle|brickly|crumbly|delicate|fragile|frail|frangible|splintery|friable
+(noun)|article
+breakaway|2
+(adj)|fissiparous|separatist|independent 
+(noun)|breaking away|secession|withdrawal
+breakdown|4
+(noun)|dislocation|disruption|perturbation
+(noun)|crack-up|collapse
+(noun)|equipment failure|failure
+(noun)|partitioning|analysis|analytic thinking
+breakfast|3
+(noun)|meal|repast
+(verb)|eat
+(verb)|feed|give
+breakneck|1
+(adj)|dangerous |unsafe
+breastpin|1
+(noun)|brooch|broach|pin
+breathing|2
+(adj)|breathing |eupneic|eupnoeic|breathed|exhaling|huffing|puffing|puffy|inhaling|snoring|snorting
+(noun)|external respiration|respiration|ventilation|bodily process|body process|bodily function|activity
+brecciate|2
+(verb)|form
+(verb)|break up|fragment|fragmentize|fragmentise
+bregmatic|1
+(adj)|craniometric point
+brevibloc|1
+(noun)|esmolol|Brevibloc|beta blocker|beta-adrenergic blocker|beta-adrenergic blocking agent
+briarroot|1
+(noun)|root
+briarwood|1
+(noun)|brierwood|brier-wood|wood
+brick red|1
+(noun)|reddish brown|sepia|burnt sienna|Venetian red
+brickkiln|1
+(noun)|kiln
+brickwork|1
+(noun)|masonry
+brickyard|1
+(noun)|brickfield|workshop|shop
+bridecake|1
+(noun)|wedding cake|cake
+bridged-t|1
+(noun)|bridged-T|circuit|electrical circuit|electric circuit
+bridle at|1
+(verb)|bristle at|bridle up|bristle up|mind
+bridle up|1
+(verb)|bristle at|bridle at|bristle up|mind
+briefcase|1
+(noun)|case
+briefless|1
+(adj)|unpatronized |unpatronised|patronless
+briefness|2
+(noun)|shortness
+(noun)|brevity|transience|duration|length
+brierwood|1
+(noun)|briarwood|brier-wood|wood
+brigadier|1
+(noun)|brigadier general|general officer
+brilliant|6
+(adj)|superb|superior 
+(adj)|brainy|smart as a whip|intelligent 
+(adj)|glorious|magnificent|splendid|impressive 
+(adj)|bright|vivid|colorful |colourful
+(adj)|bright 
+(adj)|bright|reverberant |ringing
+brim over|1
+(verb)|overflow|overrun|well over|run over|spill|run out
+brimstone|1
+(noun)|native sulfur|native sulphur|sulfur|S|sulphur|atomic number 16
+bring off|1
+(verb)|pull off|negociate|carry off|manage|succeed|win|come through|bring home the bacon|deliver the goods
+bring out|9
+(verb)|uncover|unveil|reveal|show
+(verb)|let out|let go of|let go|release|relinquish
+(verb)|publish|put out|issue|release|publicize|publicise|air|bare
+(verb)|set off|stress|emphasize|emphasise|punctuate|accent|accentuate
+(verb)|produce|bring on
+(verb)|encourage
+(verb)|get out|unpack|take out
+(verb)|introduce|introduce|present|acquaint
+(verb)|disclose|let on|reveal|discover|expose|divulge|impart|break|give away|let out|tell
+brininess|1
+(noun)|salinity|saltiness
+briquette|1
+(noun)|briquet|block
+briskness|1
+(noun)|alacrity|liveliness|life|spirit|sprightliness
+britannic|1
+(adj)|Britannic|nation|land|country|a people
+briticism|1
+(noun)|Anglicism|Briticism|Britishism|formulation|expression
+britisher|1
+(noun)|Britisher|Briton|Brit|European
+brittanic|1
+(noun)|Brythonic|Brittanic|Celtic|Celtic language
+broadband|2
+(adj)|system
+(adj)|wideband|band
+broadbill|4
+(noun)|boatbill|boat-billed heron|Cochlearius cochlearius|heron
+(noun)|scaup|scaup duck|bluebill|duck
+(noun)|shoveler|shoveller|Anas clypeata|duck
+(noun)|passerine|passeriform bird
+broadcast|5
+(noun)|message
+(noun)|program|programme|show
+(verb)|air|send|beam|transmit|publicize|publicise|air|bare
+(verb)|sow|sough|seed
+(verb)|circulate|circularize|circularise|distribute|disseminate|propagate|spread|diffuse|disperse|pass around|publicize|publicise|air|bare
+broadleaf|1
+(adj)|broad-leafed|broad-leaved|deciduous 
+broadloom|2
+(adj)|seamless 
+(noun)|rug|carpet|carpeting
+broadness|1
+(noun)|wideness|width|breadth
+broadside|7
+(adj)|side 
+(noun)|circular|handbill|bill|broadsheet|flier|flyer|throwaway|ad|advertisement|advertizement|advertising|advertizing|advert
+(noun)|tirade|philippic|denunciation|denouncement|declamation
+(noun)|armament
+(noun)|side
+(noun)|fire|firing
+(verb)|hit|strike|impinge on|run into|collide with
+broadtail|2
+(noun)|lambskin
+(noun)|caracul|karakul|domestic sheep|Ovis aries
+broadwise|1
+(adv)|breadthwise|breadthways
+brocadopa|1
+(noun)|L-dopa|levodopa|Bendopa|Brocadopa|Larodopa|dopa|dihydroxyphenylalanine
+broken in|1
+(adj)|broken|tame |tamed
+brokerage|3
+(noun)|brokerage firm|securities firm|nondepository financial institution
+(noun)|business|concern|business concern|business organization|business organisation
+(noun)|brokerage house|workplace|work
+bromeosin|1
+(noun)|eosin|fluorescein|fluoresceine|fluorescent dye|resorcinolphthalein
+brominate|2
+(verb)|bromate|react
+(verb)|bromate|process|treat
+bromoform|1
+(noun)|tribromomethane|haloform
+bronchial|1
+(adj)|cartilaginous tube
+brood hen|1
+(noun)|broody|broody hen|setting hen|sitter|hen|biddy
+broodmare|1
+(noun)|stud mare|mare|female horse
+brooklime|2
+(noun)|European brooklime|Veronica beccabunga|marsh plant|bog plant|swamp plant
+(noun)|American brooklime|Veronica americana|marsh plant|bog plant|swamp plant
+brookweed|2
+(noun)|Samolus parviflorus|Samolus floribundus|water pimpernel
+(noun)|Samolus valerandii|water pimpernel
+broomcorn|1
+(noun)|Sorghum vulgare technicum|sorghum
+broomweed|1
+(noun)|broom-weed|Gutierrezia texana|matchweed|matchbush
+brotherly|1
+(adj)|brotherly |brotherlike|fraternal
+browallia|1
+(noun)|bush violet|flower
+brown ash|1
+(noun)|black ash|basket ash|hoop ash|Fraxinus nigra|ash|ash tree
+brown bat|1
+(noun)|carnivorous bat|microbat
+brown cup|1
+(noun)|sclerotinia
+brown oak|1
+(noun)|red beech|booyong|crow's foot|stave wood|silky elm|Heritiera trifoliolata|Terrietia trifoliolata|angiospermous tree|flowering tree
+brown rat|1
+(noun)|Norway rat|Rattus norvegicus|rat
+brown rot|1
+(noun)|plant disease
+brownness|1
+(noun)|brown|chromatic color|chromatic colour|spectral color|spectral colour
+browntail|1
+(noun)|brown-tail moth|Euproctis phaeorrhoea|lymantriid|tussock moth
+bruce lee|1
+(noun)|Lee|Bruce Lee|Lee Yuen Kam|actor|histrion|player|thespian|role player
+bruchidae|1
+(noun)|Bruchidae|family Bruchidae|arthropod family
+brummagem|2
+(adj)|Brummagem|tasteless 
+(noun)|Birmingham|Brummagem|city|metropolis|urban center
+brunswick|3
+(noun)|Brunswick|town
+(noun)|Brunswick|town|port of entry|point of entry
+(noun)|Braunschweig|Brunswick|city|metropolis|urban center
+brush-off|1
+(noun)|rejection
+brush cut|1
+(noun)|haircut
+brush off|1
+(verb)|dismiss|disregard|brush aside|discount|push aside|ignore|reject
+brushlike|1
+(adj)|armed 
+brushwood|2
+(noun)|wood
+(noun)|brush|coppice|copse|thicket|vegetation|flora
+brushwork|1
+(noun)|proficiency|technique
+brusquely|1
+(adv)|bluffly|bluntly|flat out|roundly
+brutalise|3
+(verb)|brutalize|treat|handle|do by
+(verb)|brutalize|animalize|animalise|change|alter|modify
+(verb)|brutalize|animalize|animalise|change
+brutality|2
+(noun)|ferociousness|viciousness|savageness|savagery|cruelty|cruelness|harshness
+(noun)|barbarity|barbarism|savagery|atrocity|inhumanity
+brutalize|3
+(verb)|brutalise|treat|handle|do by
+(verb)|brutalise|animalize|animalise|change|alter|modify
+(verb)|brutalise|animalize|animalise|change
+brutishly|1
+(adv)|bestially|in a beastly manner
+bruxelles|1
+(noun)|Bruxelles|Brussels|Belgian capital|capital of Belgium|national capital
+bryanthus|1
+(noun)|shrub|bush
+bryophyta|1
+(noun)|Bryophyta|division Bryophyta|division
+bryophyte|1
+(noun)|nonvascular plant|nonvascular organism
+bryopsida|1
+(noun)|Bryopsida|class Bryopsida|Musci|class Musci|class
+brythonic|1
+(noun)|Brythonic|Brittanic|Celtic|Celtic language
+bubble up|1
+(verb)|intumesce|surface|come up|rise up|rise
+bubblejet|1
+(noun)|bubble jet printer|bubble-jet printer|ink-jet printer
+buccaneer|2
+(noun)|pirate|sea robber|sea rover|plunderer|pillager|looter|spoiler|despoiler|raider|freebooter
+(verb)|live
+bucephala|1
+(noun)|Bucephala|genus Bucephala|bird genus
+bucharest|1
+(noun)|Bucharest|Bucharesti|Bucuresti|capital of Romania|national capital
+buckboard|1
+(noun)|carriage|equipage|rig
+bucked up|1
+(adj)|encouraged|pleased 
+bucketful|1
+(noun)|bucket|containerful
+buckskins|3
+(noun)|breeches|knee breeches|knee pants|knickerbockers|knickers
+(noun)|buckskin|saddle horse|riding horse|mount
+(noun)|buckskin|leather
+buckthorn|3
+(noun)|shrub|bush
+(noun)|shrub|bush
+(noun)|English plantain|narrow-leaved plantain|ribgrass|ribwort|ripple-grass|Plantago lanceolata|plantain
+bucktooth|1
+(noun)|front tooth|anterior
+buckwheat|2
+(noun)|Polygonum fagopyrum|Fagopyrum esculentum|herb|herbaceous plant
+(noun)|grain|food grain|cereal
+buckyball|1
+(noun)|buckminsterfullerene|fullerene
+bucuresti|1
+(noun)|Bucharest|Bucharesti|Bucuresti|capital of Romania|national capital
+bud brush|1
+(noun)|bud sagebrush|Artemis spinescens|sagebrush|sage brush
+budgetary|1
+(adj)|fund|monetary fund
+buffeting|1
+(noun)|pounding|bump|blow
+bufo bufo|1
+(noun)|European toad|Bufo bufo|true toad
+bufonidae|1
+(noun)|Bufonidae|family Bufonidae|amphibian family
+bugginess|1
+(noun)|defectiveness|faultiness
+bugleweed|2
+(noun)|Lycopus virginicus|herb|herbaceous plant
+(noun)|bugle|herb|herbaceous plant
+bujumbura|1
+(noun)|Bujumbura|Usumbura|capital of Burundi|national capital
+bulgarian|3
+(adj)|Bulgarian|Balkan country|Balkan nation|Balkan state
+(noun)|Bulgarian|European
+(noun)|Bulgarian|Slavic|Slavic language|Slavonic|Slavonic language
+bulge out|1
+(verb)|protrude|pop|pop out|bulge|bug out|come out|change shape|change form|deform
+bulginess|1
+(noun)|roundedness|convexity|convexness
+bulk mail|1
+(noun)|mail
+bulkiness|1
+(noun)|massiveness|largeness|bigness
+bull neck|1
+(noun)|neck|cervix
+bull nose|2
+(noun)|animal disease
+(noun)|bullnose|bullnosed plane|plane|carpenter's plane|woodworking plane
+bull pine|1
+(noun)|ponderosa|ponderosa pine|western yellow pine|Pinus ponderosa|yellow pine
+bullbrier|1
+(noun)|greenbrier|catbrier|horse brier|horse-brier|brier|briar|Smilax rotundifolia|vine
+bulldozer|1
+(noun)|dozer|tractor
+bullfight|1
+(noun)|corrida|spectacle
+bullfinch|2
+(noun)|Bullfinch|Charles Bullfinch|architect|designer
+(noun)|Pyrrhula pyrrhula|finch
+bully off|1
+(verb)|face off|play
+bum about|1
+(verb)|bum|bum around|arse around|arse about|fuck off|loaf|frig around|waste one's time|lounge around|loll|loll around|lounge about|idle|laze|slug|stagnate
+bumblebee|1
+(noun)|humblebee|bee
+bump into|1
+(verb)|run into|jar against|butt against|knock against|hit|strike|impinge on|run into|collide with
+bumpiness|1
+(noun)|roughness
+bumpkinly|1
+(adj)|hick|rustic|unsophisticated|provincial 
+bumptious|1
+(adj)|self-assertive|forward 
+bun-fight|2
+(noun)|bunfight|party
+(noun)|                                                                         
+bundle up|2
+(verb)|bundle|roll up|pack
+(verb)|dress|get dressed
+bungaloid|1
+(adj)|house
+bunk down|1
+(verb)|bed down|go to bed|turn in|bed|crawl in|kip down|hit the hay|hit the sack|sack out|go to sleep|retire
+bunny hug|1
+(noun)|ballroom dancing|ballroom dance
+buoyantly|1
+(adv)|chirpily
+bur grass|2
+(noun)|burgrass|grass
+(noun)|                                                                         
+burlesque|4
+(adj)|show
+(noun)|show
+(noun)|parody|lampoon|spoof|sendup|mockery|takeoff|travesty|charade|pasquinade|put-on|caricature|imitation|impersonation
+(verb)|spoof|parody|mock
+burmannia|1
+(noun)|Burmannia|genus Burmannia|monocot genus|liliopsid genus
+burn down|2
+(verb)|burn up|go up|burn|combust
+(verb)|burn|fire|destroy|ruin
+burn mark|1
+(noun)|burn|blemish|defect|mar
+burnished|1
+(adj)|bright|lustrous|shining|shiny|polished 
+burnt-out|3
+(adj)|burned-out|tired 
+(adj)|burned-out|unserviceable 
+(adj)|burned|burnt|burned-out|destroyed 
+burrawong|2
+(noun)|Macrozamia spiralis|cycad
+(noun)|Macrozamia communis|cycad
+burroughs|3
+(noun)|Burroughs|William Burroughs|William S. Burroughs|William Seward Burroughs|writer|author
+(noun)|Burroughs|William Seward Burroughs|inventor|discoverer|artificer
+(noun)|Burroughs|Edgar Rice Burroughs|writer|author
+bursiform|1
+(adj)|pouch-shaped|pouchlike|saclike|concave 
+burst out|3
+(verb)|express|show|evince
+(verb)|pop out|appear
+(verb)|erupt|irrupt|flare up|flare|break open|intensify|deepen
+burundian|2
+(adj)|Burundi|Burundian|African country|African nation
+(noun)|Burundian|African
+burunduki|1
+(noun)|baronduki|baranduki|barunduki|Eutamius asiaticus|Eutamius sibiricus|squirrel
+bus depot|1
+(noun)|bus terminal|bus station|coach station|terminal|terminus|depot
+bus route|1
+(noun)|path|route|itinerary
+bush baby|2
+(noun)|galago|bushbaby|lemur
+(noun)|                                                                         
+bushwhack|3
+(verb)|ambush|scupper|waylay|lurk|ambuscade|lie in wait|wait
+(verb)|live
+(verb)|make|work
+buspirone|1
+(noun)|BuSpar|minor tranquilizer|minor tranquillizer|minor tranquilliser|antianxiety drug|anxiolytic|anxiolytic drug
+butacaine|1
+(noun)|butacaine sulfate|local anesthetic|local anaesthetic|local|topical anesthetic|topical anaesthetic
+butadiene|1
+(noun)|hydrocarbon
+butcherly|2
+(adj)|botchy|unskillful|unskilled 
+(adj)|gory|sanguinary|sanguineous|slaughterous|bloody 
+butea gum|1
+(noun)|gum butea|butea kino|Bengal kino|gum
+buteonine|2
+(adj)|bird genus
+(noun)|hawk
+butt-weld|4
+(noun)|butt weld|butt joint|butt
+(noun)|                                                                         
+(verb)|buttweld|weld
+(verb)|                                                                         
+butt pack|1
+(noun)|fanny pack|waist pack|belt bag
+butt weld|2
+(noun)|butt-weld|butt joint|butt
+(noun)|                                                                         
+butter up|1
+(verb)|brown-nose|flatter|blandish
+butterbur|1
+(noun)|bog rhubarb|Petasites hybridus|Petasites vulgaris|herb|herbaceous plant
+buttercup|1
+(noun)|butterflower|butter-flower|crowfoot|goldcup|kingcup|herb|herbaceous plant
+butterfat|1
+(noun)|animal fat
+butterfly|5
+(noun)|lepidopterous insect|lepidopteron|lepidopteran
+(noun)|butterfly stroke|swimming stroke
+(verb)|flit|flutter|fleet|dart
+(verb)|unfold|spread|spread out|open
+(verb)|chat up|flirt|dally|coquet|coquette|romance|philander|mash|talk|speak
+butternut|2
+(noun)|butternut tree|white walnut|Juglans cinerea|walnut|walnut tree
+(noun)|edible nut
+buttinsky|1
+(noun)|meddler
+button up|1
+(verb)|close up|clam up|dummy up|shut up|belt up|be quiet|keep mum
+buxomness|1
+(noun)|plumpness|embonpoint
+buzz bomb|1
+(noun)|robot bomb|flying bomb|doodlebug|V-1|guided missile
+by-and-by|1
+(noun)|future|hereafter|futurity|time to come
+by and by|1
+(adv)|later
+by chance|4
+(adv)|incidentally|accidentally
+(adv)|perchance
+(adv)|haply|by luck
+(adv)|accidentally|circumstantially|unexpectedly
+by choice|2
+(adj)|voluntary 
+(adv)|intentionally|deliberately|designedly|on purpose|purposely|advisedly|by design
+by design|1
+(adv)|intentionally|deliberately|designedly|on purpose|purposely|advisedly|by choice
+by inches|1
+(adv)|little by little|by small degrees
+by memory|1
+(adv)|by heart
+by nature|1
+(adv)|naturally
+by rights|1
+(adv)|properly
+bydgoszcz|1
+(noun)|Bydgoszcz|Bromberg|city|metropolis|urban center
+byproduct|2
+(noun)|by-product|consequence|effect|outcome|result|event|issue|upshot
+(noun)|by-product|spin-off|product|production
+bystander|1
+(noun)|spectator|witness|viewer|watcher|looker
+byzantine|5
+(adj)|Byzantine|Catholic Church
+(adj)|Byzantine|geographical area|geographic area|geographical region|geographic region
+(adj)|Byzantine|convoluted|intricate|involved|knotty|labyrinthine|tangled|tortuous|complex 
+(adj)|Byzantine|artful 
+(noun)|Byzantine|Asian|Asiatic
+byzantium|2
+(noun)|Byzantium|city|metropolis|urban center
+(noun)|Byzantine Empire|Byzantium|Eastern Roman Empire|geographical area|geographic area|geographical region|geographic region
