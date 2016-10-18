@@ -1,0 +1,3363 @@
+c-horizon|2
+(noun)|C-horizon|C horizon|soil horizon
+(noun)|                                                                         
+c-section|1
+(noun)|cesarean delivery|caesarean delivery|cesarean section|cesarian section|caesarean section|C-section|cesarean|cesarian|caesarean|abdominal delivery|delivery|obstetrical delivery
+c battery|1
+(noun)|C battery|battery|electric battery
+c horizon|2
+(noun)|C-horizon|C horizon|soil horizon
+(noun)|                                                                         
+c program|1
+(noun)|C program|program|programme|computer program|computer programme
+cabassous|1
+(noun)|tatouay|Cabassous unicinctus|armadillo
+cabdriver|1
+(noun)|taxidriver|taximan|cabman|cabby|hack driver|hack-driver|livery driver|driver
+cabin boy|1
+(noun)|servant|retainer
+cabin car|1
+(noun)|caboose|car|railcar|railway car|railroad car
+cabinetry|1
+(noun)|cabinetwork|carpentry|woodworking|woodwork
+cable car|1
+(noun)|car|compartment
+cablegram|1
+(noun)|cable|overseas telegram|telegram|wire
+cabriolet|1
+(noun)|cab|carriage|equipage|rig
+cachectic|1
+(adj)|infirmity|frailty|debility|feebleness|frailness
+cacodemon|1
+(noun)|cacodaemon|evil spirit
+cacodylic|1
+(adj)|group|radical|chemical group
+cacoethes|1
+(noun)|mania|passion|irrational motive
+cacogenic|1
+(adj)|dysgenic |life science|bioscience
+cacomixle|1
+(noun)|bassarisk|cacomistle|coon cat|raccoon fox|ringtail|ring-tailed cat|civet cat|miner's cat|Bassariscus astutus|procyonid
+cacophony|2
+(noun)|blare|blaring|clamor|din|noise
+(noun)|dissonance
+cactaceae|1
+(noun)|Cactaceae|family Cactaceae|cactus family|caryophylloid dicot family
+cacuminal|1
+(adj)|retroflex|backward 
+cadastral|1
+(adj)|register|registry
+cadaveric|1
+(adj)|body|dead body
+cadetship|1
+(noun)|position|post|berth|office|spot|billet|place|situation
+caecilian|2
+(adj)|amphibian family
+(noun)|blindworm|amphibian
+caesarean|3
+(adj)|cesarean|cesarian|caesarian|delivery|obstetrical delivery
+(adj)|Caesarian|Caesarean|general|full general|statesman|solon|national leader
+(noun)|cesarean delivery|caesarean delivery|cesarean section|cesarian section|caesarean section|C-section|cesarean|cesarian|abdominal delivery|delivery|obstetrical delivery
+caesarian|2
+(adj)|cesarean|cesarian|caesarean|delivery|obstetrical delivery
+(adj)|Caesarian|Caesarean|general|full general|statesman|solon|national leader
+caesarism|1
+(noun)|dictatorship|absolutism|authoritarianism|Caesarism|despotism|monocracy|one-man rule|shogunate|Stalinism|totalitarianism|tyranny|autocracy|autarchy
+cafe noir|1
+(noun)|demitasse|coffee|java
+cafeteria|1
+(noun)|restaurant|eating house|eating place
+caffeinic|1
+(adj)|alkaloid
+cairngorm|1
+(noun)|smoky quartz|quartz
+cajan pea|2
+(noun)|pigeon pea|pigeon-pea plant|catjang pea|red gram|dhal|dahl|Cajanus cajan|shrub|bush
+(noun)|pigeon pea|dahl|pea
+caladenia|1
+(noun)|orchid|orchidaceous plant
+calapooya|1
+(noun)|Kalapooia|Kalapuya|Calapooya|Calapuya|Penutian
+calc-tufa|1
+(noun)|tufa|rock|stone
+calcaneal|1
+(adj)|bone|os
+calcaneus|1
+(noun)|heelbone|os tarsi fibulare|bone|os
+calcedony|1
+(noun)|chalcedony|quartz|transparent gem
+calcimine|2
+(noun)|water-base paint|wash
+(verb)|whitewash
+calculate|6
+(verb)|cipher|cypher|compute|work out|reckon|figure|reason
+(verb)|estimate|reckon|count on|figure|forecast|judge
+(verb)|account
+(verb)|forecast|predict|foretell|prognosticate|call|forebode|anticipate|promise
+(verb)|aim|direct|intend|destine|designate|specify
+(verb)|count|bet|depend|look|reckon|trust|swear|rely|bank
+calculous|1
+(adj)|rock|stone
+calcuttan|1
+(adj)|Calcuttan|city|metropolis|urban center
+caledonia|1
+(noun)|Caledonia|geographical area|geographic area|geographical region|geographic region
+calendric|1
+(adj)|calendrical|arrangement|organization|organisation|system
+calendula|1
+(noun)|flower
+caley pea|1
+(noun)|singletary pea|Caley pea|rough pea|wild winterpea|Lathyrus hirsutus|wild pea
+calf bone|1
+(noun)|fibula|leg bone
+calf love|1
+(noun)|puppy love|crush|infatuation|love
+calibrate|3
+(verb)|graduate|fine-tune|adjust|set|correct
+(verb)|tag|label|mark
+(verb)|measure|mensurate|measure out
+calicular|1
+(adj)|calycular|structure|anatomical structure|complex body part|bodily structure|body structure
+caliculus|1
+(noun)|calyculus|calycle|structure|anatomical structure|complex body part|bodily structure|body structure
+caliphate|3
+(noun)|Caliphate|era|epoch
+(noun)|jurisdiction
+(noun)|position|post|berth|office|spot|billet|place|situation
+call-back|3
+(noun)|call|phone call|telephone call
+(noun)|employment|engagement
+(noun)|recall|callback|request|asking
+call back|4
+(verb)|recall|call in|withdraw|take
+(verb)|remember|retrieve|recall|call up|recollect|think
+(verb)|answer|reply|respond
+(verb)|recall|call|send for
+call down|2
+(verb)|raise|conjure|conjure up|invoke|evoke|stir|arouse|bring up|put forward|call forth|make|create
+(verb)|call on the carpet|rebuke|rag|trounce|reproof|lecture|reprimand|jaw|dress down|scold|chide|berate|bawl out|remonstrate|chew out|chew up|have words|lambaste|lambast|knock|criticize|criticise|pick apart
+call fire|1
+(noun)|fire|firing
+call girl|1
+(noun)|prostitute|cocotte|whore|harlot|bawd|tart|cyprian|fancy woman|working girl|sporting lady|lady of pleasure|woman of the street
+call loan|1
+(noun)|demand loan|loan
+call mark|1
+(noun)|call number|pressmark|mark
+caller-up|1
+(noun)|caller|phoner|telephoner|speaker|talker|utterer|verbalizer|verbaliser
+caller id|1
+(noun)|caller ID|display
+callipers|2
+(noun)|caliper|calipers|calliper|measuring instrument|measuring system|measuring device
+(noun)|caliper|calipers|calliper|measuring instrument|measuring system|measuring device
+callirhoe|1
+(noun)|Callirhoe|genus Callirhoe|dilleniid dicot genus
+callitris|1
+(noun)|Callitris|genus Callitris|gymnosperm genus
+callophis|1
+(noun)|Calliophis|genus Calliophis|Callophis|genus Callophis|reptile genus
+callosity|1
+(noun)|callus|hardening
+calloused|1
+(adj)|thickened|tough |toughened
+callously|1
+(adv)|unfeelingly
+calm down|3
+(verb)|calm|cool off|chill out|simmer down|settle down|cool it|change state|turn
+(verb)|calm|quiet|tranquilize|tranquillize|tranquillise|quieten|lull|still|comfort|soothe|console|solace
+(verb)|lull|hush|quieten|silence|still|shut up|hush up
+calopogon|1
+(noun)|Calopogon|genus Calopogon|monocot genus|liliopsid genus
+calorific|1
+(adj)|hot 
+calvinism|1
+(noun)|Calvinism|Protestantism
+calvinist|2
+(adj)|Calvinist|Calvinistic|Calvinistical|Protestantism
+(noun)|Calvinist|necessitarian
+calycinal|1
+(adj)|calyceal|calycine|coil|whorl|roll|curl|curlicue|ringlet|gyre|scroll
+calycular|1
+(adj)|calicular|structure|anatomical structure|complex body part|bodily structure|body structure
+calyculus|2
+(noun)|epicalyx|false calyx|calycle|bract
+(noun)|caliculus|calycle|structure|anatomical structure|complex body part|bodily structure|body structure
+cam river|1
+(noun)|Cam|River Cam|Cam River|river
+camachile|1
+(noun)|manila tamarind|huamachil|wild tamarind|Pithecellobium dulce|tree
+camarilla|1
+(noun)|cabal|faction|junto|clique|coterie|ingroup|inner circle|pack|camp
+cambodian|2
+(adj)|Cambodian|Kampuchean|Asian country|Asian nation
+(noun)|Cambodian|Kampuchean|Asian|Asiatic
+cambridge|3
+(noun)|Cambridge University|Cambridge|university
+(noun)|Cambridge|city|metropolis|urban center
+(noun)|Cambridge|city|metropolis|urban center
+camcorder|1
+(noun)|television camera|tv camera|camera
+camelhair|1
+(noun)|camel's hair|fabric|cloth|material|textile
+camelidae|1
+(noun)|Camelidae|family Camelidae|mammal family
+camembert|1
+(noun)|Camembert|cheese
+cameraman|1
+(noun)|camera operator|cinematographer|photographer|lensman
+camp-made|1
+(adj)|handmade |hand-crafted
+camp down|1
+(verb)|camp|pitch|set up
+campanile|1
+(noun)|belfry|bell tower
+campanula|1
+(noun)|bellflower|herb|herbaceous plant
+campeachy|1
+(noun)|logwood|logwood tree|bloodwood tree|Haematoxylum campechianum|blackwood|blackwood tree
+camphoric|1
+(adj)|natural resin
+campstool|1
+(noun)|stool
+canaanite|2
+(noun)|Canaanite|Semite
+(noun)|Canaanite|Canaanitic|Canaanitic language
+canangium|1
+(noun)|Cananga|genus Cananga|Canangium|genus Canangium|magnoliid dicot genus
+canavalia|1
+(noun)|Canavalia|genus Canavalia|rosid dicot genus
+cancelled|1
+(adj)|off 
+cancerous|2
+(adj)|malignant 
+(adj)|malign 
+cancridae|1
+(noun)|Cancridae|family Cancridae|arthropod family
+candidacy|1
+(noun)|campaigning|candidature|electioneering|political campaign|campaign|cause|crusade|drive|movement|effort
+candidate|2
+(noun)|campaigner|nominee|politician|politico|pol|political leader
+(noun)|prospect|person|individual|someone|somebody|mortal|human|soul
+candlemas|1
+(noun)|Candlemas|Candlemas Day|Feb 2|quarter day
+candlenut|2
+(noun)|varnish tree|Aleurites moluccana|angiospermous tree|flowering tree
+(noun)|oilseed
+candy bar|1
+(noun)|candy
+candy egg|1
+(noun)|Easter egg
+candytuft|1
+(noun)|flower
+candyweed|1
+(noun)|orange milkwort|yellow milkwort|yellow bachelor's button|Polygala lutea|milkwort
+cane reed|1
+(noun)|giant cane|Arundinaria gigantea|bamboo
+canebrake|1
+(noun)|brush|brushwood|coppice|copse|thicket
+canescent|2
+(adj)|achromatic 
+(adj)|hoary|hairy |hirsute
+canicular|2
+(adj)|time period|period of time|period
+(adj)|binary star|binary|double star
+cankerous|1
+(adj)|ulcerated|ulcerous|unhealthy 
+cannaceae|1
+(noun)|Cannaceae|family Cannaceae|monocot family|liliopsid family
+cannister|1
+(noun)|canister|tin|container
+cannonade|2
+(noun)|drumfire|artillery fire|cannon fire
+(verb)|attack|assail
+cannoneer|1
+(noun)|artilleryman|gunner|machine gunner|serviceman|military man|man|military personnel
+cannulate|1
+(verb)|cannulize|cannulise|intubate|canulate|insert|infix|enter|introduce
+cannulise|1
+(verb)|cannulate|cannulize|intubate|canulate|insert|infix|enter|introduce
+cannulize|1
+(verb)|cannulate|cannulise|intubate|canulate|insert|infix|enter|introduce
+canon law|1
+(noun)|ecclesiastical law|law|jurisprudence
+canonical|4
+(adj)|canonic|rule|prescript
+(adj)|canonic|law|jurisprudence
+(adj)|basic|canonic|standard 
+(adj)|canonic|sanctioned|orthodox 
+canonised|1
+(adj)|canonized|glorified|authorized |authorised
+canonized|1
+(adj)|canonised|glorified|authorized |authorised
+cant hook|1
+(noun)|peavey|peavy|cant dog
+cant over|1
+(verb)|cant|tilt|slant|pitch|move
+cantabile|1
+(adj)|singing|melodious |melodic|musical
+cantaloup|2
+(noun)|cantaloupe|cantaloupe vine|Cucumis melo cantalupensis|sweet melon|muskmelon|sweet melon vine|Cucumis melo
+(noun)|cantaloupe|muskmelon|sweet melon
+cantering|1
+(adj)|ride horseback
+canticles|2
+(noun)|Song of Songs|Song of Solomon|Canticle of Canticles|Canticles|book
+(noun)|canticle|hymn|anthem
+cantonese|1
+(noun)|Yue|Yue dialect|Cantonese|Cantonese dialect|Chinese
+canvasser|4
+(noun)|solicitor|petitioner|suppliant|supplicant
+(noun)|scrutineer|examiner|inspector
+(noun)|pollster|poll taker|headcounter|inquirer|enquirer|questioner|querier|asker
+(noun)|teller|vote counter
+cap-a-pie|1
+(adv)|from head to toe
+cap screw|1
+(noun)|screw
+capacious|1
+(adj)|large 
+capacitor|1
+(noun)|capacitance|condenser|electrical condenser|electrical device
+caparison|2
+(noun)|trapping|trappings|housing|housings|stable gear|saddlery|tack
+(verb)|bard|dress up|decorate|adorn|grace|ornament|embellish|beautify
+cape aloe|1
+(noun)|Aloe ferox|aloe
+cape fear|1
+(noun)|Cape Fear|cape|ness
+cape horn|1
+(noun)|Cape Horn|cape|ness|promontory|headland|foreland
+cape town|1
+(noun)|Cape Town|city|metropolis|urban center|port
+cape york|1
+(noun)|Cape York|cape|ness
+capillary|4
+(adj)|body covering
+(adj)|hairlike|thin 
+(noun)|capillary tube|capillary tubing|tube|tubing
+(noun)|capillary vessel|blood vessel
+capitular|1
+(adj)|capitulary|assembly
+capitulum|3
+(noun)|head|plant organ
+(noun)|ear|spike|fruit
+(noun)|crown|treetop|top
+caporetto|1
+(noun)|Caporetto|battle of Caporetto|pitched battle
+capreolus|1
+(noun)|Capreolus|genus Capreolus|mammal genus
+capriccio|1
+(noun)|musical composition|opus|composition|piece|piece of music
+capricorn|3
+(noun)|Capricorn|Goat|person|individual|someone|somebody|mortal|human|soul
+(noun)|Capricornus|Capricorn|constellation
+(noun)|Capricorn|Capricorn the Goat|Goat|sign of the zodiac|star sign|sign|mansion|house|planetary house
+caproidae|1
+(noun)|Caproidae|family Caproidae|fish family
+capsaicin|1
+(noun)|chemical irritant
+capsizing|1
+(noun)|shipwreck|wreck
+capsulate|2
+(adj)|capsulated|enclosed 
+(verb)|capsule|capsulize|capsulise|envelop|enfold|enwrap|wrap|enclose
+capsulise|2
+(verb)|capsule|capsulate|capsulize|envelop|enfold|enwrap|wrap|enclose
+(verb)|encapsulate|capsule|capsulize|digest|condense|concentrate
+capsulize|2
+(verb)|capsule|capsulate|capsulise|envelop|enfold|enwrap|wrap|enclose
+(verb)|encapsulate|capsule|capsulise|digest|condense|concentrate
+captaincy|1
+(noun)|captainship|position|post|berth|office|spot|billet|place|situation
+captivate|1
+(verb)|capture|enamour|trance|catch|becharm|enamor|beguile|charm|fascinate|bewitch|entrance|enchant|attract|appeal
+captivity|2
+(noun)|imprisonment|incarceration|immurement|confinement
+(noun)|enslavement|subjugation|subjection
+captopril|1
+(noun)|Capoten|ACE inhibitor|angiotensin converting enzyme inhibitor
+capuccino|1
+(noun)|capuccino coffee|coffee capuccino|coffee|java
+car-ferry|1
+(noun)|ferry|ferryboat
+car maker|2
+(noun)|car manufacturer|carmaker|auto manufacturer|auto maker|automaker|manufacturer|maker|manufacturing business
+(noun)|                                                                         
+car train|1
+(noun)|train|railroad train
+car wheel|1
+(noun)|wheel
+carabidae|1
+(noun)|Carabidae|family Carabidae|arthropod family
+carabiner|1
+(noun)|karabiner|snap ring|hoop|ring|fastener|fastening|holdfast|fixing
+carambola|2
+(noun)|carambola tree|Averrhoa carambola|fruit tree
+(noun)|star fruit|edible fruit
+carapidae|1
+(noun)|Carapidae|family Carapidae|fish family
+carassius|1
+(noun)|Carassius|genus Carassius|fish genus
+carbamate|1
+(noun)|salt
+carbamide|1
+(noun)|urea|organic compound
+carbon 14|1
+(noun)|radiocarbon|carbon|C|atomic number 6
+carbonado|2
+(noun)|black diamond|diamond|adamant
+(noun)|meat
+carbonara|1
+(noun)|spaghetti sauce|pasta sauce
+carbonate|3
+(noun)|salt
+(verb)|process|treat
+(verb)|change
+carbonise|2
+(verb)|carbonize|carburize|carburise|change state|turn
+(verb)|carbonize|change state|turn
+carbonize|2
+(verb)|carbonise|carburize|carburise|change state|turn
+(verb)|carbonise|change state|turn
+carbonous|1
+(adj)|carbonaceous|carbonic|carboniferous|chemical element|element
+carbuncle|2
+(noun)|garnet
+(noun)|staphylococcal infection
+carburise|1
+(verb)|carbonize|carbonise|carburize|change state|turn
+carburize|1
+(verb)|carbonize|carbonise|carburise|change state|turn
+carcinoid|1
+(noun)|tumor|tumour|neoplasm
+carcinoma|1
+(noun)|cancer|malignant neoplastic disease
+card game|1
+(noun)|cards|game
+cardamine|1
+(noun)|Cardamine|genus Cardamine|dilleniid dicot genus
+cardboard|3
+(adj)|flimsy|inferior 
+(adj)|unlifelike|artificial |unreal
+(noun)|composition board|paper|packing material|packing|wadding
+cardhouse|1
+(noun)|house of cards|card-house|cardcastle|structure|construction
+cardiidae|1
+(noun)|Cardiidae|family Cardiidae|mollusk family
+cardsharp|1
+(noun)|card sharp|cardsharper|card sharper|card shark|card player|swindler|chiseller|chiseler|gouger|scammer|grifter|sharper|sharpie|sharpy
+carduelis|1
+(noun)|Carduelis|genus Carduelis|bird genus
+cared-for|1
+(adj)|cared-for |attended|tended to
+careerism|1
+(noun)|practice|pattern
+careerist|1
+(noun)|professional|professional person
+carefully|1
+(adv)|cautiously|with kid gloves
+caregiver|2
+(noun)|health professional|health care provider|professional|professional person
+(noun)|adult|grownup
+caressing|2
+(adj)|caressive|loving 
+(noun)|cuddling|fondling|hugging|kissing|necking|petting|smooching|snuggling|foreplay|arousal|stimulation
+caressive|1
+(adj)|caressing|loving 
+caretaker|2
+(noun)|custodian|keeper|steward
+(noun)|official|functionary
+caribbean|2
+(noun)|Caribbean|Caribbean Sea|sea
+(noun)|Caribbean|geographical area|geographic area|geographical region|geographic region
+carinated|2
+(adj)|ridged|carinate|keeled
+(adj)|carinate|ridged|keeled|structure|anatomical structure|complex body part|bodily structure|body structure
+carl jung|1
+(noun)|Jung|Carl Jung|Carl Gustav Jung|psychologist
+carl orff|1
+(noun)|Orff|Carl Orff|musician|educator|pedagogue
+carmelite|2
+(adj)|Carmelite|friar|mendicant
+(noun)|Carmelite|White Friar|friar|mendicant
+carnalise|1
+(verb)|sensualize|sensualise|carnalize|corrupt|pervert|subvert|demoralize|demoralise|debauch|debase|profane|vitiate|deprave|misdirect
+carnality|1
+(noun)|prurience|pruriency|lasciviousness|amorousness|eroticism|erotism|sexiness|amativeness
+carnalize|3
+(verb)|sensualize|represent|interpret
+(verb)|sensualize|impute|ascribe|assign|attribute
+(verb)|sensualize|sensualise|carnalise|corrupt|pervert|subvert|demoralize|demoralise|debauch|debase|profane|vitiate|deprave|misdirect
+carnation|3
+(adj)|chromatic 
+(noun)|clove pink|gillyflower|Dianthus caryophyllus|pink|garden pink
+(noun)|pink
+carnegiea|1
+(noun)|Carnegiea|genus Carnegiea|caryophylloid dicot genus
+carnelian|1
+(noun)|cornelian|chalcedony|calcedony
+carnivora|1
+(noun)|Carnivora|order Carnivora|animal order
+carnivore|2
+(noun)|placental|placental mammal|eutherian|eutherian mammal
+(noun)|predator|predatory animal
+carnosaur|1
+(noun)|theropod|theropod dinosaur|bird-footed dinosaur
+carnotite|1
+(noun)|mineral|uranium ore
+carob bar|1
+(noun)|candy
+carothers|1
+(noun)|Carothers|Wallace Carothers|Wallace Hume Carothers|chemist
+carousing|1
+(adj)|bacchanalian|bacchanal|bacchic|orgiastic|intoxicated |drunk|inebriated
+carpenter|2
+(noun)|woodworker|woodsman|woodman
+(verb)|work
+carpentry|1
+(noun)|woodworking|woodwork|trade|craft
+carpetbag|2
+(adj)|opportunist|self-seeker
+(noun)|bag|traveling bag|grip|suitcase
+carpeting|1
+(noun)|rug|carpet|floor cover|floor covering|furnishings
+carrageen|1
+(noun)|Irish moss|carageen|carragheen|Chondrus crispus|red algae
+carrefour|1
+(noun)|intersection|crossroad|crossway|crossing|junction
+carrottop|1
+(noun)|redhead|redheader|red-header|person|individual|someone|somebody|mortal|human|soul
+carrousel|2
+(noun)|carousel|luggage carousel|luggage carrousel|conveyer belt|conveyor belt|conveyer|conveyor|transporter
+(noun)|carousel|merry-go-round|roundabout|whirligig|ride
+carry off|3
+(verb)|pull off|negociate|bring off|manage|succeed|win|come through|bring home the bacon|deliver the goods
+(verb)|take away|bear off|bear away|carry away|remove|take|take away|withdraw
+(verb)|eliminate|annihilate|extinguish|eradicate|wipe out|decimate|kill
+carry out|2
+(verb)|carry through|accomplish|execute|action|fulfill|fulfil|complete|finish|effect|effectuate|bring about|set up
+(verb)|follow through|follow up|follow out|implement|put through|go through|complete|finish
+cart away|1
+(verb)|cart off|haul off|haul away|take away|take out
+cartagena|2
+(noun)|Cartagena|city|metropolis|urban center|port
+(noun)|Cartagena|city|metropolis|urban center|port
+cartesian|1
+(adj)|Cartesian|mathematician|philosopher
+carthamus|1
+(noun)|Carthamus|genus Carthamus|asterid dicot genus
+carthorse|1
+(noun)|cart horse|drayhorse|draft horse|draught horse|dray horse
+cartilage|1
+(noun)|gristle|animal tissue
+cartonful|1
+(noun)|carton|containerful
+cartouche|1
+(noun)|cartouch|cartridge
+cartridge|4
+(noun)|ammunition|ammo
+(noun)|magazine|supply chamber
+(noun)|module
+(noun)|pickup|electro-acoustic transducer
+cartwheel|4
+(noun)|wheel
+(noun)|acrobatic stunt|acrobatic feat
+(noun)|silver dollar|dollar
+(verb)|wheel|wheel around
+caruncula|1
+(noun)|caruncle|process|outgrowth|appendage
+caryopsis|1
+(noun)|grain|seed
+case load|1
+(noun)|workload
+case shot|1
+(noun)|canister|canister shot|ammunition|ammo
+cash card|2
+(noun)|cashcard|credit card|charge card|charge plate
+(noun)|                                                                         
+cash crop|1
+(noun)|crop|harvest
+cash flow|1
+(noun)|income
+casquetel|1
+(noun)|casquet|casque
+cassandra|1
+(noun)|Cassandra|prophetess
+cassareep|1
+(noun)|flavorer|flavourer|flavoring|flavouring|seasoner|seasoning
+casserole|2
+(noun)|dish
+(noun)|dish
+cassocked|1
+(adj)|clothed |clad
+cassowary|1
+(noun)|ratite|ratite bird|flightless bird
+cast-iron|1
+(adj)|iron|robust 
+cast away|1
+(verb)|discard|fling|toss|toss out|toss away|chuck out|cast aside|dispose|throw out|cast out|throw away|put away|get rid of|remove
+cast down|1
+(verb)|depress|deject|get down|dismay|dispirit|demoralize|demoralise|discourage
+cast iron|1
+(noun)|iron|Fe|atomic number 26
+castanets|1
+(noun)|bones|clappers|finger cymbals|maraca|percussion instrument|percussive instrument
+casteless|1
+(adj)|outcaste|unwanted 
+castigate|2
+(verb)|chastise|objurgate|chasten|correct|call on the carpet|rebuke|rag|trounce|reproof|lecture|reprimand|jaw|dress down|call down|scold|chide|berate|bawl out|remonstrate|chew out|chew up|have words|lambaste|lambast
+(verb)|punish|penalize|penalise
+castrated|1
+(adj)|castrated |unsexed|altered|neutered|cut|emasculated|gelded|spayed
+castroism|1
+(noun)|Castroism|communism
+casuarina|1
+(noun)|tree
+casuarius|1
+(noun)|Casuarius|genus Casuarius|bird genus
+casuistic|2
+(adj)|casuistical|argumentation|logical argument|line of reasoning|line
+(adj)|casuistical|ethics|moral philosophy
+casuistry|2
+(noun)|argumentation|logical argument|line of reasoning|line
+(noun)|ethics|moral philosophy
+cat's-ear|2
+(noun)|liliaceous plant
+(noun)|California dandelion|capeweed|gosmore|Hypochaeris radicata|weed
+cat's-paw|2
+(noun)|instrument|pawn|assistant|helper|help|supporter
+(noun)|hitch
+cat's eye|1
+(noun)|opaque gem
+cat shark|1
+(noun)|shark
+cat sleep|1
+(noun)|nap|catnap|forty winks|short sleep|snooze|sleeping
+cat thyme|1
+(noun)|marum|Teucrium marum|germander
+catabatic|1
+(adj)|katabatic 
+catabolic|2
+(adj)|katabolic|organic process|biological process
+(adj)|catabolic |katabolic|destructive-metabolic|energy-releasing
+cataclysm|2
+(noun)|catastrophe|geological phenomenon
+(noun)|calamity|catastrophe|disaster|tragedy|misfortune|bad luck
+catalatic|1
+(adj)|enzyme
+catalepsy|1
+(noun)|hypersomnia
+catalexis|1
+(noun)|meter|metre|measure|beat|cadence
+cataloger|1
+(noun)|cataloguer|librarian|bibliothec
+catalogue|4
+(noun)|catalog|list|listing
+(noun)|catalog|book
+(verb)|catalog|classify|class|sort|assort|sort out|separate
+(verb)|catalog|compose|compile
+catalonia|1
+(noun)|Catalonia|district|territory|territorial dominion|dominion
+catalysis|1
+(noun)|contact action|chemical process|chemical change|chemical action
+catalytic|1
+(adj)|chemical process|chemical change|chemical action
+catamaran|1
+(noun)|sailboat|sailing boat
+catamenia|1
+(noun)|menstruation|menses|menstruum|period|flow|discharge|emission|expelling
+catamount|2
+(noun)|lynx|wildcat
+(noun)|cougar|puma|mountain lion|painter|panther|Felis concolor|wildcat
+cataphyll|1
+(noun)|leaf|leafage|foliage
+cataplasm|1
+(noun)|poultice|plaster|dressing|medical dressing
+catarrhal|1
+(adj)|inflammation|redness|rubor
+catasetum|1
+(noun)|Catasetum|genus Catasetum|monocot genus|liliopsid genus
+catatonia|2
+(noun)|tonicity|tonus|tone
+(noun)|catatonic schizophrenia|catatonic type schizophrenia|schizophrenia|schizophrenic disorder|schizophrenic psychosis|dementia praecox
+catatonic|1
+(adj)|tonicity|tonus|tone
+catch out|1
+(verb)|find out|detect|observe|find|discover|notice
+catchment|1
+(noun)|structure|construction
+catchweed|1
+(noun)|cleavers|clivers|goose grass|spring cleavers|Galium aparine|bedstraw
+catchword|1
+(noun)|motto|slogan|shibboleth|saying|expression|locution
+catechise|2
+(verb)|catechize|teach|learn|instruct
+(verb)|catechize|examine
+catechism|2
+(noun)|interrogation|examination|interrogatory
+(noun)|book
+catechist|1
+(noun)|teacher|instructor
+catechize|2
+(verb)|catechise|examine
+(verb)|catechise|teach|learn|instruct
+categorem|1
+(noun)|categoreme|term
+categoric|1
+(adj)|categorical|flat|unconditional|unqualified 
+caterwaul|2
+(noun)|cry
+(verb)|yowl|shriek|shrill|pipe up|pipe
+catharism|1
+(noun)|Albigensianism|Catharism|Christianity|Christian religion|heresy|unorthodoxy
+catharsis|2
+(noun)|katharsis|abreaction|purge|purging
+(noun)|katharsis|purgation|purge|purging
+cathartes|1
+(noun)|Cathartes|genus Cathartes|bird genus
+cathartic|4
+(adj)|psychotherapeutic|healthful 
+(adj)|releasing|emotional 
+(adj)|evacuant|purgative|laxative 
+(noun)|purgative|physic|aperient|medicine|medication|medicament|medicinal drug
+cathartid|1
+(noun)|New World vulture|vulture
+cathectic|1
+(adj)|libidinal energy
+cathedral|3
+(adj)|throne
+(noun)|church|church building
+(noun)|church|church building
+catherine|2
+(noun)|Catherine of Aragon|Catherine|wife|married woman
+(noun)|Catherine II|Catherine|Catherine the Great|Empress
+catkinate|1
+(adj)|inflorescence
+catoptric|1
+(adj)|catoptrical|optics
+catskills|1
+(noun)|Catskills|Catskill Mountains|range|mountain range|range of mountains|chain|mountain chain|chain of mountains
+cattiness|1
+(noun)|bitchiness|spite|spitefulness|nastiness|malevolence|malevolency|malice
+cattleman|2
+(noun)|cow man|beef man|stockman|stock raiser|stock farmer
+(noun)|cowboy|cowpuncher|puncher|cowman|cowpoke|cowhand|cowherd|ranch hand
+caucasian|4
+(adj)|Caucasian|Caucasic|geographical area|geographic area|geographical region|geographic region
+(adj)|white |caucasoid|light-skinned
+(noun)|White|white person|Caucasian|person|individual|someone|somebody|mortal|human|soul
+(noun)|Caucasian|Caucasian language|natural language|tongue
+caucasoid|1
+(adj)|white |caucasian
+caught up|1
+(adj)|involved 
+causalgia|1
+(noun)|pain|hurting
+causality|1
+(noun)|relation
+causation|1
+(noun)|causing|deed|feat|effort|exploit
+causative|1
+(adj)|causative |abortifacient|anorectic|anorexigenic|activating|actuating|borne in upon|causal|conducive|contributing|contributive|contributory|tributary|errhine|inductive|inducive|motivative|motive|motivating|motive|motor|precipitating|responsible|responsible for|sternutatory|sternutative
+causeless|2
+(adj)|reasonless|unmotivated 
+(adj)|fortuitous|uncaused|unintended 
+cauterant|1
+(noun)|cautery|instrument
+cauterise|2
+(verb)|cauterize|burn|treat|care for
+(verb)|callous|cauterize|inure|harden|indurate
+cauterize|2
+(verb)|cauterise|burn|treat|care for
+(verb)|callous|cauterise|inure|harden|indurate
+cavalcade|1
+(noun)|procession
+cavendish|1
+(noun)|Cavendish|Henry Cavendish|chemist|physicist
+cavernous|2
+(adj)|hollow 
+(adj)|erectile|expansive 
+cd burner|1
+(noun)|compact-disk burner|CD burner|recorder|recording equipment|recording machine
+cd player|1
+(noun)|CD player|electronic equipment
+ceaseless|1
+(adj)|constant|incessant|never-ending|perpetual|unceasing|unremitting|continuous |uninterrupted
+cebu city|1
+(noun)|Cebu|Cebu City|city|metropolis|urban center
+cedar elm|1
+(noun)|Ulmus crassifolia|elm|elm tree
+cedar nut|1
+(noun)|cembra nut|nut
+cedarbird|1
+(noun)|cedar waxwing|Bombycilla cedrorun|waxwing
+cedarwood|1
+(noun)|cedar|wood
+ceilinged|1
+(adj)|ceilinged |high-ceilinged|low-ceilinged|raftered
+celandine|2
+(noun)|jewelweed|lady's earrings|orange balsam|touch-me-not|Impatiens capensis|herb|herbaceous plant
+(noun)|greater celandine|swallowwort|swallow wort|Chelidonium majus|poppy
+celastrus|1
+(noun)|Celastrus|genus Celastrus|dicot genus|magnoliopsid genus
+celebrant|2
+(noun)|celebrator|celebrater|person|individual|someone|somebody|mortal|human|soul
+(noun)|priest
+celebrate|3
+(verb)|observe|keep
+(verb)|fete|meet|get together
+(verb)|lionize|lionise|respect|honor|honour|abide by|observe
+celebrity|2
+(noun)|famous person|important person|influential person|personage
+(noun)|fame|renown|honor|honour|laurels
+celecoxib|1
+(noun)|Celebrex|Cox-2 inhibitor
+celestial|3
+(adj)|heavenly|entity
+(adj)|heavenly|imaginary place|mythical place
+(adj)|ethereal|supernal|heavenly 
+celestite|1
+(noun)|mineral
+cell-free|1
+(adj)|noncellular |acellular
+cell-like|1
+(adj)|cellular 
+cell wall|1
+(noun)|cell membrane|cytomembrane|plasma membrane|semipermeable membrane
+cellarage|2
+(noun)|fee
+(noun)|basement|cellar
+cellblock|1
+(noun)|ward|block
+cellphone|1
+(noun)|cellular telephone|cellular phone|cell|mobile phone|radiotelephone|radiophone|wireless telephone
+cellulite|1
+(noun)|adipose tissue|fat|fatty tissue
+celluloid|3
+(adj)|synthetic|artificial |unreal
+(noun)|thermoplastic|thermoplastic resin
+(noun)|film|cinema|medium
+cellulose|1
+(noun)|polysaccharide|polyose
+cementite|1
+(noun)|iron carbide|compound|chemical compound
+cenobitic|1
+(adj)|cenobitic |coenobitic|cenobitical|coenobitical|religious
+censorial|1
+(adj)|official|functionary
+censoring|2
+(noun)|censorship|security review|counterintelligence
+(noun)|censorship|deletion
+centaurea|1
+(noun)|Centaurea|genus Centaurea|asterid dicot genus
+centaurus|1
+(noun)|Centaurus|Centaur|The Centaur|constellation
+centenary|2
+(adj)|centennial|time period|period of time|period
+(noun)|centennial|anniversary|day of remembrance
+center on|2
+(verb)|focus on|revolve around|revolve about|concentrate on|center|refer|pertain|relate|concern|come to|bear on|touch|touch on
+(verb)|be
+centering|2
+(noun)|focus|focusing|focussing|direction|concentration|engrossment|absorption|immersion
+(noun)|snap|pass|toss|flip
+centesimo|1
+(noun)|fractional monetary unit|subunit
+centipede|1
+(noun)|arthropod
+centrical|1
+(adj)|centric|central 
+centriole|1
+(noun)|organelle|cell organ
+centropus|1
+(noun)|Centropus|genus Centropus|bird genus
+centurion|1
+(noun)|warrior
+ceraceous|1
+(adj)|waxlike|waxy|smooth 
+cerastium|1
+(noun)|Cerastium|genus Cerastium|caryophylloid dicot genus
+ceratitis|1
+(noun)|Ceratitis|genus Ceratitis|arthropod genus
+ceratodus|1
+(noun)|lungfish
+ceratonia|1
+(noun)|Ceratonia|genus Ceratonia|rosid dicot genus
+cercarial|1
+(adj)|larva
+cercidium|1
+(noun)|Cercidium|genus Cercidium|rosid dicot genus
+cerebrate|1
+(verb)|think|cogitate
+cerecloth|1
+(noun)|fabric|cloth|material|textile
+ceroxylon|1
+(noun)|Ceroxylon|genus ceroxylon|monocot genus|liliopsid genus
+cerripede|1
+(noun)|barnacle|cerriped|crustacean
+certainly|1
+(adv)|surely|sure|for sure|for certain|sure enough|sure as shooting
+certainty|2
+(noun)|cognitive state|state of mind
+(noun)|sure thing|foregone conclusion|quality
+certified|4
+(adj)|certified |certifiable|certificated|credentialed|documented
+(adj)|secure 
+(adj)|certifiable|insane 
+(adj)|qualified|registered 
+certitude|1
+(noun)|cocksureness|overconfidence|certainty
+cerussite|1
+(noun)|white lead ore|mineral
+cervantes|1
+(noun)|Cervantes|Miguel de Cervantes|Cervantes Saavedra|Miguel de Cervantes Saavedra|writer|author|dramatist|playwright
+cespitose|1
+(adj)|caespitose|tufted|gregarious 
+cessation|1
+(noun)|surcease|stop|halt
+cetaceous|1
+(adj)|cetacean|animal order
+cetrimide|1
+(noun)|cationic detergent|invert soap|disinfectant|germicide|antimicrobic|antimicrobial
+ceylonese|1
+(adj)|Sri Lankan|Ceylonese|island
+ceylonite|1
+(noun)|Ceylonite|pleonaste|spinel
+chabasite|1
+(noun)|chabazite|zeolite
+chabazite|1
+(noun)|chabasite|zeolite
+chaeronea|1
+(noun)|Chaeronea|pitched battle
+chaetodon|1
+(noun)|butterfly fish
+chafeweed|1
+(noun)|wood cudweed|Gnaphalium sylvaticum|cudweed
+chaffinch|1
+(noun)|Fringilla coelebs|finch
+chafflike|1
+(adj)|chaffy|plant material
+chaffweed|1
+(noun)|bastard pimpernel|false pimpernel|subshrub|suffrutex
+chagrined|1
+(adj)|abashed|embarrassed|discomposed 
+chain saw|2
+(noun)|chainsaw|power saw|saw|sawing machine
+(noun)|                                                                         
+chainlike|1
+(adj)|catenulate|formed 
+chair car|1
+(noun)|parlor car|parlour car|drawing-room car|palace car|passenger car|coach|carriage
+chairlift|1
+(noun)|chair lift|ski tow|ski lift|lift
+chalazion|1
+(noun)|Meibomian cyst|sebaceous cyst|pilar cyst|wen|steatocystoma
+chalcedon|1
+(noun)|Chalcedon|Kadikoy|town
+chalcidae|1
+(noun)|Chalcididae|family Chalcididae|Chalcidae|family Chalcidae|arthropod family
+chaldaean|3
+(adj)|Chaldean|Chaldaean|Chaldee|geographical area|geographic area|geographical region|geographic region
+(noun)|Chaldean|Chaldaean|Chaldee|occultist
+(noun)|Chaldean|Chaldaean|Chaldee|Semite
+chalk out|1
+(verb)|sketch|draw
+chalk pit|2
+(noun)|chalkpit|pit|quarry|stone pit
+(noun)|                                                                         
+challenge|9
+(noun)|situation|state of affairs
+(noun)|speech act
+(noun)|questioning|inquiring
+(noun)|objection
+(noun)|demand
+(verb)|dispute|gainsay|contest|contend|repugn
+(verb)|invite|bid
+(verb)|request|bespeak|call for|quest
+(verb)|take exception|object
+chalybite|1
+(noun)|siderite|iron ore
+chamaeleo|1
+(noun)|Chamaeleo|genus Chamaeleo|genus Chamaeleon|reptile genus
+chambered|1
+(adj)|divided 
+chameleon|3
+(noun)|person|individual|someone|somebody|mortal|human|soul
+(noun)|Chamaeleon|Chameleon|constellation
+(noun)|chamaeleon|lizard
+chamomile|1
+(noun)|camomile|Chamaemelum nobilis|Anthemis nobilis|herb|herbaceous plant
+chamosite|1
+(noun)|iron ore
+champagne|2
+(noun)|bubbly|sparkling wine
+(noun)|Champagne|Champagne-Ardenne|French region
+champaign|2
+(noun)|plain|field|land|dry land|earth|ground|solid ground|terra firma
+(noun)|Champaign|town
+champlain|2
+(noun)|Champlain|Samuel de Champlain|explorer|adventurer
+(noun)|Lake Champlain|Champlain|lake
+champleve|1
+(adj)|cloisonne|adorned |decorated
+chance on|1
+(verb)|fall upon|strike|come upon|light upon|chance upon|come across|happen upon|attain|discover|find|regain
+chanceful|1
+(adj)|chancy|dicey|dodgy|dangerous |unsafe
+chancroid|1
+(noun)|ulcer|ulceration
+chancrous|1
+(adj)|sore
+chandelle|2
+(noun)|flight maneuver|airplane maneuver
+(verb)|rise|lift|arise|move up|go up|come up|uprise
+chandlery|2
+(noun)|candle|taper|wax light
+(noun)|storeroom|storage room|stowage
+chang kuo|1
+(noun)|Chang Kuo|Chang Kuo-lao|Chinese deity
+change-up|1
+(noun)|change-of-pace|change-of-pace ball|off-speed pitch|pitch|delivery
+changeful|1
+(adj)|changeable |adjustable|astatic|checkered|distortable|erratic|fickle|mercurial|quicksilver|fluid|unstable|fluid|mobile|jittering|kaleidoscopic|kaleidoscopical|open-ended|quick-change|reversible|volatile|mobile|exchangeable|inconstant
+channidae|1
+(noun)|Channidae|class Channidae|class
+channukah|1
+(noun)|Hanukkah|Hanukah|Hannukah|Chanukah|Chanukkah|Channukah|Channukkah|Festival of Lights|Feast of Lights|Feast of Dedication|Feast of the Dedication|Jewish holy day
+chantlike|1
+(adj)|intoned|singsong|rhythmical |rhythmic
+chanukkah|1
+(noun)|Hanukkah|Hanukah|Hannukah|Chanukah|Chanukkah|Channukah|Channukkah|Festival of Lights|Feast of Lights|Feast of Dedication|Feast of the Dedication|Jewish holy day
+chaparral|1
+(noun)|scrub|bush|vegetation|flora
+chaperone|2
+(noun)|chaperon|defender|guardian|protector|shielder
+(verb)|chaperon|escort
+chapleted|1
+(adj)|crowned 
+charabanc|1
+(noun)|bus|autobus|coach|double-decker|jitney|motorbus|motorcoach|omnibus|public transport
+characeae|1
+(noun)|Characeae|family Characeae|protoctist family
+character|9
+(noun)|fictional character|fictitious character|imaginary being|imaginary creature
+(noun)|quality|lineament|property|attribute|dimension
+(noun)|fiber|fibre|trait
+(noun)|role|theatrical role|part|persona|portrayal|characterization|enactment|personation
+(noun)|eccentric|type|case|adult|grownup
+(noun)|repute|reputation
+(noun)|reference|character reference|recommendation|testimonial|good word
+(noun)|grapheme|graphic symbol|written symbol|printed symbol
+(verb)|engrave|grave|inscribe
+charadrii|1
+(noun)|Charadrii|suborder Charadrii|animal order
+charge up|1
+(verb)|agitate|rouse|turn on|charge|commove|excite|disturb|upset|trouble
+chargeman|1
+(noun)|blaster|workman|working man|working person
+chariness|1
+(noun)|wariness|circumspection|caution
+charivari|1
+(noun)|shivaree|chivaree|callithump|callathump|belling|serenade
+charlatan|1
+(noun)|mountebank|deceiver|cheat|cheater|trickster|beguiler|slicker
+charleroi|1
+(noun)|Charleroi|city|metropolis|urban center
+charles i|3
+(noun)|Charles II|Charles I|Charles the Bald|Holy Roman Emperor|King of France
+(noun)|Charles I|Charles Stuart|King of England|King of Great Britain
+(noun)|Charlemagne|Charles I|Charles the Great|Holy Roman Emperor|Carolingian|Carlovingian
+charlotte|2
+(noun)|Charlotte|The Queen City|city|metropolis|urban center
+(noun)|dessert|sweet|afters
+charolais|1
+(noun)|Charolais|beef|beef cattle
+charronia|1
+(noun)|Charronia|genus Charronia|mammal genus
+chartered|1
+(adj)|chartered |hired|leased
+chartless|1
+(adj)|uncharted|unmapped|unknown 
+charwoman|1
+(noun)|char|cleaning woman|cleaning lady|woman|cleaner
+charybdis|1
+(noun)|Charybdis|whirlpool|vortex|maelstrom
+chasidism|1
+(noun)|Hasidism|Hassidism|Chasidism|Chassidism|Orthodox Judaism
+chassidic|1
+(adj)|Hasidic|Hassidic|Chasidic|Chassidic|Orthodox Judaism|Orthodox Judaism|Jewish Orthodoxy
+chassidim|2
+(noun)|Hasidim|Hassidim|Chasidim|Chassidim|Orthodox Judaism|Jewish Orthodoxy
+(noun)|Hasid|Hassid|Chasid|Chassid|Orthodox Jew
+chastened|1
+(adj)|admonished|rebuked|reprimanded|reproved|punished 
+chastised|1
+(adj)|corrected|disciplined|punished 
+chat room|2
+(noun)|chatroom|web site|internet site|site
+(noun)|                                                                         
+chat show|1
+(noun)|talk show|broadcast|program|programme
+chatoyant|1
+(adj)|changeable|iridescent|shot|colorful |colourful
+chatterer|2
+(noun)|babbler|prater|chatterbox|magpie|spouter|speaker|talker|utterer|verbalizer|verbaliser
+(noun)|cotinga|New World flycatcher|flycatcher|tyrant flycatcher|tyrant bird
+chauffeur|2
+(noun)|driver
+(verb)|drive around|drive
+chawbacon|1
+(noun)|yokel|rube|hick|yahoo|hayseed|bumpkin|rustic
+cheapjack|1
+(adj)|shoddy|tawdry|inferior 
+cheapness|2
+(noun)|bargain rate|cut rate|cut price|inexpensiveness
+(noun)|tackiness|tat|sleaze|tastelessness
+chechenia|1
+(noun)|Chechnya|Chechenia|Chechen Republic|geographical area|geographic area|geographical region|geographic region
+check bit|1
+(noun)|parity bit|parity|bit
+check off|1
+(verb)|check|mark|mark off|tick off|tick|verify
+check out|6
+(verb)|check|check up on|look into|suss out|check over|go over|check into|analyze|analyse|study|examine|canvass|canvas
+(verb)|report
+(verb)|check
+(verb)|run down|pursue|follow up on|act on
+(verb)|cheque|withdraw|draw|take out|draw off
+(verb)|sound out|feel out|question|query
+checkbook|1
+(noun)|chequebook|record
+checkered|2
+(adj)|checked|chequered|patterned 
+(adj)|changeable |changeful
+checklist|1
+(noun)|list|listing
+checkmate|3
+(noun)|victory|triumph
+(noun)|mate|chess move
+(verb)|mate|beat|beat out|crush|shell|trounce|vanquish
+checkrein|1
+(noun)|bearing rein|rein
+checkroom|1
+(noun)|left-luggage office|room
+cheekbone|1
+(noun)|zygomatic bone|mala|malar bone|jugal bone|os zygomaticum|bone|os
+cheerlead|1
+(verb)|cheer|inspire|urge|barrack|urge on|exhort|pep up
+cheerless|1
+(adj)|cheerless |uncheerful|blue|dark|depressing|disconsolate|dismal|dispiriting|gloomy|grim|dingy|dismal|drab|drear|dreary|gloomy|sorry|somber|sombre|joyless|unhappy
+cheilitis|1
+(noun)|inflammation|redness|rubor
+cheilosis|1
+(noun)|perleche|disorder|upset
+chelation|2
+(noun)|process
+(noun)|chemical process|chemical change|chemical action
+chelicera|1
+(noun)|extremity|appendage|member
+chelonian|2
+(adj)|animal order
+(noun)|chelonian reptile|anapsid|anapsid reptile
+chemakuan|1
+(noun)|Chemakuan|Mosan
+chemisorb|1
+(verb)|sorb|take up
+chemist's|1
+(noun)|drugstore|apothecary's shop|chemist's shop|pharmacy|shop|store
+chemistry|2
+(noun)|chemical science|natural science
+(noun)|interpersonal chemistry|alchemy|social relation
+chequered|1
+(adj)|checked|checkered|patterned 
+cherbourg|1
+(noun)|Cherbourg|town|port
+cheremiss|2
+(noun)|Cheremis|Cheremiss|Mari|Russian
+(noun)|Cheremis|Cheremiss|Mari|Volgaic
+cherimoya|2
+(noun)|cherimoya tree|Annona cherimola|custard apple|custard apple tree
+(noun)|cherimolla|custard apple
+cherished|2
+(adj)|precious|treasured|wanted|loved 
+(adj)|held dear|unforsaken 
+chermidae|1
+(noun)|Psyllidae|family Psyllidae|Chermidae|family Chermidae|arthropod family
+chernobyl|1
+(noun)|Chernobyl|city|metropolis|urban center
+cherubini|1
+(noun)|Cherubini|Luigi Cherubini|Maria Luigi Carlo Zenobio Cherubini|composer
+chess set|1
+(noun)|set
+chevalier|2
+(noun)|Chevalier|Maurice Chevalier|actor|histrion|player|thespian|role player|singer|vocalist|vocalizer|vocaliser
+(noun)|cavalier|male aristocrat
+chew over|1
+(verb)|think over|meditate|ponder|excogitate|contemplate|muse|reflect|mull|mull over|ruminate|speculate|think|cogitate|cerebrate
+chicanery|1
+(noun)|trickery|chicane|guile|wile|shenanigan|deception|deceit|dissembling|dissimulation
+chickadee|1
+(noun)|titmouse|tit
+chickasaw|2
+(noun)|Chickasaw|Indian|North American Indian|American Indian|Red Indian
+(noun)|Chickasaw|Muskhogean|Muskhogean language|Muskogean|Muskogean language
+chickeree|1
+(noun)|Douglas squirrel|Tamiasciurus douglasi|tree squirrel
+chickweed|2
+(noun)|herb|herbaceous plant
+(noun)|mouse-ear chickweed|mouse eared chickweed|mouse ear|clammy chickweed|herb|herbaceous plant
+chieftain|2
+(noun)|captain|leader
+(noun)|headman|tribal chief|leader
+chihuahua|3
+(noun)|city|metropolis|urban center
+(noun)|Chihuahua|state|province
+(noun)|Chihuahua|toy dog|toy
+chilblain|1
+(noun)|chilblains|pernio|blain
+childcare|1
+(noun)|child care|service
+childhood|2
+(noun)|time of life
+(noun)|puerility|immaturity|immatureness
+childless|1
+(adj)|unfruitful 
+childlike|2
+(adj)|childly|young |immature
+(adj)|wide-eyed|dewy-eyed|simple|naive |naif
+chile nut|1
+(noun)|Chilean nut|Chile nut|Chile hazel|Chilean hazelnut|Guevina heterophylla|Guevina avellana|shrub|bush
+chili dog|1
+(noun)|hotdog|hot dog|red hot
+chill out|1
+(verb)|calm|calm down|cool off|simmer down|settle down|cool it|change state|turn
+chilopoda|1
+(noun)|Chilopoda|class Chilopoda|class
+chilopsis|1
+(noun)|Chilopsis|genus Chilopsis|asterid dicot genus
+chimariko|2
+(noun)|Chimariko|Hokan|Hoka
+(noun)|Chimariko|Hokan|Hoka
+chin rest|1
+(noun)|rest
+chinaware|1
+(noun)|china|crockery|dishware
+chincapin|1
+(noun)|chinkapin|chinquapin|edible nut
+chinchona|1
+(noun)|cinchona|tree
+chinkapin|1
+(noun)|chincapin|chinquapin|edible nut
+chinookan|1
+(noun)|Chinookan|Chinook|Penutian
+chintzily|1
+(adv)|stingily|cheaply
+chiococca|1
+(noun)|Chiococca|genus Chiococca|asterid dicot genus
+chip away|1
+(verb)|chip away at|remove|take|take away|withdraw
+chip shot|1
+(noun)|chip|approach|approach shot
+chipboard|1
+(noun)|hardboard|board|plank
+chipewyan|2
+(noun)|Chipewyan|Athapaskan|Athapascan|Athabaskan|Athabascan
+(noun)|Chipewyan|Chippewyan|Chippewaian|Athapaskan|Athapascan|Athabaskan|Athabascan|Athapaskan language
+chipolata|1
+(noun)|sausage
+chiralgia|1
+(noun)|pain|hurting
+chirology|1
+(noun)|palmistry|palm reading|chiromancy|divination|foretelling|soothsaying|fortune telling
+chiropody|1
+(noun)|podiatry|medicine|medical specialty
+chisel in|1
+(verb)|chime in|cut in|put in|butt in|barge in|break in|interrupt|disrupt|break up|cut off
+chiseller|1
+(noun)|swindler|chiseler|gouger|scammer|grifter|sharper|sharpie|sharpy|deceiver|cheat|cheater|trickster|beguiler|slicker
+chitinous|1
+(adj)|polysaccharide|polyose
+chitlings|1
+(noun)|chitterlings|chitlins|variety meat|organs
+chivalric|1
+(adj)|knightly|medieval|past 
+chlamydia|2
+(noun)|venereal disease|VD|social disease|Cupid's itch|Cupid's disease|Venus's curse|sexually transmitted disease
+(noun)|eubacteria|eubacterium|true bacteria
+chlorella|1
+(noun)|alga|algae
+chlorosis|1
+(noun)|greensickness|iron deficiency anemia|iron deficiency anaemia
+chlorotic|1
+(adj)|iron deficiency anemia|iron deficiency anaemia
+chocolate|3
+(noun)|cocoa|hot chocolate|drinking chocolate|beverage|drink|drinkable|potable
+(noun)|food
+(noun)|coffee|deep brown|umber|burnt umber|brown|brownness
+choke off|2
+(verb)|choke down|choke back|suppress|stamp down|inhibit|subdue|conquer|curb
+(verb)|clog|clog up|back up|congest|choke|foul|obstruct|obturate|impede|occlude|jam|block|close up
+chokedamp|1
+(noun)|blackdamp|carbon dioxide|CO2|carbonic acid gas
+chokehold|2
+(noun)|stranglehold|throttlehold|power|powerfulness
+(noun)|choke hold|clasp|clench|clutch|clutches|grasp|grip|hold
+choleraic|1
+(adj)|infectious disease
+choloepus|1
+(noun)|Choloepus|genus Choloepus|mammal genus
+chondrify|1
+(verb)|change state|turn
+chondrite|1
+(noun)|rock|stone
+chondroma|1
+(noun)|benign tumor|benign tumour|nonmalignant tumor|nonmalignant tumour|nonmalignant neoplasm
+chondrule|1
+(noun)|granule
+chongqing|1
+(noun)|Chongqing|Chungking|city|metropolis|urban center
+choo-choo|1
+(noun)|locomotive|engine|locomotive engine|railway locomotive
+choose up|1
+(verb)|form|organize|organise
+chop-chop|1
+(adv)|quickly|rapidly|speedily|apace
+chop down|1
+(verb)|fell|drop|strike down|cut down
+chop shop|1
+(noun)|workshop|shop
+chop shot|1
+(noun)|chop|return
+chop suey|1
+(noun)|dish
+chophouse|1
+(noun)|steakhouse|restaurant|eating house|eating place
+chopsteak|1
+(noun)|chopped steak|chop steak|hamburger steak|beef patty|beefsteak
+chopstick|1
+(noun)|chopsticks|tableware
+chorditis|2
+(noun)|inflammation|redness|rubor
+(noun)|inflammation|redness|rubor
+chorionic|1
+(adj)|sac
+choriotis|1
+(noun)|Choriotis|genus Choriotis|bird genus
+chorister|1
+(noun)|singer|vocalist|vocalizer|vocaliser
+chorizema|1
+(noun)|Chorizema|genus Chorizema|rosid dicot genus
+chow chow|3
+(noun)|chow|spitz
+(noun)|chowchow|relish
+(noun)|chowchow|conserve|preserve|conserves|preserves
+chow line|1
+(noun)|queue|waiting line
+chow mein|1
+(noun)|dish
+christian|3
+(adj)|Christian|religion|faith|religious belief
+(adj)|christian |christianly|christlike|christly
+(noun)|Christian|religionist|religious person
+christmas|3
+(noun)|Christmas|Christmastide|Christmastime|Yule|Yuletide|Noel|season
+(noun)|Christmas|Christmas Day|Xmas|Dec 25|legal holiday|national holiday|holy day of obligation|quarter day|feast day|fete day
+(verb)|spend|pass
+chromatic|3
+(adj)|visual property
+(adj)|chromatic 
+(adj)|chromatic |amber|brownish-yellow|yellow-brown|amethyst|aureate|gilded|gilt|gold|golden|azure|cerulean|sky-blue|bright blue|blue|bluish|blueish|light-blue|dark-blue|blue-black|bluish green|blue-green|cyan|teal|blushful|rosy|bottle-green|bronze|bronzy|brown|brownish|dark-brown|buff|canary|canary-yellow|caramel|caramel brown|carnation|chartreuse|dun|earthlike|fuscous|taupe|green|greenish|light-green|dark-green|jade|jade-green|khaki|lavender|lilac|mauve|moss green|mosstone|mousy|mouse-colored|mouselike|ocher|ochre|olive-brown|olive-drab|olive|orange|orangish|peacock-blue|pink|pinkish|purple|violet|purplish|red|reddish|ruddy|blood-red|carmine|cerise|cherry|cherry-red|crimson|ruby|ruby-red|scarlet|rose|roseate|rosaceous|rose-red|rust|rusty|sapphire|snuff|snuff-brown|mummy-brown|chukker-brown|sorrel|brownish-orange|stone|straw|tan|tannish|tangerine|tawny|ultramarine|umber|vermilion|vermillion|cinnabar|Chinese-red|vinaceous|yellow|yellowish|xanthous|yellow-green|auburn|reddish-brown|avocado|beige|blae|chestnut|coppery|copper colored|coral|creamy|cress green|cresson|watercress|hazel|honey|magenta|maroon|brownish-red|pea-green|powder blue|russet|sage|sage-green|sea-green|chestnut|colored|coloured|colorful
+chromatid|1
+(noun)|fibril|filament|strand
+chromatin|1
+(noun)|chromatin granule|body substance
+chromogen|1
+(noun)|compound|chemical compound
+chronicle|2
+(noun)|history|account|story|record
+(verb)|record|enter|put down
+chrysalis|1
+(noun)|pupa
+chrysaora|1
+(noun)|Chrysaora|genus Chrysaora|coelenterate genus
+chrysemys|1
+(noun)|Chrysemys|genus Chrysemys|reptile genus
+chrysopid|1
+(noun)|green lacewing|stink fly|lacewing|lacewing fly
+chthonian|1
+(adj)|chthonic|lower|nether|infernal 
+chu kiang|1
+(noun)|Zhu Jiangi|Canton River|Chu Kiang|river
+chuck out|2
+(verb)|discard|fling|toss|toss out|toss away|cast aside|dispose|throw out|cast out|throw away|cast away|put away|get rid of|remove
+(verb)|expel|eject|exclude|throw out|kick out|turf out|boot out|turn out|move|displace
+chuckhole|1
+(noun)|pothole|hole|hollow
+chungking|1
+(noun)|Chongqing|Chungking|city|metropolis|urban center
+churchill|3
+(noun)|Churchill|John Churchill|Duke of Marlborough|First Duke of Marlborough|general|full general
+(noun)|Churchill|Winston Churchill|Winston S. Churchill|Sir Winston Leonard Spenser Churchill|statesman|solon|national leader|writer|author
+(noun)|Churchill|town
+churchman|1
+(noun)|cleric|divine|ecclesiastic|clergyman|reverend|man of the cloth
+churidars|1
+(noun)|trousers|pants
+churn out|2
+(verb)|perform|execute|do
+(verb)|produce|make|create
+cicadidae|1
+(noun)|Cicadidae|family Cicadidae|arthropod family
+cicatrice|1
+(noun)|scar|cicatrix|symptom
+cicatrise|1
+(verb)|cicatrize|scar|mark|pock|pit
+cicatrize|1
+(verb)|cicatrise|scar|mark|pock|pit
+cichlidae|1
+(noun)|Cichlidae|family Cichlidae|fish family
+cichorium|1
+(noun)|Cichorium|genus Cichorium|asterid dicot genus
+cider gum|1
+(noun)|Eucalypt gunnii|flooded gum
+cigar box|1
+(noun)|box
+cigarette|1
+(noun)|cigaret|coffin nail|butt|fag|roll of tobacco|smoke
+cigarfish|1
+(noun)|round scad|quiaquia|Decapterus punctatus|scad
+cigarillo|1
+(noun)|cigar
+cimicidae|1
+(noun)|Cimicidae|family Cimicidae|arthropod family
+cimmerian|1
+(adj)|Cimmerian|dark 
+cinclidae|1
+(noun)|Cinclidae|family Cinclidae|bird family
+cine-film|1
+(noun)|motion-picture film|movie film|film|photographic film
+cinematic|1
+(adj)|medium
+cineraria|2
+(noun)|Pericallis cruenta|Senecio cruentus|flower
+(noun)|columbarium|cinerarium|recess|niche
+cinnamene|1
+(noun)|styrene|phenylethylene|vinylbenzene|vinyl polymer|vinyl resin|polyvinyl resin
+circadian|1
+(adj)|time unit|unit of time
+circaetus|1
+(noun)|Circaetus|genus Circaetus|bird genus
+circinate|1
+(adj)|annular|annulate|annulated|circular|ringed|ring-shaped|doughnut-shaped|rounded 
+circuitry|1
+(noun)|electronic equipment
+circulate|8
+(verb)|go around|spread|travel|go|move|locomote
+(verb)|circularize|circularise|distribute|disseminate|propagate|broadcast|spread|diffuse|disperse|pass around|publicize|publicise|air|bare
+(verb)|pass around|pass on|distribute|move|displace
+(verb)|run|flow|feed|course
+(verb)|circle|travel|go|move|locomote
+(verb)|move|displace
+(verb)|travel|go|move|locomote
+(verb)|mobilize|mobilise|move|displace
+cirrhosis|1
+(noun)|cirrhosis of the liver|liver disease
+cisalpine|1
+(adj)|ultramontane|cismontane 
+cistaceae|1
+(noun)|Cistaceae|family Cistaceae|rockrose family|dilleniid dicot family
+citizenry|1
+(noun)|people|group|grouping
+citrullus|1
+(noun)|Citrullus|genus Citrullus|dicot genus|magnoliopsid genus
+city-born|1
+(adj)|citified|cityfied|city-bred|urban 
+city-bred|1
+(adj)|citified|cityfied|city-born|urban 
+city desk|1
+(noun)|city room|editorial department
+city hall|1
+(noun)|hall
+city line|1
+(noun)|boundary|bound|bounds
+city room|1
+(noun)|city desk|editorial department
+cityscape|2
+(noun)|point of view|viewpoint|stand|standpoint
+(noun)|painting|picture
+civet cat|2
+(noun)|bassarisk|cacomistle|cacomixle|coon cat|raccoon fox|ringtail|ring-tailed cat|miner's cat|Bassariscus astutus|procyonid
+(noun)|civet|viverrine|viverrine mammal
+civil day|1
+(noun)|calendar day|time period|period of time|period
+civil law|2
+(noun)|law|jurisprudence
+(noun)|Roman law|Justinian code|jus civile|legal code
+civil war|1
+(noun)|war|warfare
+civilised|2
+(adj)|civilized |civil|humane|advanced|educated|humane|industrial|refined
+(adj)|civilized|cultivated|cultured|genteel|polite|refined 
+civilized|2
+(adj)|civilized |civilised|civil|humane|advanced|educated|humane|industrial|refined
+(adj)|civilised|cultivated|cultured|genteel|polite|refined 
+cladogram|1
+(noun)|tree|tree diagram
+clamoring|1
+(noun)|clamor|clamour|clamouring|hue and cry|cry|outcry|call|yell|shout|vociferation
+clamorous|1
+(adj)|blatant|clamant|strident|vociferous|noisy 
+clampdown|1
+(noun)|limitation|restriction
+clamshell|2
+(noun)|shell
+(noun)|grapple|dredging bucket
+clapboard|2
+(noun)|weatherboard|weatherboarding|siding
+(verb)|cover
+clarified|1
+(adj)|processed 
+class act|1
+(noun)|ideal|paragon|nonpareil|saint|apotheosis|nonesuch|nonsuch
+class war|1
+(noun)|class struggle|class warfare|conflict|struggle|battle
+classical|2
+(adj)|classical |classic|Greco-Roman|Graeco-Roman|Hellenic|neoclassic|neoclassical
+(adj)|authoritative|definitive|standard 
+classless|1
+(adj)|egalitarian|democratic 
+classmate|1
+(noun)|schoolmate|schoolfellow|class fellow|acquaintance|friend
+classroom|1
+(noun)|schoolroom|room
+clathrate|2
+(adj)|cancellate|cancellated|reticulate |reticulated|reticular
+(adj)|enclosed 
+claustrum|1
+(noun)|basal ganglion
+claviceps|1
+(noun)|Claviceps|genus Claviceps|fungus genus
+clay pipe|1
+(noun)|pipe|tobacco pipe
+claystone|1
+(noun)|rock|stone
+claytonia|1
+(noun)|Claytonia|genus Claytonia|caryophylloid dicot genus
+clean-cut|2
+(adj)|trig|trim|tidy 
+(adj)|clear|clear-cut|distinct 
+clean out|3
+(verb)|clear out|empty
+(verb)|fire|give notice|can|dismiss|give the axe|send away|sack|force out|give the sack|terminate
+(verb)|deprive|strip|divest
+cleanable|1
+(adj)|clean 
+cleanness|2
+(noun)|sanitary condition
+(noun)|purity|sinlessness|innocence
+cleansing|3
+(adj)|ablutionary|purifying 
+(adj)|purifying|antiseptic 
+(noun)|cleaning|cleanup|improvement
+cleanthes|1
+(noun)|Cleanthes|philosopher
+clear-cut|3
+(adj)|distinct|trenchant|clear 
+(adj)|cleared 
+(adj)|clear|clean-cut|distinct 
+clear off|1
+(verb)|clear away|remove|take|take away|withdraw
+clear out|3
+(verb)|move out
+(verb)|expectorate|drive out|remove|take|take away|withdraw
+(verb)|clean out|empty
+clearance|3
+(noun)|interval|separation
+(noun)|headroom|headway|room|way|elbow room
+(noun)|license|permission|permit
+clearness|2
+(noun)|clarity|lucidity|pellucidity|limpidity|comprehensibility|understandability
+(noun)|clarity|uncloudedness|quality
+clearweed|1
+(noun)|richweed|dead nettle|Pilea pumilla|nettle
+cleavable|1
+(adj)|divisible 
+cleft lip|1
+(noun)|harelip|cheiloschisis|birth defect|congenital anomaly|congenital defect|congenital disorder|congenital abnormality
+cleopatra|1
+(noun)|Cleopatra|queen|queen regnant|female monarch|Egyptian
+clepsydra|1
+(noun)|water clock|water glass|clock
+clergyman|1
+(noun)|reverend|man of the cloth|spiritual leader
+clerkship|1
+(noun)|position|post|berth|office|spot|billet|place|situation
+cleveland|2
+(noun)|Cleveland|city|metropolis|urban center
+(noun)|Cleveland|Grover Cleveland|Stephen Grover Cleveland|President Cleveland|President of the United States|United States President|President|Chief Executive
+clianthus|1
+(noun)|glory pea|shrub|bush
+click off|1
+(verb)|perform|execute|do
+clientage|1
+(noun)|business relation
+clientele|1
+(noun)|patronage|business|people
+clifflike|1
+(adj)|cliffy |craggy|rugged|precipitous|rock-ribbed|rockbound
+cliftonia|1
+(noun)|Cliftonia|genus Cliftonia|dicot genus|magnoliopsid genus
+climactic|1
+(adj)|climactic 
+climbable|2
+(adj)|scalable 
+(adj)|surmountable|passable 
+clingfilm|1
+(noun)|cling film|Saran Wrap|plastic wrap
+clingfish|1
+(noun)|percoid fish|percoid|percoidean
+clinician|1
+(noun)|practitioner|practician
+clinquant|1
+(adj)|tinseled|tinselly|adorned |decorated
+clintonia|1
+(noun)|Clinton's lily|liliaceous plant
+clip lead|1
+(noun)|jumper cable|jumper lead|lead
+clipboard|1
+(noun)|writing board
+clitocybe|1
+(noun)|Clitocybe|genus Clitocybe|fungus genus
+cloakroom|2
+(noun)|lounge|waiting room|waiting area
+(noun)|coatroom|room
+clock off|1
+(verb)|clock out|punch out|report
+clock out|1
+(verb)|punch out|clock off|report
+clockwise|1
+(adj)|clockwise |dextrorotary|dextrorotatory|right-handed|dextral
+clockwork|1
+(noun)|mechanism
+cloisonne|2
+(adj)|champleve|adorned |decorated
+(noun)|enamelware
+cloistral|1
+(adj)|cloistered|conventual|monastic|monastical|unworldly 
+clonidine|1
+(noun)|Catapres|antihypertensive|antihypertensive drug
+close-set|2
+(adj)|close set|close 
+(adj)|                                                                         
+close off|3
+(verb)|shut off|discontinue|stop|cease|give up|quit|lay off
+(verb)|shut off|separate|divide
+(verb)|shut off|block off|barricade|block|blockade|stop|block off|block up|bar
+close out|3
+(verb)|preclude|rule out|obviate|rid of|eliminate
+(verb)|discard|fling|toss|toss out|toss away|chuck out|cast aside|dispose|throw out|cast out|throw away|cast away|put away
+(verb)|end|terminate
+close set|2
+(adj)|close-set|close 
+(adj)|                                                                         
+closed in|1
+(adj)|closed|enclosed 
+closedown|1
+(noun)|closure|closing|shutdown|termination|ending|conclusion
+closeness|5
+(noun)|intimacy|belonging
+(noun)|nearness|distance
+(noun)|meanness|minginess|niggardliness|niggardness|parsimony|parsimoniousness|tightness|tightfistedness|stinginess
+(noun)|secretiveness|unsociability|unsociableness
+(noun)|familiarity|intimacy|friendliness
+cloth cap|1
+(noun)|flat cap|cap
+cloudless|1
+(adj)|unclouded|clear 
+cloudlike|1
+(adj)|nebular|cloudy 
+clove oil|1
+(noun)|oil of cloves|essential oil|volatile oil
+cloveroot|1
+(noun)|herb bennet|clover-root|wood avens|Geum urbanum|avens
+clozapine|1
+(noun)|Clozaril|major tranquilizer|major tranquillizer|major tranquilliser|antipsychotic drug|antipsychotic agent|antipsychotic|neuroleptic drug|neuroleptic agent|neuroleptic
+club-head|3
+(noun)|golf-club head|club head|clubhead|head
+(noun)|                                                                         
+(noun)|                                                                         
+club-moss|2
+(noun)|club moss|lycopod|fern ally
+(noun)|                                                                         
+club drug|1
+(noun)|controlled substance
+club head|3
+(noun)|golf-club head|club-head|clubhead|head
+(noun)|                                                                         
+(noun)|                                                                         
+club moss|2
+(noun)|club-moss|lycopod|fern ally
+(noun)|                                                                         
+club soda|1
+(noun)|soda water|carbonated water|seltzer|sparkling water|drinking water
+clubbable|1
+(adj)|clubable|sociable 
+clubhouse|1
+(noun)|club|building|edifice
+clupeidae|1
+(noun)|Clupeidae|family Clupeidae|fish family
+clustered|3
+(adj)|gregarious 
+(adj)|bunched|bunchy|concentrated 
+(adj)|agglomerate|agglomerated|agglomerative|collective 
+cluttered|1
+(adj)|littered|untidy 
+cnidarian|1
+(noun)|coelenterate|invertebrate
+co-author|1
+(verb)|author
+co-option|2
+(noun)|co-optation|election
+(noun)|co-optation|appointment|assignment|designation|naming
+co-worker|1
+(noun)|colleague|fellow worker|workfellow|associate
+coach dog|1
+(noun)|dalmatian|carriage dog|dog|domestic dog|Canis familiaris
+coachwhip|2
+(noun)|ocotillo|Jacob's staff|vine cactus|Fouquieria splendens|candlewood
+(noun)|coachwhip snake|Masticophis flagellum|whip-snake|whip snake
+coadjutor|1
+(noun)|assistant|helper|help|supporter
+coagulant|1
+(noun)|coagulator|agent
+coagulase|1
+(noun)|enzyme
+coagulate|3
+(adj)|coagulated|curdled|grumous|grumose|thick 
+(verb)|clot|change state|turn
+(verb)|clot|change|alter|modify
+coal mine|1
+(noun)|coalpit|mine
+coal seam|1
+(noun)|seam|bed
+coalesced|1
+(adj)|amalgamate|amalgamated|consolidated|fused|united 
+coalfield|1
+(noun)|field
+coalition|3
+(noun)|alliance|alignment|alinement|organization|organisation
+(noun)|fusion|union|unification
+(noun)|coalescence|coalescency|concretion|conglutination|union|unification|uniting|conjugation|jointure
+coarctate|1
+(adj)|enclosed 
+coarsened|1
+(adj)|inferior 
+coastland|1
+(noun)|land|ground|soil
+coastline|1
+(noun)|outline|lineation
+coastwise|1
+(adj)|coastal 
+coat rack|2
+(noun)|coatrack|hatrack|rack
+(noun)|                                                                         
+coat tree|1
+(noun)|clothes tree|coat stand|pole
+coatdress|1
+(noun)|dress|frock
+coaxingly|1
+(adv)|cajolingly
+cobalamin|1
+(noun)|vitamin B12|cyanocobalamin|antipernicious anemia factor|B-complex vitamin|B complex|vitamin B complex|vitamin B|B vitamin|B
+cobalt 60|1
+(noun)|cobalt|Co|atomic number 27
+cobaltite|1
+(noun)|mineral
+cobble up|1
+(verb)|cobble together|compose|compile
+cobitidae|1
+(noun)|Cobitidae|family Cobitidae|fish family
+coca cola|1
+(noun)|Coca Cola|Coke|cola|dope
+cocainise|1
+(verb)|cocainize|anesthetize|anaesthetize|anesthetise|anaesthetise|put to sleep|put under|put out
+cocainize|1
+(verb)|cocainise|anesthetize|anaesthetize|anesthetise|anaesthetise|put to sleep|put under|put out
+coccidium|1
+(noun)|eimeria|sporozoan
+coccoidea|1
+(noun)|Coccoidea|superfamily Coccoidea|arthropod family
+coccygeal|1
+(adj)|bone|os
+cochineal|2
+(noun)|dye|dyestuff
+(noun)|cochineal insect|Dactylopius coccus|scale insect
+cockaigne|1
+(noun)|Cockaigne|imaginary place|mythical place
+cockamamy|1
+(adj)|cockamamie|goofy|sappy|silly|wacky|whacky|zany|unreasonable|foolish 
+cockateel|1
+(noun)|cockatiel|cockatoo parrot|Nymphicus hollandicus|parrot
+cockatiel|1
+(noun)|cockateel|cockatoo parrot|Nymphicus hollandicus|parrot
+cockcroft|1
+(noun)|Cockcroft|Sir John Cockcroft|Sir John Douglas Cockcroft|nuclear physicist
+cockfight|1
+(noun)|match
+cockhorse|1
+(noun)|plaything|toy
+cockiness|1
+(noun)|bumptiousness|pushiness|forwardness|assertiveness|self-assertiveness
+cocklebur|2
+(noun)|cockle-bur|cockleburr|cockle-burr|weed
+(noun)|great burdock|greater burdock|Arctium lappa|burdock|clotbur
+cockroach|1
+(noun)|roach|dictyopterous insect
+cockscomb|4
+(noun)|common cockscomb|Celosia cristata|Celosia argentea cristata|herb|herbaceous plant
+(noun)|coxcomb|dandy|dude|fop|gallant|sheik|beau|swell|fashion plate|clotheshorse
+(noun)|coxcomb|cap
+(noun)|comb|coxcomb|crest
+cocksfoot|1
+(noun)|orchard grass|cockspur|Dactylis glomerata|grass
+coco palm|1
+(noun)|coconut|coconut palm|coco|cocoa palm|coconut tree|Cocos nucifera|palm|palm tree
+coco plum|2
+(noun)|coco plum tree|cocoa plum|icaco|Chrysobalanus icaco|fruit tree
+(noun)|cocoa plum|icaco|edible fruit
+cocooning|1
+(noun)|seclusion
+cocoswood|1
+(noun)|cocuswood|granadilla wood|wood
+cocozelle|2
+(noun)|Italian vegetable marrow|marrow|marrow squash|vegetable marrow
+(noun)|summer squash
+cocuswood|1
+(noun)|cocoswood|granadilla wood|wood
+code flag|1
+(noun)|nautical signal flag|flag|signal flag
+coeducate|1
+(verb)|co-educate|educate
+coelogyne|1
+(noun)|orchid|orchidaceous plant
+coelostat|1
+(noun)|optical device
+coenobite|1
+(noun)|cenobite|religious
+coffeepot|1
+(noun)|pot
+cofferdam|1
+(noun)|caisson|pneumatic caisson|chamber
+cofounder|1
+(noun)|founder|beginner|founding father|father
+cogitable|1
+(adj)|ponderable|thinkable 
+cognation|2
+(noun)|matrilineage|enation|unilateral descent
+(noun)|consanguinity|blood kinship|kinship|family relationship|relationship
+cognisant|1
+(adj)|cognizant 
+cognition|1
+(noun)|knowledge|noesis|psychological feature
+cognitive|1
+(adj)|psychological feature
+cognizant|1
+(adj)|cognizant 
+coherence|2
+(noun)|coherency|cohesion|cohesiveness|connection|link|connectedness
+(noun)|coherency|comprehensibility|understandability
+coherency|2
+(noun)|coherence|cohesion|cohesiveness|connection|link|connectedness
+(noun)|coherence|comprehensibility|understandability
+coiffeuse|1
+(noun)|hairdresser|hairstylist|stylist|styler
+coin bank|1
+(noun)|savings bank|money box|bank|container
+coin slot|1
+(noun)|slot
+colchicum|1
+(noun)|Colchicum|genus Colchicum|liliid monocot genus
+cold-eyed|1
+(adj)|dispassionate|impartial |fair
+cold cash|1
+(noun)|ready cash|ready money|cash|hard cash|hard currency
+cold cuts|1
+(noun)|meat
+cold duck|1
+(noun)|sparkling wine
+cold feet|1
+(noun)|timidity|timidness|timorousness
+cold fish|1
+(noun)|unpleasant person|disagreeable person
+cold snap|1
+(noun)|cold spell|while|piece|spell|patch
+cold sore|1
+(noun)|oral herpes|herpes labialis|fever blister|herpes simplex
+cold wave|1
+(noun)|wave
+cold work|2
+(verb)|coldwork|work|work on|process
+(verb)|                                                                         
+coldcream|1
+(noun)|cold cream|face cream|vanishing cream|cream|ointment|emollient
+coleridge|1
+(noun)|Coleridge|Samuel Taylor Coleridge|poet
+colicroot|1
+(noun)|colic root|crow corn|star grass|unicorn root|liliaceous plant
+coliphage|1
+(noun)|bacteriophage|phage
+collapsed|1
+(adj)|folded 
+collation|3
+(noun)|bite|snack|meal|repast
+(noun)|collection|collecting|assembling|aggregation
+(noun)|comparison|comparing
+colleague|2
+(noun)|co-worker|fellow worker|workfellow|associate
+(noun)|confrere|fellow|associate
+collected|3
+(adj)|collected 
+(adj)|accumulated|amassed|assembled|congregate|massed|concentrated 
+(adj)|equanimous|poised|self-collected|self-contained|self-possessed|composed 
+collector|4
+(noun)|aggregator|person|individual|someone|somebody|mortal|human|soul
+(noun)|gatherer|accumulator|holder|bearer
+(noun)|crater
+(noun)|electrode
+collegial|2
+(adj)|associate
+(adj)|collegiate|body
+collegian|1
+(noun)|college man|college boy|student|pupil|educatee
+colligate|2
+(verb)|associate|tie in|relate|link|link up|connect|think|cogitate|cerebrate
+(verb)|subsume|include
+collimate|2
+(verb)|parallel|change|alter|modify
+(verb)|align|aline|line up|adjust
+collinear|1
+(adj)|linear |one-dimensional
+collinsia|1
+(noun)|Collinsia|genus Collinsia|asterid dicot genus
+collision|3
+(noun)|hit|contact|impinging|striking
+(noun)|accident
+(noun)|dispute|difference|difference of opinion|conflict
+collocate|2
+(verb)|occur
+(verb)|lump|chunk|group
+collodion|1
+(noun)|solution
+colloidal|1
+(adj)|mixture
+collotype|1
+(noun)|collotype printing|photogelatin process|planographic printing|planography
+collusion|2
+(noun)|agreement|arrangement
+(noun)|connivance|agreement
+collusive|1
+(adj)|conniving|covert 
+collyrium|1
+(noun)|eye-lotion|eyewash|lotion|application
+colocasia|1
+(noun)|Colocasia|genus Colocasia|monocot genus|liliopsid genus
+colombian|2
+(adj)|Colombian|South American country|South American nation
+(noun)|Colombian|South American
+colonised|1
+(adj)|colonized|settled|inhabited 
+coloniser|1
+(noun)|colonizer|founder|beginner|founding father|father
+colonized|1
+(adj)|colonised|settled|inhabited 
+colonizer|1
+(noun)|coloniser|founder|beginner|founding father|father
+colonnade|2
+(noun)|structure|construction
+(noun)|arcade|structure|construction
+colophony|1
+(noun)|natural resin
+color bar|1
+(noun)|colour bar|color line|colour line|Jim Crow|ideological barrier
+coloradan|1
+(noun)|Coloradan|American
+colorcast|1
+(verb)|telecast|televise
+colorfast|1
+(adj)|impervious |imperviable
+colorless|2
+(adj)|colorless |colourless|neutral|pale|pallid|dull
+(adj)|colorless |colourless|ashen|blanched|bloodless|livid|white|bleached|faded|washed-out|washy|drab|sober|somber|sombre|dulled|grayed|etiolate|etiolated|blanched|lurid|pale|pallid|wan|pasty|pastelike|prefaded|waxen|waxlike|waxy|white|whitened|achromatic
+colosseum|1
+(noun)|Colosseum|amphitheater|amphitheatre|coliseum
+colossian|1
+(noun)|Colossian|Phrygian
+colostomy|1
+(noun)|ostomy
+colostrum|1
+(noun)|foremilk|milk
+colour in|1
+(verb)|color|colorize|colorise|colourise|colourize|colour|color in|change|alter|modify
+colour tv|1
+(noun)|color television|colour television|color television system|colour television system|color TV|colour TV|television|television system
+colourful|1
+(adj)|colorful |ablaze|flaming|bright|brilliant|vivid|changeable|chatoyant|iridescent|shot|deep|rich|fluorescent|prismatic|psychedelic|chromatic
+colouring|3
+(noun)|coloring|food coloring|food colouring|food color|food colour|foodstuff|food product
+(noun)|color|colour|coloring|visual property
+(noun)|coloring|change of color
+colourise|1
+(verb)|color|colorize|colorise|colourize|colour|color in|colour in|change|alter|modify
+colourize|1
+(verb)|color|colorize|colorise|colourise|colour|color in|colour in|change|alter|modify
+colpocele|1
+(noun)|vaginocele|hernia|herniation
+coltsfoot|2
+(noun)|galax|galaxy|wandflower|beetleweed|Galax urceolata|herb|herbaceous plant
+(noun)|Tussilago farfara|herb|herbaceous plant
+colubrina|1
+(noun)|Colubrina|genus Colubrina|dicot genus|magnoliopsid genus
+columbary|1
+(noun)|dovecote|birdhouse
+columbian|1
+(adj)|Columbian|navigator
+columbine|1
+(noun)|aquilegia|aquilege|flower
+columbite|1
+(noun)|niobite|mineral
+columbium|1
+(noun)|niobium|Nb|atomic number 41
+columella|1
+(noun)|column|tower|pillar
+columnist|1
+(noun)|editorialist|journalist
+colza oil|1
+(noun)|rape oil|rapeseed oil|oil
+comatulid|1
+(noun)|feather star|crinoid
+combatant|2
+(adj)|military 
+(noun)|battler|belligerent|fighter|scrapper|person|individual|someone|somebody|mortal|human|soul
+combative|2
+(adj)|agonistic|agonistical|competitive |competitory
+(adj)|battleful|bellicose|contentious|aggressive 
+combining|2
+(noun)|combine|union
+(noun)|combination|compounding|change of integrity
+combretum|1
+(noun)|woody plant|ligneous plant
+comburant|1
+(adj)|comburent|combustive|combustible 
+comburent|1
+(adj)|comburant|combustive|combustible 
+come away|2
+(verb)|detach|come off|separate|divide|part
+(verb)|leave|go forth|go away
+come back|5
+(verb)|return|go back|get back|travel|go|move|locomote
+(verb)|return|reappear|re-emerge
+(verb)|hark back|return|recall|denote|refer
+(verb)|catch up
+(verb)|retort|repay|return|riposte|rejoin|answer|reply|respond
+come down|5
+(verb)|descend|fall|go down|travel|go|move|locomote
+(verb)|reduce|boil down|become|turn
+(verb)|precipitate|fall
+(verb)|sicken|worsen|decline
+(verb)|knock|criticize|criticise|pick apart
+come home|1
+(verb)|click|get through|dawn|get across|sink in|penetrate|fall into place
+come into|1
+(verb)|inherit|get|acquire
+come near|2
+(verb)|approach|near|come on|go up|draw near|draw close|come|come up
+(verb)|approach|come|come up
+come over|1
+(verb)|come across|communicate|intercommunicate
+come upon|2
+(verb)|fall upon|strike|light upon|chance upon|come across|chance on|happen upon|attain|discover|find|regain
+(verb)|enter upon|luck into|get|acquire
+come with|1
+(verb)|attach to|accompany|go with
+comforted|1
+(adj)|comfortable 
+comforter|4
+(noun)|sympathizer|sympathiser|communicator
+(noun)|reliever|allayer|person|individual|someone|somebody|mortal|human|soul
+(noun)|quilt|puff|bedclothes|bed clothing|bedding
+(noun)|pacifier|baby's dummy|teething ring|device
+comically|1
+(adv)|funny
+commander|4
+(noun)|commanding officer|commandant|military officer|officer
+(noun)|leader
+(noun)|commissioned naval officer
+(noun)|air force officer|serviceman|military man|man|military personnel
+commelina|1
+(noun)|flower
+commensal|2
+(adj)|mutuality|interdependence|interdependency
+(noun)|organism|being
+comminate|1
+(verb)|execrate|anathemize|anathemise|anathematize|anathematise|deplore
+commingle|2
+(verb)|blend|intermix|immingle|intermingle
+(verb)|blend|flux|mix|conflate|immix|fuse|coalesce|meld|combine|merge|change integrity
+comminute|1
+(verb)|grind|mash|crunch|bray|break up|fragment|fragmentize|fragmentise
+commissar|1
+(noun)|political commissar|official|functionary
+committal|2
+(noun)|commitment|consignment|confinement
+(noun)|perpetration|commission|crime|law-breaking
+committed|2
+(adj)|committed |bound up|wrapped up|pledged|sworn
+(adj)|attached |affianced|bespoken|betrothed|engaged|pledged|involved|involved with|intended|loving
+committee|2
+(noun)|commission|administrative unit|administrative body
+(noun)|citizens committee|nongovernmental organization|NGO
+commodity|1
+(noun)|trade goods|goods|artifact|artefact
+commodore|1
+(noun)|commissioned naval officer
+common ax|1
+(noun)|common axe|Dayton ax|Dayton axe|ax|axe
+commonage|1
+(noun)|property|belongings|holding|material possession
+commotion|3
+(noun)|disturbance|disruption|stir|flutter|hurly burly|to-do|hoo-ha|hoo-hah|kerfuffle|disorder
+(noun)|din|ruction|ruckus|rumpus|tumult|disturbance
+(noun)|whirl|movement|motion
+communion|3
+(noun)|Communion|Holy Communion|sacramental manduction|manduction|ritual
+(noun)|sharing|intercourse|social intercourse
+(noun)|denomination
+communise|2
+(verb)|communize|bolshevize|bolshevise|change|alter|modify
+(verb)|communize|nationalize|nationalise
+communism|2
+(noun)|socialism|socialist economy
+(noun)|political orientation|ideology|political theory
+communist|3
+(adj)|communistic|political orientation|ideology|political theory
+(noun)|Communist|politician|politico|pol|political leader
+(noun)|commie|socialist
+community|8
+(noun)|gathering|assemblage
+(noun)|people
+(noun)|ownership
+(noun)|world organization|world organisation|international organization|international organisation|global organization
+(noun)|profession|occupational group|vocation
+(noun)|community of interests|agreement|accord
+(noun)|residential district|residential area|district|territory|territorial dominion|dominion
+(noun)|biotic community|group|grouping
+communize|2
+(verb)|communise|bolshevize|bolshevise|change|alter|modify
+(verb)|communise|nationalize|nationalise
+commutate|1
+(verb)|change by reversal|turn|reverse
+commuting|1
+(noun)|commutation|travel|traveling|travelling
+compactly|1
+(adv)|succinctly
+companion|4
+(noun)|comrade|fellow|familiar|associate|friend
+(noun)|fellow traveler|fellow traveller|traveler|traveller
+(noun)|attendant|attender|tender
+(verb)|company|accompany|keep company|consort|associate|affiliate|assort
+comparing|1
+(noun)|comparison|examination|scrutiny
+competent|2
+(adj)|competent |able|capable|effective|efficient|qualified|workmanlike|capable|efficient|qualified|skilled
+(adj)|adequate 
+competing|1
+(adj)|competitive |competitory
+compiling|1
+(noun)|compilation|collection|collecting|assembling|aggregation
+complaint|5
+(noun)|ailment|ill|disorder|upset
+(noun)|cry|yell
+(noun)|objection
+(noun)|pleading
+(noun)|charge|pleading
+completed|3
+(adj)|accomplished|realized|realised|complete 
+(adj)|consummated 
+(adj)|complete 
+compliant|4
+(adj)|compliant |amenable|conformable|willing|lamblike|nonresistant|complying|obliging|yielding|manageable|obedient|tractable|manipulable|willing
+(adj)|acquiescent|biddable|obedient 
+(adj)|soft 
+(adj)|meek|spiritless|submissive 
+complying|1
+(adj)|obliging|yielding|compliant 
+component|3
+(noun)|constituent|element|factor|ingredient|part|section|division
+(noun)|part|portion|component part|relation
+(noun)|constituent|element|part|portion
+composing|2
+(noun)|composition|placement|arrangement
+(noun)|composition|creating by mental acts
+composite|6
+(adj)|complex 
+(adj)|asterid dicot family
+(adj)|impure 
+(adj)|corinthian 
+(noun)|complex|whole
+(noun)|composite plant|flower
+composure|1
+(noun)|calm|calmness|equanimity|disposition|temperament
+comptonia|1
+(noun)|Comptonia|genus Comptonia|dicot genus|magnoliopsid genus
+computing|2
+(noun)|computer science|engineering|engineering science|applied science|technology
+(noun)|calculation|computation|procedure|process
+comradely|1
+(adj)|hail-fellow|hail-fellow-well-met|friendly 
+comradery|1
+(noun)|chumminess|camaraderie|comradeliness|comradeship|sociability|sociableness
+conacaste|1
+(noun)|elephant's ear|Enterolobium cyclocarpa|tree
+concavity|2
+(noun)|concave shape|incurvation|incurvature|solid
+(noun)|concaveness|shape|form|configuration|contour|conformation
+concealed|2
+(adj)|hidden|out of sight|invisible |unseeable
+(adj)|concealed |buried|hidden|bushwhacking|furtive|lurking|skulking|sneak|sneaky|stealthy|surreptitious|hidden|obscure|hidden|secret|incognito|lying in wait|lurking|sealed|secret|sneaking|unavowed|dark|covert
+conceding|1
+(noun)|concession|yielding|assent|acquiescence
+conceited|1
+(adj)|egotistic|egotistical|self-conceited|swollen|swollen-headed|vain|proud 
+conceived|1
+(adj)|formed|planned 
+conceiver|1
+(noun)|originator|mastermind|creator
+concenter|1
+(verb)|concentre|focalize|focalise|focus|align|aline|line up|adjust
+concentre|1
+(verb)|concenter|focalize|focalise|focus|align|aline|line up|adjust
+conceptus|1
+(noun)|embryo|fertilized egg|animal|animate being|beast|brute|creature|fauna
+concerned|4
+(adj)|concerned |afraid|afraid|haunted|obsessed|preoccupied|taken up|solicitous|attentive|troubled
+(adj)|interested|involved 
+(adj)|related |related to
+(adj)|implicated|involved 
+concerted|1
+(adj)|combined|conjunct|conjunctive|cooperative|united|joint 
+conchfish|1
+(noun)|Astropogon stellatus|cardinalfish
+concierge|1
+(noun)|caretaker
+concisely|1
+(adv)|briefly|shortly|in brief|in short
+concision|1
+(noun)|conciseness|pithiness|succinctness|terseness
+concluded|1
+(adj)|complete|ended|over|all over|terminated|finished 
+concordat|1
+(noun)|covenant|compact|written agreement
+concourse|3
+(noun)|multitude|throng|gathering|assemblage
+(noun)|hallway|hall
+(noun)|confluence|merging|meeting|coming together
+concubine|1
+(noun)|courtesan|doxy|odalisque|paramour|mistress|kept woman|fancy woman
+condemned|4
+(adj)|convicted|guilty 
+(adj)|censured|disapproved 
+(adj)|appropriated|confiscate|confiscated|seized|taken over|taken 
+(adj)|unfit 
+condenser|4
+(noun)|capacitor|capacitance|electrical condenser|electrical device
+(noun)|apparatus|setup
+(noun)|coil
+(noun)|optical condenser|lens|lense|lens system
+condiment|1
+(noun)|flavorer|flavourer|flavoring|flavouring|seasoner|seasoning
+condition|12
+(noun)|status|state
+conducive|1
+(adj)|contributing|contributive|contributory|tributary|causative 
+conductor|4
+(noun)|music director|director|musician
+(noun)|device
+(noun)|material|stuff
+(noun)|collector|gatherer|accumulator
+condylion|1
+(noun)|craniometric point
+condylura|1
+(noun)|Condylura|genus Condylura|mammal genus
+cone cell|1
+(noun)|cone|retinal cone|visual cell
+conepatus|1
+(noun)|Conepatus|genus Conepatus|mammal genus
+conestoga|1
+(noun)|covered wagon|Conestoga wagon|Conestoga|prairie wagon|prairie schooner|wagon|waggon
+conferral|1
+(noun)|bestowal|bestowment|conferment|giving|gift
+conferred|1
+(adj)|bestowed|presented|given 
+confessor|2
+(noun)|priest
+(noun)|communicator
+confidant|1
+(noun)|intimate|friend
+confident|3
+(adj)|confident |assured|cocksure|overconfident|positive|reassured|self-assured|self-confident
+(adj)|convinced|positive|certain 
+(adj)|surefooted|capable 
+confiding|1
+(adj)|trustful |trusting
+configure|1
+(verb)|assemble|piece|put together|set up|tack|tack together
+confining|2
+(adj)|constraining|constrictive|limiting|restricting|restrictive 
+(adj)|close|confined 
+confirmed|3
+(adj)|unchangeable 
+(adj)|confirmed |official
+(adj)|chronic|habitual|inveterate|addicted 
+confiture|1
+(noun)|sweet|confection|confectionery
+confluent|1
+(adj)|merging|convergent 
+confucian|2
+(adj)|Confucian|philosophical doctrine|philosophical theory
+(noun)|Confucian|believer|truster
+confucius|1
+(noun)|Confucius|Kung futzu|philosopher
+confusing|2
+(adj)|disorienting 
+(adj)|perplexing|puzzling|unclear 
+confusion|5
+(noun)|disorder
+(noun)|mental confusion|confusedness|disarray|cognitive state|state of mind
+(noun)|discombobulation|embarrassment
+(noun)|combination|combining|compounding
+(noun)|mix-up|mistake|error|fault
+congealed|1
+(adj)|jelled|jellied|solid 
+congenial|2
+(adj)|congenial |agreeable|compatible|sympathetic|sociable|compatible|friendly|sympathetic
+(adj)|compatible 
+congeries|1
+(noun)|aggregate|conglomeration|sum|summation|sum total
+congested|1
+(adj)|engorged|full 
+congo eel|1
+(noun)|amphiuma|congo snake|blind eel|salamander
+congo gum|1
+(noun)|congo copal|copal
+congo red|1
+(noun)|azo dye|acid-base indicator
+congolese|2
+(adj)|Congolese|African country|African nation
+(noun)|Congolese|African
+congorism|1
+(noun)|Congorism|expressive style|style
+congridae|1
+(noun)|Congridae|family Congridae|fish family
+congruent|2
+(adj)|congruous |appropriate|harmonious
+(adj)|congruent |coincident|coinciding|identical|superposable
+congruity|1
+(noun)|congruousness|congruence|harmony|harmoniousness
+congruous|2
+(adj)|congruous |congruent|appropriate|harmonious
+(adj)|compatible 
+conilurus|1
+(noun)|Conilurus|genus Conilurus|mammal genus
+conjoined|1
+(adj)|conjoint|joint 
+conjugate|8
+(adj)|conjugated|coupled|united 
+(adj)|compound 
+(adj)|conjugated|bound 
+(adj)|conjugated|bound 
+(noun)|conjugate solution|solution
+(verb)|blend|flux|mix|conflate|commingle|immix|fuse|coalesce|meld|combine|merge
+(verb)|inflect
+(verb)|change
+conjuring|1
+(noun)|conjuration|conjury|invocation|magic
+connected|6
+(adj)|affiliated|attached|related |related to
+(adj)|connected |abutting|adjacent|adjoining|conterminous|contiguous|neighboring|adjunctive|affined|attached|connecting|conterminous|contiguous|coupled|joined|linked|engaged|siamese|socially connected|well-connected
+(adj)|associated|related |related to
+(adj)|wired 
+(adj)|on 
+(adj)|machine-accessible|on-line 
+connecter|1
+(noun)|connection|connexion|connector|connective|instrumentality|instrumentation
+connector|1
+(noun)|connection|connexion|connecter|connective|instrumentality|instrumentation
+connexion|6
+(noun)|connection|link|shape|form
+(noun)|connection|connectedness|relation
+(noun)|association|connection|memory|remembering
+(noun)|connection|connector|connecter|connective|instrumentality|instrumentation
+(noun)|connection|transportation|transfer|transferral|conveyance
+(noun)|joining|connection|change of integrity
+conniving|2
+(adj)|collusive|covert 
+(adj)|calculating|calculative|scheming|shrewd|hard 
+connubial|2
+(adj)|conjugal|marital status
+(adv)|conjugally
+conodonta|1
+(noun)|Conodonta|order Conodonta|Conodontophorida|order Conodontophorida|animal order
+conqueror|1
+(noun)|vanquisher|victor|master|superior
+conradina|1
+(noun)|Conradina|genus Conradina|asterid dicot genus
+conscious|3
+(adj)|witting|intended 
+(adj)|conscious |alert|awake|self-conscious|self-aware|semiconscious|sentient|awake|aware|sensible|sensitive|voluntary
+(adj)|aware 
+conscript|2
+(noun)|draftee|inductee|serviceman|military man|man|military personnel
+(verb)|enlist
+consensus|1
+(noun)|agreement|accord
+conserved|1
+(adj)|preserved 
+conserves|2
+(noun)|conserve|preserve|preserves|confiture
+(noun)|conserve|preserve|preserves|confiture
+consignee|1
+(noun)|recipient|receiver
+consigner|1
+(noun)|consignor|shipper
+consignor|1
+(noun)|consigner|shipper
+consolida|1
+(noun)|Consolida|genus Consolida|magnoliid dicot genus
+consoling|1
+(adj)|comforting|consolatory|reassuring 
+consonant|4
+(adj)|harmonic|harmonical|harmonized|harmonised|in harmony|harmonious 
+(adj)|accordant|agreeable|conformable|concordant|consistent 
+(noun)|phone|speech sound|sound
+(noun)|letter|letter of the alphabet|alphabetic character
+consonate|1
+(verb)|resound|echo|ring|reverberate
+constable|3
+(noun)|lawman|law officer|peace officer
+(noun)|Constable|John Constable|painter
+(noun)|police constable|policeman|police officer|officer
+constancy|3
+(noun)|stability|changelessness|unchangeability|unchangeableness|unchangingness
+(noun)|perception
+(noun)|fidelity|faithfulness
+constrain|2
+(verb)|restrain|encumber|cumber|restrict|restrain|trammel|limit|bound|confine|throttle
+(verb)|stiffen|tighten|tighten up|restrict|restrain|trammel|limit|bound|confine|throttle
+constrict|2
+(verb)|compress|squeeze|compact|contract|press|tighten
+(verb)|constringe|narrow|tighten
+construal|1
+(noun)|interpretation
+construct|7
+(noun)|concept|conception|idea|thought
+(verb)|build|make|make|create
+(verb)|manufacture|fabricate|make
+(verb)|trace|draw|line|describe|delineate
+(verb)|create by mental act|create mentally
+(verb)|create by mental act|create mentally
+(verb)|reconstruct|retrace|speculate|theorize|theorise|conjecture|hypothesize|hypothesise|hypothecate|suppose
+consulate|1
+(noun)|diplomatic building
+consuming|1
+(adj)|overwhelming|intense 
+contadino|1
+(noun)|farmer|husbandman|granger|sodbuster
+contagion|3
+(noun)|contagious disease|communicable disease
+(noun)|infection|transmission|incident
+(noun)|infection|communication
+contained|2
+(adj)|restrained 
+(adj)|controlled 
+container|1
+(noun)|instrumentality|instrumentation
+contender|1
+(noun)|rival|challenger|competitor|competition|contestant
+contented|1
+(adj)|contented |content|complacent|self-satisfied|happy|satisfied|smug|self-satisfied|easygoing|placid|happy|pleased
+contested|1
+(adj)|contested |oppose
+contestee|1
+(noun)|winner|victor
+contester|1
+(noun)|disputant|controversialist|eristic
+continent|4
+(adj)|continent 
+(adj)|celibate|chaste 
+(noun)|landmass
+(noun)|Continent|Europe
+continual|2
+(adj)|continual |constant|everlasting|incessant|perpetual|endless|insistent|repetitive|perennial|recurrent|repeated|persistent|relentless|unrelenting|recurring|revenant|running
+(adj)|continuous |uninterrupted
+continued|1
+(adj)|continued |continuing
+continuum|1
+(noun)|time
+contorted|2
+(adj)|writhed|writhen|crooked 
+(adj)|distorted|twisted|crooked 
+contralto|3
+(adj)|alto|low |low-pitched
+(noun)|singer|vocalist|vocalizer|vocaliser
+(noun)|alto|singing voice
+contrasty|1
+(adj)|contrasty 
+contrived|2
+(adj)|planned 
+(adj)|artificial|hokey|stilted|affected |unnatural
+contriver|1
+(noun)|planner|deviser|person|individual|someone|somebody|mortal|human|soul
+contumacy|2
+(noun)|disobedience|noncompliance
+(noun)|insubordination|rebelliousness
+contumely|1
+(noun)|abuse|insult|revilement|vilification|disrespect|discourtesy
+contusion|2
+(noun)|bruise|injury|hurt|harm|trauma
+(noun)|hit|hitting|striking
+conundrum|1
+(noun)|riddle|enigma|brain-teaser|problem
+convector|1
+(noun)|heater|warmer
+convening|1
+(noun)|convention|assembly|assemblage|gathering
+converted|1
+(adj)|born-again|reborn|regenerate 
+converter|1
+(noun)|convertor|device
+convertor|1
+(noun)|converter|device
+convexity|2
+(noun)|convexness|shape|form|configuration|contour|conformation
+(noun)|convex shape|solid
+conveying|1
+(noun)|conveyance|conveyance of title|conveyancing|transfer|transference
+convicted|1
+(adj)|condemned|guilty 
+convinced|2
+(adj)|convinced 
+(adj)|positive|confident|certain 
+convivial|1
+(adj)|good-time|sociable 
+convolute|3
+(adj)|coiled 
+(verb)|convolve|flex|bend|deform|twist|turn
+(verb)|twist|twist around|pervert|sophisticate|denote|refer
+cookhouse|2
+(noun)|galley|ship's galley|caboose|kitchen
+(noun)|shelter
+cookstove|1
+(noun)|stove|kitchen stove|range|kitchen range|cooking stove
+cooky jar|1
+(noun)|cookie jar|jar
+cool down|3
+(verb)|cool|chill|change|alter|modify
+(verb)|cool|cool off|change
+(verb)|cool|chill|change state|turn
+cool jazz|1
+(noun)|jazz
+coon bear|1
+(noun)|giant panda|panda|panda bear|Ailuropoda melanoleuca|procyonid
+coonhound|1
+(noun)|hound|hound dog
+cooperate|1
+(verb)|collaborate|join forces|get together|work
+copacetic|1
+(adj)|copasetic|copesetic|copesettic|satisfactory 
+copartner|1
+(noun)|partner
+copasetic|1
+(adj)|copacetic|copesetic|copesettic|satisfactory 
+cope with|1
+(verb)|meet|match|cope|get by|make out|make do|contend|grapple|deal|manage
+copesetic|1
+(adj)|copacetic|copasetic|copesettic|satisfactory 
+copestone|2
+(noun)|finishing touch|capstone|touch
+(noun)|capstone|coping stone|stretcher|stone
+copiously|1
+(adv)|abundantly|profusely|extravagantly
+copolymer|1
+(noun)|polymer
+copra oil|1
+(noun)|coconut oil|vegetable oil|oil
+coprolith|1
+(noun)|fecalith|faecalith|stercolith|mass
+copyright|2
+(noun)|right of first publication|document|written document|papers|legal right
+(verb)|procure|secure
+coral gem|1
+(noun)|Lotus berthelotii|subshrub|suffrutex
+coral pea|1
+(noun)|vine
+coral sea|2
+(noun)|Coral Sea|sea
+(noun)|Coral Sea|battle of the Coral Sea|naval battle
+coralroot|1
+(noun)|coral-root bittercress|coralwort|Cardamine bulbifera|Dentaria bulbifera|bittercress|bitter cress
+coralwood|1
+(noun)|coral-wood|red sandalwood|Barbados pride|peacock flower fence|Adenanthera pavonina|tree
+coralwort|1
+(noun)|coral-root bittercress|coralroot|Cardamine bulbifera|Dentaria bulbifera|bittercress|bitter cress
+corbelled|1
+(adj)|supply|provide|render|furnish
+corchorus|2
+(noun)|subshrub|suffrutex
+(noun)|Corchorus|genus Corchorus|dilleniid dicot genus
+cordaites|1
+(noun)|Cordaites|genus Cordaites|gymnosperm genus
+cordarone|1
+(noun)|amiodarone|Cordarone|antiarrhythmic|antiarrhythmic drug|antiarrhythmic medication
+cordgrass|1
+(noun)|cord grass|grass
+cordially|1
+(adv)|heartily|warmly
+cordiform|1
+(adj)|cordate|heart-shaped|simple |unsubdivided
+corduroys|3
+(noun)|cords|trousers|pants
+(noun)|cord|corduroy|fabric|cloth|material|textile
+(noun)|corduroy|road|route
+cordyline|1
+(noun)|Cordyline|genus Cordyline|liliid monocot genus
+core dump|1
+(noun)|dump
+coregonus|1
+(noun)|Coregonus|genus Coregonus|fish genus
+coreopsis|1
+(noun)|tickseed|tickweed|tick-weed|herb|herbaceous plant
+coriander|3
+(noun)|coriander plant|Chinese parsley|cilantro|Coriandrum sativum|herb|herbaceous plant
+(noun)|coriander seed|flavorer|flavourer|flavoring|flavouring|seasoner|seasoning
+(noun)|Chinese parsley|cilantro|herb
+coricidin|1
+(noun)|chlorpheniramine maleate|Coricidin|Chlor-Trimeton|antihistamine
+corixidae|1
+(noun)|Corixidae|family Corixidae|arthropod family
+cork tree|2
+(noun)|Phellodendron amurense|tree
+(noun)|Erythrina vespertilio|coral tree|erythrina
+corkscrew|2
+(noun)|bottle screw|bottle opener
+(verb)|spiral|turn
+cormorant|1
+(noun)|Phalacrocorax carbo|pelecaniform seabird
+corn beef|1
+(noun)|bully beef|corned beef|beef|boeuf
+corn belt|1
+(noun)|Corn Belt|belt
+corn cake|1
+(noun)|cornbread
+corn chip|1
+(noun)|snack food
+corn lily|1
+(noun)|iridaceous plant
+corn mint|1
+(noun)|field mint|Mentha arvensis|mint
+corn smut|2
+(noun)|cornsmut|smut|smut fungus
+(noun)|                                                                         
+corn snow|1
+(noun)|snow
+corn tash|1
+(noun)|ashcake|ash cake|cornbread
+cornaceae|1
+(noun)|Cornaceae|family Cornaceae|dogwood family|rosid dicot family
+cornbread|1
+(noun)|quick bread
+corncrake|1
+(noun)|land rail|Crex crex|crake
+corneille|1
+(noun)|Corneille|Pierre Corneille|dramatist|playwright|poet
+cornelian|1
+(noun)|carnelian|chalcedony|calcedony
+cornetist|1
+(noun)|trumpeter|musician|instrumentalist|player
+cornfield|1
+(noun)|corn field|grainfield|grain field
+cornflour|1
+(noun)|cornstarch|starch|amylum
+corollary|2
+(noun)|consequence|aftermath
+(noun)|inference|illation
+coroneted|1
+(adj)|highborn|titled|noble 
+coronilla|1
+(noun)|shrub|bush
+corporate|4
+(adj)|firm|house|business firm
+(adj)|bodied|corporal|embodied|incarnate|corporeal |material
+(adj)|collective|joint 
+(adj)|incorporated|organized 
+corporeal|2
+(adj)|corporeal |material|bodily|bodied|corporal|corporate|embodied|incarnate|reincarnate|bodied
+(adj)|bodily|corporal|somatic|physical 
+corposant|1
+(noun)|corona discharge|corona|St. Elmo's fire|Saint Elmo's fire|Saint Elmo's light|Saint Ulmo's fire|Saint Ulmo's light|electric glow|discharge|spark|arc|electric arc|electric discharge
+corpulent|1
+(adj)|obese|weighty|rotund|fat 
+corpuscle|2
+(noun)|atom|molecule|particle|mote|speck|material|stuff
+(noun)|blood cell|blood corpuscle|somatic cell|vegetative cell
+corrasion|1
+(noun)|abrasion|attrition|detrition|erosion|eroding|eating away|wearing|wearing away
+corrected|2
+(adj)|corrected |aplanatic|apochromatic|rectified
+(adj)|chastised|disciplined|punished 
+correctly|1
+(adv)|right|aright
+correggio|1
+(noun)|Correggio|Antonio Allegri da Correggio|old master
+correlate|4
+(adj)|correlative|correlated|related |related to
+(noun)|correlative|variable|variable quantity
+(verb)|match|fit|correspond|check|jibe|gibe|tally|agree
+(verb)|associate|tie in|relate|link|colligate|link up|connect
+corroding|1
+(noun)|corrosion|erosion|chemical process|chemical change|chemical action
+corrosion|2
+(noun)|deterioration|impairment
+(noun)|corroding|erosion|chemical process|chemical change|chemical action
+corrosive|2
+(adj)|caustic|erosive|vitriolic|destructive 
+(noun)|compound|chemical compound
+corrugate|1
+(verb)|fold|fold up|turn up
+corrupted|2
+(adj)|corrupt|imperfect 
+(adj)|debased|vitiated|corrupt 
+corruptly|1
+(adv)|corruptedly
+corticium|1
+(noun)|Corticium|genus Corticium|fungus genus
+corticoid|1
+(noun)|corticosteroid|adrenal cortical steroid|steroid hormone|steroid|sex hormone
+cortisone|1
+(noun)|Cortone Acetate|corticosteroid|corticoid|adrenal cortical steroid|ketosteroid
+coruscant|1
+(adj)|aglitter|fulgid|glinting|glistering|glittering|glittery|scintillant|scintillating|sparkling|sparkly|bright 
+coruscate|2
+(verb)|sparkle|scintillate|reflect|shine
+(verb)|sparkle|scintillate|be
+corydalis|3
+(noun)|flower
+(noun)|Corydalis|genus Corydalis|dilleniid dicot genus
+(noun)|Corydalus|genus Corydalus|Corydalis|genus Corydalis|arthropod genus
+corydalus|1
+(noun)|Corydalus|genus Corydalus|Corydalis|genus Corydalis|arthropod genus
+corymbose|1
+(adj)|inflorescence
+coscoroba|1
+(noun)|swan
+coseismal|1
+(adj)|coseismic|unstable 
+coseismic|1
+(adj)|coseismal|unstable 
+cosmetics|2
+(noun)|cosmetic|toiletry|toilet article|toiletries
+(noun)|cosmetic|toiletry|toilet article|toiletries
+cosmogeny|1
+(noun)|cosmology|cosmogony|astrophysics
+cosmogony|1
+(noun)|cosmology|cosmogeny|astrophysics
+cosmology|2
+(noun)|metaphysics
+(noun)|cosmogony|cosmogeny|astrophysics
+cosmonaut|1
+(noun)|astronaut|spaceman|traveler|traveller
+cosmotron|1
+(noun)|synchrotron
+cosponsor|1
+(verb)|sponsor|patronize|patronise
+cost-plus|1
+(adj)|indeterminate |undetermined
+costalgia|1
+(noun)|pleurodynia|pleuralgia|pain|hurting
+costanoan|2
+(noun)|Costanoan|Penutian
+(noun)|Costanoan|Penutian
+costiasis|1
+(noun)|animal disease
+costumier|1
+(noun)|costumer|costume designer|couturier|fashion designer|clothes designer|designer
+cot death|1
+(noun)|sudden infant death syndrome|SIDS|infant death|crib death|death|sleep apnea
+cotacachi|1
+(noun)|Cotacachi|volcano
+cotangent|1
+(noun)|cotan|trigonometric function|circular function
+cotillion|2
+(noun)|cotilion|ball
+(noun)|cotilion|ballroom dancing|ballroom dance
+cotswolds|2
+(noun)|Cotswolds|Cotswold Hills|hills
+(noun)|Cotswold|domestic sheep|Ovis aries
+cotton on|1
+(verb)|catch on|get wise|get onto|tumble|latch on|twig|get it|get the picture|comprehend|savvy|dig|grasp|compass|apprehend
+cotton up|1
+(verb)|cozy up|shine up|play up|sidle up|suck up|ingratiate
+cotyledon|1
+(noun)|seed leaf|cataphyll
+couchette|1
+(noun)|compartment
+cough out|1
+(verb)|expectorate|cough up|spit up|spit out|discharge|expel|eject|release
+coumarone|1
+(noun)|benzofuran|cumarone|compound|chemical compound
+counselor|3
+(noun)|counsellor|adviser|advisor|consultant
+(noun)|counsellor|supervisor
+(noun)|advocate|counsel|counsellor|counselor-at-law|pleader|lawyer|attorney
+count off|1
+(verb)|call out
+count out|1
+(verb)|declare
+countable|1
+(adj)|denumerable|enumerable|numerable|calculable 
+countdown|1
+(noun)|count|counting|numeration|enumeration|reckoning|tally
+countless|1
+(adj)|infinite|innumerable|innumerous|myriad|multitudinous|numberless|uncounted|unnumberable|unnumbered|unnumerable|incalculable 
+couple on|1
+(verb)|couple|couple up|attach
+couple up|1
+(verb)|couple|couple on|attach
+courbaril|1
+(noun)|Hymenaea courbaril|locust tree|locust
+courgette|2
+(noun)|zucchini|marrow|marrow squash|vegetable marrow
+(noun)|zucchini|summer squash
+courtelle|1
+(noun)|Courtelle|acrylic
+courteous|2
+(adj)|gracious|nice|polite 
+(adj)|courteous |chivalrous|gallant|knightly|respectful
+courtesan|1
+(noun)|concubine|doxy|odalisque|paramour|mistress|kept woman|fancy woman
+courtroom|1
+(noun)|court|room
+courtship|1
+(noun)|wooing|courting|suit|entreaty|prayer|appeal
+courtyard|1
+(noun)|court|yard|grounds|curtilage
+couturier|1
+(noun)|fashion designer|clothes designer|designer|creator
+covalence|1
+(noun)|covalency|valence|valency
+covalency|1
+(noun)|covalence|valence|valency
+cover for|1
+(verb)|protect
+cow shark|1
+(noun)|six-gilled shark|Hexanchus griseus|shark
+cowardice|1
+(noun)|cowardliness|spirit
+cpu board|1
+(noun)|CPU board|mother board|circuit board|circuit card|board|card
+crab legs|1
+(noun)|crab|crabmeat
+crabapple|3
+(noun)|crab apple|cultivated crab apple|apple tree
+(noun)|wild apple|crab apple|apple tree
+(noun)|crab apple|apple
+crabgrass|1
+(noun)|crab grass|finger grass|grass
+crackdown|1
+(noun)|suppression|crushing|quelling|stifling
+crackling|1
+(noun)|crackle|crepitation|noise
+cracksman|1
+(noun)|safebreaker|safecracker|thief|stealer
+cracticus|1
+(noun)|Cracticus|genus Cracticus|bird genus
+craftsman|3
+(noun)|professional|professional person
+(noun)|crafter|creator
+(noun)|artisan|journeyman|artificer|skilled worker|trained worker
+cram full|1
+(adj)|chockablock|chock-full|chockful|choke-full|chuck-full|full 
+crampbark|1
+(noun)|guelder rose|European cranberrybush|European cranberry bush|cranberry tree|Viburnum opulus|shrub|bush
+crampfish|1
+(noun)|electric ray|numbfish|torpedo|ray
+cranberry|2
+(noun)|shrub|bush
+(noun)|berry|berry
+crane fly|1
+(noun)|daddy longlegs|dipterous insect|two-winged insects|dipteran|dipteron
+cranelike|1
+(adj)|animal 
+crank out|1
+(verb)|grind out|produce|bring forth
+crankcase|1
+(noun)|housing
+crap game|1
+(noun)|craps|crap shooting|crapshoot|game of chance|gambling game
+crapshoot|2
+(noun)|risk|peril|danger
+(noun)|craps|crap shooting|crap game|game of chance|gambling game
+crapulent|1
+(adj)|crapulous|gluttonous 
+crapulous|2
+(adj)|crapulent|gluttonous 
+(adj)|gluttonous 
+craspedia|1
+(noun)|Craspedia|genus Craspedia|asterid dicot genus
+crassness|1
+(noun)|crassitude|insensitivity|insensitiveness
+crataegus|1
+(noun)|Crataegus|genus Crataegus|rosid dicot genus
+crawdaddy|1
+(noun)|crayfish|crawfish|crawdad|decapod crustacean|decapod
+craziness|3
+(noun)|daftness|flakiness|insanity
+(noun)|folly|foolishness|stupidity
+(noun)|folly|foolery|tomfoolery|lunacy|indulgence|play|frolic|romp|gambol|caper
+crazyweed|1
+(noun)|locoweed|crazy weed|legume|leguminous plant
+cream off|2
+(verb)|skim|skim off|cream|remove|take|take away|withdraw
+(verb)|skim off|choose|take|select|pick out
+creamcups|1
+(noun)|Platystemon californicus|poppy
+credendum|1
+(noun)|article of faith|dogma|tenet
+credulity|1
+(noun)|trust|trustingness|trustfulness
+credulous|2
+(adj)|credulous |credible|overcredulous|unquestioning|credible|believable|naive|naif|trustful|trusting
+(adj)|naive |naif
+creek bed|1
+(noun)|streambed|bed|bottom
+cremation|1
+(noun)|incineration
+crematory|2
+(noun)|crematorium|morgue|mortuary|dead room
+(noun)|crematorium|cremation chamber|furnace
+crenation|1
+(noun)|scallop|crenature|crenel|crenelle|curve|curved shape
+crenature|1
+(noun)|scallop|crenation|crenel|crenelle|curve|curved shape
+crenelate|2
+(adj)|embattled|crenelated|crenellated|crenellate|indented|fancy 
+(verb)|crenel|crenellate|supply|provide|render|furnish
+crenulate|1
+(adj)|crenulated|rough 
+crepitate|1
+(verb)|crackle|rattle
+crepuscle|1
+(noun)|twilight|dusk|gloaming|nightfall|evenfall|fall|crepuscule|hour|time of day
+crescendo|3
+(adj)|increasing 
+(noun)|volume|loudness|intensity
+(verb)|increase
+cretinism|1
+(noun)|hypothyroidism
+cretinous|2
+(adj)|hypothyroidism
+(adj)|retarded 
+crew neck|1
+(noun)|crew neckline|neckline
+crex crex|1
+(noun)|corncrake|land rail|Crex crex|crake
+cricketer|1
+(noun)|athlete|jock
+criminate|2
+(verb)|accuse|impeach|incriminate|charge|accuse
+(verb)|reprimand|censure|knock|criticize|criticise|pick apart
+crinoidea|1
+(noun)|Crinoidea|class Crinoidea|class
+crinoline|3
+(noun)|hoopskirt|skirt
+(noun)|petticoat|half-slip|underskirt
+(noun)|fabric|cloth|material|textile
+crippling|1
+(adj)|disabling|incapacitating|unhealthful 
+crispness|3
+(noun)|freshness
+(noun)|terseness
+(noun)|brittleness|crispiness|breakableness
+criterial|1
+(adj)|criterional|standard 
+criterion|2
+(noun)|standard|measure|touchstone|reference point|point of reference|reference
+(noun)|standard|ideal
+criticise|2
+(verb)|knock|criticize|pick apart|comment|notice|remark|point out
+(verb)|criticize|act
+criticism|3
+(noun)|unfavorable judgment|disapproval
+(noun)|critique|critical appraisal|critical analysis
+(noun)|literary criticism|writing|written material|piece of writing
+criticize|2
+(verb)|knock|criticise|pick apart|comment|notice|remark|point out
+(verb)|criticise|act
+crna gora|1
+(noun)|Montenegro|Crna Gora|geographical area|geographic area|geographical region|geographic region
+crocethia|1
+(noun)|Crocethia|genus Crocethia|bird genus
+crock pot|1
+(noun)|Crock Pot|cooker
+crocketed|1
+(adj)|adorned |decorated
+crocodile|1
+(noun)|crocodilian reptile|crocodilian
+crocolite|1
+(noun)|mineral
+croissant|1
+(noun)|crescent roll|bun|roll
+crookback|2
+(adj)|crookbacked|humped|humpbacked|hunchback|hunchbacked|gibbous|kyphotic|unfit 
+(noun)|humpback|hunchback|cripple
+crookedly|1
+(adv)|lopsidedly
+crookneck|1
+(noun)|crookneck squash|summer crookneck|yellow squash
+croquette|1
+(noun)|dish
+cross-eye|1
+(noun)|crossed eye|convergent strabismus|esotropia|strabismus|squint
+cross-ply|1
+(adj)|tire|tyre
+cross bit|1
+(noun)|bore bit|borer|rock drill|stone drill
+cross bun|1
+(noun)|hot cross bun|sweet roll|coffee roll
+cross off|1
+(verb)|cross out|strike out|strike off|mark|take away|take out
+cross out|1
+(verb)|cross off|strike out|strike off|mark|take away|take out
+crossbeam|1
+(noun)|trave|traverse|crosspiece|beam
+crossbill|1
+(noun)|Loxia curvirostra|finch
+crossbred|3
+(adj)|crossbred |bigeneric|crossed|hybrid|interbred|intercrossed|underbred|half-blooded|half-bred|half-breed|outbred
+(adj)|interbred|outbred 
+(noun)|hybrid|crossbreed|cross
+crossfire|2
+(noun)|conversation
+(noun)|fire|firing
+crosshead|2
+(noun)|crossheading|heading|header|head
+(noun)|block
+crossjack|1
+(noun)|mizzen course|sail|canvas|canvass|sheet
+crossness|2
+(noun)|irritability|fretfulness|fussiness|peevishness|petulance|choler|ill humor|ill humour|distemper
+(noun)|crabbiness|crabbedness|ill nature
+crossover|4
+(noun)|crossing over|organic process|biological process
+(noun)|crossover voter|voter|elector
+(noun)|borrowing|adoption
+(noun)|crossing|crosswalk|path
+crossroad|1
+(noun)|intersection|crossway|crossing|carrefour|junction
+crossruff|1
+(verb)|trump|ruff
+crosstalk|1
+(noun)|XT|noise|interference|disturbance
+crosstown|1
+(adj)|cross-town|crossed |across
+crosswalk|1
+(noun)|crossing|crossover|path
+crossways|1
+(adv)|across|crosswise
+crosswind|1
+(noun)|wind|air current|current of air
+crosswise|3
+(adj)|crosswise |cross|transverse|transversal|thwartwise|cross-section|cross-sectional
+(adj)|horizontal 
+(adv)|across|crossways
+crossword|1
+(noun)|crossword puzzle|problem
+crotchety|1
+(adj)|cantankerous|ornery|ill-natured 
+crotonbug|1
+(noun)|German cockroach|Croton bug|water bug|Blattella germanica|cockroach|roach
+crouching|1
+(adj)|crouched|huddled|hunkered|hunkered down|unerect 
+crow-bait|2
+(noun)|crowbait|saddle horse|riding horse|mount
+(noun)|                                                                         
+crow corn|1
+(noun)|colicroot|colic root|star grass|unicorn root|liliaceous plant
+crow step|1
+(noun)|corbel step|corbie-step|corbiestep|step|stair
+crowberry|1
+(noun)|shrub|bush
+crowd out|1
+(verb)|displace|force out
+crown saw|1
+(noun)|saw
+crownless|1
+(adj)|uncrowned |quasi-royal
+crownwork|1
+(noun)|cap|dental appliance
+cruciform|1
+(adj)|cruciate|symmetrical |symmetric
+crude oil|1
+(noun)|petroleum|crude|rock oil|fossil oil|oil|fossil fuel
+crudeness|3
+(noun)|crudity|primitiveness|primitivism|rudeness|wild|natural state|state of nature
+(noun)|crudity|gaucheness|impoliteness
+(noun)|roughness|inelegance
+cruelness|1
+(noun)|cruelty|harshness|malevolence|malevolency|malice
+crush out|1
+(verb)|stub out|extinguish|press out|end|terminate
+crustacea|1
+(noun)|Crustacea|class Crustacea|class
+crustlike|1
+(adj)|crusted|encrusted|crusty|covered 
+cryogenic|1
+(adj)|refrigerant
+cryometer|1
+(noun)|thermometer
+cryopathy|1
+(noun)|frostbite|injury|hurt|harm|trauma
+cryoscope|1
+(noun)|measuring instrument|measuring system|measuring device
+cryptical|2
+(adj)|cryptic|deep|inscrutable|mysterious|mystifying|inexplicable |incomprehensible
+(adj)|cabalistic|kabbalistic|qabalistic|cryptic|sibylline|esoteric 
+cryptogam|1
+(noun)|plant|flora|plant life
+cryptotis|1
+(noun)|Cryptotis|genus Cryptotis|mammal genus
+ctenidium|1
+(noun)|gill|branchia
+cub scout|1
+(noun)|boy scout
+cub shark|1
+(noun)|bull shark|Carcharhinus leucas|requiem shark
+cubbyhole|2
+(noun)|pigeonhole|compartment
+(noun)|cubby|snuggery|snug|room
+cube root|1
+(noun)|root
+cubitiere|1
+(noun)|armor plate|armour plate|armor plating|plate armor|plate armour
+cuculidae|1
+(noun)|Cuculidae|family Cuculidae|bird family
+cucurbita|1
+(noun)|Cucurbita|genus Cucurbita|dicot genus|magnoliopsid genus
+cue stick|1
+(noun)|cue|pool cue|pool stick|sports implement
+culicidae|1
+(noun)|Culicidae|family Culicidae|arthropod family
+cullender|1
+(noun)|colander|strainer
+culminate|5
+(verb)|climax|end|stop|finish|terminate|cease
+(verb)|end|terminate
+(verb)|achieve|accomplish|attain|reach
+(verb)|reach|make|attain|hit|arrive at|gain
+(verb)|shape|form
+cultivate|3
+(verb)|crop|work|fix|prepare|set up|ready|gear up|set
+(verb)|educate|school|train|civilize|civilise|polish|refine|fine-tune|down
+(verb)|domesticate|naturalize|naturalise|tame|adapt|accommodate
+culturati|1
+(noun)|intelligentsia|clerisy
+cum laude|1
+(adj)|worthy 
+cunctator|1
+(noun)|procrastinator|postponer|delayer
+cuneiform|3
+(adj)|wedge-shaped|cuneal
+(adj)|bone|os
+(noun)|script
+cuniculus|1
+(noun)|Cuniculus|genus Cuniculus|mammal genus
+cunningly|2
+(adv)|cutely
+(adv)|craftily|foxily|knavishly|slyly|trickily|artfully
+cup final|1
+(noun)|final
+cup morel|1
+(noun)|Disciotis venosa|morel
+cupbearer|1
+(noun)|attendant|attender|tender
+cupflower|2
+(noun)|chalice vine|trumpet flower|Solandra guttata|shrub|bush
+(noun)|nierembergia|herb|herbaceous plant
+cupressus|1
+(noun)|Cupressus|genus Cupressus|gymnosperm genus
+cuprimine|1
+(noun)|penicillamine|Cuprimine|medicine|medication|medicament|medicinal drug
+curandera|1
+(noun)|therapist|healer
+curandero|1
+(noun)|therapist|healer
+curb roof|1
+(noun)|roof
+curbstone|1
+(noun)|kerbstone|paving stone
+curettage|1
+(noun)|curettement|operation|surgery|surgical operation|surgical procedure|surgical process
+curiosity|2
+(noun)|wonder|cognitive state|state of mind
+(noun)|curio|oddity|oddment|peculiarity|rarity|object|physical object
+curiously|2
+(adv)|oddly|peculiarly
+(adv)|inquisitively|interrogatively
+curled up|1
+(adj)|curled|coiled 
+curliness|1
+(noun)|curvature|curve
+currajong|1
+(noun)|kurrajong|Brachychiton populneus|bottle-tree|bottle tree
+currawong|1
+(noun)|bell magpie|Australian magpie
+currently|1
+(adv)|presently
+currishly|1
+(adv)|ignobly
+currycomb|1
+(noun)|comb
+cursorial|1
+(adj)|cursorial 
+cursorily|1
+(adv)|quickly
+cursorius|1
+(noun)|Cursorius|genus Cursorius|bird genus
+curtained|1
+(adj)|curtained |draped
+curtilage|1
+(noun)|yard|grounds|field
+curvature|3
+(noun)|condition|status
+(noun)|derived function|derivative|differential coefficient|differential|first derivative
+(noun)|curve|shape|form|configuration|contour|conformation
+cush-cush|1
+(noun)|Dioscorea trifida|yam|yam plant
+cushioned|1
+(adj)|cushiony|padded|soft 
+cuspidate|1
+(adj)|cuspate|cuspated|cusped|cuspidal|cuspidated|angular |angulate
+custodial|1
+(adj)|guardian|tutelary|tutelar|protective 
+custodian|1
+(noun)|keeper|steward|defender|guardian|protector|shielder
+customary|2
+(adj)|conventional 
+(adj)|accustomed|habitual|wonted|usual 
+customise|2
+(verb)|custom-make|customize|tailor-make|produce|make|create
+(verb)|customize|construct|build|make|change|alter|modify
+customize|2
+(verb)|custom-make|customise|tailor-make|produce|make|create
+(verb)|customise|construct|build|make|change|alter|modify
+cut-price|1
+(adj)|bargain-priced|cut-rate|cheap |inexpensive
+cut glass|1
+(noun)|glassware|glasswork
+cut price|1
+(noun)|bargain rate|cheapness|cut rate|inexpensiveness
+cut short|4
+(verb)|break short|break off|interrupt|break
+(verb)|interrupt|disrupt
+(verb)|truncate|shorten
+(verb)|clip|curtail|shorten
+cutaneous|1
+(adj)|cutaneal|connective tissue|body covering
+cuterebra|1
+(noun)|Cuterebra|genus Cuterebra|arthropod genus
+cuticular|1
+(adj)|epidermal|epidermic|dermal|stratum|carapace|shell|cuticle
+cutthroat|3
+(adj)|fierce|bowelless|merciless |unmerciful
+(adj)|homicidal|murderous|bloody 
+(noun)|murderer|liquidator|manslayer
+cyamopsis|1
+(noun)|Cyamopsis|genus Cyamopsis|rosid dicot genus
+cyanamide|2
+(noun)|cyanamid|acid
+(noun)|calcium-cyanamide|compound|chemical compound
+cybercafe|1
+(noun)|cafe|coffeehouse|coffee shop|coffee bar
+cybernate|1
+(verb)|computerize|computerise|work|put to work
+cybernaut|1
+(noun)|computer user
+cyberpunk|3
+(noun)|hacker|cyber-terrorist|programmer|computer programmer|coder|software engineer|terrorist
+(noun)|writer|author
+(noun)|science fiction
+cycadales|1
+(noun)|Cycadales|order Cycadales|plant order
+cyclicity|1
+(noun)|periodicity|regularity
+cycloidal|1
+(adj)|cycloid|rounded 
+cycloloma|1
+(noun)|Cycloloma|genus Cycloloma|caryophylloid dicot genus
+cyclopean|1
+(adj)|giant
+cyclorama|1
+(noun)|panorama|diorama|picture|image|icon|ikon
+cyclotron|1
+(noun)|accelerator|particle accelerator|atom smasher
+cycnoches|1
+(noun)|Cycnoches|genus Cycnoches|monocot genus|liliopsid genus
+cydippida|1
+(noun)|Cydippida|order Cydippida|Cydippidea|order Cydippidea|Cydippea|order Cydippea|animal order
+cylindric|1
+(adj)|cylindrical|round shape
+cymbidium|1
+(noun)|cymbid|orchid|orchidaceous plant
+cymograph|1
+(noun)|kymograph|scientific instrument
+cynically|1
+(adv)|with cynicism
+cynipidae|1
+(noun)|Cynipidae|family Cynipidae|arthropod family
+cynoscion|1
+(noun)|Cynoscion|genus Cynoscion|fish genus
+cyprinoid|1
+(adj)|cyprinid|fish family
+cyrtomium|1
+(noun)|Cyrtomium|genus Cyrtomium|fern genus
+cystocele|1
+(noun)|colpocystocele|colpocele|vaginocele
+cystolith|1
+(noun)|bladder stone|calculus|concretion
+cytokinin|1
+(noun)|kinin|phytohormone|plant hormone|growth regulator
+cytologic|1
+(adj)|cytological|biology|biological science|microscopic anatomy
+cytolysin|1
+(noun)|lysin
+cytolysis|1
+(noun)|lysis
+cytolytic|1
+(adj)|lysis
+cytopenia|1
+(noun)|blood disease|blood disorder
+cytoplasm|1
+(noun)|protoplasm|living substance
+cytoplast|1
+(noun)|cytoplasm
+cytosmear|1
+(noun)|smear|cytologic smear|cytologic specimen
+cytostome|1
+(noun)|mouth
+cytotoxic|2
+(adj)|toxin
+(adj)|toxic 
+cytotoxin|1
+(noun)|toxin
+czaristic|1
+(adj)|czarist|tsarist|tsaristic|tzarist|tyrant|autocrat|despot

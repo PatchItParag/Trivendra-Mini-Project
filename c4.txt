@@ -1,0 +1,716 @@
+c2h6|1
+(noun)|ethane|C2H6|methane series|alkane series|alkane|paraffin|hydrocarbon
+cabg|1
+(noun)|coronary bypass|coronary bypass surgery|coronary artery bypass graft|CABG|open-heart surgery
+cade|1
+(adj)|forsaken 
+cafe|1
+(noun)|coffeehouse|coffee shop|coffee bar|restaurant|eating house|eating place
+caff|1
+(noun)|cafe|coffeehouse|coffee shop|coffee bar
+cage|6
+(noun)|coop|enclosure
+(noun)|constraint|restraint
+(noun)|Cage|John Cage|John Milton Cage Jr.|composer
+(noun)|net
+(noun)|batting cage|baseball equipment
+(verb)|cage in|confine|detain
+cagy|2
+(adj)|cagey|canny|clever|smart 
+(adj)|cagey|chary|cautious 
+cain|1
+(noun)|Cain|man|adult male
+cake|4
+(noun)|bar|block
+(noun)|patty|dish
+(noun)|baked goods
+(verb)|coat|cover|spread over
+calf|4
+(noun)|young mammal
+(noun)|sura|skeletal muscle|striated muscle
+(noun)|calfskin|leather
+(noun)|young mammal
+cali|1
+(noun)|Cali|city|metropolis|urban center
+calk|4
+(noun)|calkin|cleat
+(verb)|supply|provide|render|furnish
+(verb)|caulk|seal|seal off
+(verb)|injure|wound
+call|41
+(noun)|phone call|telephone call|telephone|telephony
+(noun)|Call|inclination|disposition|tendency
+(noun)|cry|outcry|yell|shout|vociferation|utterance|vocalization
+(noun)|claim|demand
+calm|9
+(adj)|unagitated|composed 
+(adj)|serene|tranquil|peaceful 
+(adj)|calm |placid|quiet|still|tranquil|unruffled|settled|windless|peaceful
+(adj)|unagitated 
+(noun)|composure|calmness|equanimity|disposition|temperament
+(verb)|calm down|quiet|tranquilize|tranquillize|tranquillise|quieten|lull|still|comfort|soothe|console|solace
+(verb)|steady|becalm|stabilize|stabilise
+(verb)|calm down|cool off|chill out|simmer down|settle down|cool it|change state|turn
+(verb)|sedate|tranquilize|tranquillize|tranquillise|affect
+calx|1
+(noun)|calcium oxide|quicklime|lime|calcined lime|fluxing lime|unslaked lime|burnt lime|oxide
+camo|1
+(noun)|camouflage|fabric|cloth|material|textile
+camp|12
+(adj)|campy|tasteless 
+cane|4
+(noun)|walking stick
+(noun)|stalk|stem
+(noun)|switch
+(verb)|flog|lambaste|lambast|beat|beat up|work over
+cant|6
+(noun)|buzzword|nonsense|bunk|nonsensicality|meaninglessness|hokum
+(noun)|bank|camber|slope|incline|side
+(noun)|jargon|slang|lingo|argot|patois|vernacular|non-standard speech
+(noun)|pious platitude|talk|talking
+(noun)|bevel|chamfer|edge
+(verb)|cant over|tilt|slant|pitch|move
+cape|2
+(noun)|ness|land|dry land|earth|ground|solid ground|terra firma
+(noun)|mantle|cloak
+capo|1
+(noun)|head|chief|top dog
+card|13
+(noun)|paper
+care|11
+(noun)|attention|aid|tending|work
+cark|1
+(verb)|perturb|unhinge|disquiet|trouble|distract|disorder|disturb|upset|trouble
+carp|3
+(noun)|freshwater fish
+(noun)|cyprinid|cyprinid fish
+(verb)|cavil|chicane|object
+cart|4
+(noun)|wagon|waggon
+(noun)|handcart|pushcart|go-cart|wheeled vehicle
+(verb)|haul|hale|drag|pull|draw|force
+(verb)|transport|carry
+case|20
+(noun)|lawsuit|suit|cause|causa|proceeding|legal proceeding|proceedings
+(noun)|instance|example|happening|occurrence|natural event
+cash|3
+(noun)|hard cash|hard currency|currency
+(noun)|immediate payment|payment
+(verb)|cash in|exchange|change|interchange|cash in on
+cask|2
+(noun)|caskful|containerful
+(noun)|barrel|vessel
+cast|21
+(adj)|formed 
+(noun)|cast of characters|dramatis personae|gathering|assemblage
+caul|2
+(noun)|greater omentum|gastrocolic omentum|omentum
+(noun)|veil|embryonic membrane|fetal membrane
+cave|3
+(noun)|enclosure|natural enclosure
+(verb)|undermine|hollow|hollow out|core out
+(verb)|spelunk|explore
+cavy|1
+(noun)|rodent|gnawer|gnawing animal
+ccrc|1
+(noun)|Casualty Care Research Center|CCRC|agency|federal agency|government agency|bureau|office|authority
+cd-r|1
+(noun)|CD-R|compact disc recordable|CD-WO|compact disc write-once|compact disk|compact disc|CD
+cdna|1
+(noun)|complementary DNA|cDNA|deoxyribonucleic acid|desoxyribonucleic acid|DNA
+cebu|2
+(noun)|Cebu|Cebu City|city|metropolis|urban center
+(noun)|Cebu|island
+cede|2
+(verb)|concede|yield|grant|give
+(verb)|surrender|deliver|give up|give|gift|present
+cedi|1
+(noun)|Ghanian monetary unit
+cell|7
+(noun)|compartment
+(noun)|living thing|animate thing
+(noun)|electric cell|electrical device
+(noun)|cadre|political unit
+(noun)|cellular telephone|cellular phone|cellphone|mobile phone|radiotelephone|radiophone|wireless telephone
+(noun)|cubicle|room
+(noun)|jail cell|prison cell|room
+celt|1
+(noun)|Celt|Kelt|European
+cent|2
+(noun)|fractional monetary unit|subunit|Sri Lanka rupee|rupee
+(noun)|penny|centime|coin
+cere|1
+(verb)|wrap|wrap up
+cero|2
+(noun)|pintado|kingfish|Scomberomorus regalis|Spanish mackerel
+(noun)|king mackerel|cavalla|Scomberomorus cavalla|Spanish mackerel
+cert|1
+(noun)|certainty|sure thing|foregone conclusion
+ch'i|1
+(noun)|qi|chi|ki|energy|vim|vitality
+chad|4
+(noun)|paper
+(noun)|Lake Chad|Chad|lake
+(noun)|Chad|Republic of Chad|Tchad|African country|African nation
+(noun)|Chad|Chadic|Chadic language|Afroasiatic|Afro-Asiatic|Afroasiatic language|Afrasian|Afrasian language|Hamito-Semitic
+chap|5
+(noun)|fellow|feller|lad|gent|fella|blighter|cuss|male|male person
+(noun)|crevice|cranny|crack|fissure|depression|impression|imprint
+(noun)|crack|cleft|crevice|fissure|scissure
+(noun)|legging|legin|leg covering
+(verb)|crack
+char|5
+(noun)|carbon|C|atomic number 6
+(noun)|charwoman|cleaning woman|cleaning lady|woman|cleaner
+(noun)|salmonid
+(verb)|coal|burn|combust
+(verb)|blacken|scorch|burn
+chat|4
+(noun)|confab|confabulation|schmooze|schmoose|conversation
+(noun)|New World chat|New World warbler|wood warbler
+(noun)|Old World chat|thrush
+(verb)|chew the fat|shoot the breeze|confabulate|confab|chitchat|chatter|chaffer|natter|gossip|jaw|claver|visit|converse|discourse
+chaw|2
+(noun)|chew|cud|quid|plug|wad|morsel|bit|bite
+(verb)|chew|masticate|manducate|jaw
+chef|1
+(noun)|cook
+chen|1
+(noun)|Chen|subgenus Chen|bird genus
+chew|3
+(noun)|chaw|cud|quid|plug|wad|morsel|bit|bite
+(noun)|chewing|mastication|manduction|change of state
+(verb)|masticate|manducate|jaw|grate|grind
+chic|2
+(adj)|smart|voguish|stylish |fashionable
+(noun)|chicness|modishness|smartness|stylishness|swank|last word|elegance
+chin|3
+(noun)|mentum|feature|lineament
+(noun)|Kuki|Chin|Kuki-Chin|Kamarupan
+(verb)|chin up|raise|lift|elevate|get up|bring up
+chip|14
+(noun)|bit|flake|fleck|scrap|fragment
+chit|1
+(noun)|check|tab|bill|account|invoice
+choc|1
+(noun)|chocolate candy
+chon|2
+(noun)|South Korean monetary unit
+(noun)|North Korean monetary unit
+chop|8
+(noun)|cut|cut of meat
+(noun)|chop shot|return
+(noun)|chopper|grounder|ground ball|groundball|hopper
+(verb)|chop up|cut
+(verb)|move
+(verb)|strike
+(verb)|hack|cut|chop down|chop up|chop off
+(verb)|strike|hit
+chou|3
+(noun)|Zhou|Zhou dynasty|Chou|Chou dynasty|Chow|Chow dynasty|dynasty
+(noun)|cabbage|cruciferous vegetable
+(noun)|cream puff|puff
+chow|3
+(noun)|Zhou|Zhou dynasty|Chou|Chou dynasty|Chow|Chow dynasty|dynasty
+(noun)|chuck|eats|grub|fare
+(noun)|chow chow|spitz
+chub|1
+(noun)|Leuciscus cephalus|cyprinid|cyprinid fish
+chug|2
+(noun)|noise
+(verb)|sound|go
+chum|1
+(noun)|buddy|brother|crony|pal|sidekick|friend
+ciao|1
+(noun)|aloha|acknowledgment|acknowledgement
+cira|1
+(noun)|Continuity Irish Republican Army|CIRA|Continuity Army Council|terrorist organization|terrorist group|foreign terrorist organization|FTO
+cisc|2
+(noun)|Criminal Intelligence Services of Canada|CISC|international intelligence agency
+(noun)|complex instruction set computing|complex instruction set computer|CISC|computer architecture|architecture
+cite|7
+(verb)|mention|advert|bring up|name|refer|think of|have in mind|mean
+(verb)|mention|notice|acknowledge
+(verb)|reference|write|compose|pen|indite
+(verb)|quote|repeat|reiterate|ingeminate|iterate|restate|retell
+(verb)|quote|mention|advert|bring up|name|refer
+(verb)|adduce|abduce|testify|bear witness|prove|evidence|show
+(verb)|summon|summons|call|send for
+city|3
+(noun)|metropolis|urban center|municipality
+(noun)|administrative district|administrative division|territorial division
+(noun)|metropolis|municipality
+cive|1
+(noun)|chives|chive|schnittlaugh|Allium schoenoprasum|alliaceous plant
+clad|2
+(adj)|clothed |adorned|bedecked|decked|decked out|appareled|attired|dressed|garbed|garmented|habilimented|robed|arrayed|panoplied|black|breeched|pantalooned|trousered|bundled-up|caparisoned|cassocked|coated|costumed|dighted|dressed|dressed-up|dressed to the nines|dressed to kill|dolled up|spruced up|spiffed up|togged up|gowned|habited|heavy-coated|overdressed|petticoated|red-coated|lobster-backed|suited|surpliced|togged|turned out|tuxedoed|underdressed|uniformed|vestmented|white|cowled|adorned|decorated
+(adj)|sheathed 
+clam|4
+(noun)|bivalve|pelecypod|lamellibranch
+(noun)|dollar|dollar bill|one dollar bill|buck|bill|note|government note|bank bill|banker's bill|bank note|banknote|Federal Reserve note|greenback
+(noun)|shellfish
+(verb)|gather|garner|collect|pull together
+clan|1
+(noun)|kin|kin group|kinship group|kindred|tribe|social group
+clap|10
+(noun)|bang|eruption|blast|loud noise|noise
+claw|8
+(noun)|horny structure|unguis
+(noun)|hook|mechanical device
+(noun)|chela|nipper|pincer|extremity|appendage|member
+(noun)|bird's foot
+(verb)|make|work
+(verb)|seize|prehend|clutch
+(verb)|scratch|scrape|scratch up
+(verb)|attack|round|assail|lash out|snipe|assault
+clay|5
+(noun)|soil|dirt
+(noun)|mud|soil|dirt
+(noun)|Clay|Lucius Clay|Lucius DuBignon Clay|general|full general
+(noun)|Clay|Henry Clay|the Great Compromiser|politician|politico|pol|political leader
+(noun)|cadaver|corpse|stiff|remains|body|dead body
+clef|1
+(noun)|musical notation
+cleg|1
+(noun)|horsefly|clegg|horse fly|gadfly
+clew|3
+(noun)|ball|clod|glob|lump|clump|chunk
+(noun)|clue|cue|evidence
+(verb)|clue|wind|wrap|roll|twine
+clio|1
+(noun)|Clio|Muse
+clip|11
+(noun)|cartridge holder|cartridge clip|magazine|supply chamber
+clit|1
+(noun)|clitoris|button|erectile organ
+clod|2
+(noun)|ball|glob|lump|clump|chunk|agglomeration
+(noun)|lout|stumblebum|goon|oaf|lubber|lummox|lump|gawk|clumsy person
+clog|9
+(noun)|geta|patten|sabot|footwear|footgear
+(noun)|hindrance|hitch|preventive|preventative|encumbrance|incumbrance|interference
+(noun)|clog dance|clog dancing|tap dancing|tap dance
+(verb)|choke off|clog up|back up|congest|choke|foul|obstruct|obturate|impede|occlude|jam|block|close up
+(verb)|dance|trip the light fantastic|trip the light fantastic toe
+(verb)|restrain|encumber|cumber|constrain
+(verb)|constipate|slow|slow down|slow up
+(verb)|clot|coalesce
+(verb)|overload|fill|fill up|make full
+clon|1
+(noun)|clone|organism|being
+clop|1
+(verb)|clump|clunk|plunk|sound|go
+clot|5
+(noun)|coagulum|ball|clod|glob|lump|clump|chunk
+(verb)|coagulate|change state|turn
+(verb)|coagulate|change|alter|modify
+(verb)|curdle|clabber|change state|turn
+(verb)|clog|coalesce
+cloy|2
+(verb)|surfeit|supply|provide|render|furnish
+(verb)|pall|satiate|sate|replete|fill
+club|10
+(noun)|baseball club|ball club|nine|baseball team
+clue|3
+(noun)|hint|indication|indicant
+(noun)|clew|cue|evidence
+(verb)|clew|wind|wrap|roll|twine
+clxv|1
+(adj)|one hundred sixty-five|165|cardinal 
+clxx|1
+(adj)|one hundred seventy|170|cardinal 
+cmbr|1
+(noun)|cosmic background radiation|CBR|cosmic microwave background radiation|CMBR|cosmic microwave background|CMB|cosmic radiation
+cnpz|1
+(noun)|National Liberation Army|ELN|Nestor Paz Zamora Commission|CNPZ|terrorist organization|terrorist group|foreign terrorist organization|FTO
+cnut|1
+(noun)|Canute|Cnut|Knut|Canute the Great|King of England|King of Great Britain
+coal|5
+(noun)|fossil fuel|vegetable matter
+(noun)|ember|fragment
+(verb)|char|burn|combust
+(verb)|supply|provide|render|furnish
+(verb)|take in|gather in
+coat|6
+(noun)|overgarment|outer garment
+(noun)|coating|covering
+(noun)|pelage|hair
+(verb)|surface|cover
+(verb)|dress|clothe|enclothe|garb|raiment|tog|garment|habilitate|fit out|apparel
+(verb)|cake|cover|spread over
+coax|2
+(noun)|coaxial cable|coax cable|cable|line|transmission line
+(verb)|wheedle|cajole|palaver|blarney|sweet-talk|inveigle|persuade
+coca|3
+(noun)|Erythroxylon coca|shrub|bush
+(noun)|Coca|Imogene Coca|comedienne
+(noun)|plant product
+cock|8
+(noun)|prick|dick|shaft|pecker|peter|tool|putz|penis|phallus|member
+(noun)|stopcock|turncock|faucet
+(noun)|hammer|striker
+(noun)|rooster|chicken|Gallus gallus
+(noun)|bird
+(verb)|cant|cant over|tilt|slant|pitch
+(verb)|put|set|place|pose|position|lay
+(verb)|swagger|ruffle|prance|strut|sashay|walk
+coco|1
+(noun)|coconut|coconut palm|coco palm|cocoa palm|coconut tree|Cocos nucifera|palm|palm tree
+coda|1
+(noun)|finale|conclusion|end|close|closing|ending
+code|5
+(noun)|codification|written communication|written language
+(noun)|coding system
+(noun)|computer code|coding system
+(verb)|tag|label|mark
+(verb)|encode|encipher|cipher|cypher|encrypt|inscribe|write in code|write
+cody|1
+(noun)|Cody|William F. Cody|William Frederick Cody|Buffalo Bill|Buffalo Bill Cody|showman|promoter|impresario
+cohn|1
+(noun)|Cohn|Ferdinand Julius Cohn|botanist|phytologist|plant scientist
+coho|2
+(noun)|silver salmon|coho salmon|cohoe|salmon
+(noun)|cohoe|coho salmon|blue jack|silver salmon|Onchorynchus kisutch|salmon
+coif|3
+(noun)|skullcap
+(verb)|cover
+(verb)|dress|arrange|set|do|coiffe|coiffure|groom|neaten
+coil|9
+(noun)|spiral|volute|whorl|helix|structure|construction
+(noun)|whorl|roll|curl|curlicue|ringlet|gyre|scroll|round shape
+(noun)|transformer
+(noun)|contraceptive|preventive|preventative|contraceptive device|prophylactic device|birth control device
+(noun)|tube|tubing
+(noun)|reactor
+(verb)|gyrate|spiral|turn
+(verb)|handbuild|hand-build|shape|form|work|mold|mould|forge
+(verb)|loop|curl|wind|wrap|roll|twine
+coin|3
+(noun)|coinage|mintage|specie|metal money
+(verb)|create verbally
+(verb)|mint|strike|create from raw material|create from raw stuff
+coir|1
+(noun)|fiber|fibre
+coke|4
+(noun)|fuel
+(noun)|Coca Cola|Coke|cola|dope
+(noun)|blow|nose candy|snow|C|cocaine|cocain
+(verb)|change state|turn
+cola|7
+(noun)|Cola|genus Cola|dilleniid dicot genus
+(noun)|dope|soft drink
+(noun)|colon|large intestine
+(noun)|colon|El Salvadoran colon|El Salvadoran monetary unit
+(noun)|colon|Costa Rican colon|Costa Rican monetary unit
+(noun)|Colon|Aspinwall|city|metropolis|urban center|port
+(noun)|colon|punctuation|punctuation mark
+cold|16
+(adj)|cold |acold|algid|arctic|frigid|gelid|glacial|icy|polar|bleak|cutting|raw|crisp|frosty|nipping|nippy|snappy|parky|frigorific|frore|frosty|rimed|rimy|ice-cold|refrigerant|refrigerating|shivery|stone-cold|unheated|unwarmed|heatless|refrigerated|cool|frozen
+cole|2
+(noun)|kale|kail|borecole|colewort|Brassica oleracea acephala|crucifer|cruciferous plant
+(noun)|kale|kail|cabbage|chou
+colt|2
+(noun)|foal
+(noun)|Colt|revolver|six-gun|six-shooter
+coma|3
+(noun)|comatoseness|unconsciousness
+(noun)|hair|fuzz|tomentum
+(noun)|cloud
+comb|9
+(noun)|device
+(noun)|cockscomb|coxcomb|crest
+(noun)|caruncle|caruncula
+(noun)|tool
+(noun)|plate
+(noun)|combing|hair care|haircare|hairdressing
+(verb)|straighten|straighten out
+(verb)|ransack|search
+(verb)|comb out|disentangle|groom|neaten
+come|22
+(verb)|come up|travel|go|move|locomote|come with|come through|come in|come through|come up|come up
+(verb)|arrive|get
+cone|5
+(noun)|artifact|artefact
+(noun)|conoid|cone shape|round shape
+(noun)|strobilus|strobile|reproductive structure
+(noun)|cone cell|retinal cone|visual cell
+(verb)|bevel|chamfer
+conk|5
+(noun)|nose|olfactory organ
+(verb)|stall|stop|halt
+(verb)|hit
+(verb)|kick the bucket|cash in one's chips|buy the farm|give-up the ghost|drop dead|pop off|choke|croak|snuff it|die|decease|perish|go|exit|pass away|expire|pass
+(verb)|faint|swoon|pass out|zonk out|pass out|black out
+conn|1
+(verb)|steer|maneuver|manoeuver|manoeuvre|direct|point|head|guide|channelize|channelise
+cony|3
+(noun)|hyrax|coney|dassie|das|placental|placental mammal|eutherian|eutherian mammal
+(noun)|pika|mouse hare|rock rabbit|coney|lagomorph|gnawing mammal
+(noun)|rabbit|coney|leporid|leporid mammal
+cook|7
+(noun)|skilled worker|trained worker
+(noun)|Cook|James Cook|Captain Cook|Captain James Cook|navigator
+(verb)|create from raw material|create from raw stuff
+(verb)|fix|ready|make|prepare|create from raw material|create from raw stuff
+(verb)|change integrity
+(verb)|change|alter|modify
+(verb)|fudge|manipulate|fake|falsify|wangle|misrepresent|cheat|chisel|cook up
+cool|11
+(adj)|cool |air-conditioned|air-cooled|chill|chilly|caller|precooled|water-cooled|cold
+coon|3
+(noun)|rustic
+(noun)|nigger|nigga|spade|jigaboo|nigra|Black|Black person|blackamoor|Negro|Negroid
+(noun)|common raccoon|common racoon|ringtail|Procyon lotor|raccoon|racoon
+coop|2
+(noun)|chicken coop|hencoop|henhouse|farm building
+(noun)|cage|enclosure
+coot|1
+(noun)|rail
+cope|2
+(noun)|header|coping|brick
+(verb)|get by|make out|make do|contend|grapple|deal|manage|act|move
+copt|2
+(noun)|Copt|Egyptian
+(noun)|Copt|Christian
+copy|8
+(noun)|transcript|written record|written account
+(noun)|representation
+(noun)|written matter|text|textual matter
+(noun)|material
+(verb)|write
+(verb)|imitate|simulate|reproduce
+(verb)|replicate|duplicate|reduplicate|double|repeat|replicate
+(verb)|re-create|make|create
+cora|1
+(noun)|Persephone|Despoina|Kore|Cora|Greek deity
+cord|6
+(noun)|line
+(noun)|volume unit|capacity unit|capacity measure|cubage unit|cubic measure|cubic content unit|displacement unit|cubature unit
+(noun)|electric cord|conductor
+(noun)|corduroy|fabric|cloth|material|textile
+(verb)|stack|pile|heap
+(verb)|tie|bind
+core|10
+(noun)|center|centre|midpoint
+cork|7
+(noun)|bark|plant material
+(noun)|phellem|bark
+(noun)|Cork|city|metropolis|urban center|port|Ireland|Eire|Irish Free State
+(noun)|plug|stopper|stopple
+(noun)|bob|bobber|bobfloat|float
+(verb)|cork up|plug|stop up|secure
+(verb)|stuff
+corm|1
+(noun)|stalk|stem
+corn|9
+(noun)|maize|Indian corn|Zea mays|cereal|cereal grass
+(noun)|kernel
+(noun)|edible corn|grain|food grain|cereal
+(noun)|clavus|callosity|callus
+(noun)|wheat|cereal|cereal grass
+(noun)|corn whiskey|corn whisky|whiskey|whisky
+(noun)|mawkishness|sentimentality|drippiness
+(verb)|feed|give
+(verb)|preserve|keep
+corp|1
+(noun)|corporation|firm|house|business firm
+cosh|2
+(noun)|blackjack|sap|bludgeon
+(verb)|hit
+coss|1
+(noun)|kos|linear unit
+cost|5
+(noun)|outgo|expenditure|outlay
+(noun)|monetary value|price|value
+(noun)|price|toll|value
+(verb)|be|be
+(verb)|necessitate|ask|postulate|need|require|take|involve|call for|demand
+cosy|2
+(adj)|cozy|snug|comfortable |comfy
+(noun)|tea cosy|cosey|tea cosey|cozy|tea cozy|cozey|tea cozey|cozie|tea cozie|cloth covering
+cote|1
+(noun)|shelter
+coup|2
+(noun)|coup d'etat|putsch|takeover|group action
+(noun)|success
+cove|2
+(noun)|inlet|recess
+(noun)|cave
+cowl|3
+(noun)|hood|bonnet|cowling|protective covering|protective cover|protection
+(noun)|hood
+(verb)|cover
+cows|4
+(noun)|cattle|kine|oxen|Bos taurus|bovine
+(noun)|cow|moo-cow|cattle|kine|oxen|Bos taurus
+(noun)|cow|placental|placental mammal|eutherian|eutherian mammal
+(noun)|cow|unpleasant woman|disagreeable woman
+coxa|1
+(noun)|hip|hip joint|articulatio coxae|ball-and-socket joint|spheroid joint|cotyloid joint|enarthrodial joint|enarthrosis|articulatio spheroidea
+cozy|4
+(adj)|cosy|snug|comfortable |comfy
+(adj)|intimate|informal|friendly 
+(adj)|close 
+(noun)|cosy|tea cosy|cosey|tea cosey|tea cozy|cozey|tea cozey|cozie|tea cozie|cloth covering
+crab|11
+(noun)|decapod crustacean|decapod
+crag|1
+(noun)|cliff|drop|drop-off
+cram|4
+(verb)|jam|jampack|ram|chock up|wad|stuff
+(verb)|put|set|place|pose|position|lay
+(verb)|grind away|drum|bone up|swot|get up|mug up|swot up|bone|study|hit the books
+(verb)|fix|prepare|set up|ready|gear up|set
+cran|1
+(noun)|volume unit|capacity unit|capacity measure|cubage unit|cubic measure|cubic content unit|displacement unit|cubature unit
+crap|3
+(noun)|dirt|shit|shite|poop|turd|fecal matter|faecal matter|feces|faeces|BM|stool|ordure|dejection
+(noun)|bullshit|bull|Irish bull|horseshit|shit|dogshit|bunk|bunkum|buncombe|guff|rot|hogwash
+(verb)|stool|defecate|shit|take a shit|take a crap|ca-ca|make|excrete|egest|eliminate|pass
+craw|1
+(noun)|crop|stomach|tummy|tum|breadbasket
+crax|1
+(noun)|Crax|genus Crax|bird genus
+cred|1
+(noun)|street credibility|street cred|credibility|credibleness|believability
+cree|2
+(noun)|Cree|Algonquian|Algonquin
+(noun)|Cree|Algonquian|Algonquin|Algonquian language
+crew|5
+(noun)|unit|social unit
+(noun)|gang|work party|unit|social unit
+(noun)|crowd|gang|bunch|gathering|assemblage
+(noun)|team|squad
+(verb)|man
+crex|1
+(noun)|Crex|genus Crex|bird genus
+crib|6
+(noun)|cot|baby bed|baby's bed
+(noun)|pony|trot|translation|interlingual rendition|rendering|version
+(noun)|cribbage|card game|cards
+(verb)|cheat|chisel
+(verb)|plagiarize|plagiarise|lift
+(verb)|line
+crop|11
+(noun)|harvest|output|yield
+crow|9
+(noun)|corvine bird
+(noun)|cry
+(noun)|Crow|Sioux|Siouan
+(noun)|Corvus|Crow|constellation
+(noun)|brag|bragging|crowing|vaporing|line-shooting|gasconade|boast|boasting|self-praise|jactitation
+(noun)|Crow|Siouan|Siouan language
+(verb)|gloat|triumph|boast|tout|swash|shoot a line|brag|gas|blow|bluster|vaunt|gasconade
+(verb)|utter|emit|let out|let loose
+(verb)|utter|emit|let out|let loose
+crud|3
+(noun)|snow
+(noun)|filth|skank|waste|waste material|waste matter|waste product
+(noun)|disease
+crus|1
+(noun)|limb
+crux|2
+(noun)|Southern Cross|Crux|Crux Australis|constellation
+(noun)|crux of the matter|point
+csis|1
+(noun)|Canadian Security Intelligence Service|CSIS|international intelligence agency
+cuba|2
+(noun)|Cuba|Republic of Cuba|country|state|land
+(noun)|Cuba|island
+cube|7
+(noun)|block|solid
+(noun)|regular hexahedron|regular polyhedron|regular convex solid|regular convex polyhedron|Platonic body|Platonic solid|ideal solid
+(noun)|third power|number
+(noun)|subshrub|suffrutex
+(noun)|square block|block
+(verb)|multiply
+(verb)|dice|cut
+cuff|4
+(noun)|turnup|lap|overlap
+(noun)|handcuffs|handcuff|cuffs|handlock|manacle|shackle|bond|hamper|trammel|trammels
+(verb)|whomp|slap
+(verb)|manacle|handcuff|fetter|shackle
+cuke|1
+(noun)|cucumber|vegetable|veggie
+cull|3
+(noun)|reject|decision making|deciding
+(verb)|get rid of|remove
+(verb)|pick|pluck|gather|garner|collect|pull together|cull out
+culm|1
+(noun)|stalk|stem
+cult|3
+(noun)|religion|faith
+(noun)|fad|craze|furor|furore|rage|fashion
+(noun)|cultus|religious cult|religion|faith|religious belief
+cunt|2
+(noun)|bitch|unpleasant woman|disagreeable woman
+(noun)|puss|pussy|slit|snatch|twat|female genitalia|female genitals|female genital organ|fanny
+cuon|1
+(noun)|Cuon|Cyon|genus Cuon|genus Cyon|mammal genus
+curb|8
+(noun)|curbing|kerb|edge
+(noun)|curb bit|bit
+(noun)|American Stock Exchange|AMEX|Curb|stock exchange|stock market|securities market
+(noun)|bridle|check|restraint
+(verb)|control|hold in|hold|contain|check|moderate|restrain|suppress|keep|keep back|hold back
+(verb)|suppress|stamp down|inhibit|subdue|conquer|control|hold in|hold|contain|check|moderate
+(verb)|restrain|encumber|cumber|constrain
+(verb)|restrict|curtail|cut back|limit|circumscribe|confine
+curd|2
+(noun)|foodstuff|food product
+(noun)|dairy product
+cure|5
+(noun)|remedy|curative|medicine|medication|medicament|medicinal drug
+(verb)|bring around|heal|help|aid
+(verb)|preserve|keep
+(verb)|harden|indurate
+(verb)|change
+curl|8
+(noun)|coil|whorl|roll|curlicue|ringlet|gyre|scroll|round shape
+(noun)|Curl|Robert Curl|Robert F. Curl|Robert Floyd Curl Jr.|chemist
+(noun)|lock|ringlet|whorl|hair
+(verb)|curve|kink|change surface
+(verb)|curl up|draw in|bend|flex
+(verb)|coil|loop|wind|wrap|roll|twine
+(verb)|wave|twist
+(verb)|play
+curt|2
+(adj)|brusque|brusk|short|discourteous 
+(adj)|crisp|laconic|terse|concise 
+cusk|3
+(noun)|saltwater fish
+(noun)|torsk|Brosme brosme|gadoid|gadoid fish
+(noun)|burbot|eelpout|ling|Lota lota|cod|codfish
+cusp|3
+(noun)|point
+(noun)|leaflet|flap
+(noun)|point|tip|peak
+cuss|4
+(noun)|pest|blighter|pesterer|gadfly|tormentor|tormenter|persecutor
+(noun)|chap|fellow|feller|lad|gent|fella|blighter|male|male person
+(noun)|curse|curse word|expletive|oath|swearing|swearword|profanity
+(verb)|curse|blaspheme|swear|imprecate|express|verbalize|verbalise|utter|give tongue to
+cute|2
+(adj)|cunning|attractive 
+(adj)|precious|artful 
+cxlv|1
+(adj)|one hundred forty-five|145|cardinal 
+cxxv|1
+(adj)|one hundred twenty-five|125|cardinal 
+cxxx|1
+(adj)|one hundred thirty|130|cardinal 
+cyan|2
+(adj)|bluish green|blue-green|teal|chromatic 
+(noun)|bluish green|blue-green|teal
+cyma|1
+(noun)|cymatium|molding|moulding
+cyme|1
+(noun)|inflorescence
+cyon|1
+(noun)|Cuon|Cyon|genus Cuon|genus Cyon|mammal genus
+cyst|2
+(noun)|pathology
+(noun)|vesicle|sac
+czar|2
+(noun)|tsar|tzar|sovereign|crowned head|monarch
+(noun)|tyrant|autocrat|despot
