@@ -1,0 +1,1317 @@
+fabricated|1
+(adj)|fancied|fictional|fictitious|invented|made-up|unreal 
+fabricator|1
+(noun)|storyteller|fibber|liar|prevaricator
+fabulously|1
+(adv)|fantastically
+face angle|1
+(noun)|angle
+face cloth|1
+(noun)|washcloth|washrag|flannel|bath linen
+face cream|1
+(noun)|cold cream|coldcream|vanishing cream|cream|ointment|emollient
+face guard|1
+(noun)|face mask
+face saver|1
+(noun)|face saving|accomplishment|achievement
+face towel|1
+(noun)|hand towel|towel
+face value|2
+(noun)|par value|nominal value|value
+(noun)|semblance|gloss|color|colour
+facilitate|3
+(verb)|ease|alleviate|help|assist|aid
+(verb)|help|serve
+(verb)|cause|do|make
+factitious|1
+(adj)|artificial |unreal
+factor iii|1
+(noun)|thromboplastin|thrombokinase|factor III|coagulation factor|clotting factor
+factor out|1
+(verb)|factor|factor in|calculate|cipher|cypher|compute|work out|reckon|figure
+factor vii|1
+(noun)|proconvertin|cothromboplastin|stable factor|factor VII|coagulation factor|clotting factor
+factor xii|1
+(noun)|Hageman factor|factor XII|coagulation factor|clotting factor
+factuality|1
+(noun)|factualness|quality
+fahrenheit|1
+(noun)|Fahrenheit|Gabriel Daniel Fahrenheit|physicist
+fair catch|1
+(noun)|catch|grab|snatch|snap
+fairground|1
+(noun)|tract|piece of land|piece of ground|parcel of land|parcel
+fairy bell|1
+(noun)|common foxglove|fingerflower|finger-flower|fingerroot|finger-root|Digitalis purpurea|foxglove|digitalis
+fairy ring|1
+(noun)|fairy circle|ring|halo|annulus|anulus|doughnut|anchor ring
+fairy tale|3
+(noun)|fairytale|fairy story|narrative|narration|story|tale
+(noun)|fairytale|fairy story|cock-and-bull story|song and dance|fib|story|tale|tarradiddle|taradiddle
+(noun)|                                                                         
+faisalabad|1
+(noun)|Faisalabad|Lyallpur|city|metropolis|urban center
+faith cure|1
+(noun)|faith healing|care|attention|aid|tending
+faithfully|1
+(adv)|dependably|reliably
+falconidae|1
+(noun)|Falconidae|family Falconidae|bird family
+fall-board|2
+(noun)|fall board|protective covering|protective cover|protection
+(noun)|                                                                         
+fall apart|4
+(verb)|go to pieces|break down|lose it|snap
+(verb)|break|wear|wear out|bust|decay|crumble|delapidate
+(verb)|crumble|disintegrate
+(verb)|break|separate|split up|come apart|change integrity
+fall board|2
+(noun)|fall-board|protective covering|protective cover|protection
+(noun)|                                                                         
+fall short|1
+(verb)|come short|disappoint|let down
+fall under|1
+(verb)|fall into|constitute|represent|make up|comprise|be
+fallacious|3
+(adj)|unsound|invalid 
+(adj)|deceitful|fraudulent|dishonest |dishonorable
+(adj)|incorrect 
+false face|1
+(noun)|mask
+false hair|1
+(noun)|hairpiece|postiche|attire|garb|dress
+false name|1
+(noun)|alias|assumed name|name
+false sago|1
+(noun)|fern palm|Cycas circinalis|sago palm|Cycas revoluta
+false smut|1
+(noun)|green smut|smut
+falsifying|1
+(noun)|falsification|disproof|refutation|determination|finding
+falun gong|1
+(noun)|movement|social movement|front
+family man|1
+(noun)|husband|hubby|married man
+famishment|1
+(noun)|starvation|hunger|hungriness
+famotidine|1
+(noun)|Pepcid|histamine blocker
+fan letter|1
+(noun)|letter|missive
+fanaticism|1
+(noun)|zealotry|intolerance
+fancied up|1
+(adj)|gussied|gussied up|tricked out|adorned |decorated
+fancifully|1
+(adv)|whimsically
+fancy-free|1
+(adj)|uncommitted 
+fannie mae|1
+(noun)|Federal National Mortgage Association|Fannie Mae|FNMA|corporation|corp
+fanny pack|1
+(noun)|butt pack|waist pack|belt bag
+fare-stage|1
+(noun)|stage|leg
+farfetched|1
+(adj)|implausible|unlikely 
+farm-place|2
+(noun)|farmplace|farmstead|farm
+(noun)|                                                                         
+farm horse|1
+(noun)|dobbin|workhorse
+farmerette|1
+(noun)|farmhand|fieldhand|field hand|farm worker
+farmington|2
+(noun)|Farmington|town
+(noun)|Farmington|town
+farsighted|2
+(adj)|farsighted |presbyopic|eagle-eyed|keen-sighted|farseeing|longsighted|hyperopic|hypermetropic|telescopic
+(adj)|farseeing|foresighted|foresightful|long|longsighted|provident 
+fasciculus|1
+(noun)|fiber bundle|fibre bundle|fascicle|nervous tissue|nerve tissue
+fascinated|2
+(adj)|hypnotized|hypnotised|mesmerized|mesmerised|spellbound|transfixed|enchanted 
+(adj)|interested 
+fashioning|1
+(noun)|devising|making|production
+fast-paced|1
+(adj)|fast 
+fast break|1
+(noun)|break
+fast of ab|1
+(noun)|Tishah b'Av|Tishah b'Ab|Tisha b'Av|Tisha b'Ab|Ninth of Av|Ninth of Ab|Fast of Av|Fast of Ab|Jewish holy day
+fast of av|1
+(noun)|Tishah b'Av|Tishah b'Ab|Tisha b'Av|Tisha b'Ab|Ninth of Av|Ninth of Ab|Fast of Av|Fast of Ab|Jewish holy day
+fast track|1
+(noun)|means|agency|way
+fastidious|2
+(adj)|fastidious |choosy|choosey|dainty|nice|overnice|prissy|squeamish|finical|finicky|fussy|particular|old-maidish|old-womanish|meticulous|picky|pernickety|persnickety|refined|tidy
+(adj)|fastidious |exacting
+fastigiate|1
+(adj)|erect |vertical|upright
+fat chance|1
+(noun)|slim chance|probability|chance
+fat person|1
+(noun)|fatso|fatty|roly-poly|butterball|large person
+fatalistic|2
+(adj)|fatalist|necessitarian
+(adj)|fatalist|determinism
+father-god|1
+(noun)|Father|Father-God|Fatherhood|hypostasis
+fatherhood|4
+(noun)|paternity|kinship|family relationship|relationship
+(noun)|Father|Father-God|Fatherhood|hypostasis
+(noun)|position|post|berth|office|spot|billet|place|situation
+(noun)|position|post|berth|office|spot|billet|place|situation
+fatherland|1
+(noun)|homeland|motherland|mother country|country of origin|native land|country|state|land
+fatherless|2
+(adj)|unparented |parentless
+(adj)|illegitimate 
+fatherlike|1
+(adj)|fatherly|paternal 
+fathomable|2
+(adj)|fathomable |plumbable|soundable
+(adj)|comprehensible |comprehendible
+fathometer|1
+(noun)|sonic depth finder|depth finder
+fatten out|1
+(verb)|fatten|fat|flesh out|fill out|plump|plump out|fatten up|change|alter|modify
+fatty acid|1
+(noun)|carboxylic acid
+fault line|1
+(noun)|line
+faultiness|1
+(noun)|defectiveness|imperfection|imperfectness
+fauntleroy|1
+(noun)|Fauntleroy|Little Lord Fauntleroy|male child|boy
+favoritism|2
+(noun)|favouritism|inclination|disposition|tendency
+(noun)|discrimination|favouritism|social control
+favourable|4
+(adj)|favorable |approving|approbative|approbatory|plausive|indulgent|pleasing|affirmative|affirmatory|complimentary|good
+(adj)|favorable |following|propitious
+(adj)|favorable|opportune|convenient 
+(adj)|auspicious|encouraging|favorable|lucky|prosperous|propitious 
+favourably|1
+(adv)|favorably
+fearlessly|1
+(adv)|dauntlessly|intrepidly
+featherbed|3
+(noun)|feather bed|mattress
+(verb)|pamper|cosset|cocker|baby|coddle|mollycoddle|spoil|indulge|treat|handle|do by
+(verb)|hire|engage|employ
+feathering|1
+(noun)|feather|rotation|rotary motion
+feathertop|2
+(noun)|feathertop grass|Pennistum villosum|grass
+(noun)|feather reed grass|Calamagrostis acutiflora|reed grass
+february 2|1
+(noun)|Groundhog Day|February 2|day
+fecklessly|1
+(adv)|ineptly
+federalise|3
+(verb)|federalize|decentralize|deconcentrate|decentralise
+(verb)|federate|federalize|unify|unite|merge
+(verb)|federate|federalize|unite|unify
+federalism|1
+(noun)|political orientation|ideology|political theory
+federalist|2
+(noun)|Federalist|politician|politico|pol|political leader
+(noun)|advocate|advocator|proponent|exponent
+federalize|3
+(verb)|federate|federalise|unite|unify
+(verb)|federalise|decentralize|deconcentrate|decentralise
+(verb)|federate|federalise|unify|unite|merge
+federation|3
+(noun)|organization|organisation
+(noun)|confederation|confederacy|union
+(noun)|constitution|establishment|formation|organization|organisation
+fee simple|1
+(noun)|fee
+feebleness|2
+(noun)|infirmity|frailty|debility|frailness|unfitness|poor shape|bad condition
+(noun)|tenuity|weakness
+feed grain|1
+(noun)|feed|provender
+felicitate|1
+(verb)|congratulate|wish|bid
+felicitous|2
+(adj)|felicitous |congratulatory|gratulatory|happy|well-chosen|well-turned|well-wishing|happy
+(adj)|happy|fortunate 
+felis onca|1
+(noun)|jaguar|panther|Panthera onca|Felis onca|big cat|cat
+fellowship|3
+(noun)|family|association
+(noun)|company|companionship|society|friendship|friendly relationship
+(noun)|aid|economic aid|prize|award
+felo-de-se|2
+(noun)|suicide|killer|slayer
+(noun)|suicide|self-destruction|self-annihilation
+femaleness|1
+(noun)|feminineness|sex|gender|sexuality
+femininity|1
+(noun)|muliebrity|trait
+femtometer|1
+(noun)|femtometre|fermi|metric linear unit
+femtometre|1
+(noun)|femtometer|fermi|metric linear unit
+fen orchid|1
+(noun)|fen orchis|Liparis loeselii|orchid|orchidaceous plant
+fen orchis|1
+(noun)|fen orchid|Liparis loeselii|orchid|orchidaceous plant
+fence line|1
+(noun)|boundary line|border|borderline|delimitation|mete
+fence rail|1
+(noun)|split rail|rail
+fenestella|1
+(noun)|lunette|opening
+fenoprofen|1
+(noun)|fenoprofen calcium|Nalfon|nonsteroidal anti-inflammatory|nonsteroidal anti-inflammatory drug|NSAID
+fermenting|1
+(noun)|zymosis|zymolysis|fermentation|ferment|chemical process|chemical change|chemical action
+fern genus|1
+(noun)|genus
+ferocactus|1
+(noun)|Ferocactus|genus Ferocactus|caryophylloid dicot genus
+ferret out|1
+(verb)|ferret|discover|find
+fertilised|1
+(adj)|fertilized|impregnated|inseminated|fertile 
+fertiliser|1
+(noun)|fertilizer|plant food|chemical
+fertilized|1
+(adj)|fertilised|impregnated|inseminated|fertile 
+fertilizer|1
+(noun)|fertiliser|plant food|chemical
+fervidness|1
+(noun)|ardor|ardour|fervor|fervour|fervency|fire|passion|passionateness
+festoonery|1
+(noun)|festoon|flower chain
+fetterbush|2
+(noun)|mountain fetterbush|mountain andromeda|Pieris floribunda|shrub|bush
+(noun)|fetter bush|shiny lyonia|Lyonia lucida|shrub|bush
+fettuccine|1
+(noun)|fettuccini|pasta|alimentary paste
+fettuccini|1
+(noun)|fettuccine|pasta|alimentary paste
+fever tree|4
+(noun)|tree
+(noun)|Georgia bark|bitter-bark|Pinckneya pubens|shrub|bush
+(noun)|blue gum|Eucalyptus globulus|eucalyptus|eucalypt|eucalyptus tree
+(noun)|Acacia xanthophloea|acacia
+fiat money|1
+(noun)|paper money|folding money|paper currency
+fiberboard|1
+(noun)|fibreboard|particle board|wallboard
+fiberglass|1
+(noun)|fibreglass|covering material
+fiberoptic|1
+(adj)|fiber-optic|fibre-optic|fibreoptic|transmission
+fiberscope|1
+(noun)|medical instrument
+fibreboard|1
+(noun)|fiberboard|particle board|wallboard
+fibreglass|1
+(noun)|fiberglass|covering material
+fibreoptic|1
+(adj)|fiber-optic|fiberoptic|fibre-optic|transmission
+fibrillate|1
+(verb)|twitch|jerk
+fibrillose|1
+(adj)|fiber|fibre
+fibrinogen|1
+(noun)|factor I|coagulation factor|clotting factor
+fibroblast|1
+(noun)|embryonic cell|formative cell
+fibrositis|1
+(noun)|inflammation|redness|rubor
+fickleness|1
+(noun)|faithlessness|falseness|inconstancy|infidelity|unfaithfulness
+fictitious|2
+(adj)|fabricated|fancied|fictional|invented|made-up|unreal 
+(adj)|assumed|false|fictive|pretended|put on|sham|counterfeit |imitative
+fiddlehead|2
+(noun)|ostrich fern|shuttlecock fern|Matteuccia struthiopteris|Pteretis struthiopteris|Onoclea struthiopteris|fern
+(noun)|cinnamon fern|fiddlehead fern|Osmunda cinnamonea|flowering fern|osmund
+fiddleneck|1
+(noun)|Phacelia tanacetifolia|scorpionweed|scorpion weed|phacelia
+field-test|1
+(verb)|test|prove|try|try out|examine|essay
+field balm|2
+(noun)|ground ivy|alehoof|gill-over-the-ground|runaway robin|Glechoma hederaceae|Nepeta hederaceae|vine
+(noun)|lesser calamint|Calamintha nepeta|Calamintha nepeta glantulosa|Satureja nepeta|Satureja calamintha glandulosa|calamint
+field bean|1
+(noun)|broad bean|broad-bean|broad-bean plant|English bean|European bean|Vicia faba|shell bean|shell bean plant
+field coil|1
+(noun)|field winding|coil
+field corn|1
+(noun)|corn|maize|Indian corn|Zea mays
+field game|1
+(noun)|outdoor game
+field goal|2
+(noun)|score
+(noun)|basket|score
+field hand|2
+(noun)|farmhand|fieldhand|farm worker|hired hand|hand|hired man
+(noun)|                                                                         
+field lens|1
+(noun)|lens|lense|lens system
+field line|1
+(noun)|line of force|line
+field mint|1
+(noun)|corn mint|Mentha arvensis|mint
+field tent|1
+(noun)|canvas tent|canvas|canvass
+field test|1
+(noun)|field trial|trial|trial run|test|tryout
+field trip|1
+(noun)|excursion|jaunt|outing|junket|pleasure trip|expedition|sashay
+field work|2
+(noun)|research
+(noun)|fieldwork|fortification|munition
+fieldmouse|1
+(noun)|field mouse|mouse
+fieldstone|1
+(noun)|rock|stone
+fiendishly|1
+(adv)|diabolically|devilishly
+fierceness|1
+(noun)|ferocity|furiousness|fury|vehemence|violence|wildness|intensity|intensiveness
+fifth part|1
+(noun)|one-fifth|fifth|twenty percent|common fraction|simple fraction
+fifty-five|1
+(adj)|55|lv|cardinal 
+fifty-four|1
+(adj)|54|liv|cardinal 
+fifty-nine|1
+(adj)|59|ilx|cardinal 
+fight back|2
+(verb)|fight|struggle
+(verb)|fight|oppose|fight down|defend|fight|struggle
+fight down|1
+(verb)|fight|oppose|fight back|defend|fight|struggle
+figuration|2
+(noun)|representation
+(noun)|decoration
+figurative|2
+(adj)|figurative |nonliteral|analogical|extended|metaphorical|metaphoric|metonymic|metonymical|poetic|synecdochic|synecdochical|tropical|rhetorical
+(adj)|figural|representational 
+figure out|1
+(verb)|solve|work out|puzzle out|lick|work|understand
+figurehead|2
+(noun)|front man|front|nominal head|straw man|strawman|deceiver|cheat|cheater|trickster|beguiler|slicker
+(noun)|figure
+filariasis|1
+(noun)|disease
+filariidae|1
+(noun)|Filariidae|family Filariidae|worm family
+file clerk|1
+(noun)|filing clerk|filer|clerk
+filibuster|3
+(noun)|filibusterer|legislator|delayer
+(noun)|delay|holdup
+(verb)|obstruct|blockade|block|hinder|stymie|stymy|embarrass
+fill again|1
+(verb)|replenish|refill|fill|fill up|make full
+film maker|2
+(noun)|filmmaker|film producer|movie maker|producer
+(noun)|                                                                         
+filmy fern|2
+(noun)|bristle fern|fern
+(noun)|film fern|fern
+filter bed|1
+(noun)|filter
+filter out|1
+(verb)|filter|filtrate|strain|separate out|separate
+filter tip|1
+(noun)|air filter|air cleaner
+filthiness|1
+(noun)|filth|foulness|nastiness|unsanitariness
+filtration|2
+(noun)|natural process|natural action|action|activity
+(noun)|change
+final exam|1
+(noun)|final examination|final|examination|exam|test
+find fault|1
+(verb)|blame|pick|knock|criticize|criticise|pick apart
+fine-drawn|1
+(adj)|thin |lean
+fine-tooth|1
+(adj)|fine-toothed|toothed 
+fine print|2
+(noun)|small print|reservation|qualification
+(noun)|small print|print|black and white
+fine spray|1
+(noun)|precipitation|downfall
+fingerless|1
+(adj)|fingerless 
+fingerlike|1
+(adj)|digitate|fingered 
+fingerling|1
+(noun)|fish
+fingermark|1
+(noun)|fingerprint|smudge|spot|blot|daub|smear|smirch|slur
+fingernail|1
+(noun)|nail
+fingerpost|1
+(noun)|fingerboard|signpost|guidepost
+fingerroot|1
+(noun)|common foxglove|fairy bell|fingerflower|finger-flower|finger-root|Digitalis purpurea|foxglove|digitalis
+finish off|1
+(verb)|get through|wrap up|mop up|polish off|clear up|finish up|complete|finish
+finish out|1
+(verb)|round out|complete|finish
+finiteness|1
+(noun)|finitude|boundedness|quality
+fire-eater|3
+(noun)|fireman|firefighter|fire fighter|defender|guardian|protector|shielder
+(noun)|hothead|grouch|grump|crank|churl|crosspatch
+(noun)|fire-swallower|performer|performing artist
+fire-wheel|2
+(noun)|blanket flower|Indian blanket|fire wheel|Gaillardia pulchella|gaillardia
+(noun)|                                                                         
+fire alarm|2
+(noun)|alarm|alert|warning signal|alarum
+(noun)|smoke alarm|alarm|warning device|alarm system
+fire chief|1
+(noun)|fire marshal|fireman|firefighter|fire fighter|fire-eater
+fire drill|1
+(noun)|exercise|practice|drill|practice session|recitation
+fire thorn|2
+(noun)|Pyracantha|pyracanth|firethorn|shrub|bush
+(noun)|                                                                         
+fire tongs|1
+(noun)|coal tongs|tongs|pair of tongs|fire iron
+fire tower|1
+(noun)|watchtower
+fire truck|1
+(noun)|fire engine|truck|motortruck
+fire wheel|2
+(noun)|blanket flower|Indian blanket|fire-wheel|Gaillardia pulchella|gaillardia
+(noun)|                                                                         
+firing off|1
+(noun)|discharge|firing|shooting|shot
+firing pin|1
+(noun)|striker
+first-rate|2
+(adj)|ace|A-one|crack|super|tiptop|topnotch|tops|superior 
+(adv)|very well
+first-year|1
+(adj)|freshman|first 
+first base|3
+(noun)|base|bag
+(noun)|first|position
+(noun)|first step|initiative|opening move|opening
+first gear|1
+(noun)|first|low gear|low|gear|gear mechanism
+first half|1
+(noun)|half
+first lady|2
+(noun)|achiever|winner|success|succeeder
+(noun)|wife|married woman
+first mate|1
+(noun)|mate|officer|ship's officer
+first name|1
+(noun)|given name|forename|name
+first step|1
+(noun)|initiative|opening move|opening|beginning|start|commencement
+first team|1
+(noun)|varsity|team|squad
+fish eagle|1
+(noun)|osprey|fish hawk|sea eagle|Pandion haliaetus|hawk
+fish filet|1
+(noun)|fillet|filet|fish fillet|piece|slice
+fish genus|1
+(noun)|genus
+fish joint|1
+(noun)|butt joint|butt
+fish knife|1
+(noun)|table knife
+fish louse|1
+(noun)|copepod|copepod crustacean
+fish scale|1
+(noun)|scale
+fish slice|1
+(noun)|turner|food turner
+fish steak|1
+(noun)|steak
+fish stick|1
+(noun)|fish finger|dish
+fisher cat|1
+(noun)|fisher|pekan|black cat|Martes pennanti|marten|marten cat
+fishmonger|1
+(noun)|fishwife|trader|bargainer|dealer|monger
+fissipedia|1
+(noun)|Fissipedia|placental|placental mammal|eutherian|eutherian mammal
+fissurella|1
+(noun)|Fissurella|genus Fissurella|mollusk genus
+fisticuffs|2
+(noun)|fistfight|slugfest|fight|fighting|combat|scrap
+(noun)|boxing|pugilism|contact sport
+fistularia|1
+(noun)|Fistularia|genus Fistularia|fish genus
+fitfulness|1
+(noun)|jerkiness|irregularity|unregularity
+fitted out|3
+(adj)|equipped|seaworthy 
+(adj)|equipped|prepared 
+(adj)|outfitted|furnished |equipped
+fitzgerald|3
+(noun)|Fitzgerald|Edward Fitzgerald|poet|interpreter|translator
+(noun)|Fitzgerald|F. Scott Fitzgerald|Francis Scott Key Fitzgerald|writer|author
+(noun)|Fitzgerald|Ella Fitzgerald|singer|vocalist|vocalizer|vocaliser
+fixed cost|1
+(noun)|fixed charge|fixed costs|charge
+fixed disk|1
+(noun)|hard disc|hard disk|magnetic disk|magnetic disc|disk|disc
+fixed star|1
+(noun)|star
+fizzle out|1
+(verb)|taper off|peter out|fizzle|discontinue
+flabbiness|1
+(noun)|limpness|flaccidity|softness
+flaccidity|1
+(noun)|flabbiness|limpness|softness
+flacourtia|1
+(noun)|Flacourtia|genus Flacourtia|dilleniid dicot genus
+flag-waver|1
+(noun)|chauvinist|jingoist|jingo|hundred-percenter|patrioteer|patriot|nationalist
+flagellant|2
+(noun)|masochist
+(noun)|penitent
+flagellata|1
+(noun)|Mastigophora|class Mastigophora|Flagellata|class Flagellata|class
+flagellate|3
+(adj)|flagellated|whiplike|process|outgrowth|appendage
+(noun)|flagellate protozoan|flagellated protozoan|mastigophoran|mastigophore|protozoan|protozoon
+(verb)|scourge|flog|welt|whip|lather|lash|slash|strap|trounce
+flagitious|1
+(adj)|atrocious|grievous|heinous|monstrous|evil |wicked
+flamboyant|3
+(adj)|aureate|florid|showy|fancy 
+(adj)|resplendent|unrestrained|colorful 
+(noun)|royal poinciana|flame tree|peacock flower|Delonix regia|Poinciana regia|angiospermous tree|flowering tree
+flame bush|1
+(noun)|coral bush|Templetonia retusa|shrub|bush
+flame cell|1
+(noun)|excretory organ|urinary organ
+flame fish|2
+(noun)|flamefish|Apogon maculatus|cardinalfish
+(noun)|                                                                         
+flame tree|5
+(noun)|fire tree|Christmas tree|Nuytsia floribunda|parasitic plant
+(noun)|royal poinciana|flamboyant|peacock flower|Delonix regia|Poinciana regia|angiospermous tree|flowering tree
+(noun)|broad-leaved bottletree|Brachychiton australis|bottle-tree|bottle tree
+(noun)|flame durrajong|Brachychiton acerifolius|Sterculia acerifolia|bottle-tree|bottle tree
+(noun)|huisache|cassie|mimosa bush|sweet wattle|sweet acacia|scented wattle|Acacia farnesiana|acacia
+flameproof|1
+(adj)|flame-retardant|noncombustible |incombustible
+flammulina|1
+(noun)|Flammulina|genus Flammulina|fungus genus
+flare pass|1
+(noun)|flare|forward pass|aerial
+flare path|1
+(noun)|airstrip|flight strip|landing strip|strip
+flare star|1
+(noun)|red dwarf|red dwarf star
+flash back|1
+(verb)|cut back|return|go back|get back|come back
+flash bulb|2
+(noun)|flash|photoflash|flash lamp|flashgun|flashbulb|lamp|photographic equipment
+(noun)|                                                                         
+flash card|2
+(noun)|flashcard|poster|posting|placard|notice|bill|card
+(noun)|                                                                         
+flash lamp|1
+(noun)|flash|photoflash|flashgun|flashbulb|flash bulb|lamp|photographic equipment
+flashboard|1
+(noun)|flashboarding|boarding
+flashflood|1
+(noun)|flash flood|flood|inundation|deluge|alluvion
+flashiness|1
+(noun)|garishness|gaudiness|loudness|brashness|meretriciousness|tawdriness|glitz|tastelessness
+flashlight|1
+(noun)|torch|electric lamp
+flashpoint|2
+(noun)|flash point|criticality
+(noun)|flash point|temperature
+flat bench|1
+(noun)|bench
+flat solid|1
+(noun)|sheet|artifact|artefact
+flatbottom|1
+(adj)|flatbottomed|even 
+flattering|1
+(adj)|flattering |adulatory|becoming|ingratiating|ingratiatory
+flatulence|2
+(noun)|flatulency|gas|physiological state|physiological condition
+(noun)|turgidity|turgidness|prolixity|prolixness|long-windedness|wordiness
+flatulency|1
+(noun)|flatulence|gas|physiological state|physiological condition
+flavivirus|1
+(noun)|animal virus
+flavorless|1
+(adj)|bland|flat|flavourless|insipid|savorless|savourless|vapid|tasteless 
+flavorsome|1
+(adj)|flavorful|flavourful|flavorous|flavourous|flavoursome|sapid|saporous|tasteful 
+flavourful|1
+(adj)|flavorful|flavorous|flavourous|flavorsome|flavoursome|sapid|saporous|tasteful 
+flavouring|1
+(noun)|flavorer|flavourer|flavoring|seasoner|seasoning|ingredient|fixings
+flavourous|1
+(adj)|flavorful|flavourful|flavorous|flavorsome|flavoursome|sapid|saporous|tasteful 
+flawlessly|1
+(adv)|cleanly
+flecainide|1
+(noun)|Tambocor|antiarrhythmic|antiarrhythmic drug|antiarrhythmic medication
+fledgeless|1
+(adj)|unfledged|unvaned|unfeathered |featherless
+fledgeling|3
+(adj)|fledgling|fledged |mature
+(noun)|newcomer|fledgling|starter|neophyte|freshman|newbie|entrant|novice|beginner|tyro|tiro|initiate
+(noun)|fledgling|young bird
+fleeceable|1
+(adj)|green|gullible|naive |naif
+fleshiness|1
+(noun)|obesity|fatness|fat|blubber|avoirdupois
+flickering|1
+(adj)|aflicker|unsteady 
+flightless|1
+(adj)|wingless 
+flimsiness|1
+(noun)|shoddiness|weakness
+flindersia|1
+(noun)|Flindersia|genus Flindersia|rosid dicot genus
+flint corn|1
+(noun)|flint maize|Yankee corn|Zea mays indurata|field corn
+flintstone|1
+(noun)|flint
+flip chart|1
+(noun)|chart
+flippantly|1
+(adv)|airily
+flirt with|1
+(verb)|entertain|think of|toy with|think about|contemplate
+flirtation|1
+(noun)|flirt|flirting|coquetry|dalliance|toying|play|frolic|romp|gambol|caper
+floatation|2
+(noun)|flotation|physical phenomenon
+(noun)|flotation|finance
+floatplane|1
+(noun)|pontoon plane|seaplane|hydroplane
+flocculate|2
+(verb)|change|alter|modify
+(verb)|change
+flocculent|1
+(adj)|woolly|wooly|soft 
+flood lamp|1
+(noun)|flood|floodlight|photoflood|light|light source
+flood tide|2
+(noun)|climax|juncture|occasion
+(noun)|rising tide|tide
+floodlight|2
+(noun)|flood|flood lamp|photoflood|light|light source
+(verb)|light|illume|illumine|light up|illuminate
+floodplain|1
+(noun)|flood plain|plain|field|champaign
+floor lamp|1
+(noun)|lamp
+floor plan|1
+(noun)|plan|architectural plan
+floor show|2
+(noun)|cabaret|floorshow|show
+(noun)|                                                                         
+floorboard|2
+(noun)|floor board|board
+(noun)|floor|flooring
+floral cup|1
+(noun)|hypanthium|calyx tube|plant organ
+florentine|1
+(adj)|Florentine|city|metropolis|urban center
+floridness|1
+(noun)|flamboyance|showiness|ornateness|elaborateness
+flour corn|1
+(noun)|soft corn|squaw corn|Zea mays amylacea|field corn
+flour mill|1
+(noun)|mill|grinder
+flow chart|2
+(noun)|flowchart|flow diagram|flow sheet|multidimensional language
+(noun)|                                                                         
+flow sheet|1
+(noun)|flow chart|flowchart|flow diagram|multidimensional language
+flower bed|2
+(noun)|flowerbed|bed of flowers|bed
+(noun)|                                                                         
+flower bud|1
+(noun)|bud
+fluffiness|1
+(noun)|downiness|featheriness|softness
+flugelhorn|1
+(noun)|fluegelhorn|brass
+fluid dram|2
+(noun)|fluidram|fluid drachm|drachm|British capacity unit|Imperial capacity unit
+(noun)|fluidram|fluid drachm|drachm|United States liquid unit
+fluidounce|2
+(noun)|fluid ounce|British capacity unit|Imperial capacity unit
+(noun)|fluid ounce|United States liquid unit
+flump down|1
+(verb)|flump|drop
+fluoridate|1
+(verb)|fluoridize|fluoridise|process|treat
+fluoridise|1
+(verb)|fluoridate|fluoridize|process|treat
+fluoridize|1
+(verb)|fluoridate|fluoridise|process|treat
+fluoroform|1
+(noun)|trifluoromethane|haloform
+fluoxetine|1
+(noun)|Prozac|selective-serotonin reuptake inhibitor|SSRI
+flurazepam|1
+(noun)|flurazepam hydrochloride|Dalmane|minor tranquilizer|minor tranquillizer|minor tranquilliser|antianxiety drug|anxiolytic|anxiolytic drug
+flush down|1
+(verb)|wash down|flush
+fluttering|1
+(noun)|flap|flapping|flutter|wave|undulation
+fly agaric|1
+(noun)|Amanita muscaria|agaric
+fly bridge|2
+(noun)|flying bridge|flybridge|monkey bridge|bridge|bridge deck
+(noun)|                                                                         
+fly orchid|2
+(noun)|orchid|orchidaceous plant
+(noun)|Ophrys insectifera|Ophrys muscifera|orchid|orchidaceous plant
+fly poison|1
+(noun)|Amianthum muscaetoxicum|Amianthum muscitoxicum|liliaceous plant
+flycatcher|2
+(noun)|Old World flycatcher|true flycatcher|oscine|oscine bird
+(noun)|New World flycatcher|tyrant flycatcher|tyrant bird|tyrannid
+flying cat|2
+(noun)|flying lemur|colugo|placental|placental mammal|eutherian|eutherian mammal
+(noun)|taguan|flying marmot|Petaurista petaurista|Asiatic flying squirrel
+flying fox|1
+(noun)|fruit bat|megabat
+flying jib|1
+(noun)|jib
+flyswatter|1
+(noun)|swatter|flyswat|implement
+foamflower|1
+(noun)|coolwart|false miterwort|false mitrewort|Tiarella cordifolia|herb|herbaceous plant
+foeniculum|1
+(noun)|Foeniculum|genus Foeniculum|rosid dicot genus
+foetometry|1
+(noun)|fetometry|measurement|measuring|measure|mensuration
+foetoscope|1
+(noun)|fetoscope|stethoscope
+foetoscopy|1
+(noun)|fetoscopy|prenatal diagnosis
+foliaceous|3
+(adj)|plant organ
+(adj)|foliose|foliaged|leafy 
+(adj)|foliate|foliated|stratified |bedded
+folic acid|1
+(noun)|vitamin Bc|vitamin M|folate|folacin|pteroylglutamic acid|pteroylmonoglutamic acid|B-complex vitamin|B complex|vitamin B complex|vitamin B|B vitamin|B
+folk dance|2
+(noun)|folk dancing|social dancing
+(verb)|dance|trip the light fantastic|trip the light fantastic toe
+folk music|1
+(noun)|ethnic music|folk|popular music|popular music genre
+follicular|1
+(adj)|vesicle|cyst
+follow out|1
+(verb)|follow through|follow up|carry out|implement|put through|go through|complete|finish
+fontanelle|1
+(noun)|fontanel|soft spot|orifice|opening|porta
+food cache|1
+(noun)|commissariat|provisions|provender|viands|victuals
+food chain|1
+(noun)|organic phenomenon
+food color|1
+(noun)|coloring|colouring|food coloring|food colouring|food colour|foodstuff|food product
+food cycle|1
+(noun)|food web|organic phenomenon
+food grain|1
+(noun)|grain|cereal|foodstuff|food product
+food stamp|1
+(noun)|tender|legal tender
+food waste|1
+(noun)|garbage|refuse|scraps|waste|waste material|waste matter|waste product
+fool's cap|1
+(noun)|dunce cap|dunce's cap|hat|chapeau|lid
+foot-pound|1
+(noun)|work unit|heat unit|energy unit
+foot brake|1
+(noun)|hydraulic brake|hydraulic brakes
+foot lever|1
+(noun)|pedal|treadle|foot pedal|lever
+foot pedal|1
+(noun)|pedal|treadle|foot lever|lever
+footballer|1
+(noun)|football player|athlete|jock|player|participant
+footbridge|1
+(noun)|overcrossing|pedestrian bridge|bridge|span
+footcandle|1
+(noun)|illumination unit
+footedness|1
+(noun)|asymmetry|imbalance
+footlights|2
+(noun)|footlight|theater light
+(noun)|footlight|theater light
+footlocker|1
+(noun)|locker|trunk
+for a song|1
+(adv)|for a bargain price|at a low price
+foray into|1
+(verb)|raid|intrude on|invade|obtrude upon|encroach upon
+forbearing|1
+(adj)|longanimous|patient 
+forbidding|3
+(adj)|dour|grim|unpleasant 
+(adj)|baleful|menacing|minacious|minatory|ominous|sinister|threatening|ugly|alarming 
+(noun)|ban|banning|forbiddance|prohibition
+force-feed|1
+(verb)|feed|give
+force-land|1
+(verb)|land|set down
+force back|1
+(verb)|repel|drive|repulse|push back|beat back|push|force
+force feed|1
+(noun)|lubricating system|force-feed lubricating system|pressure-feed lubricating system|pressure feed|mechanical system
+force pump|1
+(noun)|pump
+force unit|1
+(noun)|unit of measurement|unit
+fore plane|1
+(noun)|plane|carpenter's plane|woodworking plane
+foreboding|3
+(adj)|fateful|portentous|prophetic |prophetical
+(noun)|premonition|presentiment|boding|apprehension|apprehensiveness|dread
+(noun)|omen|portent|presage|prognostic|prognostication|prodigy
+forecaster|1
+(noun)|predictor|prognosticator|soothsayer|visionary|illusionist|seer
+forecastle|1
+(noun)|fo'c'sle|living quarters|quarters
+forefather|2
+(noun)|father|sire|ancestor|ascendant|ascendent|antecedent|root
+(noun)|predecessor
+forefinger|1
+(noun)|index|index finger|finger
+foregather|1
+(verb)|meet|gather|assemble|forgather|interact
+foreground|3
+(noun)|view|aspect|prospect|scene|vista|panorama
+(noun)|window
+(verb)|highlight|spotlight|play up|bring out|set off
+forehanded|2
+(adj)|forehand 
+(adj)|provident 
+foremother|1
+(noun)|ancestor|ascendant|ascendent|antecedent|root
+foreordain|2
+(verb)|predestine|predestinate|predetermine
+(verb)|predestine|preordain|predetermine
+foreperson|1
+(noun)|juror|juryman|jurywoman
+forerunner|3
+(noun)|antecedent|temporal relation
+(noun)|precursor|person|individual|someone|somebody|mortal|human|soul
+(noun)|harbinger|herald|precursor|indication|indicant
+foreshadow|1
+(verb)|bode|portend|auspicate|prognosticate|omen|presage|betoken|augur|foretell|prefigure|forecast|predict|bespeak|betoken|indicate|point|signal
+forest god|1
+(noun)|satyr|Greek deity
+forestiera|1
+(noun)|shrub|bush
+forfeiture|3
+(noun)|forfeit|loss
+(noun)|forfeit|penalty
+(noun)|forfeit|sacrifice|act|human action|human activity
+forgivable|1
+(adj)|excusable|venial|pardonable 
+forgivably|1
+(adv)|excusably|pardonably
+form class|1
+(noun)|part of speech|word class|grammatical category|syntactic category
+form genus|2
+(noun)|genus
+(noun)|genus
+formalised|2
+(adj)|formalistic|formalized|practice|pattern
+(adj)|formalized|official 
+formalized|2
+(adj)|formalistic|formalised|practice|pattern
+(adj)|formalised|official 
+formalness|1
+(noun)|formality|manner|personal manner
+formalwear|1
+(noun)|eveningwear|evening dress|evening clothes|attire|garb|dress
+formatting|1
+(noun)|format|data format|data formatting|information|info
+formicidae|1
+(noun)|Formicidae|family Formicidae|arthropod family
+formidable|2
+(adj)|impressive 
+(adj)|redoubtable|unnerving|alarming 
+formulated|1
+(adj)|developed 
+fornicator|1
+(noun)|adulterer|libertine|debauchee|rounder
+fort meade|1
+(noun)|Fort Meade|Fort George Gordon Meade|Fort George G. Meade|garrison|fort
+fort myers|1
+(noun)|Fort Myers|town
+fort smith|1
+(noun)|Fort Smith|town
+fort wayne|1
+(noun)|Fort Wayne|city|metropolis|urban center
+fort worth|1
+(noun)|Fort Worth|city|metropolis|urban center
+fortemente|1
+(adj)|forte |loud
+forthright|2
+(adj)|blunt|candid|frank|free-spoken|outspoken|plainspoken|point-blank|straight-from-the-shoulder|direct 
+(adv)|squarely|forthrightly
+fortifying|1
+(adj)|strengthening|invigorating 
+fortissimo|3
+(adj)|forte |loud
+(noun)|forte|volume|loudness|intensity
+(adv)|very loudly
+fortuitous|2
+(adj)|causeless|uncaused|unintended 
+(adj)|fortunate 
+fortunella|1
+(noun)|Fortunella|genus Fortunella|rosid dicot genus
+forty-five|2
+(adj)|45|xlv|cardinal 
+(noun)|pistol|handgun|side arm|shooting iron
+forty-four|1
+(adj)|44|xliv|cardinal 
+forty-nine|1
+(adj)|49|il|cardinal 
+forwarding|2
+(noun)|transmission|transmittal|transmitting
+(noun)|furtherance|promotion|advancement|progress
+fossil oil|1
+(noun)|petroleum|crude oil|crude|rock oil|oil|fossil fuel
+fossilised|1
+(adj)|fossilized|ossified|inflexible 
+fossilized|1
+(adj)|fossilised|ossified|inflexible 
+foster-son|1
+(noun)|foster-child|fosterling
+fosterling|1
+(noun)|foster-child|child|kid|youngster|minor|shaver|nipper|small fry|tiddler|tike|tyke|fry|nestling
+foundation|7
+(noun)|relation
+(noun)|financial institution|financial organization|financial organisation
+(noun)|basis|base|fundament|groundwork|cornerstone|assumption|supposition|supposal
+(noun)|base|fundament|foot|groundwork|substructure|understructure|support
+(noun)|grounding|education
+(noun)|foundation garment|undergarment
+(noun)|initiation|founding|institution|origination|creation|innovation|introduction|instauration|beginning|start|commencement
+foundering|1
+(noun)|going under|sinking
+fouquieria|1
+(noun)|Fouquieria|genus Fouquieria|dilleniid dicot genus
+four-party|1
+(adj)|quadripartite|multilateral |many-sided
+four-sided|1
+(adj)|quadrilateral|multilateral |many-sided
+four-wheel|1
+(adj)|four-wheeled|machine|simple machine
+four flush|1
+(noun)|bluff|deception|deceit|dissembling|dissimulation
+four times|1
+(adv)|fourfold
+fourhanded|1
+(adj)|game
+foursquare|3
+(adj)|resolute 
+(noun)|square|rectangle|regular polygon
+(adv)|squarely|straightforwardly
+fourteenth|2
+(adj)|14th|ordinal 
+(noun)|rank
+fox hunter|1
+(noun)|horseman|equestrian|horseback rider
+fox talbot|1
+(noun)|Talbot|Fox Talbot|William Henry Fox Talbot|inventor|discoverer|artificer|photographer|lensman
+fractional|1
+(adj)|fractional |aliquot|divisional|down|fragmental|fragmentary|half|halfway|third|three-quarter|incomplete|uncomplete
+fragmental|1
+(adj)|fragmentary|fractional 
+fragmented|2
+(adj)|crumbled|broken 
+(adj)|disconnected|disunited|split|divided 
+framboesia|1
+(noun)|yaws|frambesia|infectious disease
+francis ii|1
+(noun)|Francis II|Emperor Francis II|Holy Roman Emperor
+franciscan|2
+(adj)|Franciscan|saint
+(noun)|Franciscan|Gray Friar|friar|mendicant
+francophil|1
+(noun)|Francophile|Francophil|supporter|protagonist|champion|admirer|booster|friend
+frangipane|1
+(noun)|pastry
+frangipani|1
+(noun)|frangipanni|shrub|bush
+frank baum|1
+(noun)|Baum|Frank Baum|Lyman Frank Brown|writer|author
+fraser fir|1
+(noun)|Fraser fir|Abies fraseri|silver fir
+frat house|1
+(noun)|chapterhouse|fraternity house|house
+fratercula|1
+(noun)|Fratercula|genus Fratercula|bird genus
+fraternise|1
+(verb)|fraternize|socialize|socialise
+fraternity|2
+(noun)|frat|club|society|guild|gild|lodge|order
+(noun)|brotherhood|sodality|class|social class|socio-economic class
+fraternize|1
+(verb)|fraternise|socialize|socialise
+fratricide|3
+(noun)|murderer|liquidator|manslayer
+(noun)|murder|slaying|execution
+(noun)|friendly fire|fire|firing
+fraudulent|1
+(adj)|deceitful|fallacious|dishonest |dishonorable
+fraxinella|1
+(noun)|dittany|burning bush|gas plant|Dictamnus alba|herb|herbaceous plant
+freakishly|1
+(adv)|capriciously
+fred hoyle|1
+(noun)|Hoyle|Fred Hoyle|Sir Fred Hoyle|astrophysicist
+free-lance|1
+(verb)|work|do work
+free-liver|1
+(noun)|free agent|free spirit|freewheeler
+free-range|1
+(adj)|unenclosed|unconfined 
+free agent|2
+(noun)|professional|pro
+(noun)|free spirit|freewheeler|person|individual|someone|somebody|mortal|human|soul
+free grace|1
+(noun)|grace|grace of God|beneficence
+free house|1
+(noun)|public house|pub|saloon|pothouse|gin mill|taphouse
+free lunch|1
+(noun)|gift
+free press|1
+(noun)|press|public press
+free state|3
+(noun)|Maryland|Old Line State|Free State|MD|American state
+(noun)|American state
+(noun)|Free State|Orange Free State|state|province
+free throw|1
+(noun)|foul shot|penalty free throw|charity toss|charity throw|charity shot|basketball shot
+free trade|1
+(noun)|trade
+free verse|1
+(noun)|vers libre|poem|verse form
+free world|1
+(noun)|Free World|collection|aggregation|accumulation|assemblage
+freebooter|1
+(noun)|plunderer|pillager|looter|spoiler|despoiler|raider|thief|stealer
+freedwoman|1
+(noun)|freedman|freeman|freewoman
+freehanded|2
+(adj)|freehand|original 
+(adj)|big|bighearted|bounteous|bountiful|handsome|giving|liberal|openhanded|generous 
+freeholder|1
+(noun)|landowner|landholder|property owner
+freeloader|1
+(noun)|borrower
+freeze-dry|1
+(verb)|preserve|keep
+freeze off|1
+(verb)|reject|spurn|scorn|pooh-pooh|disdain|turn down|refuse|decline
+freeze out|1
+(verb)|freeze|freeze down|solidify
+fregatidae|1
+(noun)|Fregatidae|family Fregatidae|bird family
+freightage|2
+(noun)|freight|freight rate|rate|charge per unit
+(noun)|freight|transportation|shipping|transport
+french-fry|1
+(verb)|deep-fry|fry
+french rye|1
+(noun)|tall oat grass|tall meadow grass|evergreen grass|false oat|French rye|Arrhenatherum elatius|grass
+frenziedly|1
+(adv)|hectically
+frequenter|1
+(noun)|patron|customer|client
+frequently|1
+(adv)|often|oftentimes|oft|ofttimes
+fresh bean|1
+(noun)|common bean
+fresh fish|1
+(noun)|cannon fodder|soldier
+fresh food|1
+(noun)|fresh foods|food
+fresh gale|1
+(noun)|gale
+freshen up|2
+(verb)|refurbish|renovate|regenerate|renew
+(verb)|freshen|refresh|refreshen|change
+freshwater|1
+(adj)|fresh 
+friability|1
+(noun)|crumbliness|breakableness
+fricandeau|1
+(noun)|veal roast|roast veal
+frictional|1
+(adj)|resistance
+fried rice|1
+(noun)|Chinese fried rice|dish
+friendless|1
+(adj)|outcast|unwanted 
+friendship|1
+(noun)|friendly relationship|relationship
+frightened|2
+(adj)|panicky|panicked|panic-stricken|panic-struck|terrified|afraid 
+(adj)|scared|afraid 
+frigorific|1
+(adj)|cold 
+frijolillo|1
+(noun)|mescal bean|coral bean|frijolito|Sophora secundiflora|tree
+friskiness|1
+(noun)|frolicsomeness|sportiveness|playfulness|fun
+fritillary|2
+(noun)|checkered lily|bulbous plant
+(noun)|nymphalid|nymphalid butterfly|brush-footed butterfly|four-footed butterfly
+frock coat|1
+(noun)|coat
+froelichia|1
+(noun)|Froelichia|genus Froelichia|caryophylloid dicot genus
+frog's-bit|1
+(noun)|frogbit|Hydrocharis morsus-ranae|aquatic plant|water plant|hydrophyte|hydrophytic plant
+froghopper|1
+(noun)|spittle insect|spittlebug
+frolicsome|1
+(adj)|coltish|frolicky|rollicking|sportive|playful 
+front door|1
+(noun)|front entrance|exterior door|outside door
+front line|1
+(noun)|battlefront|front|line
+front room|1
+(noun)|living room|living-room|sitting room|parlor|parlour|room
+front yard|1
+(noun)|yard|grounds|curtilage
+frontstall|1
+(noun)|chanfron|chamfron|testiere|front-stall|armor plate|armour plate|armor plating|plate armor|plate armour
+frontwards|1
+(adv)|forward|forwards|frontward|forrad|forrard
+frost-weed|3
+(noun)|frostweed|frostwort|Helianthemum canadense|Crocanthemum canadensei|helianthemum|sunrose|sun rose
+(noun)|Virginia crownbeard|frostweed|Verbesina virginica|crownbeard|crown-beard|crown beard
+(noun)|                                                                         
+frost fish|1
+(noun)|cutlassfish|hairtail|percoid fish|percoid|percoidean
+frost mist|1
+(noun)|ice crystal|snow mist|diamond dust|poudrin|ice needle|frost snow|crystal
+frost over|1
+(verb)|ice up|ice over|change
+frost snow|1
+(noun)|ice crystal|snow mist|diamond dust|poudrin|ice needle|frost mist|crystal
+frostiness|2
+(noun)|coldness|cold|low temperature
+(noun)|hoariness|white|whiteness
+frothiness|1
+(noun)|bubbliness|effervescence|gaseousness
+frown line|1
+(noun)|wrinkle|furrow|crease|crinkle|seam|line
+frown upon|1
+(verb)|frown on|disapprove
+frugalness|1
+(noun)|frugality|prudence
+fruit tree|1
+(noun)|angiospermous tree|flowering tree
+fruitfully|1
+(adv)|productively|profitably
+frumpishly|1
+(adv)|dowdily|frumpily
+frustrated|1
+(adj)|defeated|disappointed|discomfited|foiled|thwarted|unsuccessful 
+frying pan|1
+(noun)|frypan|skillet|pan|cooking pan
+fuel gauge|1
+(noun)|fuel indicator|indicator
+fuel level|1
+(noun)|reserve|backlog|stockpile
+fujinoyama|1
+(noun)|Fuji|Mount Fuji|Fujiyama|Fujinoyama|Fuji-san|volcano
+fukkianese|1
+(noun)|Min|Min dialect|Fukien|Fukkianese|Hokkianese|Amoy|Taiwanese|Chinese
+fulfilment|2
+(noun)|fulfillment|satisfaction
+(noun)|fulfillment|consummation
+fulgoridae|1
+(noun)|Fulgoridae|family Fulgoridae|arthropod family
+full-blood|1
+(adj)|full-blooded|blooded|purebred 
+full-blown|2
+(adj)|matured|mature 
+(adj)|complete 
+full-dress|3
+(adj)|dress|formal 
+(adj)|dress|formal 
+(adj)|complete 
+full-grown|1
+(adj)|adult|big|fully grown|grown|grownup|mature 
+full-scale|1
+(adj)|all-out|complete 
+full blood|1
+(noun)|origin|descent|extraction
+full dress|1
+(noun)|dress suit|tailcoat|tail coat|tails|white tie|white tie and tails|formalwear|eveningwear|evening dress|evening clothes
+full house|1
+(noun)|poker hand
+full point|1
+(noun)|period|point|full stop|stop|punctuation|punctuation mark
+full skirt|1
+(noun)|skirt
+fumigation|1
+(noun)|application|coating|covering
+functional|6
+(adj)|functional |structural|utilitarian|useful|serviceable
+(adj)|functional 
+(adj)|utility|usefulness
+(adj)|usable|useable|in working order|operable|operational|serviceable 
+(adj)|practical 
+(adj)|running|operative|working|functioning 
+fund-raise|3
+(verb)|fund raise|fundraise|raise
+(verb)|                                                                         
+(verb)|                                                                         
+fund raise|3
+(verb)|fund-raise|fundraise|raise
+(verb)|                                                                         
+(verb)|                                                                         
+fundraiser|2
+(noun)|solicitor|canvasser
+(noun)|affair|occasion|social occasion|function|social function
+fungicidal|1
+(adj)|antifungal|agent
+funguslike|1
+(adj)|fungoid|plant|flora|plant life
+funnel web|1
+(noun)|spider web|spider's web
+funny bone|1
+(noun)|crazy bone|ulnar nerve|cubital nerve|nervus ulnaris
+funny farm|1
+(noun)|Bedlam|booby hatch|crazy house|cuckoo's nest|funny house|loony bin|madhouse|nut house|nuthouse|sanatorium|snake pit|mental hospital|psychiatric hospital|mental institution|institution|mental home|insane asylum|asylum
+furbish up|1
+(verb)|repair|mend|fix|bushel|doctor|restore|touch on|better|improve|amend|ameliorate|meliorate
+furosemide|1
+(noun)|Lasix|diuretic drug|diuretic|water pill
+future day|1
+(adj)|coming|future 
+futureless|1
+(adj)|hopeless 
+futuristic|1
+(adj)|futurist|artistic movement|art movement
+futurology|1
+(noun)|futuristics|discipline|subject|subject area|subject field|field|field of study|study|bailiwick|branch of knowledge

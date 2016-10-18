@@ -1,0 +1,166 @@
+faa|1
+(noun)|Federal Aviation Agency|FAA|agency|federal agency|government agency|bureau|office|authority
+fab|1
+(adj)|fabulous|pleasing 
+fad|1
+(noun)|craze|furor|furore|cult|rage|fashion
+fae|1
+(noun)|fuel-air explosive|FAE|explosive device
+fag|5
+(noun)|fagot|faggot|fairy|nance|pansy|queen|queer|poof|poove|pouf|gay man|shirtlifter
+(noun)|cigarette|cigaret|coffin nail|butt|roll of tobacco|smoke
+(verb)|serve|attend to|wait on|attend|assist
+(verb)|labor|labour|toil|travail|grind|drudge|dig|moil|work|do work
+(verb)|tire|wear upon|tire out|wear|weary|jade|wear out|outwear|wear down|fag out|fatigue|indispose
+fan|7
+(noun)|device
+(noun)|sports fan|enthusiast|partisan|partizan
+(noun)|buff|devotee|lover|follower
+(verb)|strike out
+(verb)|intensify|compound|heighten|deepen
+(verb)|shake|agitate
+(verb)|winnow|sift|sieve|strain
+fao|1
+(noun)|Food and Agriculture Organization|Food and Agriculture Organization of the United Nations|FAO|United Nations agency|UN agency
+faq|1
+(noun)|FAQ|list|listing
+far|5
+(adj)|far |cold|faraway|far-off|farther|farthermost|farthest|furthermost|furthest|utmost|uttermost|further|farther|distant|remote|removed|distant|remote|removed|off the beaten track|out-of-the-way|outlying
+(adj)|long 
+(adj)|right 
+(adj)|immoderate 
+(noun)|Army for the Liberation of Rwanda|ALIR|Former Armed Forces|FAR|Interahamwe|terrorist organization|terrorist group|foreign terrorist organization|FTO
+fat|10
+(adj)|fat |abdominous|paunchy|potbellied|blubbery|buxom|chubby|embonpoint|plump|zaftig|zoftig|compact|heavyset|stocky|thick|thickset|corpulent|obese|weighty|rotund|double-chinned|jowly|loose-jowled|dumpy|podgy|pudgy|tubby|fattish|fleshy|heavy|overweight|gross|porcine|portly|stout|endomorphic|pyknic|rounded|thick
+fax|2
+(noun)|facsimile|facsimile machine|duplicator|copier
+(verb)|telefax|facsimile|telecommunicate
+fbi|1
+(noun)|Federal Bureau of Investigation|FBI|law enforcement agency
+fcc|1
+(noun)|Federal Communications Commission|FCC|independent agency
+fcs|1
+(noun)|Farm Credit System|FCS|banking industry|banking system
+fda|1
+(noun)|Food and Drug Administration|FDA|agency|federal agency|government agency|bureau|office|authority
+fdr|1
+(noun)|Roosevelt|Franklin Roosevelt|Franklin Delano Roosevelt|F. D. Roosevelt|President Roosevelt|President Franklin Roosevelt|FDR|President of the United States|United States President|President|Chief Executive
+feb|1
+(noun)|February|Feb|Gregorian calendar month
+fed|2
+(noun)|Federal|Fed|federal official|agent|federal agent
+(noun)|Federal Reserve System|Federal Reserve|Fed|FRS|central bank
+fee|3
+(noun)|fixed charge|fixed cost|fixed costs
+(noun)|interest|stake
+(verb)|tip|bung|give|gift|present
+fen|2
+(noun)|Chinese monetary unit
+(noun)|marsh|marshland|fenland|wetland
+fes|2
+(noun)|Fez|Fes|city|metropolis|urban center
+(noun)|iron|Fe|atomic number 26|metallic element|metal
+fet|1
+(noun)|field-effect transistor|FET|transistor|junction transistor|electronic transistor
+few|3
+(adj)|few |a few|a couple of|hardly a|fewer|some
+(noun)|small indefinite quantity|small indefinite amount
+(noun)|elite|elite group
+fey|2
+(adj)|touched|insane 
+(adj)|elfin|supernatural 
+fez|2
+(noun)|Fez|Fes|city|metropolis|urban center
+(noun)|tarboosh|cap
+fha|1
+(noun)|Federal Housing Administration|FHA|agency|federal agency|government agency|bureau|office|authority
+fib|2
+(noun)|story|tale|tarradiddle|taradiddle|lie|prevarication
+(verb)|lie
+fig|4
+(noun)|figure|illustration
+(noun)|common fig|common fig tree|Ficus carica|fig tree
+(noun)|Libyan Islamic Fighting Group|FIG|Al-Jama'a al-Islamiyyah al-Muqatilah bi-Libya|Libyan Fighting Group|Libyan Islamic Group|terrorist organization|terrorist group|foreign terrorist organization|FTO
+(noun)|edible fruit
+fin|9
+(noun)|five|5|V|cinque|quint|quintet|fivesome|quintuplet|pentad|Phoebe|Little Phoebe|digit|figure
+(noun)|tail fin|tailfin|decoration|ornament|ornamentation
+(noun)|louver|louvre|slat|spline
+(noun)|flipper|flippers|fins|shoe
+(noun)|stabilizer|stabiliser
+(noun)|extremity|appendage|member
+(verb)|equip|fit|fit out|outfit
+(verb)|swim
+(verb)|break water|swim
+fir|2
+(noun)|wood
+(noun)|fir tree|true fir|conifer|coniferous tree
+fit|16
+(adj)|fit |acceptable|appropriate|suitable|suited
+fix|16
+(noun)|hole|jam|mess|muddle|pickle|kettle of fish|difficulty
+flu|1
+(noun)|influenza|grippe|contagious disease|contagion|respiratory disease|respiratory illness|respiratory disorder
+fly|19
+(adj)|alert 
+fob|4
+(noun)|watch pocket|vest pocket
+(noun)|adornment
+(noun)|watch chain|watch guard|chain
+(verb)|trick|fox|pull a fast one on|play a trick on|deceive|lead on|delude|cozen
+foe|2
+(noun)|enemy|foeman|opposition|adversary|antagonist|opponent|opposer|resister
+(noun)|enemy|rival|challenger|competitor|competition|contender
+fog|4
+(noun)|aerosol
+(noun)|fogginess|murk|murkiness|atmosphere|atmospheric state
+(noun)|daze|haze|confusion|mental confusion|confusedness|disarray
+(verb)|obscure|befog|becloud|obnubilate|haze over|cloud|mist|hide|conceal
+fop|1
+(noun)|dandy|dude|gallant|sheik|beau|swell|fashion plate|clotheshorse|man|adult male
+fox|10
+(noun)|canine|canid
+fps|1
+(noun)|Federal Protective Service|FPS|independent agency
+frg|1
+(noun)|Germany|Federal Republic of Germany|Deutschland|FRG|European country|European nation
+fri|1
+(noun)|Friday|Fri|weekday
+frs|2
+(noun)|Federal Reserve System|Federal Reserve|Fed|FRS|central bank
+(noun)|francium|Fr|atomic number 87|metallic element|metal
+fry|6
+(noun)|Fry|Roger Fry|Roger Eliot Fry|painter|art critic
+(noun)|Fry|Christopher Fry|dramatist|playwright
+(noun)|child|kid|youngster|minor|shaver|nipper|small fry|tiddler|tike|tyke|nestling|juvenile|juvenile person
+(verb)|heat|hot up|heat up
+(verb)|cook
+(verb)|electrocute|kill
+fsb|2
+(noun)|Federal Security Bureau|FSB|Federal Security Service|Russian agency
+(noun)|federal savings bank|FSB|savings bank
+fsh|1
+(noun)|follicle-stimulating hormone|FSH|gonadotropin|gonadotrophin|gonadotropic hormone|gonadotrophic hormone
+ftc|1
+(noun)|Federal Trade Commission|FTC|independent agency
+fto|1
+(noun)|terrorist organization|terrorist group|foreign terrorist organization|FTO|political movement
+ftp|2
+(noun)|file transfer protocol|FTP|protocol|communications protocol
+(verb)|FTP|transfer
+fug|1
+(noun)|fog|fogginess|murk|murkiness
+ful|1
+(noun)|Fula|Ful|Fulani|Peul|West African
+fun|5
+(adj)|amusing|amusive|diverting|entertaining 
+(noun)|merriment|playfulness|diversion|recreation
+(noun)|play|sport|wit|humor|humour|witticism|wittiness
+(noun)|activity
+(noun)|playfulness|frivolity|frivolousness
+fur|3
+(noun)|pelt|animal skin
+(noun)|coat|pelage
+(noun)|garment
+fws|1
+(noun)|United States Fish and Wildlife Service|US Fish and Wildlife Service|FWS|agency|federal agency|government agency|bureau|office|authority

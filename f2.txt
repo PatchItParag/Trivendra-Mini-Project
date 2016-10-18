@@ -1,0 +1,17 @@
+f.|1
+(adj)|fine|pure 
+fa|1
+(noun)|solfa syllable
+fe|1
+(noun)|iron|Fe|atomic number 26|metallic element|metal
+fl|1
+(noun)|Florida|Sunshine State|Everglade State|FL|American state
+fm|2
+(noun)|frequency modulation|FM|modulation
+(noun)|fermium|Fm|atomic number 100|metallic element|metal
+fo|1
+(noun)|field-grade officer|field officer|FO|commissioned military officer
+fr|1
+(noun)|francium|Fr|atomic number 87|metallic element|metal
+ft|1
+(noun)|foot|linear unit

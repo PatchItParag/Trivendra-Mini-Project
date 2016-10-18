@@ -1,0 +1,477 @@
+face|23
+(noun)|human face|external body part
+(noun)|expression|look|aspect|facial expression|countenance|visage
+fact|4
+(noun)|information
+(noun)|information|info
+(noun)|reality|realness|realism
+(noun)|concept|conception|construct
+fade|6
+(noun)|slice|slicing|golf stroke|golf shot|swing
+(noun)|disappearance|termination|ending|conclusion
+(verb)|melt|weaken
+(verb)|wither|disappear|vanish|go away
+(verb)|evanesce|blow over|pass off|fleet|pass|disappear|vanish|go away
+(verb)|languish|devolve|deteriorate|drop|degenerate
+fado|1
+(noun)|folk song|folksong|folk ballad
+fahd|1
+(noun)|Fahd|Fahd ibn Abdel Aziz al-Saud|king|male monarch
+fail|8
+(verb)|neglect
+(verb)|go wrong|miscarry
+(verb)|betray|disappoint|let down
+(verb)|go bad|give way|die|give out|conk out|go|break|break down|change
+(verb)|judge
+(verb)|flunk|bomb|flush it
+(verb)|run out|give out
+(verb)|worsen|decline
+fain|2
+(adj)|disposed|inclined|prepared|willing 
+(adv)|gladly|lief
+fair|19
+(adj)|fair |just|antimonopoly|antitrust|clean|sporting|sportsmanlike|fair-minded|fair-and-square|impartial|just|reasonable|sensible
+fake|8
+(adj)|bogus|phony|phoney|bastard|counterfeit |imitative
+(adj)|false|faux|imitation|simulated|artificial |unreal
+(noun)|sham|postiche|imitation|counterfeit|forgery
+(noun)|imposter|impostor|pretender|faker|fraud|sham|shammer|pseudo|pseud|role player|deceiver|cheat|cheater|trickster|beguiler|slicker
+(noun)|juke|feint
+(verb)|forge|counterfeit|re-create
+(verb)|fudge|manipulate|falsify|cook|wangle|misrepresent|cheat|chisel
+(verb)|bullshit|bull|feign|sham|pretend|affect|dissemble
+fall|41
+(noun)|autumn|season|time of year
+(noun)|spill|tumble|slip|trip
+(noun)|Fall|event
+(noun)|descent|declivity|decline|declination|declension|downslope|slope|incline|side
+fame|2
+(noun)|celebrity|renown|honor|honour|laurels
+(noun)|repute|reputation
+fang|3
+(noun)|Fang|Bantu|Bantoid language
+(noun)|canine|canine tooth|eyetooth|eye tooth|dogtooth|cuspid
+(noun)|tooth
+farc|1
+(noun)|Revolutionary Armed Forces of Colombia|Fuerzas Armadas Revolucionarios de Colombia|FARC|terrorist organization|terrorist group|foreign terrorist organization|FTO
+fare|6
+(noun)|menu|agenda|docket|schedule
+(noun)|transportation|charge
+(noun)|passenger|rider
+(noun)|food|nutrient
+(verb)|do|make out|come|get along|proceed|go
+(verb)|eat
+farm|4
+(noun)|workplace|work
+(verb)|work|do work
+(verb)|collect|take in|farm out
+(verb)|grow|raise|produce|cultivate
+faro|1
+(noun)|card game|cards
+fart|2
+(noun)|farting|flatus|wind|breaking wind|reflex|instinctive reflex|innate reflex|inborn reflex|unconditioned reflex|physiological reaction
+(verb)|break wind|act involuntarily|act reflexively
+fast|14
+(adj)|fast |accelerated|accelerating|alacritous|blistering|hot|red-hot|double-quick|express|fleet|swift|hastening|high-speed|high-velocity|high-speed|hot|hurrying|scurrying|immediate|prompt|quick|straightaway|instantaneous|instant|meteoric|quick|speedy|rapid|speeding|fast-breaking|fast-paced|rapid|speedy|winged|expedited|hurried|sudden
+fate|4
+(noun)|destiny|happening|occurrence|natural event
+(noun)|Destiny|Fate|causal agent|cause|causal agency
+(noun)|fortune|destiny|luck|lot|circumstances|portion|condition
+(verb)|destine|doom|designate|ordain
+faun|1
+(noun)|Roman deity
+faux|1
+(adj)|fake|false|imitation|simulated|artificial |unreal
+fawn|5
+(noun)|dun|grayish brown|greyish brown|light brown
+(noun)|deer|cervid
+(verb)|crawl|creep|cringe|cower|grovel|bend|flex
+(verb)|toady|truckle|bootlick|kowtow|kotow|suck up|flatter|blandish
+(verb)|litter
+faze|1
+(verb)|unnerve|enervate|unsettle|upset|discompose|untune|disconcert|discomfit
+fdic|1
+(noun)|Federal Deposit Insurance Corporation|FDIC|corporation|corp
+fear|7
+(noun)|fearfulness|fright|emotion
+(noun)|concern|care|anxiety
+(noun)|reverence|awe|veneration|emotion
+(verb)|worry
+(verb)|dread
+(verb)|regret
+(verb)|reverence|revere|venerate|respect|esteem|value|prize|prise
+feat|1
+(noun)|deed|effort|exploit|accomplishment|achievement
+feed|12
+(noun)|provender|food|nutrient
+feel|17
+(noun)|awareness|consciousness|cognizance|cognisance|knowingness
+fell|39
+(adj)|barbarous|brutal|cruel|roughshod|savage|vicious|inhumane 
+(noun)|hide|animal skin
+(noun)|felled seam|seam
+felt|20
+(noun)|fabric|cloth|material|textile
+(verb)|entangle|tangle|mat|snarl
+fema|1
+(noun)|Federal Emergency Management Agency|FEMA|independent agency
+fend|2
+(verb)|cope|get by|make out|make do|contend|grapple|deal|manage
+(verb)|resist|stand|fight|oppose|fight back|fight down|defend
+fern|1
+(noun)|pteridophyte|nonflowering plant
+fess|1
+(noun)|fesse|ordinary
+fete|3
+(noun)|feast|fiesta|party
+(noun)|festival|celebration|festivity
+(verb)|celebrate|meet|get together
+feud|2
+(noun)|conflict|struggle|battle
+(verb)|fight|struggle
+fiat|1
+(noun)|decree|edict|order|rescript|act|enactment
+fica|1
+(noun)|FICA|income tax
+fice|1
+(noun)|feist|cur|mongrel|mutt
+fief|1
+(noun)|feoff|estate|land|landed estate|acres|demesne
+fife|1
+(noun)|flute|transverse flute
+fifo|1
+(noun)|first in first out|FIFO|inventory accounting
+fiji|1
+(noun)|Fiji|Republic of Fiji|country|state|land
+file|9
+(noun)|data file|record
+(noun)|single file|Indian file|line
+(noun)|file cabinet|filing cabinet|office furniture
+(noun)|hand tool
+(verb)|register|register
+(verb)|smooth|smoothen
+(verb)|march|process|file in|file out
+(verb)|charge|lodge|accuse|impeach|incriminate|criminate
+(verb)|file away|record|enter|put down
+fill|11
+(noun)|enough|sufficiency
+film|7
+(noun)|movie|picture|moving picture|moving-picture show|motion picture|motion-picture show|picture show|pic|flick|show
+(noun)|cinema|celluloid|medium
+(noun)|object|physical object
+(noun)|plastic film|sheet|flat solid|wrapping|wrap|wrapper
+(noun)|photographic film|photographic paper|photographic material
+(verb)|shoot|take|record|enter|put down
+(verb)|record|enter|put down|make|create
+fils|2
+(noun)|Yemeni fils|Yemeni monetary unit
+(noun)|fractional monetary unit|subunit
+find|18
+(noun)|discovery|breakthrough|insight|brainstorm|brainwave
+fine|14
+(adj)|good|superior 
+fink|1
+(noun)|snitch|snitcher|stoolpigeon|stoolie|sneak|sneaker|canary|informer|betrayer|rat|squealer|blabber
+finn|1
+(noun)|Finn|European
+fins|7
+(noun)|flipper|flippers|fin|shoe
+(noun)|five|5|V|cinque|quint|quintet|fivesome|quintuplet|pentad|fin|Phoebe|Little Phoebe|digit|figure
+(noun)|tail fin|tailfin|fin|decoration|ornament|ornamentation
+(noun)|louver|louvre|fin|slat|spline
+(noun)|flipper|flippers|fin|shoe
+(noun)|fin|stabilizer|stabiliser
+(noun)|fin|extremity|appendage|member
+fire|17
+(noun)|happening|occurrence|natural event
+firm|15
+(adj)|steadfast|steady|unbendable|unfaltering|unshakable|unwavering|resolute 
+fisa|1
+(noun)|Foreign Intelligence Surveillance Act|FISA|legislative act|statute
+fisc|1
+(noun)|treasury|exchequer
+fish|6
+(noun)|aquatic vertebrate
+(noun)|food
+(noun)|Pisces|Fish|person|individual|someone|somebody|mortal|human|soul
+(noun)|Pisces|Pisces the Fishes|Fish|sign of the zodiac|star sign|sign|mansion|house|planetary house
+(verb)|angle|search|seek|look for
+(verb)|catch|grab|take hold of
+fist|1
+(noun)|clenched fist|hand|manus|mitt|paw
+five|3
+(adj)|5|v|cardinal 
+(noun)|5|V|cinque|quint|quintet|fivesome|quintuplet|pentad|fin|Phoebe|Little Phoebe|digit|figure
+(noun)|basketball team|team|squad
+fizz|2
+(noun)|beverage|drink|drinkable|potable
+(verb)|foam|froth|effervesce|sparkle|bubble
+flab|1
+(noun)|adipose tissue|fat|fatty tissue
+flag|12
+(noun)|emblem
+flak|3
+(noun)|flak catcher|flack catcher|flack|spokesperson|interpreter|representative|voice
+(noun)|fire|attack|flack|blast|criticism|unfavorable judgment
+(noun)|antiaircraft|antiaircraft gun|flack|pom-pom|ack-ack|ack-ack gun|gun
+flan|1
+(noun)|dessert|sweet|afters
+flap|11
+(noun)|covering
+flat|26
+(adj)|level|plane|even 
+(adj)|planar |two-dimensional
+flaw|3
+(noun)|defect|fault|imperfection|imperfectness
+(noun)|failing|weakness
+(verb)|blemish|damage
+flax|2
+(noun)|plant fiber|plant fibre
+(noun)|herb|herbaceous plant
+flay|1
+(verb)|skin|peel|pare
+flea|1
+(noun)|insect|ectoparasite|ectozoan|ectozoon|epizoan|epizoon
+flee|1
+(verb)|fly|take flight|run|scarper|turn tail|lam|run away|hightail it|bunk|head for the hills|take to the woods|escape|fly the coop|break away
+flex|6
+(noun)|flexion|flexure
+(verb)|shrink|contract
+(verb)|flaunt|flash|show off|ostentate|swank
+(verb)|bend|change shape|change form|deform
+(verb)|bend|move
+(verb)|bend|deform|twist|turn|change shape|change form|deform
+flip|16
+(adj)|impudent|insolent|snotty-nosed|disrespectful 
+flit|3
+(noun)|dart|motion|movement|move|motility
+(noun)|move|relocation
+(verb)|flutter|fleet|dart|travel rapidly|speed|hurry|zip
+flnc|1
+(noun)|National Liberation Front of Corsica|FLNC|terrorist organization|terrorist group|foreign terrorist organization|FTO
+floc|1
+(noun)|floccule|material|stuff
+floe|1
+(noun)|ice floe|ice mass
+flog|2
+(verb)|welt|whip|lather|lash|slash|strap|trounce|beat|beat up|work over
+(verb)|cane|lambaste|lambast|beat|beat up|work over
+flop|8
+(noun)|floating-point operation|computer operation|machine operation
+(noun)|dud|washout|failure|loser|nonstarter|unsuccessful person
+(noun)|bust|failure
+(noun)|collapse|descent
+(verb)|collapse|fall in|cave in|give|give way|break|founder
+(verb)|descend|fall|go down|come down
+(verb)|fall through|fall flat|founder|fail|go wrong|miscarry
+(adv)|right
+flow|13
+(noun)|flowing|change of location|travel
+flub|2
+(noun)|blunder|blooper|bloomer|bungle|foul-up|fuckup|botch|boner|boo-boo|mistake|error|fault
+(verb)|botch|bumble|fumble|botch up|muff|blow|screw up|ball up|spoil|muck up|bungle|fluff|bollix|bollix up|bollocks|bollocks up|bobble|mishandle|louse up|foul up|mess up|fuck up|fail|go wrong|miscarry
+flue|3
+(noun)|fluke|projection
+(noun)|flue pipe|labial pipe|organ pipe|pipe|pipework
+(noun)|conduit
+flux|11
+(noun)|rate
+fmri|1
+(noun)|functional magnetic resonance imaging|fMRI|magnetic resonance imaging|MRI
+fnma|1
+(noun)|Federal National Mortgage Association|Fannie Mae|FNMA|corporation|corp
+foal|2
+(noun)|young mammal
+(verb)|give birth|deliver|bear|birth|have
+foam|3
+(noun)|froth|bubble
+(noun)|material|stuff
+(verb)|froth|fizz|effervesce|sparkle|bubble
+fogy|1
+(noun)|dodo|fogey|fossil|oldster|old person|senior citizen|golden ager
+fohn|1
+(noun)|foehn|wind|air current|current of air
+foil|8
+(noun)|sheet metal
+(noun)|enhancer|attention
+(noun)|hydrofoil|device
+(noun)|transparency|picture|image|icon|ikon
+(noun)|fencing sword
+(verb)|contrast|counterpoint
+(verb)|thwart|queer|spoil|scotch|cross|frustrate|baffle|bilk|prevent|forestall|foreclose|preclude|forbid
+(verb)|cover
+fold|11
+(noun)|crease|plication|flexure|crimp|bend|angular shape|angularity
+folk|4
+(noun)|common people|people
+(noun)|tribe|social group
+(noun)|family|family line|kinfolk|kinsfolk|sept|phratry|lineage|line|line of descent|descent|bloodline|blood line|blood|pedigree|ancestry|origin|parentage|stemma|stock
+(noun)|folk music|ethnic music|popular music|popular music genre
+fond|4
+(adj)|affectionate|caring|lovesome|tender|warm|loving 
+(adj)|adoring|doting|loving 
+(adj)|foolish 
+(adj)|partial|inclined 
+font|2
+(noun)|fount|typeface|face|type
+(noun)|baptismal font|baptistry|baptistery|basin
+food|3
+(noun)|nutrient|substance|matter
+(noun)|solid
+(noun)|food for thought|intellectual nourishment|content|cognitive content|mental object
+fool|7
+(noun)|sap|saphead|muggins|tomfool|simpleton|simple
+(noun)|chump|gull|mark|patsy|fall guy|sucker|soft touch|mug|victim|dupe
+(noun)|jester|motley fool|clown|buffoon|merry andrew
+(verb)|gull|befool|deceive|lead on|delude|cozen
+(verb)|fritter|frivol away|dissipate|shoot|fritter away|fool away|consume|squander|waste|ware
+(verb)|gull|dupe|slang|befool|cod|put on|take in|put one over|put one across|deceive|betray|lead astray
+(verb)|horse around|arse around|fool around|play|joke|jest
+foot|14
+(noun)|ft|linear unit
+ford|9
+(noun)|Ford|John Ford|film maker|filmmaker|film producer|movie maker
+(noun)|Ford|Henry Ford II|industrialist
+(noun)|Ford|Edsel Bryant Ford|industrialist
+(noun)|Ford|Ford Madox Ford|Ford Hermann Hueffer|writer|author
+(noun)|Ford|Gerald Ford|Gerald R. Ford|Gerald Rudolph Ford|President Ford|President of the United States|United States President|President|Chief Executive
+(noun)|Ford|Henry Ford|industrialist
+(noun)|crossing|body of water|water
+(noun)|fording|crossing
+(verb)|traverse|track|cover|cross|pass over|get over|get across|cut through|cut across
+fore|4
+(adj)|fore |foremost|forward|forward|front
+(adj)|front|anterior 
+(noun)|bow|prow|stem|front
+(adv)|forward
+fork|9
+(noun)|cutlery|eating utensil
+(noun)|branching|ramification|forking|division
+(noun)|branch|leg|ramification|subfigure
+(noun)|tool
+(noun)|crotch|angle
+(verb)|pitchfork|lift
+(verb)|attack|aggress
+(verb)|branch|ramify|furcate|separate|diverge
+(verb)|shape|form
+form|23
+(noun)|word form|signifier|descriptor|word
+(noun)|kind|sort|variety|category
+fort|5
+(noun)|garrison|military post|post
+(noun)|fortress|defensive structure|defense|defence
+(verb)|fort up|meet|gather|assemble|forgather|foregather
+(verb)|fortify|enclose|inclose|shut in
+(verb)|station|post|base|send|place
+fots|1
+(noun)|fiber-optic transmission system|fibre-optic transmission system|FOTS|communication system|communication equipment
+foul|17
+(adj)|disgusting|disgustful|distasteful|loathly|loathsome|repellent|repellant|repelling|revolting|skanky|wicked|yucky|offensive 
+four|2
+(adj)|4|iv|cardinal 
+(noun)|4|IV|tetrad|quatern|quaternion|quaternary|quaternity|quartet|quadruplet|foursome|Little Joe|digit|figure
+fowl|4
+(noun)|domestic fowl|poultry|gallinaceous bird|gallinacean
+(noun)|bird|meat
+(verb)|hunt|run|hunt down|track down
+(verb)|hunt|run|hunt down|track down
+foxy|1
+(adj)|crafty|cunning|dodgy|guileful|knavish|slick|sly|tricksy|tricky|wily|artful 
+frap|2
+(verb)|lash
+(verb)|tighten|fasten
+frat|1
+(noun)|fraternity|club|society|guild|gild|lodge|order
+frau|1
+(noun)|Frau|wife|married woman
+fray|3
+(noun)|affray|disturbance|ruffle|fight|fighting|combat|scrap
+(verb)|frazzle|break|wear|wear out|bust|fall apart
+(verb)|rub|fret|chafe|scratch|touch|adjoin|meet|contact
+free|20
+(adj)|free |at large|at liberty|escaped|loose|on the loose|at liberty|unconstrained|autonomous|independent|self-governing|sovereign|available|uncommitted|aweigh|atrip|clear|discharged|released|disentangled|extricated|freed|emancipated|liberated|loose|out-of-school|unconfined|unimprisoned|unhampered|free of|unrestricted|footloose|independent|unbound|unconfined|unrestrained|unrestricted
+(adj)|free |liberated|unbound
+fret|16
+(noun)|stew|sweat|lather|swither|agitation
+frey|1
+(noun)|Frey|Freyr|Norse deity
+frog|3
+(noun)|toad|toad frog|anuran|batrachian|salientian|amphibian
+(noun)|Gaul|Frenchman|Frenchwoman|French person
+(noun)|frogs|adornment
+frye|1
+(noun)|Frye|Northrop Frye|Herman Northrop Frye|literary critic
+ft-l|1
+(noun)|foot-lambert|ft-L|luminance unit
+fthm|2
+(noun)|fathom|linear unit
+(noun)|fathom|volume unit|capacity unit|capacity measure|cubage unit|cubic measure|cubic content unit|displacement unit|cubature unit
+fuck|2
+(noun)|fucking|screw|screwing|ass|nooky|nookie|piece of ass|piece of tail|roll in the hay|shag|shtup|sexual intercourse|intercourse|sex act|copulation|coitus|coition|sexual congress|congress|sexual relation|relation|carnal knowledge
+(verb)|roll in the hay|love|make out|make love|sleep with|get laid|have sex|know|do it|be intimate|have intercourse|have it away|have it off|screw|jazz|eff|hump|lie with|bed|have a go at it|bang|get it on|bonk|copulate|mate|pair|couple
+fuel|5
+(noun)|substance|matter
+(verb)|supply|provide|render|furnish
+(verb)|fire|supply|provide|render|furnish
+(verb)|take in|take up
+(verb)|stimulate|shake|shake up|excite|stir
+fugo|1
+(noun)|balloon bomb|Fugo|bomb
+fugu|1
+(noun)|blowfish|sea squab|puffer
+fuji|2
+(noun)|fuji cherry|Prunus incisa|flowering cherry
+(noun)|Fuji|Mount Fuji|Fujiyama|Fujinoyama|Fuji-san|volcano
+fula|2
+(noun)|Fulani|Fula|Fulah|Fellata|Fulbe|African
+(noun)|Fula|Ful|Fulani|Peul|West African
+full|13
+(adj)|full |afloat|awash|flooded|inundated|overflowing|air-filled|brimful|brimfull|brimming|chockablock|chock-full|chockful|choke-full|chuck-full|cram full|congested|engorged|fraught|pregnant|glutted|overfull|heavy|weighed down|instinct|replete|laden|loaded|ladened|overladen|overloaded|stuffed|stuffed|swarming|untouched|untasted|well-lined|filled|riddled
+fume|5
+(noun)|smoke|aerosol
+(verb)|feel|experience
+(verb)|smoke|emit|give out|give off
+(verb)|fumigate|process|treat
+(verb)|reek|exude|exudate|transude|ooze out|ooze
+fund|9
+(noun)|monetary fund|money
+(noun)|store|stock|accumulation
+(noun)|investment company|investment trust|investment firm|nondepository financial institution
+(verb)|finance
+(verb)|roll up|collect|accumulate|pile up|amass|compile|hoard
+(verb)|supply|provide|render|furnish
+(verb)|invest|put|commit|place
+(verb)|roll up|collect|accumulate|pile up|amass|compile|hoard
+(verb)|support
+funk|3
+(noun)|blue funk|depression
+(noun)|Funk|Casimir Funk|biochemist
+(verb)|flinch|squinch|cringe|shrink|wince|recoil|quail|move
+furl|1
+(verb)|roll up|change shape|change form|deform
+fury|4
+(noun)|rage|madness|anger|choler|ire
+(noun)|craze|delirium|frenzy|hysteria|mania|manic disorder
+(noun)|ferocity|fierceness|furiousness|vehemence|violence|wildness|intensity|intensiveness
+(noun)|Fury|Eumenides|Erinyes|mythical monster|mythical creature
+fuse|6
+(noun)|electrical fuse|electrical device
+(noun)|fuze|fusee|fuzee|primer|priming|lighter|light|igniter|ignitor
+(verb)|blend|flux|mix|conflate|commingle|immix|coalesce|meld|combine|merge|change integrity
+(verb)|liquefy|flux|liquify
+(verb)|equip|fit|fit out|outfit
+(verb)|melt|run|melt down
+fuss|6
+(noun)|dither|pother|tizzy|flap|agitation
+(noun)|trouble|bother|hassle|perturbation|disturbance
+(noun)|bicker|bickering|spat|tiff|squabble|pettifoggery|quarrel|wrangle|row|words|run-in|dustup
+(noun)|bustle|hustle|flurry|ado|stir|commotion|din|ruction|ruckus|rumpus|tumult
+(verb)|niggle|fret|worry
+(verb)|mother|overprotect|care|give care
+fuze|1
+(noun)|fuse|fusee|fuzee|primer|priming|lighter|light|igniter|ignitor
+fuzz|4
+(noun)|hair|tomentum|plant process|enation
+(noun)|bull|cop|copper|pig|policeman|police officer|officer
+(noun)|blur|representation|mental representation|internal representation
+(noun)|beard|face fungus|whiskers

@@ -1,0 +1,31 @@
+ga|3
+(noun)|tabun|GA|organophosphate nerve agent
+(noun)|gallium|Ga|atomic number 31|metallic element|metal
+(noun)|Georgia|Empire State of the South|Peach State|GA|American state
+gb|4
+(noun)|sarin|GB|organophosphate nerve agent
+(noun)|gilbert|Gb|Gi|magnetomotive force unit
+(noun)|gigabyte|G|GB|computer memory unit
+(noun)|United Kingdom|UK|Great Britain|GB|Britain|United Kingdom of Great Britain and Northern Ireland|kingdom
+gc|1
+(noun)|gigahertz|GHz|gigacycle per second|gigacycle|Gc|rate
+gd|2
+(noun)|soman|GD|organophosphate nerve agent
+(noun)|gadolinium|Gd|atomic number 64|metallic element|metal
+ge|2
+(noun)|germanium|Ge|atomic number 32|chemical element|element|semiconductor|semiconducting material
+(noun)|Gaea|Gaia|Ge|Greek deity
+gi|2
+(adj)|gastrointestinal
+(noun)|gilbert|Gb|Gi|magnetomotive force unit
+gm|1
+(noun)|gram|gramme|g|metric weight unit|weight unit
+go|31
+(adj)|go |a-ok|a-okay
+(noun)|spell|tour|turn|shift|work shift|duty period
+(noun)|Adam|ecstasy|XTC|disco biscuit|cristal|X|hug drug|methylenedioxymethamphetamine|MDMA
+gp|1
+(noun)|general practitioner|GP|doctor|doc|physician|MD|Dr.|medico
+gu|2
+(adj)|genitourinary
+(noun)|Guam|GU|island
