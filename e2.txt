@@ -1,0 +1,34 @@
+ea|1
+(noun)|Ea|Semitic deity
+ec|1
+(noun)|European Union|EU|European Community|EC|European Economic Community|EEC|Common Market|Europe|world organization|world organisation|international organization|international organisation|global organization
+ed|1
+(noun)|erectile dysfunction|male erecticle dysfunction|ED|impotence|impotency|dysfunction|disfunction
+ee|1
+(noun)|electrical engineering|EE|engineering|engineering science|applied science|technology
+el|2
+(noun)|elevation|EL|altitude|ALT|angular position
+(noun)|elevated railway|elevated railroad|overhead railway|railway|railroad|railroad line|railway line|railway system
+em|2
+(noun)|mutton|mut|area unit|square measure
+(noun)|pica em|pica|linear unit
+en|1
+(noun)|nut|linear unit
+eq|1
+(noun)|equivalent|equivalent weight|combining weight|atomic weight|relative atomic mass
+er|2
+(noun)|erbium|Er|atomic number 68|metallic element|metal
+(noun)|emergency room|ER|hospital room
+es|1
+(noun)|einsteinium|Es|E|atomic number 99|metallic element|metal
+eu|2
+(noun)|europium|Eu|atomic number 63|metallic element|metal
+(noun)|European Union|EU|European Community|EC|European Economic Community|EEC|Common Market|Europe|world organization|world organisation|international organization|international organisation|global organization
+ev|1
+(noun)|electron volt|eV|work unit|heat unit|energy unit
+ew|1
+(noun)|electronic warfare|EW|military action|action
+ex|3
+(adj)|antique|demode|old-fashioned|old-hat|outmoded|passe|passee|unfashionable |unstylish
+(noun)|ex-husband|man|adult male
+(noun)|exwife|woman|adult female

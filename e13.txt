@@ -1,0 +1,545 @@
+earnest money|1
+(noun)|earnest
+earth's crust|1
+(noun)|crust|Earth's crust|layer
+earth-goddess|1
+(noun)|goddess
+earth-nut pea|1
+(noun)|heath pea|earthnut pea|tuberous vetch|Lathyrus tuberosus|vine
+earth science|1
+(noun)|natural science
+east by north|1
+(noun)|EbN|compass point|point
+east by south|1
+(noun)|EbS|compass point|point
+east germanic|1
+(noun)|East Germanic|East Germanic language|Germanic|Germanic language
+east malaysia|1
+(noun)|East Malaysia|district|territory|territorial dominion|dominion
+east pakistan|1
+(noun)|Bangladesh|People's Republic of Bangladesh|Bangla Desh|East Pakistan|Asian country|Asian nation
+easter cactus|1
+(noun)|Easter cactus|Hatiora gaertneri|Schlumbergera gaertneri|cactus
+easter sunday|1
+(noun)|Easter Sunday|Easter Day|Christian holy day
+eastern samoa|1
+(noun)|American Samoa|Eastern Samoa|AS|district|territory|territorial dominion|dominion
+eastern sioux|1
+(noun)|Santee|Santee Sioux|Santee Dakota|Eastern Sioux|Sioux|Siouan
+eastern turki|1
+(noun)|Chagatai|Jagatai|Jaghatai|Eastern Turki|Turki|Turkic|Turko-Tatar|Turkic language
+easygoingness|1
+(noun)|good nature
+eccrine gland|1
+(noun)|sweat gland|sudoriferous gland
+echinodermata|1
+(noun)|Echinodermata|phylum Echinodermata|phylum
+echo sounding|1
+(noun)|echolocation|localization|localisation|location|locating|fix
+economic rent|1
+(noun)|rent|return|issue|proceeds|take|takings|yield|payoff
+ecumenicalism|1
+(noun)|ecumenism|ecumenicism|religious doctrine|church doctrine|gospel|creed
+edgar wallace|1
+(noun)|Wallace|Edgar Wallace|Richard Horatio Edgar Wallace|writer|author
+edgard varese|1
+(noun)|Varese|Edgard Varese|composer
+edible banana|1
+(noun)|Musa paradisiaca sapientum|banana|banana tree
+edible cockle|1
+(noun)|Cardium edule|cockle
+edible mussel|1
+(noun)|Mytilus edulis|marine mussel|mytilid
+edith wharton|1
+(noun)|Wharton|Edith Wharton|Edith Newbold Jones Wharton|writer|author
+edmond halley|1
+(noun)|Halley|Edmond Halley|Edmund Halley|astronomer|uranologist|stargazer
+edmond malone|1
+(noun)|Malone|Edmund Malone|Edmond Malone|scholar|scholarly person|student
+edmontosaurus|1
+(noun)|hadrosaur|hadrosaurus|duck-billed dinosaur
+edmund halley|1
+(noun)|Halley|Edmond Halley|Edmund Halley|astronomer|uranologist|stargazer
+edmund malone|1
+(noun)|Malone|Edmund Malone|Edmond Malone|scholar|scholarly person|student
+edmund wilson|1
+(noun)|Wilson|Edmund Wilson|literary critic
+edouard manet|1
+(noun)|Manet|Edouard Manet|painter
+edward gibbon|1
+(noun)|Gibbon|Edward Gibbon|historian|historiographer
+edward jenner|1
+(noun)|Jenner|Edward Jenner|doctor|doc|physician|MD|Dr.|medico
+edward morley|1
+(noun)|Morley|E. W. Morley|Edward Morley|Edward Williams Morley|chemist
+edward teller|1
+(noun)|Teller|Edward Teller|nuclear physicist
+edward thatch|1
+(noun)|Teach|Edward Teach|Thatch|Edward Thatch|Blackbeard|pirate|buccaneer|sea robber|sea rover
+edward weston|1
+(noun)|Weston|Edward Weston|photographer|lensman
+eero saarinen|1
+(noun)|Saarinen|Eero Saarinen|architect|designer
+effectiveness|2
+(noun)|effectivity|effectualness|effectuality|power|powerfulness
+(noun)|potency|strength|power|powerfulness
+effectualness|1
+(noun)|effectiveness|effectivity|effectuality|power|powerfulness
+effervescence|2
+(noun)|natural process|natural action|action|activity
+(noun)|bubbliness|frothiness|gaseousness
+efficaciously|1
+(adv)|effectively
+efflorescence|4
+(noun)|flower|prime|peak|heyday|bloom|blossom|flush|time period|period of time|period
+(noun)|rash|roseola|skin rash|eruption
+(noun)|blossoming|flowering|florescence|inflorescence|anthesis|growth|growing|maturation|development|ontogeny|ontogenesis
+(noun)|bloom|crystallization|crystallisation|crystallizing
+effortfulness|1
+(noun)|difficulty|difficultness
+egadi islands|1
+(noun)|Egadi Islands|Aegadean Isles|Aegadean Islands|Isole Egadi|Aegates|island
+egg-producing|1
+(adj)|young-bearing|female 
+eggplant bush|1
+(noun)|eggplant|aubergine|brinjal|garden egg|mad apple|Solanum melongena|herb|herbaceous plant
+eggs benedict|1
+(noun)|eggs Benedict|dish
+egotistically|1
+(adv)|selfishly
+egretta albus|1
+(noun)|American egret|great white heron|Egretta albus|egret
+egretta thula|1
+(noun)|snowy egret|snowy heron|Egretta thula|egret
+egyptian bean|1
+(noun)|hyacinth bean|bonavist|Indian bean|Egyptian bean|Lablab purpureus|Dolichos lablab|vine
+egyptian corn|1
+(noun)|durra|doura|dourah|Egyptian corn|Indian millet|Guinea corn|grain sorghum
+ejection seat|1
+(noun)|ejector seat|capsule|seat
+el libertador|2
+(noun)|Bolivar|Simon Bolivar|El Libertador|general|full general|statesman|solon|national leader
+(noun)|El Libertador|mountain peak
+elaborateness|2
+(noun)|elaboration|intricacy|involution|complexity|complexness
+(noun)|ornateness|appearance|visual aspect
+eleanor gwynn|1
+(noun)|Gwynn|Gywn|Gynne|Nell Gwynn|Nell Gywn|Nell Gwynne|Eleanor Gwynn|Eleanor Gwyn|Eleanor Gwynne|comedienne
+electric bell|1
+(noun)|bell
+electric bill|1
+(noun)|bill|account|invoice
+electric burn|1
+(noun)|burn
+electric cell|1
+(noun)|cell|electrical device
+electric cord|1
+(noun)|cord|conductor
+electric fire|1
+(noun)|electric heater|space heater
+electric glow|1
+(noun)|corona discharge|corona|corposant|St. Elmo's fire|Saint Elmo's fire|Saint Elmo's light|Saint Ulmo's fire|Saint Ulmo's light|discharge|spark|arc|electric arc|electric discharge
+electric lamp|1
+(noun)|lamp
+electric main|1
+(noun)|main
+electrocution|2
+(noun)|burning|execution|executing|capital punishment|death penalty
+(noun)|killing|kill|putting to death
+electrologist|1
+(noun)|health professional|health care provider|caregiver
+electromagnet|1
+(noun)|magnet
+electron beam|1
+(noun)|beam|ray|electromagnetic radiation|electromagnetic wave|nonparticulate radiation
+electron lens|1
+(noun)|lens|electronic equipment
+electron tube|1
+(noun)|tube|vacuum tube|thermionic vacuum tube|thermionic tube|thermionic valve|electronic device
+electron volt|1
+(noun)|eV|work unit|heat unit|energy unit
+electrophorus|2
+(noun)|electrostatic generator|electrostatic machine|Wimshurst machine|Van de Graaff generator
+(noun)|Electrophorus|genus Electrophorus|fish genus
+electroplater|1
+(noun)|plater
+electrostatic|1
+(adj)|static|electricity
+eleonora duse|1
+(noun)|Duse|Eleonora Duse|actress
+elephant-tusk|1
+(noun)|common unicorn plant|devil's claw|common devil's claw|proboscis flower|ram's horn|Proboscidea louisianica|herb|herbaceous plant
+elephant bird|1
+(noun)|aepyornis|ratite|ratite bird|flightless bird
+elephant seal|1
+(noun)|sea elephant|earless seal|true seal|hair seal
+elephant tree|1
+(noun)|Bursera microphylla|incense tree
+elephantiasis|1
+(noun)|hypertrophy
+eleuthra bark|1
+(noun)|cascarilla bark|sweetwood bark|bark
+elevator girl|1
+(noun)|elevator operator
+eleventh hour|1
+(noun)|last minute|moment|minute|second|instant
+elgin marbles|1
+(noun)|Elgin Marbles|statuary
+elias canetti|1
+(noun)|Canetti|Elias Canetti|writer|author
+elihu thomson|1
+(noun)|Thomson|Elihu Thomson|electrical engineer
+elliptic leaf|1
+(noun)|simple leaf
+elongate leaf|1
+(noun)|linear leaf|simple leaf
+elvis presley|1
+(noun)|Presley|Elvis Presley|Elvis Aron Presley|rock star
+embarrassment|4
+(noun)|shame
+(noun)|emotional state|spirit
+(noun)|trouble
+(noun)|overplus|plethora|superfluity|excess|excessiveness|inordinateness
+embellishment|3
+(noun)|embroidery|expansion|enlargement|elaboration
+(noun)|decoration|ornament|ornamentation
+(noun)|ornamentation|decoration
+emissary vein|1
+(noun)|vena emissaria|vein|vena|venous blood vessel
+emphysematous|1
+(adj)|respiratory disease|respiratory illness|respiratory disorder
+empty-bellied|1
+(adj)|empty|hungry 
+en deshabille|1
+(adj)|in dishabille|unclothed 
+encapsulation|2
+(noun)|condition|status
+(noun)|process
+encephalartos|1
+(noun)|cycad
+encephalocele|1
+(noun)|birth defect|congenital anomaly|congenital defect|congenital disorder|congenital abnormality
+encephalogram|2
+(noun)|electroencephalogram|EEG|graph|graphical record
+(noun)|pneumoencephalogram|roentgenogram|X ray|X-ray picture|X-ray photograph
+encompassment|1
+(noun)|inclusion
+encouragement|3
+(noun)|approval|commendation
+(noun)|boost|aid|assist|assistance|help
+(noun)|hope
+encroach upon|1
+(verb)|intrude on|invade|obtrude upon|enter|come in|get into|get in|go into|go in|move into
+enculturation|1
+(noun)|socialization|socialisation|acculturation|social control
+encyclopaedia|1
+(noun)|encyclopedia|cyclopedia|cyclopaedia|reference book|reference|reference work|book of facts
+encyclopaedic|1
+(adj)|encyclopedic|comprehensive 
+encyclopedism|1
+(noun)|eruditeness|erudition|learnedness|learning|scholarship|encyclopaedism|education
+encyclopedist|1
+(noun)|encyclopaedist|compiler|writer|author
+endocrinology|1
+(noun)|medicine|medical specialty
+endometriosis|1
+(noun)|adenomyosis|pathology
+endomycetales|1
+(noun)|Endomycetales|order Endomycetales|fungus order
+endoparasitic|1
+(adj)|parasite
+enfilade fire|1
+(noun)|enfilade|gunfire|gunshot
+engine driver|1
+(noun)|engineer|locomotive engineer|railroad engineer|operator|manipulator
+english class|1
+(noun)|English class|class|form|grade
+english daisy|1
+(noun)|common daisy|English daisy|Bellis perennis|daisy
+enigmatically|1
+(adv)|cryptically|mysteriously
+enjoyableness|1
+(noun)|pleasantness|sweetness
+enlightenment|3
+(noun)|education
+(noun)|Nirvana|blessedness|beatitude|beatification
+(noun)|Enlightenment|Age of Reason|reform movement
+enrico caruso|1
+(noun)|Caruso|Enrico Caruso|tenor
+ensiform leaf|1
+(noun)|simple leaf
+enteric fever|1
+(noun)|typhoid|typhoid fever|infectious disease
+enterotoxemia|1
+(noun)|animal disease
+entertainment|1
+(noun)|amusement|diversion|recreation
+enthrallingly|1
+(adv)|bewitchingly|captivatingly|enchantingly
+entomological|1
+(adj)|entomologic|zoology|zoological science
+entomophilous|1
+(adj)|entomophilous 
+entomophthora|1
+(noun)|Entomophthora|genus Entomophthora|fungus genus
+entrance exam|1
+(noun)|entrance examination|examination|exam|test
+entrance hall|1
+(noun)|anteroom|antechamber|hall|foyer|lobby|vestibule|room
+environmental|2
+(adj)|biology|biological science
+(adj)|situation|state of affairs
+ephemeralness|1
+(noun)|ephemerality|fleetingness|transience|transiency|transitoriness
+ephemeroptera|1
+(noun)|Ephemeroptera|order Ephemeroptera|Ephemerida|order Ephemerida|animal order
+epicondylitis|1
+(noun)|inflammation|redness|rubor
+epidemiologic|1
+(adj)|epidemiological|medicine|medical specialty
+epilating wax|1
+(noun)|depilatory|depilator|epilator
+epiphenomenon|1
+(noun)|by-product|byproduct
+epsilon toxin|1
+(noun)|Clostridium perfringens epsilon toxin|bacterial toxin
+equilibration|1
+(noun)|stabilization|stabilisation
+equivocalness|1
+(noun)|ambiguity|unclearness
+erica arborea|1
+(noun)|tree heath|briar|brier|Erica arborea|erica|true heath
+erica cinerea|1
+(noun)|bell heather|heather bell|fine-leaved heath|Erica cinerea|erica|true heath
+erigeron acer|1
+(noun)|blue fleabane|Erigeron acer|fleabane
+eriocaulaceae|1
+(noun)|Eriocaulaceae|family Eriocaulaceae|pipewort family|monocot family|liliopsid family
+ernest solvay|1
+(noun)|Solvay|Ernest Solvay|chemist|industrialist
+ernest walton|1
+(noun)|Walton|E. T. S. Walton|Ernest Walton|Ernest Thomas Sinton Walton|nuclear physicist
+erolia alpina|1
+(noun)|red-backed sandpiper|dunlin|Erolia alpina|sandpiper
+erroneousness|1
+(noun)|error|incorrectness|wrongness
+escape expert|1
+(noun)|escapologist|magician|prestidigitator|conjurer|conjuror|illusionist
+eschatologist|1
+(noun)|theologian|theologist|theologizer|theologiser
+eschscholtzia|1
+(noun)|Eschscholtzia|genus Eschscholtzia|dilleniid dicot genus
+eskimo curlew|1
+(noun)|Eskimo curlew|Numenius borealis|curlew
+esophagoscope|1
+(noun)|oesophagoscope|optical instrument
+espresso shop|1
+(noun)|cafe|coffeehouse|coffee shop|coffee bar
+essential oil|1
+(noun)|volatile oil|oil
+essentialness|1
+(noun)|essentiality|importance
+establishment|7
+(noun)|constitution|formation|organization|organisation|beginning|start|commencement
+(noun)|institution|organization|organisation
+(noun)|administration|governance|governing body|brass|organization|organisation|body
+(noun)|structure|construction
+(noun)|organization|organisation
+(noun)|ecesis|natural process|natural action|action|activity
+(noun)|validation|proof|cogent evidence
+esther morris|1
+(noun)|Morris|Esther Morris|Esther Hobart McQuigg Slack Morris|suffragist
+estimated tax|1
+(noun)|income tax
+eternal sleep|1
+(noun)|rest|eternal rest|sleep|quietus|death
+ethanoic acid|1
+(noun)|acetic acid|carboxylic acid
+ethchlorvynol|1
+(noun)|Placidyl|sedative-hypnotic|sedative-hypnotic drug
+ethmoid sinus|1
+(noun)|ethmoidal sinus|sinus ethmoidales|sinus
+ethnocentrism|1
+(noun)|partiality|partisanship
+ethyl acetate|1
+(noun)|ester
+ethyl alcohol|2
+(noun)|ethanol|fermentation alcohol|grain alcohol|alcohol|plant product
+(noun)|neutral spirits|alcohol|alcoholic beverage|intoxicant|inebriant
+ethyl radical|1
+(noun)|ethyl|ethyl group|alkyl|alkyl group|alkyl radical
+etymologizing|1
+(noun)|deriving|derivation|explanation|account
+euascomycetes|1
+(noun)|Euascomycetes|subclass Euascomycetes|class
+eubacteriales|1
+(noun)|Eubacteriales|order Eubacteriales|animal order
+eugene wigner|1
+(noun)|Wigner|Eugene Wigner|Eugene Paul Wigner|nuclear physicist
+euphorbiaceae|1
+(noun)|Euphorbiaceae|family Euphorbiaceae|spurge family|rosid dicot family
+euronithopoda|1
+(noun)|Euronithopoda|suborder Euronithopoda|euronithopod|Ornithopoda|suborder Ornithopoda|animal order
+european bean|1
+(noun)|broad bean|broad-bean|broad-bean plant|English bean|European bean|field bean|Vicia faba|shell bean|shell bean plant
+european hare|1
+(noun)|European hare|Lepus europaeus|hare
+european plan|1
+(noun)|European plan|continental plan|hotel plan|meal plan
+european sole|1
+(noun)|European sole|Solea solea|sole
+european toad|1
+(noun)|European toad|Bufo bufo|true toad
+europocentric|1
+(adj)|Eurocentric|Europocentric|partiality|partisanship
+eusporangiate|1
+(adj)|eusporangiate 
+even-tempered|1
+(adj)|equable|good-tempered|placid|good-natured 
+even a little|1
+(adv)|in the least
+evening dress|1
+(noun)|formalwear|eveningwear|evening clothes|attire|garb|dress
+evening shift|2
+(noun)|swing shift|shift|work shift|duty period
+(noun)|shift
+evening shirt|1
+(noun)|dress shirt|shirt
+event planner|1
+(noun)|assistant|helper|help|supporter
+ever-changing|1
+(adj)|changing|dynamic |dynamical
+evergreen oak|1
+(noun)|holm oak|holm tree|holly-leaved oak|Quercus ilex|oak|oak tree
+everlastingly|1
+(adv)|eternally|forever|evermore
+every quarter|1
+(adv)|quarterly
+ewing's tumor|1
+(noun)|Ewing's sarcoma|Ewing's tumor|Ewing's tumour|endothelial myeloma|sarcoma
+ex-serviceman|1
+(noun)|veteran|vet|serviceman|military man|man|military personnel
+ex post facto|1
+(adj)|retroactive|retro|retrospective 
+exacum affine|1
+(noun)|Persian violet|Exacum affine|houseplant
+exaggeratedly|1
+(adv)|hyperbolically
+exceptionable|1
+(adj)|objectionable|unacceptable 
+excessiveness|1
+(noun)|excess|inordinateness|immoderation|immoderateness
+exchange rate|1
+(noun)|rate of exchange|rate|charge per unit
+excitableness|1
+(noun)|excitability|volatility|emotionality|emotionalism
+exclusiveness|1
+(noun)|clannishness|cliquishness|snobbery|snobbishness
+excommunicate|2
+(verb)|curse|exclude|keep out|shut out|shut
+(verb)|oust|throw out|drum out|boot out|kick out|expel
+executability|1
+(noun)|capability|capableness
+exercise bike|1
+(noun)|exercycle|exercise device
+exhaust fumes|1
+(noun)|exhaust|fumes|gas|waste|waste material|waste matter|waste product
+exhaust valve|1
+(noun)|valve
+exhibitionism|2
+(noun)|ostentation|fanfare
+(noun)|immodesty|paraphilia
+exhibitionist|2
+(noun)|flasher|compulsive
+(noun)|show-off|egotist|egoist|swellhead
+exotic dancer|2
+(noun)|stripper|striptease artist|striptease|stripteaser|ecdysiast|peeler|performer|performing artist
+(noun)|belly dancer|exotic belly dancer|dancer|professional dancer
+expansion bit|1
+(noun)|expansive bit|bit
+expansive bit|1
+(noun)|expansion bit|bit
+expansiveness|2
+(noun)|impressiveness|grandness|magnificence
+(noun)|effusiveness|communicativeness
+expectoration|2
+(noun)|bodily process|body process|bodily function|activity
+(noun)|spit|spitting|expulsion|projection|ejection|forcing out
+expeditionary|1
+(adj)|military 
+expeditiously|1
+(adv)|efficiently|with efficiency
+expensiveness|1
+(noun)|monetary value|price|cost
+export credit|1
+(noun)|credit
+expostulation|2
+(noun)|remonstrance|objection|dissuasion
+(noun)|exclamation|exclaiming
+express mirth|1
+(verb)|laugh|express joy|express emotion|express feelings
+express trust|1
+(noun)|direct trust|trust
+expressionism|1
+(noun)|artistic movement|art movement
+expressionist|2
+(adj)|expressionistic|artistic movement|art movement
+(noun)|artist|creative person
+expropriation|1
+(noun)|confiscation|arrogation
+exquisiteness|1
+(noun)|beauty
+extemporarily|1
+(adv)|extemporaneously|extempore
+exterior door|1
+(noun)|outside door|doorway|door|room access|threshold
+extermination|2
+(noun)|extinction|annihilation|disintegration
+(noun)|liquidation|destruction|devastation
+external gill|1
+(noun)|gill|branchia
+exteroception|1
+(noun)|sensitivity|sensitiveness|sensibility
+exteroceptive|1
+(adj)|sensitivity|sensitiveness|sensibility
+exterritorial|1
+(adj)|extraterritorial 
+extinguishing|1
+(noun)|extinction|quenching|termination|ending|conclusion
+extra innings|1
+(noun)|overtime|extra time
+extracellular|1
+(adj)|extracellular |living thing|animate thing
+extragalactic|1
+(adj)|collection|aggregation|accumulation|assemblage
+extrajudicial|1
+(adj)|illegal 
+extraordinary|3
+(adj)|extraordinary |bonzer|exceeding|exceptional|olympian|prodigious|surpassing|fantastic|howling|marvelous|marvellous|rattling|terrific|tremendous|wonderful|wondrous|fantastic|phenomenal|one|preternatural|pyrotechnic|rare|uncommon|remarkable|singular|some|special|wonderworking|frightful|great|incomparable|uncomparable|uncommon|unusual
+(adj)|over-the-top|immoderate 
+(adj)|unusual 
+extrapolation|2
+(noun)|calculation|computation|figuring|reckoning
+(noun)|inference|illation
+extrasystolic|1
+(adj)|systole
+extravagantly|3
+(adv)|abundantly|copiously|profusely
+(adv)|lavishly
+(adv)|lavishly|richly
+extravasation|3
+(noun)|liquid
+(noun)|eruption|eructation|action|activity|activeness
+(noun)|organic process|biological process
+extreme point|1
+(noun)|extreme|extremum|extremity
+extrospective|1
+(adj)|extrospective |extroverted
+eye-deceiving|1
+(adj)|trompe-l'oeil|unreal 
+eye condition|1
+(noun)|condition|status
+eye infection|1
+(noun)|sty|stye|hordeolum|infection
+ezo-yama-hagi|1
+(noun)|bicolor lespediza|Lespedeza bicolor|bush clover|lespedeza

@@ -1,0 +1,1104 @@
+e-mycin|1
+(noun)|erythromycin|Erythrocin|E-Mycin|Ethril|Ilosone|Pediamycin|antibiotic|antibiotic drug
+e. coli|1
+(noun)|Escherichia coli|E. coli|escherichia
+e layer|1
+(noun)|Heaviside layer|Kennelly-Heaviside layer|E layer|E region|region|part
+eagerly|1
+(adv)|thirstily
+earache|1
+(noun)|otalgia|ache|aching
+eardrop|1
+(noun)|pendant earring|drop earring|earring
+eardrum|1
+(noun)|tympanum|tympanic membrane|myringa|membrane|tissue layer
+earflap|1
+(noun)|earlap|flap
+earhart|1
+(noun)|Earhart|Amelia Earhart|aviator|aeronaut|airman|flier|flyer
+earldom|2
+(noun)|rank
+(noun)|domain|demesne|land
+earless|1
+(adj)|earless 
+earlier|10
+(adj)|earliest|early 
+earlobe|1
+(noun)|ear lobe|lobe
+earmark|3
+(noun)|marker|marking|mark
+(noun)|hallmark|trademark|stylemark|characteristic
+(verb)|allow|appropriate|set aside|reserve|assign|allot|portion
+earmuff|1
+(noun)|covering
+earnest|4
+(adj)|in earnest|sincere|solemn|serious 
+(adj)|dear|devout|heartfelt|sincere 
+(adj)|businesslike|purposeful 
+(noun)|security|surety
+earring|1
+(noun)|jewelry|jewellery
+earshot|1
+(noun)|earreach|hearing|range|reach
+earthen|1
+(adj)|material|stuff
+earthly|1
+(adj)|earthly |earthborn|earthbound|earthlike|mundane|terrene|sublunar|sublunary|terrestrial|temporal|mortal|profane|worldly
+ease up|3
+(verb)|move over|give way|give|yield|move
+(verb)|ease off|slacken off|flag|decrease|diminish|lessen|fall
+(verb)|ease off|let up|change|alter|modify
+eastern|5
+(adj)|east 
+(adj)|eastern |east-central|middle Atlantic|mid-Atlantic|northeastern|southeastern
+(adj)|easterly|east 
+(adj)|eastern |Asian|oriental|orient
+(adj)|easterly|east 
+eastman|1
+(noun)|Eastman|George Eastman|industrialist|inventor|discoverer|artificer
+eat out|1
+(verb)|dine out|eat
+eatable|2
+(adj)|edible |comestible|nonpoisonous|nontoxic|pareve|parve|killable|digestible|palatable|tender
+(noun)|comestible|edible|pabulum|victual|victuals|food|nutrient
+ebb off|1
+(verb)|ebb|ebb away|ebb down|ebb out|recede|fall back|retire
+ebb out|1
+(verb)|ebb|ebb away|ebb down|ebb off|recede|fall back|retire
+ebbtide|1
+(noun)|tide
+ebonics|1
+(noun)|Black English|Black English Vernacular|Ebonics|American English|American language|American
+ebonise|1
+(verb)|ebonize|stain
+ebonite|1
+(noun)|hard rubber|vulcanite|rubber|India rubber|gum elastic|caoutchouc
+ebonize|1
+(verb)|ebonise|stain
+eccrine|1
+(adj)|eccrine 
+ecdemic|1
+(adj)|ecdemic 
+ecdysis|1
+(noun)|molt|molting|moult|moulting|shedding|sloughing
+echelon|2
+(noun)|military unit|military force|military group|force
+(noun)|diffraction grating|grating
+echidna|2
+(noun)|spiny anteater|anteater|monotreme|egg-laying mammal
+(noun)|spiny anteater|anteater|monotreme|egg-laying mammal
+echinus|1
+(noun)|ovolo|thumb|quarter round
+echoing|1
+(adj)|reechoing|reverberant |ringing
+eckhart|1
+(noun)|Eckhart|Johannes Eckhart|Meister Eckhart|theologian|theologist|theologizer|theologiser|mystic|religious mystic
+eclipse|4
+(noun)|occultation|interruption|break
+(verb)|overshadow|excel|stand out|surpass
+(verb)|occult|overshadow
+(verb)|obscure|bedim|overcloud
+eclogue|1
+(noun)|bucolic|idyll|pastoral
+ecology|2
+(noun)|environment
+(noun)|bionomics|environmental science|biology|biological science
+economy|4
+(noun)|economic system|system|scheme
+(noun)|efficiency
+(noun)|thriftiness|frugality|frugalness
+(noun)|saving|action
+ecstasy|3
+(noun)|rapture|transport|exaltation|raptus|emotional state|spirit
+(noun)|rapture|bliss|blissfulness|cloud nine|seventh heaven|walking on air
+(noun)|Adam|XTC|go|disco biscuit|cristal|X|hug drug|methylenedioxymethamphetamine|MDMA
+ectasia|1
+(noun)|ectasis|dilatation|distension|distention
+ectasis|1
+(noun)|ectasia|dilatation|distension|distention
+ectopia|1
+(noun)|position|posture|attitude
+ectopic|1
+(adj)|position|posture|attitude
+ecuador|1
+(noun)|Ecuador|Republic of Ecuador|South American country|South American nation
+edacity|2
+(noun)|esurience|ravenousness|voracity|voraciousness|hunger|hungriness
+(noun)|esurience|rapaciousness|rapacity|voracity|voraciousness|gluttony
+edecrin|1
+(noun)|ethacrynic acid|Edecrin|diuretic drug|diuretic|water pill
+edental|1
+(adj)|edentate|edentulate|toothless 
+edge in|1
+(verb)|edge up|approach|near|come on|go up|draw near|draw close|come near
+edge up|1
+(verb)|edge in|approach|near|come on|go up|draw near|draw close|come near
+edifice|1
+(noun)|building|structure|construction
+edified|1
+(adj)|enlightened 
+editing|1
+(noun)|redaction|writing|written material|piece of writing
+edition|4
+(noun)|impression|printing
+(noun)|group|grouping
+(noun)|issue|number
+(noun)|version|variant|variation|type
+edronax|1
+(noun)|reboxetine|Edronax|antidepressant|antidepressant drug
+educate|3
+(verb)|better|improve|amend|ameliorate|meliorate
+(verb)|train|develop|prepare|teach|learn|instruct
+(verb)|school|train|cultivate|civilize|civilise|polish|refine|fine-tune|down
+edwards|3
+(noun)|Edwards|Jonathan Edwards|theologian|theologist|theologizer|theologiser
+(noun)|Edward|Prince Edward|Edward Antony Richard Louis|prince
+(noun)|Edward|Black Prince|Prince of Wales
+eellike|1
+(adj)|curved |curving
+eelpout|2
+(noun)|pout|blennioid fish|blennioid
+(noun)|burbot|ling|cusk|Lota lota|cod|codfish
+eelworm|1
+(noun)|nematode|nematode worm|roundworm
+effects|7
+(noun)|personal effects|personal property|personal estate|personalty|private property
+(noun)|consequence|effect|outcome|result|event|issue|upshot|phenomenon
+(noun)|impression|effect|appearance|visual aspect
+(noun)|effect|force|validity|validness
+(noun)|effect|symptom
+(noun)|effect|impression|feeling|belief|notion|opinion
+(noun)|effect|essence|burden|core|gist|meaning|significance|signification|import
+effendi|1
+(noun)|Turk
+egg cup|2
+(noun)|eggcup|crockery|dishware
+(noun)|                                                                         
+egghead|1
+(noun)|intellectual|intellect
+egotism|2
+(noun)|self-importance|swelled head|conceit|vanity
+(noun)|ego|self-importance|pride|pridefulness
+egotist|1
+(noun)|egoist|swellhead|unpleasant person|disagreeable person
+egotrip|1
+(verb)|act|move
+egretta|1
+(noun)|Egretta|genus Egretta|bird genus
+ehrlich|1
+(noun)|Ehrlich|Paul Ehrlich|bacteriologist
+eidetic|1
+(adj)|representational 
+eighter|1
+(noun)|eight|8|VIII|eighter from Decatur|octad|ogdoad|octonary|octet|digit|figure
+eightvo|1
+(noun)|octavo|8vo|size
+eijkman|1
+(noun)|Eijkman|Christiaan Eijkman|doctor|doc|physician|MD|Dr.|medico
+eimeria|1
+(noun)|coccidium|sporozoan
+ejector|2
+(noun)|ouster|person|individual|someone|somebody|mortal|human|soul
+(noun)|cartridge ejector|mechanism
+eke out|4
+(verb)|fill out|supplement
+(verb)|live
+(verb)|squeeze out|gain|take in|clear|make|earn|realize|realise|pull in|bring in
+(verb)|squeeze out|obtain
+el beda|1
+(noun)|Doha|Bida|El Beda|capital of Qatar|national capital|port
+el giza|1
+(noun)|Giza|El Giza|city|metropolis|urban center
+el nino|2
+(noun)|El Nino|ocean current
+(noun)|El Nino|Jesus|Jesus of Nazareth|the Nazarene|Jesus Christ|Christ|Savior|Saviour|Good Shepherd|Redeemer|Deliverer
+el paso|1
+(noun)|El Paso|city|metropolis|urban center
+elamite|2
+(noun)|Elamite|White|white person|Caucasian
+(noun)|Elamitic|Elamite|Susian|natural language|tongue
+elapsed|1
+(adj)|advance|progress|pass on|move on|march on|go on
+elastic|4
+(adj)|elastic |bouncy|live|lively|resilient|springy|whippy|ductile|malleable|pliable|pliant|tensile|tractile|elasticized|elasticised|expandable|expandible|expansible|expansile|fictile|moldable|plastic|flexible|rubbery|rubberlike|springlike|stretch|stretchable|stretchy|viscoelastic|chewy|flexible|flexile
+(adj)|flexible|pliable|pliant|adaptable 
+(noun)|rubber band|elastic band|band|elastic device
+(noun)|fabric|cloth|material|textile
+elastin|1
+(noun)|scleroprotein|albuminoid
+elating|1
+(adj)|exhilarating|exciting 
+elation|2
+(noun)|psychological state|mental state
+(noun)|high spirits|joy|joyousness|joyfulness
+elderly|1
+(adj)|aged|older|senior|old 
+elected|1
+(adj)|elective |electoral|nonappointive
+elector|2
+(noun)|voter|citizen
+(noun)|Elector|prince
+electra|1
+(noun)|Electra|mythical being
+elegant|4
+(adj)|elegant |dandified|dandyish|foppish|deluxe|de luxe|luxe|luxury|exquisite|recherche|high-class|high-toned|neat|refined|tasteful|ritzy|soigne|soignee|fine|dignified|graceful|refined|sophisticated|tasteful|in good taste
+(adj)|graceful|refined|gracious 
+(adj)|graceful 
+(adj)|courtly|formal|stately|dignified 
+elegiac|2
+(adj)|poem|verse form
+(adj)|sorrowful 
+elegise|1
+(verb)|elegize|verse|versify|poetize|poetise
+elegist|1
+(noun)|poet
+elegize|1
+(verb)|elegise|verse|versify|poetize|poetise
+element|7
+(noun)|component|constituent|factor|ingredient|part|section|division
+(noun)|chemical element|substance|matter
+(noun)|component|constituent|part|portion
+(noun)|substance|matter
+(noun)|environment|environs|surroundings|surround
+(noun)|situation|state of affairs
+(noun)|straight line
+elephas|1
+(noun)|Elephas|genus Elephas|mammal genus
+elevate|3
+(verb)|promote|upgrade|advance|kick upstairs|raise|delegate|designate|depute|assign
+(verb)|raise|lift|get up|bring up|move|displace
+(verb)|lift|raise|change|alter|modify
+elf cup|1
+(noun)|apothecium
+elflike|1
+(adj)|elfin|small 
+elinvar|1
+(noun)|chrome-nickel steel|Elinvar|alloy steel
+eliomys|1
+(noun)|Eliomys|genus Eliomys|mammal genus
+elision|2
+(noun)|omission|deletion
+(noun)|exception|exclusion|omission
+elitism|1
+(noun)|political orientation|ideology|political theory
+elitist|1
+(noun)|moralist
+elk nut|1
+(noun)|buffalo nut|oil nut|fruit
+elkwood|1
+(noun)|umbrella tree|umbrella magnolia|elk-wood|Magnolia tripetala|magnolia
+ellipse|1
+(noun)|oval|conic section|conic
+ellison|1
+(noun)|Ellison|Ralph Ellison|Ralph Waldo Ellison|writer|author
+elmwood|1
+(noun)|elm|wood
+elocute|1
+(verb)|declaim|recite
+eluding|1
+(noun)|slip|elusion|evasion
+elusion|1
+(noun)|slip|eluding|evasion
+elusive|3
+(adj)|unidentifiable 
+(adj)|evasive|artful 
+(adj)|subtle|impalpable 
+elution|1
+(noun)|extraction
+elysian|3
+(adj)|Heaven
+(adj)|paradisiacal|paradisiac|paradisaical|paradisaic|paradisal|paradisial|happy 
+(adj)|divine|inspired|glorious 
+elysium|2
+(noun)|Elysium|imaginary place|mythical place
+(noun)|Elysium|Elysian Fields|Heaven
+elytron|1
+(noun)|wing case|wing
+emanate|2
+(verb)|come|come up
+(verb)|exhale|give forth|emit|breathe|pass off
+embargo|3
+(noun)|trade embargo|trade stoppage|trade barrier|import barrier
+(verb)|ban|censor
+(verb)|stop|halt|block|kibosh
+embassy|2
+(noun)|diplomatic building
+(noun)|deputation|commission|delegation|delegacy|mission
+embolic|1
+(adj)|occlusion|clot|coagulum
+embolus|1
+(noun)|clot|coagulum
+embower|1
+(verb)|bower|enclose|inclose|shut in
+embrace|6
+(noun)|embracing|clasp|clench|clutch|clutches|grasp|grip|hold
+(noun)|inclusion
+(noun)|bosom|adoption|acceptance|acceptation|espousal
+(verb)|encompass|comprehend|cover|include
+(verb)|hug|bosom|squeeze|clasp
+(verb)|espouse|adopt|sweep up|accept
+embroil|1
+(verb)|tangle|sweep|sweep up|drag|drag in|involve
+embrown|2
+(verb)|darken
+(verb)|color|colorize|colorise|colourise|colourize|colour|color in|colour in
+emended|1
+(adj)|edited|altered 
+emerald|3
+(noun)|transparent gem|beryl
+(noun)|jewel|gem|precious stone
+(noun)|green|greenness|viridity
+emerson|1
+(noun)|Emerson|Ralph Waldo Emerson|writer|author
+emeside|1
+(noun)|ethosuximide|Emeside|Zarontin|anticonvulsant|anticonvulsant drug|antiepileptic|antiepileptic drug
+emetrol|1
+(noun)|Emetrol|antiemetic|antiemetic drug
+emigree|1
+(noun)|emigrant|emigre|outgoer|migrant|migrator
+eminent|4
+(adj)|distinguished|great|important |of import
+(adj)|high|superior 
+(adj)|successful 
+(adj)|lofty|soaring|towering|high 
+emirate|2
+(noun)|domain|demesne|land
+(noun)|position|post|berth|office|spot|billet|place|situation
+emitter|1
+(noun)|electrode
+emotion|1
+(noun)|feeling
+emotive|1
+(adj)|affectional|affective|emotional 
+empanel|2
+(verb)|impanel|list
+(verb)|impanel|panel|choose|take|select|pick out
+empathy|1
+(noun)|sympathy|fellow feeling
+emperor|4
+(noun)|Emperor|sovereign|crowned head|monarch
+(noun)|vinifera grape
+(noun)|emperor moth|Saturnia pavonia|saturniid|saturniid moth
+(noun)|emperor butterfly|nymphalid|nymphalid butterfly|brush-footed butterfly|four-footed butterfly
+empiric|2
+(adj)|empirical|medical practice
+(adj)|empirical |a posteriori|confirmable|verifiable|falsifiable|experiential|existential|experimental|data-based|observational|experimental|semiempirical|trial-and-error
+empirin|1
+(noun)|aspirin|acetylsalicylic acid|Bayer|Empirin|salicylate|analgesic|anodyne|painkiller|pain pill
+emplace|2
+(verb)|put|set|place|pose|position|lay
+(verb)|put|set|place|pose|position|lay
+emplane|1
+(verb)|enplane|embark|ship
+empower|2
+(verb)|authorise|authorize|appoint|charge
+(verb)|endow|indue|gift|invest|endue|enable
+empress|1
+(noun)|Empress|Emperor
+emptied|1
+(adj)|empty 
+empyema|1
+(noun)|inflammatory disease
+emulate|3
+(verb)|imitate|copy|simulate
+(verb)|imitate
+(verb)|compete|vie|contend
+emulous|2
+(adj)|imitation
+(adj)|rivalrous|competitive |competitory
+en bloc|1
+(adv)|en masse|as a group
+enamine|1
+(noun)|amine|aminoalkane
+enamour|1
+(verb)|capture|trance|catch|becharm|enamor|captivate|beguile|charm|fascinate|bewitch|entrance|enchant|attract|appeal
+enation|2
+(noun)|matrilineage|cognation|unilateral descent
+(noun)|plant process|process|outgrowth|appendage
+encased|1
+(adj)|cased|incased|sheathed 
+encelia|1
+(noun)|Encelia|genus Encelia|asterid dicot genus
+enchain|1
+(verb)|restrain|confine|hold
+enchant|3
+(verb)|enrapture|transport|enthrall|ravish|enthral|delight|please|delight
+(verb)|capture|enamour|trance|catch|becharm|enamor|captivate|beguile|charm|fascinate|bewitch|entrance|attract|appeal
+(verb)|hex|bewitch|glamour|witch|jinx|charm|becharm
+enclave|1
+(noun)|district|territory|territorial dominion|dominion
+enclose|4
+(verb)|envelop|enfold|enwrap|wrap|cover
+(verb)|hold in|confine|hold|bear|carry|contain
+(verb)|inclose|shut in|surround|skirt|border
+(verb)|insert|inclose|stick in|put in|introduce|put|set|place|pose|position|lay
+encrust|3
+(verb)|incrust|coat|surface
+(verb)|incrust|beset|decorate|adorn|grace|ornament|embellish|beautify
+(verb)|incrust|harden|indurate
+encrypt|1
+(verb)|encode|code|encipher|cipher|cypher|inscribe|write in code|write
+end-all|1
+(noun)|goal|end
+end man|2
+(noun)|corner man|minstrel
+(noun)|acquaintance|friend
+end run|1
+(noun)|sweep|run|running|running play|running game
+endemic|5
+(adj)|endemic |endemical|enzootic
+(adj)|endemic 
+(adj)|autochthonal|autochthonic|autochthonous|indigenous|native 
+(noun)|endemic disease|disease
+(noun)|plant|flora|plant life
+endgame|2
+(noun)|end game|end|last|final stage
+(noun)|end game|end|last|final stage
+endless|5
+(adj)|eternal|interminable|long 
+(adj)|infinite 
+(adj)|dateless|sempiternal|infinite 
+(adj)|continuous |uninterrupted
+(adj)|incessant|perpetual|continual 
+endmost|1
+(adj)|terminal|last 
+endogen|1
+(noun)|monocot|monocotyledon|liliopsid|angiosperm|flowering plant
+endorse|4
+(verb)|back|indorse|plump for|plunk for|support|approve|O.K.|okay|sanction
+(verb)|second|back|indorse|support|back up
+(verb)|certify|indorse|guarantee|warrant
+(verb)|indorse|sign
+endowed|1
+(adj)|endowed |blessed|blessed with|endued with|dowered|invested|invested with
+endways|3
+(adv)|endwise
+(adv)|endwise
+(adv)|endwise|end on
+endwise|3
+(adv)|endways
+(adv)|endways
+(adv)|endways|end on
+energid|1
+(noun)|protoplast|body part
+enfeoff|1
+(verb)|give
+enforce|2
+(verb)|implement|apply|compel|oblige|obligate
+(verb)|impose|compel|oblige|obligate
+engaged|8
+(adj)|occupied|busy 
+(adj)|involved 
+(adj)|booked|set-aside|reserved 
+(adj)|busy|in use|occupied 
+(adj)|meshed|intermeshed|geared 
+(adj)|employed 
+(adj)|connected 
+(adj)|affianced|bespoken|betrothed|pledged|attached |committed
+england|1
+(noun)|England|European country|European nation
+english|5
+(adj)|English|European country|European nation
+(noun)|English|English language|West Germanic|West Germanic language
+(noun)|English|English people|the English|nation|land|country|a people
+(noun)|English|humanistic discipline|humanities|liberal arts|arts
+(noun)|English|side|spin
+engorge|1
+(verb)|gorge|ingurgitate|overindulge|glut|englut|stuff|overgorge|overeat|gormandize|gormandise|gourmandize|binge|pig out|satiate|scarf out|eat
+engraft|2
+(verb)|graft|ingraft|join|conjoin
+(verb)|implant|embed|imbed|plant|insert|infix|enter|introduce
+engrave|4
+(verb)|grave|inscribe|carve|chip at
+(verb)|affect|impress|move|strike
+(verb)|print
+(verb)|carve|chip at
+engross|2
+(verb)|steep|immerse|engulf|plunge|absorb|soak up|concentrate|focus|center|centre|pore|rivet
+(verb)|absorb|engage|occupy|interest
+enhance|2
+(verb)|heighten|raise|intensify|compound|heighten|deepen
+(verb)|better|improve|amend|ameliorate|meliorate
+enhydra|1
+(noun)|Enhydra|genus Enhydra|mammal genus
+enjoyer|1
+(noun)|person|individual|someone|somebody|mortal|human|soul
+enlarge|4
+(verb)|increase
+(verb)|blow up|magnify|increase
+(verb)|grow
+(verb)|elaborate|lucubrate|expatiate|exposit|flesh out|expand|expound|dilate|clarify|clear up|elucidate
+enliven|2
+(verb)|inspire|animate|invigorate|exalt|stimulate|shake|shake up|excite|stir
+(verb)|liven|liven up|invigorate|animate|stimulate|arouse|brace|energize|energise|perk up
+ennoble|2
+(verb)|dignify|honor|honour|reward
+(verb)|gentle|entitle|promote|upgrade|advance|kick upstairs|raise|elevate
+enology|1
+(noun)|oenology|art|artistry|prowess
+enounce|1
+(verb)|pronounce|articulate|sound out|enunciate|say
+enplane|1
+(verb)|emplane|embark|ship
+enquire|3
+(verb)|ask|inquire|communicate|intercommunicate
+(verb)|investigate|inquire|probe|examine
+(verb)|wonder|inquire|question|query
+enquiry|3
+(noun)|question|inquiry|query|interrogation|questioning|inquiring
+(noun)|inquiry|research|problem solving
+(noun)|inquiry|investigation|investigating
+enraged|1
+(adj)|angered|furious|infuriated|maddened|angry 
+enslave|1
+(verb)|subjugate|subject
+ensnare|2
+(verb)|entrap|frame|set up|deceive|lead on|delude|cozen
+(verb)|trap|entrap|snare|trammel|capture|catch
+ensnarl|1
+(verb)|enmesh|mesh|entangle|tangle|mat|snarl
+ensuant|1
+(adj)|consequent|resultant|resulting|sequent|subsequent 
+ensuing|1
+(adj)|succeeding 
+ent man|1
+(noun)|ENT man|ear-nose-and-throat doctor|otolaryngologist|otorhinolaryngologist|rhinolaryngologist|specialist|medical specialist
+entasis|1
+(noun)|convex shape|convexity
+entebbe|1
+(noun)|Entebbe|town
+entelea|1
+(noun)|Entelea|genus Entelea|dilleniid dicot genus
+entente|2
+(noun)|entente cordiale|alliance|coalition|alignment|alinement
+(noun)|entente cordiale|agreement|understanding
+enteral|2
+(adj)|enteric|alimentary canal|alimentary tract|digestive tube|digestive tract|gastrointestinal tract|GI tract
+(adj)|intestinal|enteric|internal organ|viscus
+enteric|2
+(adj)|enteral|alimentary canal|alimentary tract|digestive tube|digestive tract|gastrointestinal tract|GI tract
+(adj)|intestinal|enteral|internal organ|viscus
+enteron|1
+(noun)|alimentary canal|alimentary tract|digestive tube|digestive tract|gastrointestinal tract|GI tract
+enthral|1
+(verb)|enchant|enrapture|transport|enthrall|ravish|delight|please|delight
+enthuse|2
+(verb)|excite
+(verb)|talk|speak|utter|mouth|verbalize|verbalise
+entitle|3
+(verb)|empower|authorise|authorize
+(verb)|title|name|call
+(verb)|ennoble|gentle|promote|upgrade|advance|kick upstairs|raise|elevate
+entrain|1
+(verb)|board|get on
+entrant|4
+(noun)|commodity|trade goods|goods
+(noun)|newcomer|fledgling|fledgeling|starter|neophyte|freshman|newbie|novice|beginner|tyro|tiro|initiate
+(noun)|traveler|traveller
+(noun)|contestant
+entreat|1
+(verb)|bid|beseech|adjure|press|conjure|plead
+entropy|2
+(noun)|information|selective information|information measure
+(noun)|randomness|S|physical property
+entrust|2
+(verb)|intrust|trust|confide|commit|pass|hand|reach|pass on|turn over|give
+(verb)|leave|pass|hand|reach|pass on|turn over|give
+entwine|2
+(verb)|knit|join|conjoin
+(verb)|intertwine|twine|enlace|interlace|lace|twist|twine|distort
+envelop|1
+(verb)|enfold|enwrap|wrap|enclose|cover
+envenom|2
+(verb)|embitter|acerbate
+(verb)|poison|change|alter|modify
+envious|1
+(adj)|covetous|jealous|desirous 
+environ|1
+(verb)|surround|encircle|circle|round|ring|hold|bear|carry|contain
+epacris|1
+(noun)|Australian heath
+eparchy|2
+(noun)|state|province
+(noun)|exarchate|diocese|bishopric
+epaulet|1
+(noun)|epaulette|adornment
+epergne|1
+(noun)|centerpiece|centrepiece
+ephedra|1
+(noun)|joint fir|shrub|bush
+ephesan|1
+(adj)|Ephesan|city|metropolis|urban center
+ephesus|1
+(noun)|Ephesus|city|metropolis|urban center
+epicarp|1
+(noun)|exocarp|pericarp|seed vessel
+epicene|2
+(adj)|bisexual|androgynous 
+(adj)|effeminate|emasculate|cissy|sissified|sissyish|sissy|unmanly |unmanful|unmanlike
+epicine|1
+(noun)|hermaphrodite|intersex|gynandromorph|androgyne|epicine person|bisexual|bisexual person
+epicure|1
+(noun)|gourmet|gastronome|bon vivant|epicurean|foodie|sensualist
+epigaea|1
+(noun)|Epigaea|genus Epigaea|dilleniid dicot genus
+epigone|1
+(noun)|epigon|copycat|imitator|emulator|ape|aper
+epigram|1
+(noun)|quip|saying|expression|locution
+epilate|1
+(verb)|depilate|remove|take|take away|withdraw
+episcia|1
+(noun)|houseplant
+episode|4
+(noun)|happening|occurrence|natural event
+(noun)|section|subdivision
+(noun)|installment|instalment|broadcast|program|programme
+(noun)|sequence|film|photographic film
+epistle|1
+(noun)|letter|missive
+epitaph|2
+(noun)|inscription|lettering
+(noun)|memorial|commemoration|remembrance
+epitaxy|1
+(noun)|growing
+epithet|2
+(noun)|name|defamation|calumny|obloquy|traducement|hatchet job
+(noun)|word picture|word-painting|delineation|depiction|picture|characterization|characterisation
+epitome|2
+(noun)|prototype|paradigm|image|model|example
+(noun)|outline|synopsis|abstract|precis
+epizoan|2
+(adj)|ectozoan|parasite
+(noun)|ectoparasite|ectozoan|ectozoon|epizoon|parasite
+epizoic|1
+(adj)|epizoic 
+epizoon|1
+(noun)|ectoparasite|ectozoan|ectozoon|epizoan|parasite
+epkwele|1
+(noun)|Equatorial Guinea monetary unit
+epochal|1
+(adj)|epoch-making|significant |important
+epsilon|1
+(noun)|letter|letter of the alphabet|alphabetic character
+epstein|1
+(noun)|Epstein|Jacob Epstein|Sir Jacob Epstein|sculptor|sculpturer|carver|statue maker
+equable|2
+(adj)|temperate 
+(adj)|even-tempered|good-tempered|placid|good-natured 
+equally|2
+(adv)|as|every bit
+(adv)|evenly
+equanil|1
+(noun)|meprobamate|Miltown|Equanil|Meprin|minor tranquilizer|minor tranquillizer|minor tranquilliser|antianxiety drug|anxiolytic|anxiolytic drug
+equator|2
+(noun)|great circle
+(noun)|circle
+equerry|2
+(noun)|official|functionary
+(noun)|attendant|attender|tender
+equetus|1
+(noun)|Equetus|genus Equetus|fish genus
+equidae|1
+(noun)|Equidae|family Equidae|mammal family
+equinox|2
+(noun)|cosmic time
+(noun)|equinoctial point|celestial point
+erasmus|1
+(noun)|Erasmus|Desiderius Erasmus|Gerhard Gerhards|Geert Geerts|theologian|theologist|theologizer|theologiser|humanist
+erasure|3
+(noun)|correction
+(noun)|area|expanse|surface area
+(noun)|expunction|expunging|deletion
+ercilla|1
+(noun)|Ercilla|genus Ercilla|caryophylloid dicot genus
+erectly|1
+(adv)|straight-backed
+eremite|1
+(noun)|religious
+erewhon|1
+(noun)|Erewhon|Utopia|Zion|Sion
+ergodic|1
+(adj)|random 
+ergotic|1
+(adj)|fungus
+erinyes|1
+(noun)|Fury|Eumenides|Erinyes|mythical monster|mythical creature
+eristic|3
+(adj)|eristical|argumentative 
+(noun)|disputant|controversialist|person|individual|someone|somebody|mortal|human|soul
+(noun)|art|artistry|prowess
+eritrea|1
+(noun)|Eritrea|State of Eritrea|African country|African nation
+eroding|1
+(noun)|erosion|eating away|wearing|wearing away|geological process|geologic process
+erodium|1
+(noun)|Erodium|genus Erodium|rosid dicot genus
+erosion|4
+(noun)|eroding|eating away|wearing|wearing away|geological process|geologic process
+(noun)|environmental condition
+(noun)|decline|diminution
+(noun)|corrosion|corroding|chemical process|chemical change|chemical action
+erosive|2
+(adj)|destructive 
+(adj)|caustic|corrosive|vitriolic|destructive 
+erotica|1
+(noun)|pornography|porno|porn|smut|creation|creative activity
+erotism|2
+(noun)|eroticism|sexual arousal
+(noun)|amorousness|eroticism|sexiness|amativeness|sexual desire|concupiscence|physical attraction
+errancy|2
+(noun)|unacceptability|unacceptableness
+(noun)|fallibility
+erratic|3
+(adj)|planetary|wandering|unsettled 
+(adj)|fickle|mercurial|quicksilver|changeable |changeful
+(adj)|temperamental|unreliable 
+erratum|1
+(noun)|misprint|typographical error|typo|literal error|literal|error|mistake
+errhine|1
+(adj)|causative 
+erudite|1
+(adj)|learned|scholarly 
+erwinia|1
+(noun)|enteric bacteria|enterobacteria|enterics
+escaped|1
+(adj)|at large|at liberty|loose|on the loose|free 
+escapee|1
+(noun)|fugitive|fugitive from justice
+escheat|2
+(noun)|reversion
+(noun)|transferred property|transferred possession
+escolar|1
+(noun)|Lepidocybium flavobrunneum|gempylid
+esfahan|1
+(noun)|Isfahan|Esfahan|Aspadana|city|metropolis|urban center
+esidrix|1
+(noun)|hydrochlorothiazide|Esidrix|HydroDIURIL|thiazide
+esmolol|1
+(noun)|Brevibloc|beta blocker|beta-adrenergic blocker|beta-adrenergic blocking agent
+espouse|3
+(verb)|adopt|follow|choose|take|select|pick out
+(verb)|marry|get married|wed|conjoin|hook up with|get hitched with|unite|unify
+(verb)|embrace|adopt|sweep up|accept
+esquire|2
+(noun)|attendant|attender|tender
+(noun)|Esquire|Esq|man|adult male
+essayer|1
+(noun)|trier|attempter|person|individual|someone|somebody|mortal|human|soul
+esselen|2
+(noun)|Esselen|Hokan|Hoka
+(noun)|Esselen|Hokan|Hoka
+essence|4
+(noun)|kernel|substance|core|center|gist|heart|heart and soul|inwardness|marrow|meat|nub|pith|sum|nitty-gritty|content|cognitive content|mental object
+(noun)|substance|matter
+(noun)|effect|burden|core|gist|meaning|significance|signification|import
+(noun)|perfume|toiletry|toilet article|toiletries
+esthete|1
+(noun)|aesthete|connoisseur|cognoscenti
+estival|1
+(adj)|aestival|summery 
+estonia|1
+(noun)|Estonia|Esthonia|Republic of Estonia|Baltic State|Baltic Republic
+estriol|1
+(noun)|oestriol|estrogen|oestrogen
+estrone|1
+(noun)|oestrone|theelin|Estronol|estrogen|oestrogen|ketosteroid
+estrous|1
+(adj)|estrous |monestrous|monoestrous|polyestrous|polyoestrous
+estuary|1
+(noun)|body of water|water
+etagere|1
+(noun)|furniture|piece of furniture|article of furniture
+etamine|1
+(noun)|etamin|fabric|cloth|material|textile
+etching|3
+(noun)|engraving
+(noun)|engraving
+(noun)|engraving|printmaking
+eternal|3
+(adj)|ageless|everlasting|perpetual|unending|unceasing|permanent |lasting
+(adj)|everlasting|lasting|eonian|aeonian|immortal 
+(adj)|endless|interminable|long 
+ethanal|1
+(noun)|acetaldehyde|aldehyde
+ethanol|1
+(noun)|ethyl alcohol|fermentation alcohol|grain alcohol|alcohol|plant product
+ethical|3
+(adj)|philosophy
+(adj)|ethical |right
+(adj)|honorable|honourable|moral|right 
+ethmoid|1
+(noun)|ethmoid bone|bone|os
+ethrane|1
+(noun)|enflurane|Ethrane|ether|ethoxyethane|divinyl ether|vinyl ether|diethyl ether|ethyl ether
+etonian|1
+(noun)|Etonian|student|pupil|educatee
+etropus|1
+(noun)|Etropus|genus Etropus|fish genus
+etruria|1
+(noun)|Etruria|country|state|land
+eucarya|1
+(noun)|Eucarya|genus Eucarya|Fusanus|genus Fusanus|dilleniid dicot genus
+eudemon|1
+(noun)|eudaemon|good spirit|guardian spirit|guardian angel
+euderma|1
+(noun)|Euderma|genus Euderma|mammal genus
+eugenia|1
+(noun)|Eugenia|genus Eugenia|dicot genus|magnoliopsid genus
+eugenic|1
+(adj)|eugenic |life science|bioscience
+euglena|1
+(noun)|protozoan|protozoon
+eumeces|1
+(noun)|Eumeces|genus Eumeces|reptile genus
+eumenes|1
+(noun)|Eumenes|genus Eumenes|arthropod genus
+euphony|1
+(noun)|music|sound|auditory sensation
+eupneic|1
+(adj)|breathing |eupnoeic|breathed|exhaling|huffing|puffing|puffy|inhaling|snoring|snorting
+eupnoea|1
+(noun)|eupnea|breathing|external respiration|respiration|ventilation
+eurasia|1
+(noun)|Eurasia|continent
+europan|1
+(noun)|Europan|artificial language
+europol|1
+(noun)|Europol|European Law Enforcement Organisation|police|police force|constabulary|law
+euryale|2
+(noun)|Euryale|Gorgon
+(noun)|Euryale|genus Euryale|echinoderm genus
+eustoma|1
+(noun)|Eustoma|genus Eustoma|dicot genus|magnoliopsid genus
+euterpe|2
+(noun)|Euterpe|genus Euterpe|monocot genus|liliopsid genus
+(noun)|Euterpe|Muse
+evacuee|1
+(noun)|migrant|migrator
+evangel|1
+(noun)|Gospel|Gospels|sacred text|sacred writing|religious writing|religious text
+evasion|4
+(noun)|equivocation|misrepresentation|deceit|deception
+(noun)|nonpayment|commerce|commercialism|mercantilism
+(noun)|escape|dodging|negligence|carelessness|neglect|nonperformance
+(noun)|escape|flight
+evasive|3
+(adj)|equivocal |ambiguous
+(adj)|protective 
+(adj)|elusive|artful 
+even as|1
+(adv)|just as
+even so|1
+(adv)|however|nevertheless|withal|still|yet|all the same|nonetheless|notwithstanding
+even up|2
+(verb)|compensate|counterbalance|correct|even out|even off|balance|equilibrate|equilibrize|equilibrise
+(verb)|square up|jog|square
+evening|3
+(noun)|eve|eventide|day|daytime|daylight
+(noun)|time period|period of time|period
+(noun)|time period|period of time|period
+ever so|1
+(adv)|ever
+everest|1
+(noun)|Everest|Mount Everest|Mt. Everest|mountain peak
+evernia|1
+(noun)|Evernia|genus Evernia|fungus genus
+evident|2
+(adj)|apparent|manifest|patent|plain|obvious 
+(adj)|discernible|observable|noticeable 
+ex vivo|2
+(adj)|in vitro 
+(adv)|in vitro
+exactly|3
+(adv)|precisely|just
+(adv)|precisely|on the nose|on the dot|on the button
+(adv)|precisely|incisively
+exalted|2
+(adj)|high-flown|high-minded|lofty|rarefied|rarified|idealistic|noble-minded|noble 
+(adj)|high 
+examine|5
+(verb)|analyze|analyse|study|canvass|canvas
+(verb)|see
+(verb)|probe|investigate|look into
+(verb)|question|query
+(verb)|test|prove|try|try out|essay|judge
+example|6
+(noun)|illustration|instance|representative|information
+(noun)|model|representation|mental representation|internal representation
+(noun)|exemplar|model|good example|ideal
+(noun)|deterrent example|lesson|object lesson|admonition|monition|warning|word of advice
+(noun)|case|instance|happening|occurrence|natural event
+(noun)|exercise|lesson
+excerpt|2
+(noun)|extract|selection|passage
+(verb)|extract|take out|choose|take|select|pick out
+excited|4
+(adj)|excited |aflutter|nervous|agog|fevered|intoxicated|drunk|overexcited|stimulated|stirred|stirred up|aroused|teased|titillated|thrilled|thrillful|crazy|agitated
+(adj)|aroused|emotional|worked up|agitated 
+(adj)|delirious|frantic|mad|unrestrained|wild 
+(adj)|activated|reactive 
+exclaim|2
+(verb)|cry|cry out|outcry|call out|shout|express|verbalize|verbalise|utter|give tongue to
+(verb)|proclaim|promulgate|declare
+exclude|5
+(verb)|except|leave out|leave off|omit|take out|eliminate|get rid of|do away with
+(verb)|keep out|shut out|shut|prevent|keep
+(verb)|miss|lack
+(verb)|bar|debar|forbid|prohibit|interdict|proscribe|veto|disallow
+(verb)|expel|eject|chuck out|throw out|kick out|turf out|boot out|turn out|move|displace
+excreta|1
+(noun)|body waste|excretion|excrement|excretory product|waste|waste material|waste matter|waste product
+excrete|1
+(verb)|egest|eliminate|pass|discharge|expel|eject|release
+excused|1
+(adj)|exempt 
+excuser|1
+(noun)|pardoner|forgiver|person|individual|someone|somebody|mortal|human|soul
+execute|7
+(verb)|put to death|kill|punish|penalize|penalise
+(verb)|murder|slay|hit|dispatch|bump off|polish off|remove
+(verb)|carry through|accomplish|carry out|action|fulfill|fulfil|complete|finish|effect|effectuate|bring about|set up
+(verb)|enforce|implement|apply
+(verb)|run|enforce|implement|apply
+(verb)|perform|do
+(verb)|sign
+exegete|1
+(noun)|expert
+exhaled|1
+(adj)|exhaled 
+exhaust|7
+(noun)|exhaust fumes|fumes|gas|waste|waste material|waste matter|waste product
+(noun)|exhaust system|system
+(verb)|wash up|beat|tucker|tucker out|tire|wear upon|tire out|wear|weary|jade|wear out|outwear|wear down|fag out|fag|fatigue
+(verb)|consume|eat up|use up|eat|deplete|run through|wipe out|spend|expend|drop
+(verb)|run down|play out|sap|tire|consume|eat up|use up|eat|deplete|run through|wipe out
+(verb)|empty
+(verb)|evacuate|empty
+exhibit|6
+(noun)|evidence
+(noun)|display|showing|show
+(verb)|possess
+(verb)|expose|display|show
+(verb)|show|demo|present|demonstrate|show
+(verb)|parade|march|walk
+exigent|2
+(adj)|clamant|crying|insistent|instant|imperative 
+(adj)|exacting|demanding 
+exocarp|1
+(noun)|epicarp|pericarp|seed vessel
+exoderm|1
+(noun)|ectoderm|ectoblast|germ layer
+exogamy|1
+(noun)|intermarriage|marriage|matrimony|union|spousal relationship|wedlock
+exotism|1
+(noun)|exoticism|exoticness|foreignness|strangeness|curiousness
+expanse|3
+(noun)|sweep|scope|range|reach|orbit|compass|ambit
+(noun)|area|surface area|extent
+(noun)|entity
+expense|3
+(noun)|disbursal|disbursement|cost
+(noun)|detriment|hurt
+(noun)|outgo|expenditure|outlay
+expiate|1
+(verb)|aby|abye|atone|right|compensate|redress|correct
+expired|1
+(adj)|expired |invalid|terminated
+explain|3
+(verb)|explicate|inform
+(verb)|state|say|tell
+(verb)|excuse|justify|vindicate
+explode|9
+(verb)|detonate|blow up|set off|change integrity
+(verb)|burst|change integrity
+(verb)|react|respond
+(verb)|burst forth|break loose|change state|turn
+(verb)|destroy|ruin
+(verb)|pronounce|articulate|enounce|sound out|enunciate|say
+(verb)|condemn
+(verb)|disprove|confute
+(verb)|irrupt|increase
+exploit|4
+(noun)|deed|feat|effort|accomplishment|achievement
+(verb)|work|use|utilize|utilise|apply|employ
+(verb)|tap|use|utilize|utilise|apply|employ
+(verb)|overwork|work|put to work
+explore|4
+(verb)|research|search|investigate|look into
+(verb)|investigate|look into
+(verb)|diagnose|name
+(verb)|diagnose
+exposed|2
+(adj)|open|unprotected 
+(adj)|uncovered|unclothed 
+exposit|2
+(verb)|set forth|expound|elaborate|lucubrate|expatiate|enlarge|flesh out|expand|expound|dilate
+(verb)|elaborate|lucubrate|expatiate|enlarge|flesh out|expand|expound|dilate|clarify|clear up|elucidate
+expound|2
+(verb)|elaborate|lucubrate|expatiate|exposit|enlarge|flesh out|expand|dilate|clarify|clear up|elucidate
+(verb)|set forth|exposit|elaborate|lucubrate|expatiate|exposit|enlarge|flesh out|expand|dilate
+express|12
+(adj)|explicit |expressed
+expunge|1
+(verb)|strike|excise|delete|cancel
+extinct|3
+(adj)|extinct |nonextant|dead|nonexistent
+(adj)|extinct |inactive|dead
+(adj)|out|dead 
+extract|10
+(noun)|infusion|solution
+extreme|6
+(adj)|utmost|uttermost|intense 
+(adj)|immoderate 
+(adj)|immoderate 
+(adj)|distant 
+(noun)|degree|grade|level
+(noun)|extreme point|extremum|extremity
+extropy|1
+(noun)|prediction|foretelling|forecasting|prognostication
+extrude|1
+(verb)|squeeze out|produce|make|create
+exudate|2
+(noun)|exudation|discharge|emission
+(verb)|exude|transude|ooze out|ooze|excrete|egest|eliminate|pass
+exurbia|1
+(noun)|residential district|residential area|community
+exuviae|1
+(noun)|body covering
+exuvial|1
+(adj)|body covering
+eye cup|2
+(noun)|eyecup|eyebath|vessel
+(noun)|optic cup|eyecup|calyculus|caliculus|calycle
+eyeball|2
+(noun)|orb|capsule
+(verb)|eye|look
+eyebath|1
+(noun)|eyecup|eye cup|vessel
+eyebrow|1
+(noun)|brow|supercilium|hair
+eyedrop|1
+(noun)|eye-drop|drop|driblet
+eyelash|1
+(noun)|lash|cilium|hair
+eyeless|2
+(adj)|eyeless 
+(adj)|sightless|unseeing|blind |unsighted
+eyelike|1
+(adj)|eyed 
+eyeshot|1
+(noun)|view|range|reach
+eyesore|1
+(noun)|ugliness
+eyespot|1
+(noun)|ocellus|marking
+eyewash|1
+(noun)|eye-lotion|collyrium|lotion|application
+eysenck|1
+(noun)|Eysenck|Hans Eysenck|H. J. Eysenck|Hans Jurgen Eysenck|psychologist
+ezekias|1
+(noun)|Hezekiah|Ezekias|king|male monarch
+ezekiel|2
+(noun)|Ezekiel|Ezechiel|prophet
+(noun)|Ezekiel|Ezechiel|Book of Ezekiel|book
