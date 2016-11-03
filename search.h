@@ -1,7 +1,8 @@
 #include "key.h"
 dict *search(harr *hl,char *str){
 	char s[16], c[20], d[16];
-	int i, j, cnt, slen, len;
+	int i, j, cnt, slen, len, mark;
+	mark = 0;
 	strcpy(s, str);
 	len = strlen(str);
 	dict *flag = NULL; 
@@ -91,7 +92,7 @@ dict *search(harr *hl,char *str){
 	}
 	int kval = key(s);
 	char ch = s[0];
-	dict *head;
+	dict *head = NULL;
 	int l = len - 1;
 	switch(l){
 		case 0: 
@@ -1289,8 +1290,9 @@ dict *search(harr *hl,char *str){
 			break;	               
 	}
 	dict *ptr;
-	if(head == NULL)
+	if(head == NULL){
 		printf("\nWord not found.\n");
+	}
 	else{
 		for(ptr = head; ptr != NULL; ptr = ptr->next){
 			if(ptr->key == kval){
@@ -1307,12 +1309,19 @@ dict *search(harr *hl,char *str){
 				d[i] = '\0';
 				close(fd);
 				if(strcmp(d, s) == 0){
+					mark = 1;
 					flag = ptr;
 					break;
 				}	
 			}	
 		}
 	}
-	if(flag != NULL)
-		print(flag);
+	if(mark == 0)
+		printf("\nWord not found.\n");
+	else{
+		if(flag != NULL)
+			print(flag);
+		else
+			printf("\nWord not found.\n");
+	}
 }
