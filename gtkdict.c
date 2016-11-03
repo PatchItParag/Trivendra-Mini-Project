@@ -22,8 +22,9 @@ void search_word(GtkWidget *widget, GtkWidget *entry){
 	search(hl, str);
 }
 int main(int argc, char *argv[]){
-	if(strcmp(argv[1], "-h") == 0)
-		printf("MyDictionary\nType word to search in textbox and press enter or search button.\n ");
+	if(argc == 2)
+		if(strcmp(argv[1], "-h") == 0)
+			printf("MyDictionary\nType word to search in textbox and press enter or search button.\n ");
 	GtkWidget *window;
 	GtkWidget *grid;
 	GtkWidget *button;
