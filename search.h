@@ -1,6 +1,5 @@
 #include "key.h"
 dict *search(harr *hl,char *str){
-	printf("aa");;
 	char s[16], c[20], d[16];
 	int i, j, cnt, slen, len;
 	strcpy(s, str);
