@@ -36,7 +36,7 @@ int main(int argc, char *argv[]){
 	gtk_init (&argc, &argv);
         /* create a new window, and set its title */
 	window = gtk_window_new(GTK_WINDOW_TOPLEVEL);
-	gtk_widget_set_size_request (GTK_WIDGET (window), 300, 300);
+	gtk_widget_set_size_request (GTK_WIDGET (window), 100, 100);
   	gtk_window_set_title(GTK_WINDOW (window), "My Dictionary");
   	g_signal_connect (window, "destroy", G_CALLBACK (gtk_main_quit), NULL);
   	gtk_container_set_border_width (GTK_CONTAINER (window), 10);
