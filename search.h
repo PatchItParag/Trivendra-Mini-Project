@@ -1291,7 +1291,7 @@ dict *search(harr *hl,char *str){
 	}
 	dict *ptr;
 	if(head == NULL){
-		printf("\nWord not found.\n");
+		printf("\n%s: \t This word is not found in dictionary.\n", str);
 	}
 	else{
 		for(ptr = head; ptr != NULL; ptr = ptr->next){
@@ -1317,11 +1317,11 @@ dict *search(harr *hl,char *str){
 		}
 	}
 	if(mark == 0)
-		printf("\nWord not found.\n");
+		printf("\n%s: \t This word is not found in dictionary.\n", str);
 	else{
 		if(flag != NULL)
 			print(flag);
 		else
-			printf("\nWord not found.\n");
+			printf("\n%s: \t This word is not found in dictionary.\n", str);
 	}
 }
